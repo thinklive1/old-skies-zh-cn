@@ -1,0 +1,16 @@
+{
+  "project": "Old Skies 简体中文汉化",
+  "target_version": "1.1",
+  "status": "first_pass_complete",
+  "upstream_version": "1.0",
+  "upstream_credit": "B站up主 那卡nakami",
+  "entries": 19402,
+  "release_requires_all_entries_reviewed": true,
+  "original_tra_sha256": "8ef215e4323a15fd410e3fcd6b4d68c41a9bb45eeddfb5dcd9c5310a8c7b7c0e",
+  "in_game_validation": "user_confirmation_pending",
+  "in_game_validation_responsibility": "user",
+  "text_review_completed": "2026-10-03",
+  "installation": "verified",
+  "installed_build": "round1-20261003",
+  "github_repository": "https://github.com/thinklive1/old-skies-zh-cn"
+}

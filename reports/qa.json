@@ -1,0 +1,15 @@
+{
+  "target_version": "1.1",
+  "stage": "candidate",
+  "entries": 19402,
+  "changed_entries": 3157,
+  "reviewed_entries": 19402,
+  "pending_entries": 0,
+  "technical_errors": [],
+  "technical_pass": true,
+  "in_game_validation": "not_performed",
+  "release_ready": false,
+  "preserved_commentary_entries": 195,
+  "preserved_commentary_pass": true,
+  "in_game_validation_responsibility": "user"
+}

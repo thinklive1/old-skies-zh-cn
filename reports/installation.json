@@ -1,0 +1,324 @@
+{
+  "version": "1.1",
+  "build": "round1-20261003",
+  "checked_on": "2026-10-03",
+  "files": [
+    {
+      "name": "game28.dta",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "Chinese.tra",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt10.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt11.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt12.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt13.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt14.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt15.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt16.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt17.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt18.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt19.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt20.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt21.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt22.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt23.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt24.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt25.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt26.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt27.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt28.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt29.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt30.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt8.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "agsfnt9.ttf",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room1.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room2.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room44.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room6.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room63.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room69.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room70.crm",
+      "installed_hash_matches": true
+    },
+    {
+      "name": "room91.crm",
+      "installed_hash_matches": true
+    }
+  ],
+  "sprites": [
+    {
+      "id": 175,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 178,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 181,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 13789,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 13790,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 13791,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17195,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17196,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17197,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17198,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17199,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17200,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17201,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 17202,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 11842,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 11843,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 11805,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 11806,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 2560,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 750,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 1140,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 9171,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 15816,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 6486,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    },
+    {
+      "id": 10769,
+      "installed_hash_matches": true,
+      "original_backup_matches": true
+    }
+  ],
+  "config": [
+    {
+      "name": "acsetup.cfg",
+      "language_is_chinese": true,
+      "only_language_changed": true
+    },
+    {
+      "name": ".config",
+      "language_is_chinese": true,
+      "only_language_changed": true
+    }
+  ],
+  "backup_files": [
+    {
+      "name": "acsetup.cfg",
+      "exists": true,
+      "hash_matches_preinstall": true
+    },
+    {
+      "name": ".config",
+      "exists": true,
+      "hash_matches_preinstall": true
+    }
+  ],
+  "executable_unchanged": true,
+  "game_visual_validation": "user_responsibility_not_performed_by_agent",
+  "zip_integrity_pass": true,
+  "passed": true,
+  "game_dir": "user-selected Steam Old Skies directory",
+  "backup_dir": "OldSkies_Chinese_Backup under game directory"
+}
