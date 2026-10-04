@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-03",
+  "reviewer": "AI bilingual editorial review",
+  "scope": "All 864 new direct changes were read again against English, then all 43 corrective or refinement decisions above were checked against exact English keys. Earlier first-pass changes were read during the complete 9506-group review.",
+  "input_sha256": "a64c1ec406b93aa8f6600af5154e6869a28e9fa6923f5f6ec2f24abaeec31a90",
+  "corrective_decisions": [
+    {
+      "id": 1238,
+      "english": "An out-of-shape, middle-aged desk sergeant.",
+      "zh": "一个身材走样的中年值班警佐。"
+    },
+    {
+      "id": 1239,
+      "english": "An overflowing, festering trash can.",
+      "zh": "垃圾桶塞得满满的，里面的东西都烂了。"
+    },
+    {
+      "id": 1497,
+      "english": "Are you really doing all this for just a story?",
+      "zh": "你做了这么多，真的只是为了一篇报道？"
+    },
+    {
+      "id": 2632,
+      "english": "Finished.",
+      "zh": "完成了。"
+    },
+    {
+      "id": 2633,
+      "english": "Finishing my master's degree online!",
+      "zh": "正在网上攻读硕士学位！"
+    },
+    {
+      "id": 2660,
+      "english": "Forgive and forget. For now",
+      "zh": "先原谅，先忘记。暂时而已"
+    },
+    {
+      "id": 2661,
+      "english": "Forklift",
+      "zh": "叉车"
+    },
+    {
+      "id": 2713,
+      "english": "Gain control of two characters",
+      "zh": "获得对两名角色的控制权"
+    },
+    {
+      "id": 2714,
+      "english": "Gas detected",
+      "zh": "检测到气体"
+    },
+    {
+      "id": 3880,
+      "english": "I haven't spoken to him since I was a kid.",
+      "zh": "从小时候到现在，我就没再跟他说过话。"
+    },
+    {
+      "id": 4002,
+      "english": "I need another copy of that will.",
+      "zh": "那份遗嘱，我还得再要一个副本。"
+    },
+    {
+      "id": 4310,
+      "english": "I was sending cookies to my dear old gran in Newcastle.",
+      "zh": "我是在给住在纽卡斯尔的奶奶寄饼干，她可亲了。"
+    },
+    {
+      "id": 4408,
+      "english": "I'd better wait to ask Oink - he gets funny if you don't follow the 'rules.'",
+      "zh": "还是等着问问猪警官吧——不守“规矩”，他可会不高兴。"
+    },
+    {
+      "id": 4761,
+      "english": "I've been in the media a long time, and I know spin doctoring when I hear it.",
+      "zh": "我在媒体干了这么多年，是不是在替人粉饰，一听就知道。"
+    },
+    {
+      "id": 5056,
+      "english": "It has not one, but two primary data trunks.",
+      "zh": "它配了两条主数据干线，可不只有一条。"
+    },
+    {
+      "id": 5057,
+      "english": "It helps the government track the flow of dollars around the globe.",
+      "zh": "它能帮政府追踪美元在全球的流动。"
+    },
+    {
+      "id": 5653,
+      "english": "Logan Noir",
+      "zh": "洛根的黑色电影腔"
+    },
+    {
+      "id": 5654,
+      "english": "Logging in   ",
+      "zh": "正在登录   "
+    },
+    {
+      "id": 5657,
+      "english": "Logout",
+      "zh": "退出登录"
+    },
+    {
+      "id": 5658,
+      "english": "Long story.",
+      "zh": "说来话长。"
+    },
+    {
+      "id": 5762,
+      "english": "Masking tape, to mark out... something.",
+      "zh": "美纹纸胶带，用来标出……什么东西。"
+    },
+    {
+      "id": 6234,
+      "english": "Not it",
+      "zh": "不是这个"
+    },
+    {
+      "id": 6235,
+      "english": "Not like the kind of wounds you usually see from an explosion.",
+      "zh": "不像爆炸通常会留下的伤口。"
+    },
+    {
+      "id": 6363,
+      "english": "Officer Oink - the long arm of the law, as long as it's reaching for a doughnut.",
+      "zh": "猪警官——执法的手伸得够长，只要能拿到甜甜圈就行。"
+    },
+    {
+      "id": 7213,
+      "english": "Sharing with government agencies, oversight commissions, etc, etc...",
+      "zh": "交给政府机构、监督委员会共享，诸如此类……"
+    },
+    {
+      "id": 7214,
+      "english": "Sharlene Yuan",
+      "zh": "Sharlene Yuan"
+    },
+    {
+      "id": 7305,
+      "english": "Sir, yes sir.",
+      "zh": "是，长官！"
+    },
+    {
+      "id": 7306,
+      "english": "Six fifty-five.",
+      "zh": "六点五十五。"
+    },
+    {
+      "id": 7307,
+      "english": "Six foot two... blond hair...",
+      "zh": "身高六英尺二英寸……金发……"
+    },
+    {
+      "id": 7308,
+      "english": "Sketch",
+      "zh": "素描"
+    },
+    {
+      "id": 7553,
+      "english": "Sorry. Password for username %s is too strong to crack.",
+      "zh": "抱歉。用户名 %s 的密码强度过高，无法破解。"
+    },
+    {
+      "id": 7554,
+      "english": "Sorry?",
+      "zh": "你说什么？"
+    },
+    {
+      "id": 7555,
+      "english": "Sound Editing: Vince Twelve",
+      "zh": "音效剪辑：Vince Twelve"
+    },
+    {
+      "id": 7571,
+      "english": "Spend enough time with numbers and you tend to see everything as an equation.",
+      "zh": "跟数字打交道久了，看什么都会觉得是方程式。"
+    },
+    {
+      "id": 7572,
+      "english": "Spoiler warning!",
+      "zh": "剧透警告！"
+    },
+    {
+      "id": 8281,
+      "english": "The particles must have been placed four kilometers from the lab on either side.",
+      "zh": "粒子一定被放在实验室两侧，各距实验室四公里。"
+    },
+    {
+      "id": 8282,
+      "english": "The personal touch is vital in a human interest story like this.",
+      "zh": "这类人物报道，得有贴近个人的视角。"
+    },
+    {
+      "id": 8300,
+      "english": "The puzzle box!",
+      "zh": "机关盒！"
+    },
+    {
+      "id": 8478,
+      "english": "There must be some way to trick the archive machine into giving out the blueprints.",
+      "zh": "一定有办法骗过档案检索装置，让它把蓝图交出来。"
+    },
+    {
+      "id": 8482,
+      "english": "There seems to be some mechanisms inside the puzzle box, but I can't see inside.",
+      "zh": "机关盒里好像有些机械装置，可我看不见里面。"
+    },
+    {
+      "id": 9107,
+      "english": "Wait, there's a loose note here.",
+      "zh": "等等，这里有张单独的字条。"
+    },
+    {
+      "id": 9334,
+      "english": "Well, how does one normally look for a lost cell phone?",
+      "zh": "你想想，手机丢了，一般都是怎么找的？"
+    },
+    {
+      "id": 9335,
+      "english": "Well, it's all we've got.",
+      "zh": "可我们也只有这些了。"
+    }
+  ],
+  "final_context_decisions": [
+    {
+      "id": 2295,
+      "en": "Does the city archive contain living wills and death certificates?",
+      "zh": "市档案馆里有生前遗嘱和死亡证明吗？"
+    },
+    {
+      "id": 9304,
+      "en": "Welcome Anna Angel[[Video file To_Anna.video is ready to play.[[Display Video?",
+      "zh": "欢迎你，安娜小天使[[视频文件 To_Anna.video 已就绪。[[是否播放？"
+    },
+    {
+      "id": 9562,
+      "en": "When I was a kid, my uncle used to call me his \"Anna Angel.\"",
+      "zh": "我小时候，叔叔总叫我他的“安娜小天使”。"
+    }
+  ],
+  "protected_username_password": "Latin commands, IDs, filenames and explicit password values retained, including Key, Rey, password, pjohnsen, samantha, FTTN and A. Batra."
+}

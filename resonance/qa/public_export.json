@@ -1,0 +1,15 @@
+{
+  "game": "Resonance",
+  "branch": "resonance-zh-cn",
+  "version": "1.1",
+  "release_status": "full-text-reviewed candidate",
+  "source_candidate_sha256": "ba451ce815e58f795f2b411d21af73170508a17d8bea7db9944e5ba52d554ada",
+  "public_zip_sha256": "ba451ce815e58f795f2b411d21af73170508a17d8bea7db9944e5ba52d554ada",
+  "public_zip_bytes": 97370956,
+  "public_zip_crc": "passed",
+  "all_manifest_payload_files": "passed",
+  "installer_scripts_and_binary_payload_unchanged": true,
+  "public_documentation_paths_sanitized": [],
+  "runtime_display_and_story_playtest": "pending",
+  "public_source_rebuild": "passed: reproduced original candidate ZIP byte for byte"
+}

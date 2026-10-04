@@ -1,0 +1,19 @@
+Resonance v1.1 同源字形补充说明
+
+原包裁剪字体不含29个新增译文所需汉字。本版只在原字体后追加这些汉字的同源字形。
+补字：企匠娇寞岂峻帅幌役抠捣攥洲熬甸祸秽筐箩腾良蔓袖详贯辨飘骂骸
+全部10个字体覆盖完整TRA所用非ASCII字符。
+原有2299个字形的顺序、轮廓、字宽与侧边距全部逐字验证保持一致。
+unitsPerEm、上升部、下降部、行距与OS/2全局度量保持一致。
+新增字形位于原字体上升部与下降部范围内，未替换原有字形。
+字形与度量离线验证不能代替游戏内排版与裁切验收。
+
+上游：TakWolf / Fusion Pixel Font
+https://github.com/TakWolf/fusion-pixel-font
+与原包保持对应版本：10px比例模式2026.08.11；8px和12px比例模式2026.09.01。
+简体中文zh_hans字形。下载ZIP与所取TTF的SHA256保存于项目source/font_upstream/sources.json及qa/font_expansion.json。
+保留原字体许可OFL-FusionPixel.txt，并附OFL-v1.1新增字形.txt，含所用发行物全部许可原文。
+补充后的字体继续采用OFL-1.1，沿用原汉化包的Resonance ZH字体名称。
+
+复现：安装fontTools==4.60.1后运行python tools/add_fonts.py。
+常规翻译编辑与补丁构建使用已生成的source/fonts，不依赖fontTools。

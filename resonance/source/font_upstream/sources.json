@@ -1,0 +1,20 @@
+[
+  {
+    "size": 8,
+    "version": "2026.09.01",
+    "url": "https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.09.01/fusion-pixel-font-8px-proportional-ttf-v2026.09.01.zip",
+    "download_sha256": "fd8c565aebfc51bf4faed3feee80a7142954f9814eff0bbb4dbcc0b34d493318"
+  },
+  {
+    "size": 10,
+    "version": "2026.08.11",
+    "url": "https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.08.11/fusion-pixel-font-10px-proportional-ttf-v2026.08.11.zip",
+    "download_sha256": "6dc153f9f671db3c053a65badbf519998cde5106064b4962df950628df3f7324"
+  },
+  {
+    "size": 12,
+    "version": "2026.09.01",
+    "url": "https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.09.01/fusion-pixel-font-12px-proportional-ttf-v2026.09.01.zip",
+    "download_sha256": "cf607641a61c721cd58409fa58a1ccf432e97d9ad25e76687948fa3027246fee"
+  }
+]

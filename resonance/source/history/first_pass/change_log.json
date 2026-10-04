@@ -1,0 +1,5122 @@
+[
+  {
+    "id": 10,
+    "en": "  -Enter Search String",
+    "before": "  -输入搜索字符串",
+    "after": "  -输入搜索内容",
+    "basis_id": 10,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 14,
+    "en": "  -Insert DNA Sample",
+    "before": "  -插入DNA样本",
+    "after": "  -放入DNA样本",
+    "basis_id": 14,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 15,
+    "en": "  -Type Login ID",
+    "before": "  -输入登录ID",
+    "after": "  -输入登录账号",
+    "basis_id": 15,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 24,
+    "en": " Database of[   people's DNA!!!",
+    "before": " 人们DNA的[   数据库！！！",
+    "after": " 所有人DNA的[   数据库！！！",
+    "basis_id": 24,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 25,
+    "en": " Hm. Most phones keep a record of all calls sent and received. Maybe we should take a look.",
+    "before": " 嗯。大多数电话都会记录所有拨出和接到的通话。也许我们该看看。",
+    "after": " 嗯，大多数电话都会留下拨出和接听记录。咱们也许该查查。",
+    "basis_id": 25,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 26,
+    "en": " Secret government project?[",
+    "before": " 秘密政府项目？[",
+    "after": " 政府的秘密项目？[",
+    "basis_id": 26,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 34,
+    "en": "\"All's well that ends well.\"",
+    "before": "“结局好，一切都好。”",
+    "after": "“只要结局好，一切都好。”",
+    "basis_id": 34,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 37,
+    "en": "\"Broccoli linked to cancer! Dieters rejoice!\"",
+    "before": "“西兰花致癌！节食者欢呼吧！”",
+    "after": "“西兰花竟与癌症有关！减肥人士有福了！”",
+    "basis_id": 37,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 40,
+    "en": "\"Is your favorite celeb a neo-Nazi? We investigate totalitarian chic.\"",
+    "before": "\"你最喜欢的明星是新纳粹吗？我们调查极权时尚。\"",
+    "after": "“你最爱的明星竟是新纳粹？揭秘极权主义如何成为时尚。”",
+    "basis_id": 40,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 46,
+    "en": "\"Parlous\"? Why the hell do you talk like that?",
+    "before": "“危险的境地”？你他妈为什么那样说话？",
+    "after": "“险象环生”？你他妈就不能好好说话？",
+    "basis_id": 46,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 48,
+    "en": "\"Probably.\" Yeah. Can you see through metal? Because I can't.",
+    "before": "“大概。”是啊。你能看穿金属吗？因为我看不穿。",
+    "after": "“大概。”行啊。你能透过金属看见里面？反正我不能。",
+    "basis_id": 48,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 50,
+    "en": "\"Run, don't walk, to your broker and tell him to buy -\"",
+    "before": "\"别走，快跑去找你的经纪人，让他买——\"",
+    "after": "“快！跑去找你的股票经纪人，告诉他买入——”",
+    "basis_id": 50,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 59,
+    "en": "\"The Math Murderer.\" How's that sound?",
+    "before": "“数学杀人犯。”听起来怎么样？",
+    "after": "“数学杀手。”这名号怎么样？",
+    "basis_id": 59,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 66,
+    "en": "\"Turn left to open\"",
+    "before": "“向左转开启”",
+    "after": "“向左转动开启”",
+    "basis_id": 66,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 68,
+    "en": "\"War in the Middle East!  Find out who's winning and what the score is!\"",
+    "before": "\"中东战争！看看谁在赢，比分是多少！\"",
+    "after": "“中东开战！谁占上风？战况如何？一看便知！”",
+    "basis_id": 68,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 71,
+    "en": "\"What commonly used household item may be an immediate danger to you and your family?\"",
+    "before": "\"哪种常用家居用品可能对你和家人构成直接危险？\"",
+    "after": "“你家哪件日用品，可能正在危及你和家人的安全？”",
+    "basis_id": 71,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 81,
+    "en": "'Course you were, but you didn't let it control you. You'd make a good cop.",
+    "before": "你当然怕，但你没让恐惧控制你。你会是个好警察的。",
+    "after": "怕归怕，你可没被吓住。你会是个好警察。",
+    "basis_id": 81,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 82,
+    "en": "'Course, I never met one I liked all that much, but such is life.",
+    "before": "当然，我从没遇到过一个我特别喜欢的，但人生就是这样。",
+    "after": "当然，我也没碰见过几个真合我心意的。人生嘛，就是这样。",
+    "basis_id": 82,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 83,
+    "en": "'Course, then my mother had to have surgery, so I had to stay home and take care of things around the house...",
+    "before": "当然，后来我妈要做手术，我只好留在家里照顾家里的事……",
+    "after": "当然，后来我妈要做手术，我就只能待在家里照料家务了……",
+    "basis_id": 83,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 87,
+    "en": "'Super Safe Magazine's Super Safe Safemaker of the year.'",
+    "before": "“《超级保险柜杂志》年度超级保险柜制柜师。”",
+    "after": "“《超级保险柜》杂志评选的年度超级制柜大师。”",
+    "basis_id": 87,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 92,
+    "en": "*Eureka!  Three tests, three successful glimpses of my new particle.  They exist as the sub-structure of the electron!  Conjoined-twin particles, occupying the same space!  But how is that possible?  I do not yet know, but I do know that once separated, the particles are only visible for a fraction of a microsecond before they snap back together, pulverizing each other.",
+    "before": "*找到了！三次测试，三次都成功瞥见了我的新粒子。它们是构成电子的更小结构！一对连体双生粒子，占据着同一个空间！但这怎么可能？我还不知道。不过我已经知道，一旦分离，它们的可见时间还不到一微秒，随即便猛然撞回一起，互相粉碎。",
+    "after": "*找到了！三次测试，三次都捕获了新粒子的踪迹。它们竟是电子内部的组成结构！一对连体双生粒子，占据着同一空间！这怎么可能？我还没弄明白。但可以确定，一旦将它们分开，不到一微秒，它们就会猛地撞回一起，双双粉碎。",
+    "basis_id": 92,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 93,
+    "en": "*Every night for two weeks. A blue van with no markings. I'm keeping the curtains drawn at all times when working at home, now.  Why are they here?",
+    "before": "*连续两周，每晚都是。一辆没有标记的蓝色面包车。现在我在家工作时一直拉着窗帘。他们为什么在这里？",
+    "after": "*整整两周，每晚都来。一辆没有任何标识的蓝色面包车。现在在家工作，我都把窗帘拉得严严实实。他们为什么来这里？",
+    "basis_id": 93,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 94,
+    "en": "*I checked my lab, the simulator where I was experimenting on them, all along the route to my vault.  Nothing.  Maybe I only collected 19 sets.",
+    "before": "*我检查了实验室、我做实验的模拟器，以及通往保险库的整条路线。什么都没有。也许我只收集了19组。",
+    "after": "*实验室、做实验用的模拟器，还有去保险库的一路，我都找过了。一无所获。难道我只收集了19组？",
+    "basis_id": 94,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 95,
+    "en": "*I get the collider again in two days.  I've almost prepared the devices.  I haven't told Ed what I'm going to attempt.  I installed the vault a week ago, so everything should be ready.",
+    "before": "*两天后我再次使用对撞机。设备几乎准备好了。我还没告诉埃德我打算尝试什么。一周前我安装了保险库，所以一切都应该就绪了。",
+    "after": "*两天后就能再次使用对撞机了。装置也快准备好了。我还没告诉埃德这次打算做什么。保险库一周前就装好了，一切应该都已就绪。",
+    "basis_id": 95,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 98,
+    "en": "*I thought someone was ransacking my lab, but it was just old Saul the janitor.  I shouldn't have yelled, but he shouldn't be in here.  I need sleep, but I can't leave the lab.  I've found a comfortable position in my simulator.",
+    "before": "*我以为有人在洗劫我的实验室，但只是老清洁工索尔。我不该吼他，但他不该在这里。我需要睡眠，但我不能离开实验室。我在模拟器里找到了一个舒服的姿势。",
+    "after": "*我以为有人在翻我的实验室，结果只是清洁工老索尔。我不该冲他吼，可他也不该进来。我得睡一觉，却又不能离开实验室。好在模拟器里有个位置，躺着还算舒服。",
+    "basis_id": 98,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 99,
+    "en": "*I was walking down the lab's hall in the middle of the night to the bathroom and I heard someone else's footsteps behind me.  I took off running and they gave chase.  I locked myself in the bathroom until I heard nothing.",
+    "before": "*半夜我沿着实验室走廊去洗手间，听到身后有别人的脚步声。我拔腿就跑，他们追了上来。我把自己锁在洗手间里，直到什么也听不见。",
+    "after": "*半夜沿着实验室走廊去洗手间，听见身后有脚步声。我拔腿就跑，对方也追了上来。我把自己锁进洗手间，直到外面再没了动静。",
+    "basis_id": 99,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 101,
+    "en": "*I will contact you with instructions.",
+    "before": "*我会联系你并给出指示。",
+    "after": "*我会联系你，说明下一步。",
+    "basis_id": 101,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 104,
+    "en": "*I'm keeping Ed busy coming up with possible applications for Resonance technology.  He has a bright mind.  Many brilliant ideas.",
+    "before": "*我让埃德忙着为共振技术设想可能的应用。他头脑聪明。很多绝妙的想法。",
+    "after": "*我让埃德专心构思共振技术的应用。他脑子很灵，想出了不少好点子。",
+    "basis_id": 104,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 105,
+    "en": "*I'm sending you this journal for safe keeping, and to help you make the decision that I may need to ask of you -- A decision that I, myself, was unable to make. You must learn what Resonance is, and more importantly, what it could be.",
+    "before": "*我把这本日记寄给你保管，也是为了帮你做出一个我可能会请你做的抉择——一个我自己没能做出的抉择。你必须了解共振是什么，更要了解它将来可能变成什么。",
+    "after": "*这本日记寄给你，一是请你妥善保管，二是希望它能帮你做出抉择。将来，我或许得请你替我做这个决定——一个连我自己都没能做出的决定。你必须弄清共振是什么，更要明白它可能带来什么。",
+    "basis_id": 105,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 107,
+    "en": "*It'll be a month before I have access to the collider again, but there are so many simulations to run.  I'm operating on the theory that the Sub-Electron Conjoined Twins are occupying the same space, but not the same time.  They vibrate through space time in perfectly opposing, yet perfectly complementary patterns. Two particles, drawn together, inseparable, but never meeting.",
+    "before": "*还要一个月我才能再次使用对撞机，但有太多模拟要运行。我基于这样的理论：亚电子连体双生粒子占据同一空间，但不在同一时间。它们以完全相反却又完全互补的模式在时空中振动。两个粒子，相互吸引，不可分离，却永不相遇。",
+    "after": "*还得再等一个月才能使用对撞机，不过这期间有的是模拟实验要做。我目前的假设是：亚电子连体双生粒子占据同一空间，却不处于同一时刻。它们在时空中的振动方式完全相反，却又恰好互补。两个粒子彼此吸引，无法分离，却永远不会相遇。",
+    "basis_id": 107,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 109,
+    "en": "*Nineteen?  I just checked my notes, I thought I had made twenty devices.  I have nineteen.  Was I that tired?  Did I miscount?",
+    "before": "*十九个？我刚检查了笔记，我以为我做了二十个设备。我有十九个。我那么累吗？我数错了吗？",
+    "after": "*十九个？刚查过笔记，我记得做了二十个装置，可现在只有十九个。我当时累成那样了吗？还是数错了？",
+    "basis_id": 109,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 113,
+    "en": "*Resonance!  That is the name I have given to the special vibration of the particles. Each particle in a set vibrates at the exact same frequency, this binds them together.  But why do these twin particles bind to each other and not to any other?  My theory is that no two sets of particles in the entire universe have the same Resonance frequency.  Every set is unique!",
+    "before": "*共振！这是我给粒子特殊振动起的名字。一组中的每个粒子都以完全相同的频率振动，这使它们结合在一起。但为什么这些孪生粒子彼此结合，而不与其他任何粒子结合？我的理论是，整个宇宙中没有任何两组粒子拥有相同的共振频率。每一组都是独一无二的！",
+    "after": "*共振！我给粒子的这种特殊振动取了这个名字。同一组粒子的振动频率完全一致，因此彼此相连。可为什么它们只与自己的孪生粒子结合，不与其他粒子结合？我的推测是：整个宇宙中，没有两组粒子的共振频率相同。每一组都独一无二！",
+    "basis_id": 113,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 115,
+    "en": "*Success! Using the devices, I was able to trap twenty pairs of SECT particles.  The devices block the special property they have -- their vibration, allowing them to stay apart after the particle collision.  The devices then each attract one of the separated twins.  I have twenty sets to experiment on!",
+    "before": "*成功了！利用这些设备，我成功捕获了二十对SECT粒子。设备阻断了它们的特殊属性——它们的振动，使它们在粒子碰撞后能够保持分离。然后设备各自吸引分离的孪生粒子之一。我有二十组可以实验了！",
+    "after": "*成功了！用这些装置，我捕获了二十对SECT粒子。装置能阻断它们特有的振动，让它们在碰撞后保持分离，再分别吸住分开的两个孪生粒子。现在有二十组可供实验了！",
+    "basis_id": 115,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 116,
+    "en": "*That was the third phone call this morning that has interrupted me.  No one on the other end, just clicking.",
+    "before": "*这是今天早上第三个打断我的电话了。另一端没人，只有咔嗒声。",
+    "after": "*今天上午第三次被电话打断了。对面没人说话，只有咔嗒咔嗒的声音。",
+    "basis_id": 116,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 120,
+    "en": "*While Ed is occupied I slip away to the vault.  No one can know.",
+    "before": "*趁埃德忙碌时，我溜去保险库。不能让任何人知道。",
+    "after": "*趁埃德忙着，我偷偷去了保险库。绝不能让任何人知道。",
+    "basis_id": 120,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 121,
+    "en": "*Who could have taken one? No one even knows what I have.  Not even Ed.",
+    "before": "*谁会拿走一个？甚至没人知道我有这些东西。连埃德都不知道。",
+    "after": "*谁会拿走一组？根本没人知道我手里有这些东西。连埃德都不知道。",
+    "basis_id": 121,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 124,
+    "en": ", (Seriously, were PHDs on clearance at your college?)[[First of all, my name is not 'Hey.' It's Emma. Second of all, TURN OFF YOUR CAPS LOCK. It doesn't make you sound important. It makes you sound like an idiot.[[Can't remember your Antevorta login? AGAIN!? I can't even count how many times I've explained this to you...[[",
+    "before": "，（说真的，你们学校的博士学位是清仓大甩卖吗？）[[首先，我不叫“嘿”，我叫艾玛。其次，关掉大写锁定。全用大写不会让你显得重要，只会让你像个白痴。[[又不记得 Antevorta 用户名了？又来！？我都数不清跟你解释过多少遍了……[[",
+    "after": "，（说真的，你们学校的博士学位是清仓甩卖的吗？）[[先说好，我不叫“喂”，我叫艾玛。还有，把大写锁定关了。满屏大写不会显得你多有分量，只会让你像个白痴。[[又忘了 Antevorta 的登录名？又忘了！？我都记不清跟你解释过多少遍了……[[",
+    "basis_id": 124,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 125,
+    "en": ", this is Mitch down in tech support. How's your wife, Pamela?[[Say, we're having some issues with your Antevorta login.[[Could you send us your login and password ASAP?[[Thanks, Mitch",
+    "before": "，我是技术支持的米奇。你妻子帕梅拉怎么样？[[话说，你的Antevorta登录出了点问题。[[你能尽快把你的登录名和密码发给我们吗？[[谢谢，米奇",
+    "after": "，我是技术支持部的米奇。你太太帕梅拉最近好吗？[[是这样，你的Antevorta账号出了点问题。[[麻烦尽快把登录名和密码发给我们，好吗？[[谢谢，米奇",
+    "basis_id": 125,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 127,
+    "en": "--Controllable. By them.",
+    "before": "——可控制。被他们控制。",
+    "after": "——能控制。在他们手里。",
+    "basis_id": 127,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 139,
+    "en": "-fiddling with something in my uncle's lab? No.",
+    "before": "——在我叔叔的实验室里摆弄什么东西？不。",
+    "after": "——在我叔叔的实验室里摆弄什么东西？没有。",
+    "basis_id": 139,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 147,
+    "en": "...I'm nowhere near as agile as I used to be when I was younger, y'see, but I get by...",
+    "before": "……你看，我远没有年轻时那么灵活了，但还凑合……",
+    "after": "……你也看到了，我这身手可比不上年轻那会儿，不过还过得去……",
+    "basis_id": 147,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 157,
+    "en": "...first, I'm a baby, then a schoolboy, then a singer and dancer, travelling all over the world, meeting Barbra...",
+    "before": "……先是婴儿，然后是学童，再是歌手和舞者，走遍全世界，遇见芭芭拉……",
+    "after": "……先是个小婴儿，后来上学，再后来唱歌跳舞，满世界跑，还认识了芭芭拉……",
+    "basis_id": 157,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 160,
+    "en": "...meanwhile, you \"science\" people got your heads so buried in your numbers and stuff...",
+    "before": "……而你们这些“科学”人士，脑袋埋在自己的数字和东西里……",
+    "after": "……可你们这些搞“科学”的，整天就埋头算那些数啊什么的……",
+    "basis_id": 160,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 162,
+    "en": "...not like an earthquake or nothing, more like when those young hoodlums drive by my place at 3 AM blasting their hippity-hoppity music...",
+    "before": "……不像地震什么的，更像那些小混混凌晨3点开车经过我家，放着他们的嘻哈音乐……",
+    "after": "……倒不像地震，更像那帮小混混，凌晨三点开车从我家门口过，嘻哈音乐放得震天响……",
+    "basis_id": 162,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 163,
+    "en": "...not like an earthquake or nothing, more like when those young hoodlums-",
+    "before": "……不像地震什么的，更像是那些小混混——",
+    "after": "……倒不像地震，更像那帮小混混——",
+    "basis_id": 163,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 164,
+    "en": "...or at least, I would have, if Mother didn't have to get so sick and everything...",
+    "before": "……或者说，本来会是这样，要不是妈妈病得那么重，还有这一切……",
+    "after": "……本来至少该是这样。可后来妈妈病得那么重，事情就……",
+    "basis_id": 164,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 167,
+    "en": "...that Barbra, she knows how to warm an old man's heart...",
+    "before": "……那个芭芭拉，她最懂得怎么温暖老头子的心……",
+    "after": "……芭芭拉啊，她可知道怎么哄老头子开心……",
+    "basis_id": 167,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 172,
+    "en": "...why, I'll bet you wouldn't even notice a Mardi Gras parade coming down the halls with a giant novelty cheque in tow!",
+    "before": "……哎呀，我打赌就算狂欢节游行队伍举着一张巨型新奇支票从走廊经过，你们都不会注意到！",
+    "after": "……我敢打赌，就算狂欢节的游行队抬着张巨大的道具支票从走廊经过，你们都不带抬头的！",
+    "basis_id": 172,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 557,
+    "en": "<2<r I'm sorry, but I really need those results.",
+    "before": "<2<r 抱歉，但我真的需要那些结果。",
+    "after": "<2<r 抱歉，可我实在急着要那份结果。",
+    "basis_id": 557,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 564,
+    "en": "<2<r<i Do you have those results for me?",
+    "before": "<2<r<i 你把那些结果给我带来了吗？",
+    "after": "<2<r<i 那份结果带来了吗？",
+    "basis_id": 564,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 566,
+    "en": "<2<r<i First, I need you to confirm something.",
+    "before": "<2<r<i 首先，我需要你确认一件事。",
+    "after": "<2<r<i 先帮我确认一件事。",
+    "basis_id": 566,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 570,
+    "en": "<2<r<i I guess I kind of lose track of the world when I'm working.",
+    "before": "<2<r<i 我猜我工作的时候有点与世隔绝了。",
+    "after": "<2<r<i 我一工作起来，好像就什么都顾不上了。",
+    "basis_id": 570,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 577,
+    "en": "<2<r<iAnd trust me, I much prefer my problems to be hypothesized, tested, and quantified.",
+    "before": "<2<r<i相信我，我更喜欢我的问题是假设、验证并量化的。",
+    "after": "<2<r<i相信我，我宁愿面对能提出假设、做实验验证、用数字衡量的问题。",
+    "basis_id": 577,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 579,
+    "en": "<2<r<iHow close were our estimates?",
+    "before": "<2<r<i我们的估算有多接近？",
+    "after": "<2<r<i我们的估算差了多少？",
+    "basis_id": 579,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 583,
+    "en": "<2<r<iI've been here all weekend thinking about it.",
+    "before": "<2<r<i我整个周末都在这里思考这件事。",
+    "after": "<2<r<i我整个周末都待在这儿，想的就是这件事。",
+    "basis_id": 583,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 584,
+    "en": "<2<r<iIt's an ethical one.",
+    "before": "<2<r<i这是伦理上的。",
+    "after": "<2<r<i这是个伦理问题。",
+    "basis_id": 584,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 586,
+    "en": "<2<r<iSomeone's been following me, Eddings. I know it.",
+    "before": "<2<r<i有人在跟踪我，埃丁斯。我知道。",
+    "after": "<2<r<i有人在跟踪我，埃丁斯。我很确定。",
+    "basis_id": 586,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 587,
+    "en": "<2<r<iThis isn't a scientific or a mathematical dilemma.",
+    "before": "<2<r<i这不是科学或数学上的两难。",
+    "after": "<2<r<i这道难题，既不关乎科学，也不关乎数学。",
+    "basis_id": 587,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 595,
+    "en": "<2Damn it, I don't have time for all your questions!",
+    "before": "<2该死，我没时间回答你所有问题！",
+    "after": "<2该死，我没空挨个回答你的问题！",
+    "basis_id": 595,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 602,
+    "en": "<2I might have agreed with you once, but now?",
+    "before": "<2我以前也许会同意你，但现在？",
+    "after": "<2换作以前，我也许会同意。可现在？",
+    "basis_id": 602,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 603,
+    "en": "<2I said forget it!",
+    "before": "<2我说了算了！",
+    "after": "<2我说了，别再提了！",
+    "basis_id": 603,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 609,
+    "en": "<2I'm not working for anybody ever again.",
+    "before": "<2我再也不会为任何人工作了。",
+    "after": "<2我再也不替任何人卖命了。",
+    "basis_id": 609,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 612,
+    "en": "<2I... I'm sorry you feel that way.",
+    "before": "<2我……我很抱歉你这么想。",
+    "after": "<2我……你这么想，我也很遗憾。",
+    "basis_id": 612,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 614,
+    "en": "<2In five... ten years, when we're living in a new age of peace and prosperity...",
+    "before": "<2五年……十年后，当我们生活在一个和平繁荣的新时代……",
+    "after": "<2五年……十年后，等我们迎来和平繁荣的新时代……",
+    "basis_id": 614,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 625,
+    "en": "<2Nobody can understand. Not you. Not Dr. Morales. And especially not Amul and Reno.",
+    "before": "<2没人能明白。你不行。莫拉莱斯博士不行。阿穆尔和雷诺尤其不行。",
+    "after": "<2没人能懂。你不懂，莫拉莱斯博士不懂，阿穆尔和雷诺就更不懂。",
+    "basis_id": 625,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 626,
+    "en": "<2Nobody will ever tell me what to do with Resonance ever again. ",
+    "before": "<2再也不会有人告诉我该怎么处置共振了。",
+    "after": "<2再也没人能对我指手画脚，告诉我该怎么处置共振。",
+    "basis_id": 626,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 628,
+    "en": "<2Oh, why the hell am I even talking to you! Goodbye!",
+    "before": "<2哦，我到底为什么要跟你说话！再见！",
+    "after": "<2我他妈干吗还在跟你废话！再见！",
+    "basis_id": 628,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 631,
+    "en": "<2Ray, you're a smart enough guy. You should have made sense of this by now.",
+    "before": "<2雷，你是个聪明人。到现在你应该已经想明白了。",
+    "after": "<2雷，你又不傻。事到如今，该想明白了吧。",
+    "basis_id": 631,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 638,
+    "en": "<2They know I can stop them, so they convince you to get in my way.",
+    "before": "<2他们知道我能阻止他们，所以他们说动你来挡我的路。",
+    "after": "<2他们知道我能阻止他们，就哄你来挡我的路。",
+    "basis_id": 638,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 639,
+    "en": "<2They make you think they want the same thing you do, and \"nudge\" you in the right direction!",
+    "before": "<2他们让你以为他们和你目标一致，然后把你\"推\"向正确的方向！",
+    "after": "<2他们让你以为大家目标一致，再把你往他们要的方向“推”！",
+    "basis_id": 639,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 640,
+    "en": "<2They want to use it as a tool... A tool for their own selfish purposes!",
+    "before": "<2他们想把它当作工具……用来满足他们自私目的的工具！",
+    "after": "<2他们想拿它当工具……满足自己私欲的工具！",
+    "basis_id": 640,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 643,
+    "en": "<2This is bigger than me. Bigger than Anna or Morales or any of us.",
+    "before": "<2这件事比我更重要。比安娜、莫拉莱斯或我们任何人都更重要。",
+    "after": "<2这事比我重要，比安娜、莫拉莱斯，比我们所有人都重要。",
+    "basis_id": 643,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 648,
+    "en": "<2Yes. It will be worth it.",
+    "before": "<2是的。这一切都会值得。",
+    "after": "<2对。这一切都值得。",
+    "basis_id": 648,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 665,
+    "en": "<b<iI am shocked an appalled that you would even suggest such a thing!",
+    "before": "<b<i你竟然提出这种事，我既震惊又愤慨！",
+    "after": "<b<i你竟能提出这种事，简直让我又惊又气！",
+    "basis_id": 665,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 666,
+    "en": "<b<iI bid you a good day, madam!",
+    "before": "<b<i祝您今天愉快，女士！",
+    "after": "<b<i女士，就此告辞！",
+    "basis_id": 666,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 667,
+    "en": "<b<iI bid you a good day, sir!",
+    "before": "<b<i祝您今天愉快，先生！",
+    "after": "<b<i先生，就此告辞！",
+    "basis_id": 667,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 675,
+    "en": "<b<iThat is completely illegal and I would never ignore rules and regulations in such a manner.",
+    "before": "<b<i那是完全违法的，我绝不会以那种方式无视规章制度。",
+    "after": "<b<i那完全是违法的！我绝不会如此无视规章制度。",
+    "basis_id": 675,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 691,
+    "en": "<bYou're sorry!?",
+    "before": "<b你对不起！？",
+    "after": "<b你还好意思说对不起！？",
+    "basis_id": 691,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 697,
+    "en": "<i\"All's well that ends well.\"",
+    "before": "<i“结局好，一切都好。”",
+    "after": "<i“只要结局好，一切都好。”",
+    "basis_id": 34,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 719,
+    "en": "<l...not like an earthquake or nothing, more like when those young hoodlums-",
+    "before": "<l……不像地震什么的，更像是那些小混混——",
+    "after": "<l……倒不像地震，更像那帮小混混——",
+    "basis_id": 163,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 720,
+    "en": "<l<2<iAnd we're getting reports of a fire over at Juno.",
+    "before": "<l<2<i还有报告说朱诺那边着火了。",
+    "after": "<l<2<i我们还接到报告，朱诺那边起火了。",
+    "basis_id": 720,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 724,
+    "en": "<l<2<iCould one of you check out Juno and the other help out on Humphrey Street?",
+    "before": "<l<2<i你们能一个去朱诺看看，另一个去汉弗莱街帮忙吗？",
+    "after": "<l<2<i你们一个去朱诺查看，另一个去汉弗莱街支援，行吗？",
+    "basis_id": 724,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 726,
+    "en": "<l<2<iRadio back if additional emergency services are required.",
+    "before": "<l<2<i如果需要更多紧急服务，用无线电回报。",
+    "after": "<l<2<i需要增派应急人员的话，随时用无线电报告。",
+    "basis_id": 726,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 729,
+    "en": "<l<2<iThere's a subway car stuck near the Humphrey Street station.",
+    "before": "<l<2<i汉弗莱街站附近有一列地铁卡住了。",
+    "after": "<l<2<i汉弗莱街站附近有节地铁车厢困住了。",
+    "basis_id": 729,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 730,
+    "en": "<l<2<iThey're deployed all over the city right now.",
+    "before": "<l<2<i他们现在全城都派出去了。",
+    "after": "<l<2<i他们都已经派出去了，全城都有。",
+    "basis_id": 730,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 732,
+    "en": "<l<2<iWe're trying to direct them where it's needed most.",
+    "before": "<l<2<i我们正试着把他们调到最需要的地方。",
+    "after": "<l<2<i我们正在把人手调往最急需支援的地方。",
+    "basis_id": 732,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 733,
+    "en": "<l<2<iWe've got little mini-emergencies all over Aventine.",
+    "before": "<l<2<i阿文廷到处都有小规模紧急情况。",
+    "after": "<l<2<i阿文廷各处都出了些小状况。",
+    "basis_id": 733,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 740,
+    "en": "<l<2I brought up his name at the briefing when you and  Bennet were named as suspects-",
+    "before": "<l<2当把你和贝内特列为嫌疑人时，我在简报会上提了他的名字——",
+    "after": "<l<2简报会上，提到你和贝内特被列为嫌疑人的时候，我说起过他——",
+    "basis_id": 740,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 741,
+    "en": "<l<2I can clear the front desk for a while.",
+    "before": "<l<2我可以暂时清空前台。",
+    "after": "<l<2我能让前台暂时没人。",
+    "basis_id": 741,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 742,
+    "en": "<l<2I can't.  Chief's got me tasked.",
+    "before": "<l<2我做不到。局长给我派了任务。",
+    "after": "<l<2抽不开身，局长给我安排了活。",
+    "basis_id": 742,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 743,
+    "en": "<l<2I'm going to pull the plug to Oink's favorite toy.",
+    "before": "<l<2我要拔掉奥因克最爱玩具的插头。",
+    "after": "<l<2我去把奥因克那件心爱的玩具断了电。",
+    "basis_id": 743,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 744,
+    "en": "<l<2In a few hours, your faces will be all over the TV and net.",
+    "before": "<l<2几小时后，你们的脸就会出现在电视和网络上。",
+    "after": "<l<2再过几小时，电视和网上就全是你们的照片了。",
+    "basis_id": 744,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 750,
+    "en": "<l<2Stay away from crowds, and don't go to the lab or your houses.",
+    "before": "<l<2远离人群，别去实验室或你们家。",
+    "after": "<l<2别往人多的地方去，也别去实验室或回家。",
+    "basis_id": 750,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 761,
+    "en": "<l<iYou know what I have to do to keep food on our table!?",
+    "before": "<l<i你知道为了让我们有饭吃我得做什么吗！？",
+    "after": "<l<i你知道我得干些什么，才能让咱们吃上饭吗！？",
+    "basis_id": 761,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 764,
+    "en": "<lBesides Javi, I only had one other uncle.",
+    "before": "<l除了哈维，我就只有另一位叔叔了。",
+    "after": "<l除了哈维，我只有一位叔叔。",
+    "basis_id": 764,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 770,
+    "en": "<lFirst, I need his FTTN.",
+    "before": "<l第一，我需要他的FTTN。",
+    "after": "<l首先得拿到他的FTTN。",
+    "basis_id": 770,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 774,
+    "en": "<lI guess it's kind of my lucky charm.",
+    "before": "<l我想这算是我的幸运符吧。",
+    "after": "<l这大概算是我的护身符吧。",
+    "basis_id": 774,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 776,
+    "en": "<lI need two things to get at anyone's records.",
+    "before": "<l要查任何人的记录，我需要两样东西。",
+    "after": "<l查谁的记录都一样，得有两样东西。",
+    "basis_id": 776,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 777,
+    "en": "<lI saw the lights go out, and then it got hot, and I felt a vibration...",
+    "before": "<l我看见灯灭了，然后变热了，我感觉到一阵震动……",
+    "after": "<l灯先灭了，接着热起来，还有一阵震动……",
+    "basis_id": 777,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 780,
+    "en": "<lIt's kept me out of trouble for almost twenty years, so I guess that's something.",
+    "before": "<l它让我远离麻烦快二十年了，我想这也不简单。",
+    "after": "<l快二十年了，它都没让我出过事，也算挺灵的吧。",
+    "basis_id": 780,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 783,
+    "en": "<lMr. Eddings, if you don't mind, I'd like to ask you some follow-up questions back at the station.",
+    "before": "<l埃丁斯先生，如果你不介意，我想请你回警局再回答几个后续问题。",
+    "after": "<l埃丁斯先生，方便的话，请跟我回警局，我还想问几个问题。",
+    "basis_id": 783,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 784,
+    "en": "<lMuch to the dismay of my ankle.",
+    "before": "<l代价是我的脚踝很不好受。",
+    "after": "<l就是苦了我这脚踝。",
+    "basis_id": 784,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 785,
+    "en": "<lMy guess is it's in one of the many underground tunnels.",
+    "before": "<l我猜是在众多地下隧道之一。",
+    "after": "<l我猜就在那些地下隧道里的某一条。",
+    "basis_id": 785,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 789,
+    "en": "<lOh yeah. So, I come in to work, as usual.",
+    "before": "<l哦对。就是，我像往常一样来上班。",
+    "after": "<l哦，对。我照常来上班。",
+    "basis_id": 789,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 791,
+    "en": "<lOnly it's a bit of a fall, so now my ankle's all messed up.",
+    "before": "<l只不过摔得有点狠，所以现在我的脚踝全搞砸了。",
+    "after": "<l就是这一跳摔得够呛，现在脚踝都伤了。",
+    "basis_id": 791,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 797,
+    "en": "<lSo, I take out my trusty wrench and smash it, then climb right on out.",
+    "before": "<l于是，我拿出我那把可靠的扳手，把它砸开，然后直接爬了出去。",
+    "after": "<l于是我掏出那把趁手的扳手，砸开它，直接爬了出去。",
+    "basis_id": 797,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 803,
+    "en": "<lThat's when I start to feel this little tingly feeling in my head.",
+    "before": "<l就在那时，我开始感觉脑袋里有点刺刺的。",
+    "after": "<l就在那时候，我脑袋开始有点发麻。",
+    "basis_id": 803,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 804,
+    "en": "<lThe potential for good far outweighs the possibility of misuse!",
+    "before": "<l它带来好处的潜力远远超过被滥用的可能！",
+    "after": "<l它能造的福，远远大于被滥用的风险！",
+    "basis_id": 804,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 806,
+    "en": "<lThen, all the lights go out, and there's this stinging heat, and this vibration...",
+    "before": "<l然后，所有灯都灭了，接着是一阵灼热，还有这种震动……",
+    "after": "<l然后灯全灭了，热得刺人，还有一阵震动……",
+    "basis_id": 806,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 809,
+    "en": "<lTwo: Even with the blueprints, we're going to need some kind of information on the vault to help us figure out exactly where in the lab it might be.",
+    "before": "<l第二：就算有了蓝图，我们还需要关于保险库的某种信息，帮我们弄清它到底可能在实验室的哪个位置。",
+    "after": "<l第二：光有蓝图还不够。还得查些保险库的资料，才能确定它到底藏在实验室的什么位置。",
+    "basis_id": 809,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 810,
+    "en": "<lUh, and the lights came back on, and there were loose cables and fires, so I broke the window with my trusty wrench and jumped.",
+    "before": "<l呃，然后灯又亮了，有松脱的电缆和火，所以我用我那把可靠的扳手砸开窗户跳了出去。",
+    "after": "<l呃，后来灯又亮了，电缆脱落，到处起火。我就拿那把趁手的扳手砸开窗户，跳了出去。",
+    "basis_id": 810,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 814,
+    "en": "<lWow! It's like a million dollars!",
+    "before": "<l哇！这就像一百万美元！",
+    "after": "<l哇！这么多，都快像一百万美元了！",
+    "basis_id": 814,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 816,
+    "en": "<lYou can't deprive the world of such-",
+    "before": "<l你不能剥夺这个世界如此——",
+    "after": "<l你不能让全世界失去这么——",
+    "basis_id": 816,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 819,
+    "en": "<r<2<iOh right, about that, if anyone asks, we were patrolling the neighborhood around the arson all night.",
+    "before": "<r<2<i哦对了，说到这个，要是有人问起，就说我们整晚都在纵火案附近巡逻。",
+    "after": "<r<2<i哦对，有人问起的话，就说咱们整晚都在纵火案现场附近巡逻。",
+    "basis_id": 819,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 826,
+    "en": "<rBecause if she was their real mam{, she'd never want to lose them out in the woods.",
+    "before": "<r因为如果她是他们真正的妈妈{，她绝不会想把他们丢在树林里。",
+    "after": "<r因为要是亲妈妈，就绝不会想把他们丢在树林里。",
+    "basis_id": 826,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 827,
+    "en": "<rBlueprints of all major buildings are on file in the city archives which is in the police administration building.",
+    "before": "<r所有主要建筑的蓝图都存档在市政档案馆，就在警察行政大楼里。",
+    "after": "<r主要建筑的蓝图都存在市政档案馆，就在警察行政大楼里。",
+    "basis_id": 827,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 830,
+    "en": "<rBut obviously, you didn't die, so how did you get out?",
+    "before": "<r但显然你没死，那你是怎么出来的？",
+    "after": "<r不过你这不是还活着嘛。到底怎么出来的？",
+    "basis_id": 830,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 836,
+    "en": "<rGoin' radio silent.",
+    "before": "<r进入无线电静默。",
+    "after": "<r停止无线电联络。",
+    "basis_id": 836,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 838,
+    "en": "<rI don't have all day.",
+    "before": "<r我没一整天时间。",
+    "after": "<r我可没工夫等一整天。",
+    "basis_id": 838,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 839,
+    "en": "<rI had a lot of questions and my gut was telling me exactly two things.",
+    "before": "<r我有很多疑问，而直觉明确告诉我两件事。",
+    "after": "<r疑问一大堆，可直觉清清楚楚地告诉我两件事。",
+    "basis_id": 839,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 840,
+    "en": "<rI have a contact at the National Credit Service. He can get anyone's financial transaction history.",
+    "before": "<r我在国家信用服务局有个联系人。他能弄到任何人的金融交易记录。",
+    "after": "<r我在国家信用服务局有个熟人，谁的金融交易记录他都能弄到。",
+    "basis_id": 840,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 841,
+    "en": "<rI put one in this jar every day I was away.",
+    "before": "<r我离开的每一天都往这个罐子里放一枚。",
+    "after": "<r不在家的日子，我每天都往罐子里放一枚。",
+    "basis_id": 841,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 842,
+    "en": "<rI remember something.",
+    "before": "<r我想起了什么。",
+    "after": "<r我想起件事。",
+    "basis_id": 842,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 844,
+    "en": "<rI've got to get us a better line of sight.",
+    "before": "<r我得找个更好的视野。",
+    "after": "<r我得找个能看得更清楚的位置。",
+    "basis_id": 844,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 845,
+    "en": "<rIf we can find the guy who sold Morales the vault, maybe they can help us find it.",
+    "before": "<r如果我们能找到把保险库卖给莫拉莱斯的人，也许他们能帮我们找到它。",
+    "after": "<r找到卖给莫拉莱斯保险库的人，也许就能请对方帮忙找出它在哪儿。",
+    "basis_id": 845,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 847,
+    "en": "<rIt means that she wasn't their real mam{.",
+    "before": "<r意思是她不是他们真正的妈妈{。",
+    "after": "<r就是说，她不是他们的亲妈妈。",
+    "basis_id": 847,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 848,
+    "en": "<rIt's not a lot, but if you save them, maybe someday they can help you when you need it.",
+    "before": "<r不算多，但如果你把它们存起来，也许有一天在你需要的时候能帮上忙。",
+    "after": "<r钱不多，可慢慢存着，哪天急用时也许就能帮上忙。",
+    "basis_id": 848,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 852,
+    "en": "<rNo, Pap{! You didn't-",
+    "before": "<r不，妈{！你没有——",
+    "after": "<r不，爸爸！你没有——",
+    "basis_id": 852,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 853,
+    "en": "<rNormally, I'd say this wasn't the kind of lead that warranted an all-night stakeout.",
+    "before": "<r通常我会说，这不是那种值得通宵蹲守的线索。",
+    "after": "<r换作平时，这种线索还不值得我通宵蹲守。",
+    "basis_id": 853,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 854,
+    "en": "<rNot quite! And they're not dollars, they're pesos.",
+    "before": "<r不完全是！而且它们不是美元，是比索。",
+    "after": "<r还差得远呢！而且这不是美元，是比索。",
+    "basis_id": 854,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 860,
+    "en": "<rSome low-level cat burglar caught breaking into the computer chip factory uptown had named this post-office as the contact-point for his buyer.",
+    "before": "<r一个在住宅区闯入电脑芯片厂的低级飞贼，供出了这个邮局是他买家的接头地点。",
+    "after": "<r一个小飞贼闯进上城区的电脑芯片厂，被抓了。他供认，跟买家约在这家邮局接头。",
+    "basis_id": 860,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 861,
+    "en": "<rSomebody had to build this vault, and it probably didn't come cheap.",
+    "before": "<r总得有人建这个保险库，而且大概不便宜。",
+    "after": "<r这保险库总得有人造，而且肯定不便宜。",
+    "basis_id": 861,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 865,
+    "en": "<rThat guy came from the alley; we don't have visibility down there.",
+    "before": "<r那家伙是从巷子里出来的；那边我们看不到。",
+    "after": "<r那家伙从巷子里出来，咱们看不到那边。",
+    "basis_id": 865,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 868,
+    "en": "<rThe sight made me realize just how long I had been out here.",
+    "before": "<r这景象让我意识到自己已经在这里待了多久。",
+    "after": "<r看到这一幕，我才意识到自己已经在外头守了多久。",
+    "basis_id": 868,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 869,
+    "en": "<rThe sun's beams glide between the buildings like a man's strong fingers through a dame's hair.",
+    "before": "<r阳光的光束在楼宇间滑过，像男人有力的手指穿过女人的头发。",
+    "after": "<r阳光滑过楼宇之间，像男人有力的手指，穿过女人的秀发。",
+    "basis_id": 869,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 871,
+    "en": "<rThey had sprinkled breadcrumbs in the forest behind them as they walked.",
+    "before": "<r他们走路时在身后的森林里撒了面包屑。",
+    "after": "<r他们边走边往身后的林间小路上撒面包屑。",
+    "basis_id": 871,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 888,
+    "en": "A automated news vendor.",
+    "before": "一台自动新闻售卖机。",
+    "after": "一台自动报刊售卖机。",
+    "basis_id": 888,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 889,
+    "en": "A bell. Ring for shopkeeper.",
+    "before": "一个铃。按铃叫店主。",
+    "after": "一只铃，按一下就能叫来店主。",
+    "basis_id": 889,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 891,
+    "en": "A big shiny new automated drug dispenser.",
+    "before": "一台崭新闪亮的大型自动发药机。",
+    "after": "一台又大又亮的自动发药机，崭新的。",
+    "basis_id": 891,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 893,
+    "en": "A billboard, containing the latest minutea of modern office life.",
+    "before": "一块告示板，上面是现代办公室生活的琐碎细节。",
+    "after": "一块公告板，贴满了办公室里那些琐事。",
+    "basis_id": 893,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 899,
+    "en": "A bunch of burnt cabinets are all that was left of the lab's entranceway.",
+    "before": "实验室入口处只剩下一堆烧焦的柜子。",
+    "after": "实验室入口只剩下几个烧焦的柜子。",
+    "basis_id": 899,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 908,
+    "en": "A complex puzzle box.",
+    "before": "一个复杂的机关盒。",
+    "after": "一个构造复杂的机关盒。",
+    "basis_id": 908,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 909,
+    "en": "A complicated crime computer system.",
+    "before": "一套复杂的犯罪电脑系统。",
+    "after": "一套复杂的刑侦电脑系统。",
+    "basis_id": 909,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 914,
+    "en": "A database where the DNA of every man, woman and child in America is stored.",
+    "before": "一个储存着全美国每个男人、女人和孩子DNA的数据库。",
+    "after": "存着全美国每个人DNA的数据库，男女老少，一个不落。",
+    "basis_id": 914,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 915,
+    "en": "A deep connection",
+    "before": "深深的联结",
+    "after": "心意相通",
+    "basis_id": 915,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 916,
+    "en": "A delusional druggie who lives in a fantasy world.",
+    "before": "一个活在幻想世界里的妄想瘾君子。",
+    "after": "一个满脑子妄想、活在自己世界里的瘾君子。",
+    "basis_id": 916,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 930,
+    "en": "A filthy mop and bucket.",
+    "before": "一把脏兮兮的拖把和水桶。",
+    "after": "一把脏兮兮的拖把，配着个水桶。",
+    "basis_id": 930,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 934,
+    "en": "A folder for ICU patient records.",
+    "before": "一个重症监护病人记录的文件夹。",
+    "after": "一个存放重症监护病人病历的文件夹。",
+    "basis_id": 934,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 935,
+    "en": "A foot thick, solid steel, and no doorknob.",
+    "before": "一英尺厚，实心钢，还没有门把手。",
+    "after": "足足一英尺厚，实心钢造的，连个门把手都没有。",
+    "basis_id": 935,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 936,
+    "en": "A foul-smelling, soul destroying little hole of a room.",
+    "before": "一个臭气熏天、摧残灵魂的小破房间。",
+    "after": "又臭又憋屈的小破房间，待着简直要命。",
+    "basis_id": 936,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 939,
+    "en": "A game by",
+    "before": "一款由以下制作的游戏",
+    "after": "游戏制作",
+    "basis_id": 939,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 942,
+    "en": "A grey-haired older policeman.",
+    "before": "一个灰白头发的年长警察。",
+    "after": "一个头发灰白的老警察。",
+    "basis_id": 942,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 946,
+    "en": "A hand drawing a hand?  Who thinks of these things?",
+    "before": "一只手在画一只手？谁会想得出这种东西？",
+    "after": "一只手画着另一只手？谁想出来的点子？",
+    "basis_id": 946,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 948,
+    "en": "A heavy chunk of debris fell from the ceiling in Dr. Morales' lab.",
+    "before": "莫拉莱斯博士实验室的天花板上掉下了一大块碎片。",
+    "after": "莫拉莱斯博士的实验室里，天花板掉下来一大块沉重的残片。",
+    "basis_id": 948,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 952,
+    "en": "A heavy steel door. My uncle protected his secrets so fiercely.",
+    "before": "一扇厚重的钢门。我叔叔如此严密地保护着他的秘密。",
+    "after": "一扇厚重的钢门。叔叔可真是把秘密守得滴水不漏。",
+    "basis_id": 952,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 954,
+    "en": "A hole that size with such a perfect spere of damage?",
+    "before": "那么大的洞，破坏范围却是个完美的球形？",
+    "after": "那么大的洞，破坏范围竟是个完美的球体？",
+    "basis_id": 954,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 960,
+    "en": "A keyboard. How quaint.",
+    "before": "键盘。真古雅。",
+    "after": "键盘。真有年代感。",
+    "basis_id": 960,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 965,
+    "en": "A large payment to Tortoise Security. But what was it for?",
+    "before": "向托托伊斯安保支付了一大笔钱。但那是为了什么？",
+    "after": "给托托伊斯安保付了一大笔钱。到底买了什么？",
+    "basis_id": 965,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 971,
+    "en": "A little team work goes a long way.",
+    "before": "一点团队合作能起大作用。",
+    "after": "搭把手，事就好办多了。",
+    "basis_id": 971,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 972,
+    "en": "A locked door to an empty shop.",
+    "before": "一家空店铺的锁着的门。",
+    "after": "一家空店铺，大门锁着。",
+    "basis_id": 972,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 980,
+    "en": "A medical pencil-pusher.",
+    "before": "一个搞医务的文员。",
+    "after": "一个成天跟医疗表格打交道的文员。",
+    "basis_id": 980,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 981,
+    "en": "A mental cityscape, expressing urban alienation through the means of song.",
+    "before": "一幅精神城市景观，以歌声为手段表达都市疏离感。",
+    "after": "一幅心灵中的都市图景，借歌声诉说都市人的疏离。",
+    "basis_id": 981,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 988,
+    "en": "A notice board. Sticky notes and office lottery pools.",
+    "before": "一块公告板。便利贴和办公室彩票池。",
+    "after": "一块公告板，贴着便利贴，还有办公室合买彩票的名单。",
+    "basis_id": 988,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 989,
+    "en": "A pad of legal paper.",
+    "before": "一本法律用纸。",
+    "after": "一本横线便笺本。",
+    "basis_id": 989,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 995,
+    "en": "A perfect, surgical cut.",
+    "before": "完美、外科手术般的切口。",
+    "after": "切口干净利落，像做过外科手术一样。",
+    "basis_id": 995,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1005,
+    "en": "A plain grey door, labelled \"Maintenance.\"",
+    "before": "一扇普通的灰色门，标着“维护”。",
+    "after": "一扇普通的灰色门，标着“维修”。",
+    "basis_id": 1005,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 1006,
+    "en": "A portal to a mysterious place named \"Maintenance.\"",
+    "before": "一扇通往名为“维护”的神秘之地的传送门。",
+    "after": "一扇传送门，通往名叫“维修”的神秘国度。",
+    "basis_id": 1006,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1007,
+    "en": "A pretentious hack with no personal boundaries and the ethics of a sewer rat.",
+    "before": "一个自命不凡的蹩脚写手，毫无个人界限，道德感跟阴沟里的老鼠一样。",
+    "after": "一个自命不凡的蹩脚写手，不懂分寸，品德跟阴沟里的老鼠没两样。",
+    "basis_id": 1007,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1010,
+    "en": "A reporter followed him around for a while saying it was for some bullshit \"Day in the life of a policeman\" story.",
+    "before": "一个记者跟了他一阵子，说是要写什么狗屁“警察的一天”的故事。",
+    "after": "一个记者跟了他好一阵，借口说要写什么狗屁“警察的一天”。",
+    "basis_id": 1010,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1012,
+    "en": "A resonance device. This one looks live.",
+    "before": "一个共振装置。这个看起来是激活的。",
+    "after": "一个共振装置。这个似乎已经启动了。",
+    "basis_id": 1012,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1015,
+    "en": "A roll of duct tape can be man's best friend.",
+    "before": "一卷管道胶带可以是一个人最好的朋友。",
+    "after": "一卷管道胶带，关键时候比谁都靠得住。",
+    "basis_id": 1015,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1020,
+    "en": "A screwdriver. Useful in so many situations.",
+    "before": "一把螺丝刀。在很多情况下都很有用。",
+    "after": "一把螺丝刀，能派上不少用场。",
+    "basis_id": 1020,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1025,
+    "en": "A shifty-eyed geek who needs to make an acquaintance with a bar of soap.",
+    "before": "一个眼神闪烁的怪人，该去和肥皂块认识认识了。",
+    "after": "一个鬼鬼祟祟的怪人，真该找块肥皂好好洗洗。",
+    "basis_id": 1025,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1035,
+    "en": "A small brass bell that summons Mr. Tortoise from the back of the shop.",
+    "before": "一只小铜铃，用来把托托伊斯先生从店后叫出来。",
+    "after": "一只小铜铃，一摇就能把托托伊斯先生从店后叫出来。",
+    "basis_id": 1035,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1041,
+    "en": "A sonogram. It allows us to image the internal structure of bodies, in order to look for wounds and foreign objects.",
+    "before": "一台超声波仪。它能让我们对身体内部结构成像，以便寻找伤口和异物。",
+    "after": "一台超声波仪。能看清人体内部的结构，用来检查损伤和异物。",
+    "basis_id": 1041,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1044,
+    "en": "A stack of forms and papers. It doesn't look relevant.",
+    "before": "一叠表格和文件。看起来没什么关系。",
+    "after": "一叠表格和文件，似乎跟这事无关。",
+    "basis_id": 1044,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1048,
+    "en": "A sturdy metal bar can be useful in many DIY projects.",
+    "before": "一根结实的金属棒在很多DIY项目里都能派上用场。",
+    "after": "结实的金属棒，修修补补时很有用。",
+    "basis_id": 1048,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1051,
+    "en": "A teeny-tiny little microwave.",
+    "before": "一个超小超小的微波炉。",
+    "after": "小得不能再小的微波炉。",
+    "basis_id": 1051,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1056,
+    "en": "A thick, steel door labelled \"Maintenance.\"",
+    "before": "一扇厚重的钢门，标着“维护”。",
+    "after": "一扇厚重的钢门，标着“维修”。",
+    "basis_id": 1056,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 1062,
+    "en": "A weathered old bench.",
+    "before": "一张风化的旧长椅。",
+    "after": "一张经年风吹雨打的旧长椅。",
+    "basis_id": 1062,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1064,
+    "en": "A wire fence, blocking any possible means of egress via the other alley.",
+    "before": "一道铁丝网栅栏，挡住了从另一条小巷出去的任何可能。",
+    "after": "一道铁丝网，把通往另一条小巷的出路堵死了。",
+    "basis_id": 1064,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1069,
+    "en": "A world where those who hate life and freedom can execute mass acts of terror on a truly global scale.",
+    "before": "一个仇恨生命与自由的人能在真正的全球范围内实施大规模恐怖行为的世界。",
+    "after": "在那样的世界里，仇恨生命与自由的人，就能在全球发动大规模恐怖袭击。",
+    "basis_id": 1069,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1085,
+    "en": "Aaaand... she called my bluff.",
+    "before": "然后……她看穿了我的虚张声势。",
+    "after": "结——果……她识破了我的虚张声势。",
+    "basis_id": 1085,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1095,
+    "en": "About that note you dropped in the baseball field-",
+    "before": "关于你丢在棒球场的那张纸条——",
+    "after": "你丢在棒球场的那张纸条——",
+    "basis_id": 1095,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1103,
+    "en": "Accident with a truck motor and a climbing frame. Long story.",
+    "before": "卡车发动机和攀爬架的事故。说来话长。",
+    "after": "卡车发动机和攀爬架搞出的事故。说来话长。",
+    "basis_id": 1103,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1109,
+    "en": "Actually, I don't know much about the underlying technology of the archive.",
+    "before": "其实，我对档案馆的底层技术不太了解。",
+    "after": "其实，档案馆那套系统到底怎么运作，我也不太懂。",
+    "basis_id": 1109,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1112,
+    "en": "Actually, something tells me, she's going to be delayed.",
+    "before": "其实，我有种感觉，她会被耽搁。",
+    "after": "不过我总觉得，她恐怕得耽搁一阵。",
+    "basis_id": 1112,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1113,
+    "en": "Actually, this whole area looks really seedy.",
+    "before": "其实，这整片区域看起来都很不安全。",
+    "after": "其实，这一带看着就乱七八糟的。",
+    "basis_id": 1113,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1123,
+    "en": "After a lot of work, I finally gained access to the lab's front doors.",
+    "before": "费了好大功夫，我终于进入了实验室的前门。",
+    "after": "费了好大劲，我总算能走到实验室正门了。",
+    "basis_id": 1123,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1126,
+    "en": "After all this effort, sadness, anger...",
+    "before": "经历了这么多努力、悲伤、愤怒……",
+    "after": "费了这么多力气，伤心过，愤怒过……",
+    "basis_id": 1126,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1129,
+    "en": "After three late payments, I'd better be careful how I use this thing.",
+    "before": "三次逾期付款之后，我最好小心点用这东西。",
+    "after": "已经三次逾期还款了，这东西可得省着点用。",
+    "basis_id": 1129,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1131,
+    "en": "After you, Detective. Age before beauty.",
+    "before": "你先请，警探。尊老嘛。",
+    "after": "您先请，警探。年长的先来，好看的靠后。",
+    "basis_id": 1131,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1140,
+    "en": "Ah, tell you what, sonny: why don't you just take my keys and unlock the darn closet yourself?",
+    "before": "啊，这样吧，小家伙：你干脆拿我的钥匙自己去开那破柜子吧？",
+    "after": "这样吧，小家伙：钥匙给你，你自己去把那破柜子打开，怎么样？",
+    "basis_id": 1140,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1142,
+    "en": "Ah. It's the shape of of a lock, you see.",
+    "before": "啊。你看，那是一个锁的形状。",
+    "after": "啊，你看，它的形状跟锁一样。",
+    "basis_id": 1142,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1148,
+    "en": "All I need is someone to listen.",
+    "before": "我只需要有人听我说。",
+    "after": "我只想找个人听我说说话。",
+    "basis_id": 1148,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1151,
+    "en": "All information is stored somewhere, these days. A will and testament is no different.",
+    "before": "如今所有信息都存在某个地方。遗嘱也不例外。",
+    "after": "这年头，什么信息都有地方存，遗嘱也一样。",
+    "basis_id": 1151,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1155,
+    "en": "All the great ideas and creations born here.",
+    "before": "所有伟大的想法和创造都诞生在这里。",
+    "after": "多少伟大的构想和发明，都诞生在这里。",
+    "basis_id": 1155,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1156,
+    "en": "All the ink is dissolving.",
+    "before": "所有墨水都在溶解。",
+    "after": "墨迹全化开了。",
+    "basis_id": 1156,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1157,
+    "en": "All the pages are blank.",
+    "before": "所有页面都是空白的。",
+    "after": "每页都是空白。",
+    "basis_id": 1157,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1158,
+    "en": "All this talk is pointless unless we find the vault before the people who killed my uncle do.",
+    "before": "除非我们在杀我叔叔的人之前找到保险库，否则说这些都没用。",
+    "after": "我们得抢在杀害叔叔的人之前找到保险库，不然说再多也没用。",
+    "basis_id": 1158,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1162,
+    "en": "All's well that ends well?",
+    "before": "结局好就一切都好？",
+    "after": "只要结局好，就一切都好？",
+    "basis_id": 1162,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1167,
+    "en": "Already, peace treaties have been signed across the globe, joining forces against this new threat.",
+    "before": "全球各地已经签署了和平条约，联合力量对抗这一新威胁。",
+    "after": "世界各地已签署和平条约，联手应对这一新威胁。",
+    "basis_id": 1167,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1173,
+    "en": "Alright, but if you see any sign of danger, you come straight back.",
+    "before": "好吧，但你要是看到任何危险的迹象，就马上回来。",
+    "after": "行。不过一发现有危险，你就马上回来。",
+    "basis_id": 1173,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1178,
+    "en": "Alright, let's just hear the short version.",
+    "before": "好了，我们就听简短版本吧。",
+    "after": "行，挑重点说。",
+    "basis_id": 1178,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1188,
+    "en": "Alright. No time to think. I'd better go with my gut.",
+    "before": "好吧。没时间想了。我还是凭直觉吧。",
+    "after": "好吧，没空多想了，就凭直觉吧。",
+    "basis_id": 1188,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1192,
+    "en": "Also pretty easy to crack, given enough time. I prefer keeping things under lock and key, myself.",
+    "before": "只要有足够时间，破解起来也相当容易。不过我个人还是喜欢把东西锁起来。",
+    "after": "给够时间，破解也不难。不过我还是更放心把东西锁好。",
+    "basis_id": 1192,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1249,
+    "en": "And I don't want to give this guy an excuse to start shakin' his gums if I can help it.",
+    "before": "而且只要我能避免，我就不想给这家伙一个开始嚼舌根的理由。",
+    "after": "能不惹他开口就别惹，省得又唠叨个没完。",
+    "basis_id": 1249,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1250,
+    "en": "And I heard about some kind of new DNA search database we might be testing out within the future.",
+    "before": "我还听说我们未来可能会测试某种新的DNA搜索数据库。",
+    "after": "还听说过阵子，我们可能会试用一个新的DNA检索数据库。",
+    "basis_id": 1250,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1255,
+    "en": "And I need to know more about the vault you built for him.",
+    "before": "我需要了解更多关于你为他建造的保险库的事。",
+    "after": "我还想问问，你给他造的保险库。",
+    "basis_id": 1255,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1260,
+    "en": "And I'm to believe that you took the time to put the wrench away in the closet before jumping out?",
+    "before": "那你是要我相信，你在跳出去之前还特意把扳手放回了维修间？",
+    "after": "你是说，跳出去之前，你还有工夫把扳手放回维修间？",
+    "basis_id": 1260,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1295,
+    "en": "And now all this? Using Resonance for mass destruction...",
+    "before": "现在又搞出这一切？用共振进行大规模破坏……",
+    "after": "现在又闹成这样？拿共振大搞破坏……",
+    "basis_id": 1295,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1297,
+    "en": "And now the lab looks like it was stepped on by Godzilla.",
+    "before": "而现在实验室看起来像是被哥斯拉踩过一样。",
+    "after": "现在的实验室，简直像让哥斯拉踩了一脚。",
+    "basis_id": 1297,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1331,
+    "en": "And there is also a handy tool that will help you know what paperwork you need to gather to get approval for the document's release.",
+    "before": "还有一个方便的工具，能帮你了解需要准备哪些文件，才能获得文件公开的批准。",
+    "after": "还有个实用工具，能告诉你申请调阅文档时，需要提交哪些材料。",
+    "basis_id": 1331,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1343,
+    "en": "And trust me, I much prefer my problems to be hypothesized, tested, and quantified.",
+    "before": "相信我，我更喜欢我的问题是假设、验证并量化的。",
+    "after": "相信我，我宁愿面对能提出假设、做实验验证、用数字衡量的问题。",
+    "basis_id": 577,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1345,
+    "en": "And until recently Ed was a reliable, predictable cog.",
+    "before": "而直到最近，埃德都是一个可靠、可预测的齿轮。",
+    "after": "直到最近，埃德一直都是颗听话、可靠的齿轮。",
+    "basis_id": 1345,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1349,
+    "en": "And we're getting reports of a fire over at Juno.",
+    "before": "还有报告说朱诺那边着火了。",
+    "after": "我们还接到报告，朱诺那边起火了。",
+    "basis_id": 720,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1361,
+    "en": "And you expect me to believe the Eleven Foundation are spearheading some Orwellian nightmare?",
+    "before": "你就指望我相信十一基金会正在带头搞什么奥威尔式的噩梦？",
+    "after": "你要我相信，十一基金会正牵头把奥威尔笔下的噩梦变成现实？",
+    "basis_id": 1361,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1415,
+    "en": "Anna, your uncle wanted these Resonance particles to bring about a new age of peace and human prosperity!",
+    "before": "安娜，你叔叔希望这些共振粒子能带来一个和平与人类繁荣的新时代！",
+    "after": "安娜，你叔叔希望用这些共振粒子，开创一个人类和平繁荣的新时代！",
+    "basis_id": 1415,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1421,
+    "en": "Anna? When this is done, could you give me the scoop on your uncle?",
+    "before": "安娜？等这件事结束，能给我一些关于你叔叔的独家消息吗？",
+    "after": "安娜？等忙完这件事，能不能给我讲点你叔叔的独家消息？",
+    "basis_id": 1421,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1432,
+    "en": "Antevorta can burn a Resonance-shaped hole in the Earth, for all I care.",
+    "before": "Antevorta就算在地球上烧出一个共振形状的洞，我也不在乎。",
+    "after": "Antevorta就算被共振炸得连地球都穿个洞，也不关我的事。",
+    "basis_id": 1432,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 1472,
+    "en": "Appropriate, since my locks are my children, of a kind.",
+    "before": "挺贴切的，因为我的锁在某种程度上就是我的孩子。",
+    "after": "倒也贴切。某种意义上，我造的锁就是我的孩子。",
+    "basis_id": 1472,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1502,
+    "en": "Are you sure you don't know anything about a \"vault\" that Morales may have kept?",
+    "before": "你确定不知道莫拉莱斯可能保留的某个“保险库”吗？",
+    "after": "莫拉莱斯可能藏着个“保险库”，你真的一点都不知道？",
+    "basis_id": 1502,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1519,
+    "en": "As his only living relative, she must have access to his secrets... somehow.",
+    "before": "作为他唯一在世的亲属，她一定能以某种方式接触到他的秘密……",
+    "after": "她是他唯一在世的亲人，一定有办法……接触到他的秘密。",
+    "basis_id": 1519,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1529,
+    "en": "Aside from looking at my pretty face, this mirror isn't going to be much use in this situation.",
+    "before": "除了照照我这张俊脸，这面镜子在这情况下没什么用。",
+    "after": "这镜子除了照照我的俊脸，也派不上别的用场了。",
+    "basis_id": 1529,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1593,
+    "en": "Because if she was their real mam{, she'd never want to lose them out in the woods.",
+    "before": "因为如果她是他们真正的妈妈{，她绝不会想把他们丢在树林里。",
+    "after": "因为要是亲妈妈，就绝不会想把他们丢在树林里。",
+    "basis_id": 826,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 1616,
+    "en": "Being able to trace any phone at will seems like a huge invasion of privacy.",
+    "before": "能随意追踪任何电话，似乎是对隐私的巨大侵犯。",
+    "after": "想追踪谁的电话就追踪谁的，这也太侵犯隐私了吧。",
+    "basis_id": 1616,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1640,
+    "en": "Besides Javi, I only had one other uncle.",
+    "before": "除了哈维，我就只有另一位叔叔了。",
+    "after": "除了哈维，我只有一位叔叔。",
+    "basis_id": 764,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1671,
+    "en": "Blueprints of all major buildings are on file in the city archives which is in the police administration building.",
+    "before": "所有主要建筑的蓝图都存档在市政档案馆，就在警察行政大楼里。",
+    "after": "主要建筑的蓝图都存在市政档案馆，就在警察行政大楼里。",
+    "basis_id": 827,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1696,
+    "en": "Buddy! Standing here considering different scenarios isn't gonna get us to him.",
+    "before": "哥们！站在这儿琢磨各种情况可到不了他那儿。",
+    "after": "哥们！站在这儿想东想西，可抓不到他。",
+    "basis_id": 1696,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1733,
+    "en": "But I have no idea how to navigate those old tunnels. We need those blueprints.",
+    "before": "但我完全不知道怎么在那些旧隧道里找路。我们需要那些蓝图。",
+    "after": "可那些旧隧道该怎么走，我一点头绪都没有。得拿到蓝图才行。",
+    "basis_id": 1733,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1752,
+    "en": "But I'm afraid I wouldn't know where to begin. Hacking computers isn't really my thing.",
+    "before": "但恐怕我不知道从何下手。黑客技术不是我的强项。",
+    "after": "可我连从哪儿下手都不知道，入侵电脑实在不是我的强项。",
+    "basis_id": 1752,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1763,
+    "en": "But I've lost all my files on Dr. Morales' vault.",
+    "before": "但我丢失了所有关于莫拉莱斯博士保险库的文件。",
+    "after": "可莫拉莱斯博士保险库的资料，我全弄丢了。",
+    "basis_id": 1763,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1764,
+    "en": "But Pap{ doesn't want them in his room.",
+    "before": "但爸{不想把它们放在他房间里。",
+    "after": "可是爸爸不让把它们放进他的房间。",
+    "basis_id": 1764,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 1768,
+    "en": "But any good that Resonance could do for the world would be completely overshadowed if Antevorta is allowed to exist.",
+    "before": "但如果任由Antevorta存在，共振能为世界带来的任何好处都会被彻底掩盖。",
+    "after": "可要是让Antevorta继续存在，共振能造的福再多，也抵不过它的危害。",
+    "basis_id": 1768,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1770,
+    "en": "But as bloggers go, I suppose he's one of the better ones. At least this one bathes.",
+    "before": "但就博主而言，我猜他算比较好的了。至少这个还洗澡。",
+    "after": "不过在博主里，他倒算不错的。至少还知道洗澡。",
+    "basis_id": 1770,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1773,
+    "en": "But enough about my boss at the Star - this is my good friend Ozzy.",
+    "before": "但关于我在《星报》的老板说得够多了——这是我的好朋友奥兹。",
+    "after": "好了，不说我在《星报》的老板了——介绍一下，这是我的好朋友奥兹。",
+    "basis_id": 1773,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1778,
+    "en": "But he's really put his neck on the line for us. I think I trust him. For now.",
+    "before": "但他真的为我们冒了很大风险。我想我相信他。目前。",
+    "after": "不过他确实为我们冒了大险。我想，暂时可以信他。",
+    "basis_id": 1778,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1781,
+    "en": "But hey. I suppose I should just be happy I can pay the bills, right?",
+    "before": "不过话说回来。我想我应该庆幸自己还能付得起账单，对吧？",
+    "after": "不过想想，还付得起账单，我就该知足了，对吧？",
+    "basis_id": 1781,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1788,
+    "en": "But if you see anything that could put you in danger, you come right back out, alright?",
+    "before": "但要是看到任何可能让你陷入危险的东西，就马上出来，好吗？",
+    "after": "不过一发现有危险，你就马上出来，好吗？",
+    "basis_id": 1788,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1802,
+    "en": "But mathematically, that's just as likely as any other possible outcome.",
+    "before": "但从数学上讲，这和任何其他可能的结果一样有可能。",
+    "after": "可从数学上来说，这个结果的概率跟其他结果一样。",
+    "basis_id": 1802,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1810,
+    "en": "But obviously, you didn't die, so how did you get out?",
+    "before": "但显然你没死，那你是怎么出来的？",
+    "after": "不过你这不是还活着嘛。到底怎么出来的？",
+    "basis_id": 830,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1814,
+    "en": "But right now someone might be in danger, so I guess we'll have to work together.",
+    "before": "但现在可能有人身处危险，所以我想我们得合作了。",
+    "after": "但现在可能有人有危险，看来我们只好合作了。",
+    "basis_id": 1814,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1847,
+    "en": "But they do want to stop Ed, and that's the top of my list of things to do today.",
+    "before": "但他们确实想阻止埃德，而这是我今天待办事项清单上的头等大事。",
+    "after": "但他们确实想阻止埃德，而我今天最要紧的也是这件事。",
+    "basis_id": 1847,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1863,
+    "en": "But with the 674 data pipe, that could be a really impressive new crime-fighting technology.",
+    "before": "但有了674数据管道，那可能会是一项非常了不起的新型打击犯罪技术。",
+    "after": "不过配上674数据管道，这项新技术在打击犯罪上可就大有用处了。",
+    "basis_id": 1863,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 1878,
+    "en": "By the way, sorry it took so long to answer the phone. I had no idea where it was.",
+    "before": "顺便说一句，抱歉这么久才接电话。我完全不知道它在哪儿。",
+    "after": "对了，抱歉这么久才接，我刚才找不到电话了。",
+    "basis_id": 1878,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2041,
+    "en": "Contents: One brown apple core and a copy of 'Cosmopolitan' from last year.",
+    "before": "内容：一个发棕的苹果核和一本去年的《Cosmopolitan》。",
+    "after": "里面有个发棕的苹果核，还有一本去年的《Cosmopolitan》。",
+    "basis_id": 2041,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2057,
+    "en": "Could Uncle Javi have forgotten something so simple as a third fuse?",
+    "before": "哈维叔叔会忘记第三个保险丝这么简单的东西吗？",
+    "after": "哈维叔叔会连第三根保险丝都忘了吗？",
+    "basis_id": 2057,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2059,
+    "en": "Could one of you check out Juno and the other help out on Humphrey Street?",
+    "before": "你们能一个去朱诺看看，另一个去汉弗莱街帮忙吗？",
+    "after": "你们一个去朱诺查看，另一个去汉弗莱街支援，行吗？",
+    "basis_id": 724,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2108,
+    "en": "Damn it, I don't have time for all your questions!",
+    "before": "该死，我没时间回答你所有问题！",
+    "after": "该死，我没空挨个回答你的问题！",
+    "basis_id": 595,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2140,
+    "en": "Dear Amy,[[Wow, a detective? Really? Can you imagine us teaming up?[[I'd speed us around town chasing after villains, you'd examine clues to lead us to our next high-speed chase. We'd be super heroes![[Here's to dreaming anyways...[[I find the fact that you're a detective to be very attractive. This matchmaking service turned out pretty great! I'm glad I gave it a shot![[Can't wait to hear from you again![[",
+    "before": "亲爱的艾米，[[哇，侦探？真的吗？你能想象我们组队吗？[[我会载着你在城里飞驰追坏人，你检查线索带我们展开下一场高速追逐。我们会是超级英雄！[[不过，还是做做梦吧……[[我觉得你是侦探这一点非常吸引人。这个相亲服务结果还挺棒！我很高兴试了一把！[[等不及再收到你的消息！[[",
+    "after": "亲爱的艾米，[[哇，你是侦探？真的？想想咱们搭档的样子！[[我开车带你满城追坏人，你查线索，带我们奔赴下一场追逐战。咱们简直就是超级英雄！[[先做做美梦也好嘛……[[你是侦探这件事，让我更心动了。没想到婚介服务这么靠谱，幸好我试了试！[[等不及再收到你的消息了！[[",
+    "basis_id": 2140,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2146,
+    "en": "Dearest Amy,[[Our conversation last night was incredible. My fingers were cramping up from clacking away at the keyboard all night chatting with you. I almost couldn't grip the steering wheel in my race this morning! (I won it anyways!)[[I just feel this deep connection with you that has grown over the past couple days. I can't explain it.[[We're just on the same wavelength. I haven't had anyone I could talk to like this in a long time.[[",
+    "before": "最亲爱的艾米，[[我们昨晚的对话太不可思议了。整晚跟你聊天敲键盘，我的手指都抽筋了。今天早上比赛时我差点握不住方向盘！（反正我还是赢了！）[[我就是觉得跟你有一种深深的联结，在过去几天里不断加深。我无法解释。[[我们就是频率相同。我很久没有能这样交谈的人了。[[",
+    "after": "最亲爱的艾米，[[昨晚跟你聊得太开心了。聊了一整夜，键盘敲得我手指都快抽筋了。今早比赛差点握不住方向盘！（不过我还是赢了！）[[这几天，我觉得咱们越来越亲近。那种感觉，说不清楚。[[咱们就是这么合拍。已经好久没人能让我聊得这么畅快了。[[",
+    "basis_id": 2146,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2213,
+    "en": "Did your interests include killing an innocent woman in cold blood?",
+    "before": "你们的兴趣也包括冷血杀害一个无辜的女人吗？",
+    "after": "你们所谓的利益，也包括冷血杀害无辜的女人？",
+    "basis_id": 2213,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 2236,
+    "en": "Do we have to climb all the way up to the second level to toggle the catwalks? There's gotta be an easier way.",
+    "before": "我们非得一路爬到二层去切换那些天桥吗？肯定有更简单的办法。",
+    "after": "每次要切换走道，都得爬上二层？总该有个省事点的办法吧。",
+    "basis_id": 2236,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2250,
+    "en": "Do you have those results for me?",
+    "before": "你把那些结果给我带来了吗？",
+    "after": "那份结果带来了吗？",
+    "basis_id": 564,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2374,
+    "en": "Dr. Morales kept me pretty insulated from his work and only told me what he was working on when he had numbers for me to crunch.",
+    "before": "莫拉莱斯博士把我跟他的工作隔得很开，只有需要我算数据的时候才告诉我他在研究什么。",
+    "after": "莫拉莱斯博士很少让我参与他的研究，只有需要我计算数据时，才会告诉我在做什么。",
+    "basis_id": 2374,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2381,
+    "en": "Dr. Morales' journal has an embossed angel wearing a diaper.",
+    "before": "莫拉莱斯博士的日记封面上压印着一个穿尿布的天使。",
+    "after": "莫拉莱斯博士的日记封面上，压印着一个包着尿布的小天使。",
+    "basis_id": 2381,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2382,
+    "en": "Dr. Morales' simulator had a keypad to control access to the inside.",
+    "before": "莫拉莱斯博士的模拟器上有一个键盘，用来控制内部的进出。",
+    "after": "莫拉莱斯博士的模拟器有个键盘，得用它才能控制进出。",
+    "basis_id": 2382,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2427,
+    "en": "Ed offered to come with me. I guess I should speak to him.",
+    "before": "埃德提出要跟我一起去。我想我该跟他说一声。",
+    "after": "埃德说愿意陪我去，我该跟他说一声。",
+    "basis_id": 2427,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2434,
+    "en": "Ed was the assistant to that murdered scientist. He seems really broken up about it.",
+    "before": "埃德是那位被谋杀科学家的助手。他看起来为此伤心欲绝。",
+    "after": "埃德是那位遇害科学家的助手，看来这事让他很难受。",
+    "basis_id": 2434,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2546,
+    "en": "Even foreigners entering the country or doing any business within the states get one.",
+    "before": "就连入境或在国内做任何生意的外国人也会有一个。",
+    "after": "外国人只要入境，或在美国做生意，也会有这个号码。",
+    "basis_id": 2546,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2556,
+    "en": "Even though we pulled the plug on these things, I still don't want to go around touching 'em.",
+    "before": "虽然我们已经把这些东西的电源拔了，我还是不想去碰它们。",
+    "after": "就算已经断了电，我还是不想随便碰这些东西。",
+    "basis_id": 2556,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2636,
+    "en": "First, I need his FTTN.",
+    "before": "第一，我需要他的FTTN。",
+    "after": "首先得拿到他的FTTN。",
+    "basis_id": 770,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2637,
+    "en": "First, I need you to confirm something.",
+    "before": "首先，我需要你确认一件事。",
+    "after": "先帮我确认一件事。",
+    "basis_id": 566,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2766,
+    "en": "Goin' radio silent.",
+    "before": "进入无线电静默。",
+    "after": "停止无线电联络。",
+    "basis_id": 836,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2888,
+    "en": "He quit one day. Vanished. Think he's up north somewhere.",
+    "before": "有一天他辞职了。消失了。我想他是在北方某个地方。",
+    "after": "有一天他辞了职，就不见人影了。听说去了北边。",
+    "basis_id": 2888,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2890,
+    "en": "He said that I can plug it in to a computer after entering the username into any standard login screen.",
+    "before": "他说我可以在任何标准登录界面输入用户名后，把它插到电脑上。",
+    "after": "他说，在普通登录界面输入用户名，再把它插进电脑就行。",
+    "basis_id": 2890,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2892,
+    "en": "He seems a little more interested in his beloved technology than any sort of police work.",
+    "before": "比起任何警务工作，他似乎对他心爱的科技更感兴趣。",
+    "after": "跟办案比起来，他似乎更喜欢摆弄心爱的高科技玩意儿。",
+    "basis_id": 2892,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2917,
+    "en": "He was working on something truly groundbreaking and powerful.",
+    "before": "他当时在研究某种真正具有突破性且强大的东西。",
+    "after": "他当时研究的东西，威力惊人，真能改变世界。",
+    "basis_id": 2917,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2925,
+    "en": "He'd need some kind of signal booster, but those things have a limited range. Hmmm.",
+    "before": "他需要某种信号增强器，但那种东西范围有限。嗯。",
+    "after": "他得有个信号增强器，可那东西的覆盖范围有限。嗯……",
+    "basis_id": 2925,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 2937,
+    "en": "He's got some information we need... and a substance abuse problem.",
+    "before": "他有我们需要的一些信息……还有药物滥用问题。",
+    "after": "他手里有我们要的情报……就是有点药瘾。",
+    "basis_id": 2937,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3064,
+    "en": "Hitting something with a brick is my kind of problem-solving.",
+    "before": "用砖头砸东西，这才是我擅长的解决问题方式。",
+    "after": "一砖头砸下去，这才是我擅长的解决办法。",
+    "basis_id": 3064,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3070,
+    "en": "Hmm. It's great that we got these blueprints, but they're useless without knowing where to go.",
+    "before": "嗯。拿到这些蓝图是很好，但不知道去哪儿也是白搭。",
+    "after": "嗯，蓝图是拿到了，可不知道该往哪儿走，也还是白搭。",
+    "basis_id": 3070,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3165,
+    "en": "How close were our estimates?",
+    "before": "我们的估算有多接近？",
+    "after": "我们的估算差了多少？",
+    "basis_id": 579,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 3251,
+    "en": "I am but a humble craftsman in the field of boutique security.",
+    "before": "我不过是精品安全领域里一个谦逊的手艺人。",
+    "after": "在下不过是个手艺人，专做精巧的安防器具。",
+    "basis_id": 3251,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3259,
+    "en": "I am shocked an appalled that you would even suggest such a thing!",
+    "before": "你竟然提出这种事，我既震惊又愤慨！",
+    "after": "你竟能提出这种事，简直让我又惊又气！",
+    "basis_id": 665,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3262,
+    "en": "I believe Dr. Morales wants us to find his vault because it contains the research and data needed to build and arm more Resonance devices.",
+    "before": "我相信莫拉莱斯博士想让我们找到他的保险库，因为里面存有建造和武装更多共振装置所需的研究和数据。",
+    "after": "我想，莫拉莱斯博士让我们找保险库，是因为里面的研究资料足够用来制造并启用更多共振装置。",
+    "basis_id": 3262,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3269,
+    "en": "I bid you a good day, madam!",
+    "before": "祝您今天愉快，女士！",
+    "after": "女士，就此告辞！",
+    "basis_id": 666,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3270,
+    "en": "I bid you a good day, sir!",
+    "before": "祝您今天愉快，先生！",
+    "after": "先生，就此告辞！",
+    "basis_id": 667,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3274,
+    "en": "I brought up his name at the briefing when you and  Bennet were named as suspects-",
+    "before": "当把你和贝内特列为嫌疑人时，我在简报会上提了他的名字——",
+    "after": "简报会上，提到你和贝内特被列为嫌疑人的时候，我说起过他——",
+    "basis_id": 740,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3280,
+    "en": "I can clear the front desk for a while.",
+    "before": "我可以暂时清空前台。",
+    "after": "我能让前台暂时没人。",
+    "basis_id": 741,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3325,
+    "en": "I can't believe this. The detective seemed so... helpful.",
+    "before": "我真不敢相信。那警探看起来那么……乐于助人。",
+    "after": "怎么会这样。那位警探明明那么……热心。",
+    "basis_id": 3325,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3408,
+    "en": "I can't speak for myself, but the one about anaesthetic and mind control was a big hit with one of the nurses.",
+    "before": "我不能代表自己说，但关于麻醉剂和思想控制的那篇，有个护士特别喜欢。",
+    "after": "我自己没什么发言权，不过有个护士特别喜欢你那篇讲麻醉剂和精神控制的文章。",
+    "basis_id": 3408,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 3429,
+    "en": "I can't.  Chief's got me tasked.",
+    "before": "我做不到。局长给我派了任务。",
+    "after": "抽不开身，局长给我安排了活。",
+    "basis_id": 742,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3445,
+    "en": "I could just request one just like it from supplies, if I really wanted one.",
+    "before": "如果我真想要一个，我完全可以从供应处申请一个一模一样的。",
+    "after": "真想要的话，去物资部门领个一样的就是了。",
+    "basis_id": 3445,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3454,
+    "en": "I could use it to see inside something - but what?",
+    "before": "我可以用它来看清什么东西的内部——但看什么呢？",
+    "after": "能用它看清物体内部——可该看什么呢？",
+    "basis_id": 3454,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3493,
+    "en": "I don't have all day.",
+    "before": "我可没一整天时间。",
+    "after": "我可没工夫等一整天。",
+    "basis_id": 838,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3529,
+    "en": "I don't know what this document is about, but I know it's not what I'm looking for.",
+    "before": "我不知道这份文件是关于什么的，但我知道不是我要找的。",
+    "after": "这文件写的什么，我不清楚，不过肯定不是我要找的。",
+    "basis_id": 3529,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3545,
+    "en": "I don't like tinkerin' with anything that has more buttons than my remote control.",
+    "before": "我不喜欢摆弄任何按钮比遥控器还多的东西。",
+    "after": "按钮比我遥控器还多的东西，我可不爱摆弄。",
+    "basis_id": 3545,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3641,
+    "en": "I don't think I'm getting in until I find a way to move it.",
+    "before": "我想在找到办法移开它之前，我是进不去的。",
+    "after": "不想办法把它挪开，我就进不去。",
+    "basis_id": 3641,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3645,
+    "en": "I don't think any buses have stopped here for a long, long time.",
+    "before": "我觉得已经很久很久没有公交车停在这里了。",
+    "after": "这站怕是有好多年没停过公交了。",
+    "basis_id": 3645,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3758,
+    "en": "I dunno what to think about that, but we need any edge we can get.",
+    "before": "我不知道该怎么想，但我们需要任何能用的优势。",
+    "after": "我也不知道该怎么看，可眼下多一点胜算都好。",
+    "basis_id": 3758,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3769,
+    "en": "I feel like monkeys should be discovering the use of tools around this thing.",
+    "before": "我感觉猴子应该在这东西旁边发现工具的用法。",
+    "after": "这东西旁边就该蹲几只猴子，刚学会用工具的那种。",
+    "basis_id": 3769,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3800,
+    "en": "I guess I kind of lose track of the world when I'm working.",
+    "before": "我猜我工作的时候有点与世隔绝了。",
+    "after": "我一工作起来，好像就什么都顾不上了。",
+    "basis_id": 570,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3810,
+    "en": "I guess if I can't stick around, I could just run with what I've got so far.",
+    "before": "我想，既然我不能留下来，那我就用手头已有的东西直接发出去。",
+    "after": "待不下去的话，就拿现有材料先发篇报道吧。",
+    "basis_id": 3810,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3812,
+    "en": "I guess it's kind of my lucky charm.",
+    "before": "算是我的幸运符吧。",
+    "after": "这大概算是我的护身符吧。",
+    "basis_id": 774,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3819,
+    "en": "I guess they don't trust scientists not to toy with the electrical system.",
+    "before": "我猜他们是不信任科学家不会乱动电力系统。",
+    "after": "看来他们信不过科学家，怕我们乱动电力系统。",
+    "basis_id": 3819,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3825,
+    "en": "I guess we need to access Juno Lab's blueprints on file at Police Headquarters.",
+    "before": "我想我们需要去警察总部调取朱诺实验室的存档蓝图。",
+    "after": "看来得去警察总部，调出朱诺实验室的蓝图。",
+    "basis_id": 3825,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3831,
+    "en": "I had a great time during our chat, too! You're so funny![[I can't believe I'm saying this, but I think I really like you, Steve, and I think we should meet.[[If you're interested, pick the time and location.[[I seriously can't believe this matchmaking service actually might have worked to bring together two people perfect for each other...",
+    "before": "我们聊天时我也很开心！你太有趣了！[[我不敢相信我居然会说这种话，但我想我真的喜欢你，史蒂夫，我觉得我们应该见个面。[[如果你有兴趣，就定个时间和地点吧。[[我真的不敢相信这个婚介服务居然真的可能把两个天造地设的人凑到一起……",
+    "after": "跟你聊天我也很开心！你太逗了！[[真不敢相信我会这么说，可我觉得自己真的喜欢上你了，史蒂夫。咱们见个面吧。[[如果你愿意，时间地点就由你定。[[真没想到，这个婚介服务居然可能让两个这么合拍的人相遇……",
+    "basis_id": 3831,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3832,
+    "en": "I had a lot of questions and my gut was telling me exactly two things.",
+    "before": "我有很多疑问，而直觉明确告诉我两件事。",
+    "after": "疑问一大堆，可直觉清清楚楚地告诉我两件事。",
+    "basis_id": 839,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3836,
+    "en": "I had to leave... to hide. The police suspected I had something to do with his death, and I,  I was a coward.",
+    "before": "我不得不离开……躲起来。警方怀疑我与他的死有关，而我，我是个懦夫。",
+    "after": "我只好离开……躲起来。警方怀疑我跟他的死有关，而我，我没胆子面对。",
+    "basis_id": 3836,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3842,
+    "en": "I have a contact at the National Credit Service. He can get anyone's financial transaction history.",
+    "before": "我在国家信用服务局有个联系人。他能拿到任何人的金融交易记录。",
+    "after": "我在国家信用服务局有个熟人，谁的金融交易记录他都能弄到。",
+    "basis_id": 840,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3866,
+    "en": "I have these blueprints of Juno Labs. Could you tell me where you built the vault?",
+    "before": "我有朱诺实验室的这些蓝图。你能告诉我你把保险库建在哪里了吗？",
+    "after": "我拿到了朱诺实验室的蓝图。能告诉我保险库建在哪儿吗？",
+    "basis_id": 3866,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3881,
+    "en": "I haven't used this thing except when I propped it open last night because I needed the light.",
+    "before": "除了昨晚我需要光线把它撑开之外，我没用过这东西。",
+    "after": "除了昨晚为了借点光把它撑开，我就没用过这东西。",
+    "basis_id": 3881,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3904,
+    "en": "I imagine your patients must be missing you. Will they be okay without you?",
+    "before": "我想你的病人一定很想你。没有你他们能行吗？",
+    "after": "你的病人肯定在想你。你不在，他们不要紧吧？",
+    "basis_id": 3904,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3933,
+    "en": "I knew you sounded shady so I did some checking up on you, Amul.",
+    "before": "我就觉得你听起来鬼鬼祟祟的，所以查了查你，阿穆尔。",
+    "after": "我一听就觉得你不对劲，所以查了查你的底，阿穆尔。",
+    "basis_id": 3933,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3951,
+    "en": "I like action and having fun, and dislike sitting in offices and wearing suits.[[My life moves as fast as my stock car down the final stretch and that's how I like it.[[I'm looking for someone to take to the movies, and enjoy some fine dining on the town.[[",
+    "before": "我喜欢行动和找乐子，讨厌坐在办公室里穿西装。[[我的人生就像我的赛车在最后直道上一样飞驰，我就喜欢这样。[[我想找个人一起看电影，在城里享受美食。[[",
+    "after": "我喜欢行动，喜欢找乐子，最讨厌穿着西装坐办公室。[[我的生活就像赛车冲上最后的直道，飞驰到底，正合我意。[[想找个人一起看电影，再到城里吃顿好饭。[[",
+    "basis_id": 3951,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3969,
+    "en": "I loved your piece on invasive ground squirrel species affecting the local rodentia population.",
+    "before": "我很喜欢你写的那篇关于入侵性地松鼠物种影响当地啮齿动物种群的文章。",
+    "after": "你那篇讲外来地松鼠如何影响本地啮齿动物种群的文章，我很喜欢。",
+    "basis_id": 3969,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 3983,
+    "en": "I might have agreed with you once, but now?",
+    "before": "我以前也许会同意你，但现在？",
+    "after": "换作以前，我也许会同意。可现在？",
+    "basis_id": 602,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4006,
+    "en": "I need some kind of hard evidence tying him to a crime.",
+    "before": "我需要某种确凿证据，把他和犯罪联系起来。",
+    "after": "我得有实打实的证据，能证明他跟犯罪有关。",
+    "basis_id": 4006,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4035,
+    "en": "I need to know how to find the vault. Is there anything here that can help me?",
+    "before": "我需要知道怎么找到保险库。这里有什么能帮我的吗？",
+    "after": "我得弄清保险库在哪儿。这里有什么线索吗？",
+    "basis_id": 4035,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4036,
+    "en": "I need to know whether anyone unusual has been in here looking at the mainframe today?",
+    "before": "我想知道今天有没有什么不寻常的人来这里看过主机？",
+    "after": "今天有没有什么可疑的人，到这里看过主机？",
+    "basis_id": 4036,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4050,
+    "en": "I need two things to get at anyone's records.",
+    "before": "要查任何人的记录，我需要两样东西。",
+    "after": "查谁的记录都一样，得有两样东西。",
+    "basis_id": 776,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4055,
+    "en": "I need you to tell me how I can access documents above my security clearance.",
+    "before": "我需要你告诉我，怎样才能访问超出我安全权限的文件。",
+    "after": "告诉我，怎么才能调阅超出我权限的文件。",
+    "basis_id": 4055,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4069,
+    "en": "I only sneak into patient's rooms if there's a *really* good story to be had.",
+    "before": "只有在有*非常*好的故事可挖时，我才会溜进病房。",
+    "after": "除非有*特别*值得挖的报道，我才会溜进病房。",
+    "basis_id": 4069,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4085,
+    "en": "I put one in this jar every day I was away.",
+    "before": "我离开的每一天都往这个罐子里放一枚。",
+    "after": "不在家的日子，我每天都往罐子里放一枚。",
+    "basis_id": 841,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4090,
+    "en": "I really don't need other doctors' paperwork as well as my own.",
+    "before": "我真的不需要除了自己的文件之外，还要别的医生的文件。",
+    "after": "光我自己的文书就够忙的了，可不想再管其他医生的。",
+    "basis_id": 4090,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4109,
+    "en": "I remember something.",
+    "before": "我想起了什么。",
+    "after": "我想起件事。",
+    "basis_id": 842,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4114,
+    "en": "I said forget it!",
+    "before": "我说了算了！",
+    "after": "我说了，别再提了！",
+    "basis_id": 603,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4122,
+    "en": "I saw the lights go out, and then it got hot, and I felt a vibration...",
+    "before": "我看见灯灭了，然后变热了，我感觉到一阵震动……",
+    "after": "灯先灭了，接着热起来，还有一阵震动……",
+    "basis_id": 777,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4205,
+    "en": "I think I'll keep it - it'll save a lot of paper work.",
+    "before": "我想我会留着它——这能省下很多文书工作。",
+    "after": "还是留着吧，能省下不少手续。",
+    "basis_id": 4205,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4211,
+    "en": "I think I'll stay over here until that electrified water is out of the way, thank you.",
+    "before": "我想我还是待在这边，等那片带电的水消失再说，谢谢。",
+    "after": "我还是待在这边，等那片带电的积水清掉再说吧。谢谢了。",
+    "basis_id": 4211,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4245,
+    "en": "I think we can use both switches to toggle those moving catwalks. We don't have to be on the second level.",
+    "before": "我想我们可以用两个开关来切换那些移动的通道。我们不必待在二层。",
+    "after": "两个开关都能切换这些移动走道，应该不用非待在二层。",
+    "basis_id": 4245,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4270,
+    "en": "I told you. I can't just give that information away. That's priveleged information.",
+    "before": "我说过了。我不能随便透露那个信息。那是特权信息。",
+    "after": "我说过，不能随便告诉你。这些资料是保密的。",
+    "basis_id": 4270,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4292,
+    "en": "I usually end up standing on the subway holding on to one of these for dear life.",
+    "before": "我坐地铁时通常都是抓着其中一根拼命站稳。",
+    "after": "我坐地铁，多半就是死死抓着这种扶手，勉强站稳。",
+    "basis_id": 4292,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4302,
+    "en": "I was just in the middle of a very delicate operation, putting the final touches on a new safe.",
+    "before": "我当时正在做一个非常精细的操作，给一个新保险箱做最后的收尾。",
+    "after": "当时正给一只新保险箱做最后的修整，是个细致活儿。",
+    "basis_id": 4302,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4304,
+    "en": "I was lucky that this apartment was on the market for so cheap when I needed it.",
+    "before": "我很幸运，在我需要的时候这间公寓的租金这么便宜。",
+    "after": "真是走运，刚好需要房子，就碰上这么便宜的公寓。",
+    "basis_id": 4304,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4331,
+    "en": "I wish I did. I wasn't there, so I can't say for sure.",
+    "before": "我希望我知道。我当时不在场，所以没法确定。",
+    "after": "我也想知道。可我当时不在场，实在说不准。",
+    "basis_id": 4331,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4332,
+    "en": "I wish I had answers for you, but I can tell you this: none of us are alone.",
+    "before": "我希望我能给你答案，但我可以告诉你这一点：我们没有人是孤独的。",
+    "after": "我也想给你答案。不过有一点可以确定：我们每个人都有人陪伴。",
+    "basis_id": 4332,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4333,
+    "en": "I wish I had answers for you. I wish I could understand the hearts and minds of the ones who did this.",
+    "before": "我希望我能给你答案。我希望我能理解那些做出这种事的人的心和头脑。",
+    "after": "我也想给你答案，也想弄明白，做出这种事的人心里到底在想什么。",
+    "basis_id": 4333,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4344,
+    "en": "I wonder what effect the news that someone broke in and stole your files would have on your business' reputation.",
+    "before": "我想知道，有人闯入并偷走你文件的消息，会对你的生意名声造成什么影响。",
+    "after": "要是传出去，说有人闯进来偷走了你的文件，你这生意的招牌会怎么样？",
+    "basis_id": 4344,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4364,
+    "en": "I would need proof of death, and a copy of his notarized will before I could release my records to anyone.",
+    "before": "我需要死亡证明，以及他经公证的遗嘱副本，然后才能把我的记录交给任何人。",
+    "after": "先给我死亡证明和经过公证的遗嘱副本，我才能把手里的记录交出去。",
+    "basis_id": 4364,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4392,
+    "en": "I'd better look closer to figure out exactly where to place them.",
+    "before": "我最好仔细看看，弄清楚到底该把它们放在哪里。",
+    "after": "得再仔细看看，弄清楚它们到底该放在哪儿。",
+    "basis_id": 4392,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4393,
+    "en": "I'd better look through his belongings to make sure he's not carrying another gun.",
+    "before": "我最好翻翻他的东西，确认他没带另一把枪。",
+    "after": "得搜搜他身上，确认没藏着第二把枪。",
+    "basis_id": 4393,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4419,
+    "en": "I'd like to get a few more things out of the archives... you know, for research.",
+    "before": "我想从档案里再弄点东西出来……你知道，为了研究。",
+    "after": "我还想从档案室弄点资料……你知道，做研究嘛。",
+    "basis_id": 4419,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4579,
+    "en": "I'm going to pull the plug to Oink's favorite toy.",
+    "before": "我要拔掉奥因克最爱玩具的插头。",
+    "after": "我去把奥因克那件心爱的玩具断了电。",
+    "basis_id": 743,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4602,
+    "en": "I'm man enough to admit that if it ain't a car or a faucet, I've got to call in somebody else.",
+    "before": "我够爷们儿，敢承认如果这不是车或水龙头，我就得叫别人来。",
+    "after": "我又不怕丢人。不是修车、修水龙头的事，我就得找别人帮忙。",
+    "basis_id": 4602,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4621,
+    "en": "I'm not going in there without more backup than a sleazy hack with pretensions to grandeur.",
+    "before": "没有比一个装腔作势的三流记者更强的后援，我可不会进去。",
+    "after": "光靠一个自命不凡的三流记者做后援，我可不进去。",
+    "basis_id": 4621,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4638,
+    "en": "I'm not much of an electrician, but I'm pretty sure these fuses go with this panel.",
+    "before": "我不太懂电工，但我很确定这些保险丝是配这块面板的。",
+    "after": "电工我不在行，可这些保险丝肯定是配这块面板的。",
+    "basis_id": 4638,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4675,
+    "en": "I'm not sure why I bought a mini-fridge. I usually eat everything the same day I buy it.",
+    "before": "我不确定自己为什么买了个迷你冰箱。我通常买回来当天就吃光。",
+    "after": "我也不知道为什么买了个小冰箱。买回来的东西，通常当天就吃光了。",
+    "basis_id": 4675,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4681,
+    "en": "I'm not working for anybody ever again.",
+    "before": "我再也不会为任何人工作了。",
+    "after": "我再也不替任何人卖命了。",
+    "basis_id": 609,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4707,
+    "en": "I'm serious. It's strange, isn't it? You joining up with us, having exactly the connections we need?",
+    "before": "我是认真的。这很奇怪，不是吗？你加入我们，恰好拥有我们需要的人脉？",
+    "after": "我是认真的。你一加入，咱们缺的人脉就刚好全齐了。不觉得奇怪吗？",
+    "basis_id": 4707,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4720,
+    "en": "I'm sorry, but I really need those results.",
+    "before": "抱歉，但我真的需要那些结果。",
+    "after": "抱歉，可我实在急着要那份结果。",
+    "basis_id": 557,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4739,
+    "en": "I'm trying to figure something out about this piece of paper I found in this book.",
+    "before": "我正在琢磨在这本书里找到的那张纸上的东西。",
+    "after": "我正在琢磨这本书里夹的那张纸。",
+    "basis_id": 4739,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4760,
+    "en": "I've been here all weekend thinking about it.",
+    "before": "我整个周末都在这里思考这件事。",
+    "after": "我整个周末都待在这儿，想的就是这件事。",
+    "basis_id": 583,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4765,
+    "en": "I've done some poking around for info on \"A. Batra\" and all I can find is something called \"Antevorta.\" We should check that out before doing anything.[[-J[[[",
+    "before": "我查了一些关于\"A. Batra\"的信息，只找到一个叫\"Antevorta\"的东西。我们动手之前应该先查查那个。[[-J[[[",
+    "after": "我查了查“A. Batra”，只找到一个叫“Antevorta”的东西。动手前，咱们该先查清楚。[[-J[[[",
+    "basis_id": 4765,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4793,
+    "en": "I've got to get us a better line of sight.",
+    "before": "我得找个更好的视野。",
+    "after": "我得找个能看得更清楚的位置。",
+    "basis_id": 844,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4800,
+    "en": "I've had a few run-ins with the law - a hazard of the investigative profession.",
+    "before": "我跟法律打过几次交道——干调查这行的风险。",
+    "after": "我跟警方打过几次不太愉快的交道——干调查报道，难免的。",
+    "basis_id": 4800,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4831,
+    "en": "I... I'm sorry you feel that way.",
+    "before": "我……我很抱歉你这么想。",
+    "after": "我……你这么想，我也很遗憾。",
+    "basis_id": 612,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4848,
+    "en": "If Dr. Morales has a vault somewhere with more of this technology contained inside...",
+    "before": "如果莫拉莱斯博士在某个地方有个保险库，里面装着更多这种技术……",
+    "after": "如果莫拉莱斯博士藏着个保险库，里面还有更多这种技术……",
+    "basis_id": 4848,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4858,
+    "en": "If I can normalize the bottom pin, I think it will trigger the door opening mechanism.",
+    "before": "如果我能让底部引脚恢复正常，我想这会触发电网开门机制。",
+    "after": "只要让底部引脚的电平恢复正常，应该就能触发开门机构。",
+    "basis_id": 4858,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 4868,
+    "en": "If I ran a criminal conspiracy I'd pick a headquarters with a little more ... class.",
+    "before": "如果是我经营一个犯罪阴谋，我会选一个更有……格调的总部。",
+    "after": "要是我组织犯罪团伙，怎么也得选个更有……格调的总部。",
+    "basis_id": 4868,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4870,
+    "en": "If I remember right, there is an extendable walkway that is activated by one of these switches. The one at the far end of the collider, I think.",
+    "before": "如果我没记错，这些开关中有一个能启动一条可伸缩走道。我想是对撞机最远那头的那个。",
+    "after": "没记错的话，有个开关能控制伸缩走道，应该是对撞机另一头的那个。",
+    "basis_id": 4870,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4879,
+    "en": "If every person has an FTTN number, then they must be stored somewhere.",
+    "before": "如果每个人都有FTTN号码，那它们一定被存在某个地方。",
+    "after": "每个人都有FTTN，那总得有地方存着这些号码吧。",
+    "basis_id": 4879,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4903,
+    "en": "If we can find the guy who sold Morales the vault, maybe they can help us find it.",
+    "before": "如果我们能找到把保险库卖给莫拉莱斯的人，也许他们能帮我们找到它。",
+    "after": "找到卖给莫拉莱斯保险库的人，也许就能请对方帮忙找出它在哪儿。",
+    "basis_id": 845,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4904,
+    "en": "If we didn't need his help so badly, I'd insist he check into rehab.",
+    "before": "要不是我们那么需要他帮忙，我会坚持让他去戒毒所。",
+    "after": "要不是急着要他帮忙，我非让他去戒毒不可。",
+    "basis_id": 4904,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4907,
+    "en": "If we find out who's behind all this, we need Ray to tell the world.",
+    "before": "如果我们查出这一切是谁干的，我们需要雷告诉全世界。",
+    "after": "只要查出幕后黑手，就得靠雷把真相告诉全世界。",
+    "basis_id": 4907,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4909,
+    "en": "If we need my uncle's DNA to get his FTTN number, then I'm the one who should get it.",
+    "before": "如果我们需要我叔叔的DNA来获取他的FTTN号码，那应该由我去取。",
+    "after": "既然得用叔叔的DNA查他的FTTN，那就该由我去取样本。",
+    "basis_id": 4909,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4924,
+    "en": "If you need more than that, you aren't the right men for the job.",
+    "before": "如果你需要的不止这些，那你就不是干这活儿的合适人选。",
+    "after": "这都还不够的话，你们就不适合干这活儿。",
+    "basis_id": 4924,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4939,
+    "en": "In a few hours, your faces will be all over the TV and net.",
+    "before": "几小时后，你们的脸就会出现在电视和网络上。",
+    "after": "再过几小时，电视和网上就全是你们的照片了。",
+    "basis_id": 744,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4947,
+    "en": "In five... ten years, when we're living in a new age of peace and prosperity...",
+    "before": "五年……十年后，当我们生活在一个和平繁荣的新时代……",
+    "after": "五年……十年后，等我们迎来和平繁荣的新时代……",
+    "basis_id": 614,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 4957,
+    "en": "In the wrong hands, the contents of this vault would be an incredibly powerful and destructive weapon.",
+    "before": "若落入坏人手中，这间保险库里的东西将成为一件极其强大且具毁灭性的武器。",
+    "after": "这保险库里的东西，要是落到坏人手里，就会变成威力惊人的毁灭性武器。",
+    "basis_id": 4957,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5071,
+    "en": "It looks like Ed was trying to figure out exactly where the device needed to be placed.",
+    "before": "看起来埃德在试图算出装置需要放置的确切位置。",
+    "after": "看来埃德在计算装置到底该放在哪儿。",
+    "basis_id": 5071,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5086,
+    "en": "It looks like they discussed whether or not to get an espresso machine for the break room.",
+    "before": "看起来他们讨论了要不要给休息室买台浓缩咖啡机。",
+    "after": "看来他们讨论过，要不要给休息室添台浓缩咖啡机。",
+    "basis_id": 5086,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5096,
+    "en": "It means that she wasn't their real mam{.",
+    "before": "意思是她不是他们真正的妈妈{。",
+    "after": "就是说，她不是他们的亲妈妈。",
+    "basis_id": 847,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 5145,
+    "en": "It was chaos here. We were so short-staffed I had to go out on patrol!",
+    "before": "这里一片混乱。人手太少了，我不得不出去巡逻！",
+    "after": "这里乱成一团，人手缺得连我都得出去巡逻！",
+    "basis_id": 5145,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5169,
+    "en": "It'll set them back years. It gives us time to reveal to the world that the Eleven Foundation was behind these attacks!",
+    "before": "这会让他们倒退好几年。这给了我们时间向全世界揭露，这些袭击的幕后黑手是十一基金会！",
+    "after": "这能让他们的进度拖后好几年。我们就有时间向全世界揭露，十一基金会才是这些袭击的幕后黑手！",
+    "basis_id": 5169,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5170,
+    "en": "It'll set them back years. Long enough to reveal what they did.",
+    "before": "这会让他们倒退数年。足够久到揭露他们做过的事。",
+    "after": "这能拖慢他们好几年，足够我们揭露他们的所作所为了。",
+    "basis_id": 5170,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5224,
+    "en": "It's an elegant art. One that doesn't really get appreciated around here.",
+    "before": "这是一门优雅的艺术。在这里却得不到什么赏识。",
+    "after": "这是一门高雅的艺术，可惜这里没什么人懂得欣赏。",
+    "basis_id": 5224,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5225,
+    "en": "It's an ethical one.",
+    "before": "这是伦理上的。",
+    "after": "这是个伦理问题。",
+    "basis_id": 584,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 5231,
+    "en": "It's an ultrasonograph, a portable hand-held scanner for seeing inside patients' bodies.",
+    "before": "这是超声波扫描仪，一种便携式手持扫描器，能看到病人体内。",
+    "after": "这是超声波扫描仪，能拿在手里，扫描病人体内的情况。",
+    "basis_id": 5231,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5235,
+    "en": "It's been my experience that folks with the right authority have access to minor legal documents.",
+    "before": "根据我的经验，有权限的人能接触到次要法律文件。",
+    "after": "按我的经验，有相应权限的人，就能调阅一般的法律文书。",
+    "basis_id": 5235,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5295,
+    "en": "It's kept me out of trouble for almost twenty years, so I guess that's something.",
+    "before": "它让我远离麻烦快二十年了，所以我觉得还挺管用的。",
+    "after": "快二十年了，它都没让我出过事，也算挺灵的吧。",
+    "basis_id": 780,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5336,
+    "en": "It's not a lot, but if you save them, maybe someday they can help you when you need it.",
+    "before": "不算多，但如果你把它们存起来，也许有一天在你需要的时候能帮上忙。",
+    "after": "钱不多，可慢慢存着，哪天急用时也许就能帮上忙。",
+    "basis_id": 848,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5364,
+    "en": "It's really important that we get any information about the vault you have.",
+    "before": "我们拿到你手上那个保险库的任何信息，真的非常重要。",
+    "after": "你手里只要有保险库的资料，都请交给我们。这真的很重要。",
+    "basis_id": 5364,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5380,
+    "en": "It's such a rush when all the numbers start falling into place. I don't think I slept until 4 that night.",
+    "before": "当所有数字开始对上时，那种感觉真刺激。我想那晚我直到4点才睡。",
+    "after": "所有数字终于对上的时候，那感觉真让人兴奋。我记得那晚到四点才睡。",
+    "basis_id": 5380,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5395,
+    "en": "It's the only electric thing in this room that looks like it's still working.",
+    "before": "这是这个房间里唯一看起来还在工作的带电设备。",
+    "after": "它是人类有史以来最伟大的文档存储系统，数字与实体兼备，还配有洁净室！",
+    "basis_id": 5395,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5451,
+    "en": "Just because it looks heavy ain't no reason to call it quits. I say we keep at it.",
+    "before": "光因为它看起来重，可不是放弃的理由。我说我们继续干。",
+    "after": "看着重就不干了？这可不是理由。接着来。",
+    "basis_id": 5451,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5459,
+    "en": "Just keep him on the phone as long as you can, I'll need a couple minutes to localize the signal.",
+    "before": "尽量让他保持通话，我需要几分钟来定位信号。",
+    "after": "尽量拖着他别挂，我得花几分钟定位信号。",
+    "basis_id": 5459,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5478,
+    "en": "Just saying. These Eleven Foundation guys sound like bad news.",
+    "before": "只是说说。十一基金会的这些家伙听起来不像好人。",
+    "after": "随口说说。这帮十一基金会的人，一听就不好惹。",
+    "basis_id": 5478,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5487,
+    "en": "Just that somebody used his own weapon to kill him. It isn't right.",
+    "before": "只知道有人用他自己的武器杀了他。这不对。",
+    "after": "只知道有人拿他的武器杀了他。不该是这样。",
+    "basis_id": 5487,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5546,
+    "en": "Left-click an object in your inventory to interact with it.[[Right-click an object in your inventory to examine it.",
+    "before": "左键点击物品栏中的物体进行互动。[[右键点击物品栏中的物体进行查看。",
+    "after": "左键点击物品栏中的物品，即可使用。[[右键点击物品，即可查看。",
+    "basis_id": 5546,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5548,
+    "en": "Left-click anywhere on the screen to walk.[[Left-click on an object to interact with it.[[Right-click on an object to examine it.",
+    "before": "左键点击屏幕任意位置行走。[[左键点击物体进行互动。[[右键点击物体进行查看。",
+    "after": "左键点击屏幕空白处，即可行走。[[左键点击物体，即可互动。[[右键点击物体，即可查看。",
+    "basis_id": 5548,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5549,
+    "en": "Left-click on an object to interact with it.[[Right-click on an object to examine it.",
+    "before": "左键点击物体进行互动。[[右键点击物体进行查看。",
+    "after": "左键点击物体，即可互动。[[右键点击物体，即可查看。",
+    "basis_id": 5549,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5581,
+    "en": "Let's just figure out where those Resonance devices were placed so we can follow his trail.",
+    "before": "我们先弄清楚那些共振装置被放在哪里，好顺着他的踪迹追下去。",
+    "after": "先查清那些共振装置放在哪儿，才能顺着线索追下去。",
+    "basis_id": 5581,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5594,
+    "en": "Let's pretend that all made sense... What's the big deal?",
+    "before": "就当那些都说得通吧……那有什么大不了的？",
+    "after": "就算你说的这些都有道理……到底厉害在哪儿？",
+    "basis_id": 5594,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5602,
+    "en": "Let's take a quick look inside and once I can confirm that an ambulance is needed, I'll call for one.",
+    "before": "我们先进去快速看一眼，一旦我确认需要救护车，我就叫一辆。",
+    "after": "先进去看一眼，确认需要救护车，我就马上叫。",
+    "basis_id": 5602,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5616,
+    "en": "Like all of you, I woke up this morning facing a different world.",
+    "before": "和你们所有人一样，我今天早上醒来时面对的是一个不同的世界。",
+    "after": "跟大家一样，今天早上醒来，我面对的已是另一个世界。",
+    "basis_id": 5616,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5702,
+    "en": "Looks like a medical supplies drawer, which is odd considering this is a server room.",
+    "before": "看起来像是个医疗用品抽屉，考虑到这是服务器机房，这很奇怪。",
+    "after": "像是个装医疗用品的抽屉。可这是服务器机房，怎么会有这个？",
+    "basis_id": 5702,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5705,
+    "en": "Looks like a pretty basic model. It probably doesn't even have wifi access.",
+    "before": "看起来是个很基础的型号。可能连wifi都没有。",
+    "after": "型号看着挺低端，恐怕连无线网络都接不了。",
+    "basis_id": 5705,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5749,
+    "en": "Makes me wanna take a look around police HQ, in case I never see it again.",
+    "before": "让我想四处看看警察总部，以防再也见不到了。",
+    "after": "搞得我想再看看警察总部，说不定以后就没机会了。",
+    "basis_id": 5749,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5794,
+    "en": "Maybe someone there can tell me how I can get the blueprints out of this thing.",
+    "before": "也许那儿有人能告诉我怎么把蓝图从这玩意儿里弄出来。",
+    "after": "也许那边有人知道，怎么从这玩意儿里调出蓝图。",
+    "basis_id": 5794,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5849,
+    "en": "Morales sounds like he was the absent-minded professor-type.",
+    "before": "莫拉莱斯听起来像是那种心不在焉的教授型人物。",
+    "after": "听起来，莫拉莱斯就是那种一门心思搞研究、别的全顾不上的教授。",
+    "basis_id": 5849,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5885,
+    "en": "Mr. Eddings, if you don't mind, I'd like to ask you some follow-up questions back at the station.",
+    "before": "埃丁斯先生，如果你不介意，我想请你回警局再问几个后续问题。",
+    "after": "埃丁斯先生，方便的话，请跟我回警局，我还想问几个问题。",
+    "basis_id": 5885,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5891,
+    "en": "Much as I'd like to 'jack into the net' I believe I need some sort of terminal to access the systems.",
+    "before": "虽然我很想‘接入网络’，但我想我需要某种终端才能访问系统。",
+    "after": "再想“接入网络”，也得先有台终端才能访问系统。",
+    "basis_id": 5891,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5892,
+    "en": "Much to the dismay of my ankle.",
+    "before": "代价是我的脚踝惨遭不幸。",
+    "after": "就是苦了我这脚踝。",
+    "basis_id": 784,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 5929,
+    "en": "My guess is it's in one of the many underground tunnels.",
+    "before": "我猜是在众多地下隧道中的某一条里。",
+    "after": "我猜就在那些地下隧道里的某一条。",
+    "basis_id": 785,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5930,
+    "en": "My instincts say to milk our sources and gather more information. There's gotta be someone who knows more about that thing.",
+    "before": "我的直觉告诉我要榨取我们的线人，收集更多信息。肯定有人对那东西了解得更多。",
+    "after": "我的直觉是，再问问线人，多挖点消息。总有人更了解那东西。",
+    "basis_id": 5930,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5949,
+    "en": "My problem, detective, is that I'm a reporter. Jimmy Olsen is a photographer. We're nothing alike!",
+    "before": "我的毛病，警探，就是我是记者。吉米·奥尔森是摄影师。我们完全不一样！",
+    "after": "问题就在这儿，警探：我是记者，吉米·奥尔森是摄影师。根本不是一回事！",
+    "basis_id": 5949,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5951,
+    "en": "My real designs I keep in the back. I don't show those to anybody.",
+    "before": "我真正的设计放在后面。那些我从不给任何人看。",
+    "after": "真正的设计我都收在后面，从不让外人看。",
+    "basis_id": 5951,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5976,
+    "en": "Nah. I need to account for any bullets I use, and this operation is strictly off-the-record.",
+    "before": "不行。我得对用掉的每颗子弹负责，而这次行动完全是私下进行的。",
+    "after": "不行，用掉一颗子弹都得交代，可这次行动根本没备案。",
+    "basis_id": 5976,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5979,
+    "en": "Nah. That's a whole different department. The wizard only deals in green.",
+    "before": "不知道。那是完全不同的部门。巫师只跟绿票子打交道。",
+    "after": "不归我管，那是另一个部门的事。巫师只认绿票子。",
+    "basis_id": 5979,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 5981,
+    "en": "Nah. That's whole different department. The wizard only deals in green.",
+    "before": "不知道。那是完全不同的部门。巫师只做绿色的买卖。",
+    "after": "不归我管，那是另一个部门的事。巫师只认绿票子。",
+    "basis_id": 5981,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 6034,
+    "en": "No buts. No maybes. The line has been drawn and it's drawn right here.",
+    "before": "没有但是。没有也许。界线已经划下，就划在这里。",
+    "after": "没有“但是”，也没有“也许”。底线就在这儿。",
+    "basis_id": 6034,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6119,
+    "en": "No, Pap{! You didn't-",
+    "before": "不，妈{！你没有——",
+    "after": "不，爸爸！你没有——",
+    "basis_id": 852,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 6205,
+    "en": "Nobody can understand. Not you. Not Dr. Morales. And especially not Amul and Reno.",
+    "before": "没人能明白。你不行。莫拉莱斯博士不行。阿穆尔和雷诺尤其不行。",
+    "after": "没人能懂。你不懂，莫拉莱斯博士不懂，阿穆尔和雷诺就更不懂。",
+    "basis_id": 625,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6207,
+    "en": "Nobody will ever tell me what to do with Resonance ever again. ",
+    "before": "再也不会有人告诉我该怎么处置共振了。",
+    "after": "再也没人能对我指手画脚，告诉我该怎么处置共振。",
+    "basis_id": 626,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6219,
+    "en": "Nope. The sound's not coming from any of my electronics.",
+    "before": "不对。声音不是从我任何电子设备里传出来的。",
+    "after": "不对，不是我这些电子设备发出的声音。",
+    "basis_id": 6219,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6220,
+    "en": "Normally, I'd say this wasn't the kind of lead that warranted an all-night stakeout.",
+    "before": "通常我会说，这不是那种值得通宵蹲守的线索。",
+    "after": "换作平时，这种线索还不值得我通宵蹲守。",
+    "basis_id": 853,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6246,
+    "en": "Not quite! And they're not dollars, they're pesos.",
+    "before": "不完全是！而且它们不是美元，是比索。",
+    "after": "还差得远呢！而且这不是美元，是比索。",
+    "basis_id": 854,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6277,
+    "en": "Nothing inside. I suppose that would require actually buying something to refrigerate.",
+    "before": "里面什么都没有。我想那得先真买点东西来冷藏才行。",
+    "after": "空的。大概得先买点需要冷藏的东西，才用得上它。",
+    "basis_id": 6277,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6280,
+    "en": "Nothing to see here. Just totally innocently working. Bye.",
+    "before": "这里没什么好看的。只是在完全清白地工作。再见。",
+    "after": "没什么好看的。我在正正经经干活呢，再见。",
+    "basis_id": 6280,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6315,
+    "en": "Now we just need to get our hands on the blueprints so we can find a way to get there.",
+    "before": "现在我们只需要拿到蓝图，就能找到去那里的办法。",
+    "after": "接下来只要拿到蓝图，就能找到过去的路了。",
+    "basis_id": 6315,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6317,
+    "en": "Now we need to get more information about where exactly inside the lab the vault might be.",
+    "before": "现在我们需要更多信息，弄清保险库可能在实验室里的确切位置。",
+    "after": "还得多查点资料，弄清保险库在实验室里的确切位置。",
+    "basis_id": 6317,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6328,
+    "en": "Now why would somebody put screws on a fusebox? Imagine trying to get this thing open in the dark.",
+    "before": "为什么会有人在保险丝盒上装螺丝？想象一下在黑暗中打开这东西。",
+    "after": "谁会给保险丝盒装螺丝啊？摸黑开这玩意儿，想想就够呛。",
+    "basis_id": 6328,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6344,
+    "en": "Of course there are some governmental and legal hurdles that are holding that back.",
+    "before": "当然，还有一些政府和法律上的障碍在阻碍这件事。",
+    "after": "当然，政府审批和法律方面还有些障碍，暂时推行不了。",
+    "basis_id": 6344,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6363,
+    "en": "Officer Oink - the long arm of the law, as long as it's reaching for a doughnut.",
+    "before": "猪叫警官——法律的铁臂，只要那手臂是伸向甜甜圈的。",
+    "after": "奥因克警官——执法的长臂，前提是伸手去拿甜甜圈。",
+    "basis_id": 6363,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 6373,
+    "en": "Oh right, about that, if anyone asks, we were patrolling the neighborhood around the arson all night.",
+    "before": "哦对了，说到这个，要是有人问起，就说我们整晚都在纵火案附近巡逻。",
+    "after": "哦对，有人问起的话，就说咱们整晚都在纵火案现场附近巡逻。",
+    "basis_id": 819,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6374,
+    "en": "Oh well. I guess I can't blame him. We all have procedures to follow.",
+    "before": "算了。我想我不能怪他。我们都有程序要遵守。",
+    "after": "算了，也不能怪他，谁都得按规矩办事。",
+    "basis_id": 6374,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6378,
+    "en": "Oh yeah. So, I come in to work, as usual.",
+    "before": "哦对。于是我跟平常一样来上班。",
+    "after": "哦，对。我照常来上班。",
+    "basis_id": 789,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6416,
+    "en": "Oh, wait, it would in fact literally be a crime.",
+    "before": "哦，等等，那还真就是字面意义上的犯罪。",
+    "after": "哦，等等，拿走它还真的犯法。",
+    "basis_id": 6416,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6418,
+    "en": "Oh, why the hell am I even talking to you! Goodbye!",
+    "before": "哦，我到底为什么要跟你说话！再见！",
+    "after": "我他妈干吗还在跟你废话！再见！",
+    "basis_id": 628,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6489,
+    "en": "Only certain officers have the key to this door, but I don't need any bugs or spy cams right now anyways.",
+    "before": "只有某些警官有这扇门的钥匙，不过我现在也不需要什么窃听器或间谍摄像头。",
+    "after": "这门的钥匙只有少数警官有。不过我现在也用不上窃听器、微型摄像头那些东西。",
+    "basis_id": 6489,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6492,
+    "en": "Only it's a bit of a fall, so now my ankle's all messed up.",
+    "before": "只不过摔得有点狠，所以我的脚踝现在全废了。",
+    "after": "就是这一跳摔得够呛，现在脚踝都伤了。",
+    "basis_id": 791,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 6510,
+    "en": "Or equally likely, having the coin gives you extra confidence, which feels like luck.",
+    "before": "或者同样可能的是，带着这枚硬币给了你额外的信心，而那种感觉就像运气。",
+    "after": "也可能是这枚硬币让你更有信心，所以觉得自己更走运了。",
+    "basis_id": 6510,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6588,
+    "en": "Paperwork. Reminds me of all the paperwork I'll have to do after this little escapade, assuming I still have a job.",
+    "before": "文件。让我想起这场小冒险之后我得处理的所有文件，前提是我还有工作。",
+    "after": "文书。想到这次行动完了还有一堆文书要填就头疼——前提是我还有工作。",
+    "basis_id": 6588,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6609,
+    "en": "Perhaps I can tempt you with a new keyless, combo-less padlock. Once you lock it on to something, it will never come off.",
+    "before": "也许我可以用一款全新的无钥匙、无密码挂锁来吸引您。一旦您把它锁在什么东西上，它就再也取不下来了。",
+    "after": "不如看看这款新挂锁？不用钥匙，也不用密码。锁上去，就再也取不下来了。",
+    "basis_id": 6609,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6642,
+    "en": "Please excuse me, but I have a lot of very important, very legal business to attend to.",
+    "before": "请见谅，我有很多非常重要、非常合法的生意要处理。",
+    "after": "失陪了，我还有不少重要生意要忙，都是完完全全合法的。",
+    "basis_id": 6642,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6693,
+    "en": "Probably too personal to share with some weird guy you just met on the subway.",
+    "before": "大概太私密了，不方便跟一个你刚在地铁上碰到的怪人分享。",
+    "after": "这事大概太私密，不适合跟地铁上刚认识的怪家伙说。",
+    "basis_id": 6693,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6987,
+    "en": "Radio back if additional emergency services are required.",
+    "before": "如果需要更多紧急服务，用无线电回报。",
+    "after": "需要增派应急人员的话，随时用无线电报告。",
+    "basis_id": 726,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7014,
+    "en": "Ray, you're a smart enough guy. You should have made sense of this by now.",
+    "before": "雷，你是个聪明人。到现在你应该已经想明白了。",
+    "after": "雷，你又不傻。事到如今，该想明白了吧。",
+    "basis_id": 631,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7168,
+    "en": "Secret knock? What is this, some kind of clubhouse?",
+    "before": "暗号敲门声？这是什么，某种俱乐部会所吗？",
+    "after": "敲门暗号？你们这是小孩子的秘密俱乐部吗？",
+    "basis_id": 7168,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7225,
+    "en": "She looks like the strict type. I hope she doesn't mind me looking around here.",
+    "before": "她看起来是那种严厉的类型。希望她不介意我在这儿四处看看。",
+    "after": "她看着挺严厉，希望别嫌我在这儿东看西看的。",
+    "basis_id": 7225,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7300,
+    "en": "Since my car got reposessed, this is the closest thing I have to a ride.",
+    "before": "既然我的车被收走了，这是我手头最像交通工具的东西了。",
+    "after": "车被收走了，这算是我手头最像交通工具的东西。",
+    "basis_id": 7300,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7327,
+    "en": "So I guess I can add robbing the dead to our list of offenses this evening?",
+    "before": "所以我想今晚的罪行清单上可以加上盗墓这一条了？",
+    "after": "看来今晚的罪名，又能加上一条盗墓了？",
+    "basis_id": 7327,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7335,
+    "en": "So as you can imagine, resources are spread pretty thin.",
+    "before": "所以你可以想象，资源相当紧张。",
+    "after": "所以你也能想见，人手已经不够用了。",
+    "basis_id": 7335,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7367,
+    "en": "So this morning, under the unanimous approval of both Houses and Congress, I signed into law a new anti-terrorist measure called \"Antevorta.\" ",
+    "before": "所以今天早上，在两院和国会的一致批准下，我签署了一项名为“Antevorta”的新反恐措施，使其成为法律。",
+    "after": "因此，今天上午，经国会两院一致通过，我已签署名为“Antevorta”的新反恐措施，将其正式立法。",
+    "basis_id": 7367,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 7379,
+    "en": "So what did you want with Tortoise's files on the vault?",
+    "before": "那你们要托托伊斯关于保险库的文件做什么？",
+    "after": "你们想拿托托伊斯的保险库资料干什么？",
+    "basis_id": 7379,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7414,
+    "en": "So, Ed. I bet you'd rather be at home with a nice book of equations or something, huh?",
+    "before": "那么，埃德。我打赌你宁愿待在家里捧着一本漂亮的方程式书之类的，嗯？",
+    "after": "埃德，你是不是更想回家，抱着本方程式大全什么的看个够？",
+    "basis_id": 7414,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7417,
+    "en": "So, I take out my trusty wrench and smash it, then climb right on out.",
+    "before": "于是，我掏出我那把可靠的扳手，把它砸碎，然后爬了出去。",
+    "after": "于是我掏出那把趁手的扳手，砸开它，直接爬了出去。",
+    "basis_id": 797,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7427,
+    "en": "So, on a completely unrelated topic, can you help me access that archive?",
+    "before": "那么，说个完全无关的话题，你能帮我进入那个档案馆吗？",
+    "after": "说个完全无关的事，你能帮我调阅档案吗？",
+    "basis_id": 7427,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7463,
+    "en": "Some day, I hope to find someone who will share my passion for ornate safes and puzzle cubes.",
+    "before": "总有一天，我希望能找到一个和我一样热爱华丽保险箱和谜盒的人。",
+    "after": "希望有一天，能找到一个同样痴迷精美保险箱和机关盒的人。",
+    "basis_id": 7463,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7471,
+    "en": "Some low-level cat burglar caught breaking into the computer chip factory uptown had named this post-office as the contact-point for his buyer.",
+    "before": "一个在住宅区闯入电脑芯片厂的低级飞贼，供出了这个邮局是他买家的接头地点。",
+    "after": "一个小飞贼闯进上城区的电脑芯片厂，被抓了。他供认，跟买家约在这家邮局接头。",
+    "basis_id": 860,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 7486,
+    "en": "Somebody had to build this vault, and it probably didn't come cheap.",
+    "before": "总得有人来建这个保险库，而且恐怕造价不菲。",
+    "after": "这保险库总得有人造，而且肯定不便宜。",
+    "basis_id": 861,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7498,
+    "en": "Someone's been following me, Eddings. I know it.",
+    "before": "有人在跟踪我，埃丁斯。我知道。",
+    "after": "有人在跟踪我，埃丁斯。我很确定。",
+    "basis_id": 586,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7507,
+    "en": "Something we're not going to see a lot of unless we prove this case, pronto.",
+    "before": "除非我们尽快破案，否则这东西我们不会常见到。",
+    "after": "不赶紧把这案子查个水落石出，以后怕是见不到多少了。",
+    "basis_id": 7507,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7511,
+    "en": "Sometimes I hide stuff under my bed. Pap{ doesn't like my room messy.",
+    "before": "有时我会把东西藏在床底下。爸{不喜欢我房间乱糟糟的。",
+    "after": "有时候我会把东西藏到床底下。爸爸不喜欢房间乱糟糟的。",
+    "basis_id": 7511,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 7566,
+    "en": "Spare parts, and lots of 'em! Everything that the do-it-yourselfer needs.",
+    "before": "备用零件，多得很！DIY爱好者需要的一切。",
+    "after": "备用零件，应有尽有！自己动手需要什么，这里都有。",
+    "basis_id": 7566,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7567,
+    "en": "Speak for yourself. I don't side with anyone who makes me do geometry.",
+    "before": "你自己说吧。我不跟任何让我做几何题的人站一边。",
+    "after": "别把我算进去。谁让我做几何题，我就不站他那边。",
+    "basis_id": 7567,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7582,
+    "en": "Stay away from crowds, and don't go to the lab or your houses.",
+    "before": "远离人群，别去实验室或你们家。",
+    "after": "别往人多的地方去，也别去实验室或回家。",
+    "basis_id": 750,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7584,
+    "en": "Stay on your toes and keep him guessing. Don't give him an reason to end the call.",
+    "before": "保持警觉，让他猜不透。别给他任何结束通话的理由。",
+    "after": "机灵点，别让他摸清你的意思，也别给他挂电话的借口。",
+    "basis_id": 7584,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7599,
+    "en": "Steve,[[Racecar driver?  That's impressive![[Nice to meet you, racecar Steve. ;) I'm Amy.[[I'm also a first-timer on these dating websites. I always laughed at people who turned to the internet to find love, but then found out that when you have my job it's the only place you have time to go looking for romance.[[I finally gave in and here I am chatting with a racecar driver![[",
+    "before": "史蒂夫，[[赛车手？那可真厉害！[[很高兴认识你，赛车手史蒂夫。；）我是艾米。[[我也是第一次用这种约会网站。我以前总是嘲笑那些上网找爱情的人，后来才发现，干我这份工作，只有网上才有时间找浪漫。[[我终于妥协了，现在我就在跟一个赛车手聊天！[[",
+    "after": "史蒂夫，[[赛车手？厉害啊！[[很高兴认识你，赛车手史蒂夫。;) 我叫艾米。[[我也是头一回用这种交友网站。以前还笑过别人上网找对象，后来才发现，干我这行的，也只有在网上才抽得出时间谈情说爱。[[终于还是来试了试，没想到就聊上了一个赛车手！[[",
+    "basis_id": 7599,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7787,
+    "en": "That guy came from the alley; we don't have visibility down there.",
+    "before": "那家伙是从巷子里出来的；那边我们看不到。",
+    "after": "那家伙从巷子里出来，咱们看不到那边。",
+    "basis_id": 865,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7794,
+    "en": "That is completely illegal and I would never ignore rules and regulations in such a manner.",
+    "before": "那是完全违法的，我绝不会以那种方式无视规章制度。",
+    "after": "那完全是违法的！我绝不会如此无视规章制度。",
+    "basis_id": 675,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7808,
+    "en": "That metal slab at the end of the super collider? Be careful you're not standing under it when it falls. It's heavier than it looks.",
+    "before": "超对撞机尽头那块金属板？小心它掉下来的时候别站在下面。它比看上去重得多。",
+    "after": "超级对撞机尽头那块金属板？它掉下来时，千万别站在下面，比看着沉多了。",
+    "basis_id": 7808,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7809,
+    "en": "That metal slab on the other side of the collider looks dangerous. Better not stand near it when it falls.",
+    "before": "对撞机另一边的金属板看起来很危险。它掉下来时最好别站在附近。",
+    "after": "对撞机另一边的金属板看着很危险。掉下来时，最好离远点。",
+    "basis_id": 7809,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7814,
+    "en": "That nice young lady sure needs a lot of interrogating.",
+    "before": "那位漂亮的年轻女士可真需要好好审讯一番。",
+    "after": "那位漂亮的年轻女士，你可真有不少话要“审问”啊。",
+    "basis_id": 7814,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 7993,
+    "en": "That's when I start to feel this little tingly feeling in my head.",
+    "before": "就在那时，我开始觉得脑袋里有点刺刺的感觉。",
+    "after": "就在那时候，我脑袋开始有点发麻。",
+    "basis_id": 7993,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 7997,
+    "en": "That's where we keep bugs, GPS trackers, spy cams, and other fun police tech.",
+    "before": "那是我们放窃听器、GPS追踪器、间谍摄像头和其他有趣警用装备的地方。",
+    "after": "窃听器、GPS追踪器、微型摄像头，还有各种好玩的警用装备，都放在那儿。",
+    "basis_id": 7997,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8005,
+    "en": "The \"big deal\" isn't knowing that these particles exist, it's in what you can do with them.",
+    "before": "“大不了”的不是知道这些粒子存在，而是你能用它们做什么。",
+    "after": "厉害的地方不在于发现了这些粒子，而在于能拿它们做什么。",
+    "basis_id": 8005,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8042,
+    "en": "The art at the hospital is pretty neat. Very... clinical, I guess.",
+    "before": "医院里的艺术品挺不错。非常……临床感，我想。",
+    "after": "医院里的艺术品倒挺像样。就是有点……医院味儿吧。",
+    "basis_id": 8042,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8065,
+    "en": "The bright side of being a wanted ex-cop is that I don't need to do paperwork any more.",
+    "before": "作为一个被通缉的前警察，好处就是不用再做文书工作了。",
+    "after": "当个被通缉的前警察，倒有一个好处：再也不用填表了。",
+    "basis_id": 8065,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8189,
+    "en": "The guy who chased you. He didn't hurt you did he? You don't need to get checked out?",
+    "before": "追你的那个人。他没伤到你吧？你不需要去检查一下吗？",
+    "after": "追你那个人没伤到你吧？要不要去检查一下？",
+    "basis_id": 8189,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8226,
+    "en": "The lab's broken window will be one of the cheapest things to repair after this whole ordeal.",
+    "before": "等这场劫难过去，实验室破掉的窗户会是修起来最便宜的东西之一。",
+    "after": "出了这么大的事，实验室那扇破窗户倒算修起来便宜的了。",
+    "basis_id": 8226,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8241,
+    "en": "The long arm of the law.",
+    "before": "法律的铁臂。",
+    "after": "执法的长臂。",
+    "basis_id": 8241,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 8245,
+    "en": "The mainframe where the DNA of every man, woman and child in America is stored.",
+    "before": "那台主机里存着美国每一个男人、女人和孩子的DNA。",
+    "after": "全美国每个人的DNA，不论男女老少，都存在那台主机里。",
+    "basis_id": 8245,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8274,
+    "en": "The panel needs some kind of code. Uncle Javi might have written it down somewhere.",
+    "before": "面板需要某种密码。哈维叔叔可能把它写在了什么地方。",
+    "after": "面板要输入密码，哈维叔叔可能在哪儿记下来了。",
+    "basis_id": 8274,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8291,
+    "en": "The potential for good far outweighs the possibility of misuse!",
+    "before": "为善的潜力远远超过被滥用的可能！",
+    "after": "它能造的福，远远大于被滥用的风险！",
+    "basis_id": 804,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8319,
+    "en": "The sight made me realize just how long I had been out here.",
+    "before": "这景象让我意识到自己已经在这里待了多久。",
+    "after": "看到这一幕，我才意识到自己已经在外头守了多久。",
+    "basis_id": 868,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8337,
+    "en": "The style is very \"student digs\" with a touch of  \"crackhouse.\"",
+    "before": "这风格非常“学生宿舍”，还带点“毒窝”的味道。",
+    "after": "风格很有“学生宿舍”味，还混着点“毒窝”气息。",
+    "basis_id": 8337,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8343,
+    "en": "The sun's beams glide between the buildings like a man's strong fingers through a dame's hair.",
+    "before": "阳光的光束在楼宇间滑过，像男人有力的手指穿过女人的头发。",
+    "after": "阳光滑过楼宇之间，像男人有力的手指，穿过女人的秀发。",
+    "basis_id": 869,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8388,
+    "en": "The way that hole was cut out of the lab, it had to be a Resonance weapon.",
+    "before": "从实验室被切出那个洞的方式来看，只能是共振武器。",
+    "after": "看实验室那个洞的切口，肯定是共振武器干的。",
+    "basis_id": 8388,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8389,
+    "en": "The way that hole was cut out of the lab, it had to be caused by the new technology Dr. Morales was working on.",
+    "before": "从实验室被切出那个洞的方式来看，只能是莫拉莱斯博士正在研究的新技术造成的。",
+    "after": "看实验室那个洞的切口，肯定是莫拉莱斯博士研究的新技术造成的。",
+    "basis_id": 8389,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8401,
+    "en": "The wood seems pretty weathered. I'm not sure how long that bench would support my weight.",
+    "before": "木头看起来风化得相当厉害。我不确定那张长椅能承受我的体重多久。",
+    "after": "木头都风化成这样了，不知道这长椅还能撑住我多久。",
+    "basis_id": 8401,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8432,
+    "en": "Then, all the lights go out, and there's this stinging heat, and this vibration...",
+    "before": "然后，所有灯都灭了，接着是一阵灼热，还有震动……",
+    "after": "然后灯全灭了，热得刺人，还有一阵震动……",
+    "basis_id": 806,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8439,
+    "en": "There are a ton of fuses in here. It looks like this one covers most of the main floor of the building.",
+    "before": "这里有一大堆保险丝。看起来这个控制着大楼的大部分主楼层。",
+    "after": "这儿保险丝真多，看来这块面板管着大楼主层的大部分电路。",
+    "basis_id": 8439,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8458,
+    "en": "There is a security panel in the lab hallway which operates the heavy doors.",
+    "before": "实验室走廊里有个安全面板，用来操作那些厚重的门。",
+    "after": "实验室走廊有个安防面板，控制那几扇厚重的大门。",
+    "basis_id": 8458,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8529,
+    "en": "There's a live resonance particle in here, just waiting for a signal to detonate.",
+    "before": "这里面有一个活跃的共振粒子，就等着信号引爆。",
+    "after": "这里面装着个已被激活的共振粒子，收到信号就会引爆。",
+    "basis_id": 8529,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8545,
+    "en": "There's a subway car stuck near the Humphrey Street station.",
+    "before": "汉弗莱街站附近有一列地铁卡住了。",
+    "after": "汉弗莱街站附近有节地铁车厢困住了。",
+    "basis_id": 729,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 8607,
+    "en": "There's not much to tell, I guess. Born, grew up, did math.",
+    "before": "没什么好说的，我想。出生，长大，搞数学。",
+    "after": "也没什么好讲的。出生，长大，做数学。",
+    "basis_id": 8607,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8657,
+    "en": "These cords started the fire that caused us all that trouble.",
+    "before": "这些电线引发了那场给我们惹来大麻烦的火灾。",
+    "after": "就是这些电线起了火，害我们忙了那么久。",
+    "basis_id": 8657,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8660,
+    "en": "These equations are finished. I don't need to work them anymore.",
+    "before": "这些方程式已经解完了。我不需要再继续算了。",
+    "after": "方程都解完了，不用再算了。",
+    "basis_id": 8660,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8665,
+    "en": "These must be Ed's calculations. I think he's figuring out exactly where to place the device.",
+    "before": "这些一定是埃德的计算。我想他正在算出装置该放在哪里。",
+    "after": "肯定是埃德的计算。他应该在算装置具体该放在哪儿。",
+    "basis_id": 8665,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8679,
+    "en": "They had sprinkled breadcrumbs in the forest behind them as they walked.",
+    "before": "他们走路时在身后的森林里撒了面包屑。",
+    "after": "他们边走边往身后的林间小路上撒面包屑。",
+    "basis_id": 871,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8682,
+    "en": "They know I can stop them, so they convince you to get in my way.",
+    "before": "他们知道我能阻止他们，所以他们说动你来挡我的路。",
+    "after": "他们知道我能阻止他们，就哄你来挡我的路。",
+    "basis_id": 638,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8684,
+    "en": "They make you think they want the same thing you do, and \"nudge\" you in the right direction!",
+    "before": "他们让你以为他们和你目标一致，然后把你\"推\"向正确的方向！",
+    "after": "他们让你以为大家目标一致，再把你往他们要的方向“推”！",
+    "basis_id": 639,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8687,
+    "en": "They must have been using the crates to salvage pieces of this collider for the newer one.",
+    "before": "他们一定是在用这些板条箱拆下这台对撞机的部件，用来造新的那台。",
+    "after": "他们应该是把这台对撞机能用的部件拆下来，装进这些箱子，拿去造新机器。",
+    "basis_id": 8687,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8690,
+    "en": "They must've shaken loose when the event happened that caused all this structural damage.",
+    "before": "造成这些结构损坏的事件发生时，它们肯定被震松了。",
+    "after": "这里被破坏的时候，它们肯定也被震松了。",
+    "basis_id": 8690,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8700,
+    "en": "They want to use it as a tool... A tool for their own selfish purposes!",
+    "before": "他们想把它当作工具……用来满足他们自私目的的工具！",
+    "after": "他们想拿它当工具……满足自己私欲的工具！",
+    "basis_id": 640,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8709,
+    "en": "They're deployed all over the city right now.",
+    "before": "他们现在全城都派出去了。",
+    "after": "他们都已经派出去了，全城都有。",
+    "basis_id": 730,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8725,
+    "en": "This apartment looks purely functional. Not a place to live at all.",
+    "before": "这间公寓看起来纯粹是实用性的。根本不像住人的地方。",
+    "after": "这公寓除了能用就没别的了，哪像个家。",
+    "basis_id": 8725,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8726,
+    "en": "This bar might help with leverage on something weak like those subway doors...",
+    "before": "这根铁棍也许能撬动像地铁门那种脆弱的东西……",
+    "after": "地铁门那种不太结实的东西，也许能拿这根铁棍撬开……",
+    "basis_id": 8726,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8777,
+    "en": "This is bigger than me. Bigger than Anna or Morales or any of us.",
+    "before": "这件事比我更重要。比安娜、莫拉莱斯或我们任何人都更重要。",
+    "after": "这事比我重要，比安娜、莫拉莱斯，比我们所有人都重要。",
+    "basis_id": 643,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8785,
+    "en": "This is my only real link to my uncle. I need to keep it.",
+    "before": "这是我与叔叔唯一的真正联系。我得留着它。",
+    "after": "这是叔叔留给我唯一的念想，得留着。",
+    "basis_id": 8785,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8792,
+    "en": "This is our future.  We can't deny mankind this gift.",
+    "before": "这是我们的未来。我们不能剥夺人类这份礼物。",
+    "after": "这就是我们的未来。我们不能让人类失去这份礼物。",
+    "basis_id": 8792,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8794,
+    "en": "This is some kind of document written in legalese.",
+    "before": "这是一份用法律术语写的文件。",
+    "after": "一份满篇法律术语的文件。",
+    "basis_id": 8794,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8802,
+    "en": "This is where that mope hides out. And that Chinese lady.",
+    "before": "那个闷闷不乐的家伙就藏在这里。还有那个中国女人。",
+    "after": "那倒霉蛋就躲在这儿，还有那个中国女人。",
+    "basis_id": 8802,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8804,
+    "en": "This isn't a scientific or a mathematical dilemma.",
+    "before": "这不是科学或数学上的两难。",
+    "after": "这道难题，既不关乎科学，也不关乎数学。",
+    "basis_id": 587,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8847,
+    "en": "This thing must've fallen from the ceiling when whatever it was that happened here ate the wall that was supporting it.",
+    "before": "这里发生的事吃掉了支撑它的墙壁，这东西肯定是从天花板上掉下来的。",
+    "after": "支撑它的墙都没了，这东西肯定是那时候从天花板上掉下来的。",
+    "basis_id": 8847,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8851,
+    "en": "This whole thing started at Juno Labs, right? Seems like the best place to sniff around.",
+    "before": "整件事是从朱诺实验室开始的，对吧？看起来那是最适合打探的地方。",
+    "after": "一切都是从朱诺实验室开始的，对吧？要查，也该先去那儿。",
+    "basis_id": 8851,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8859,
+    "en": "Those articles they had you write? You didn't actually think they were interested in your career, did you?",
+    "before": "他们让你写的那些文章？你不会真以为他们对你的职业生涯感兴趣吧？",
+    "after": "他们让你写的那些文章——你不会真以为，是关心你的事业吧？",
+    "basis_id": 8859,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8862,
+    "en": "Those blueprints are as good as ours. We just need to be persistent. And careful.",
+    "before": "那些蓝图就是我们的了。我们只需要坚持。还有小心。",
+    "after": "蓝图迟早是咱们的。耐心点，小心点就是了。",
+    "basis_id": 8862,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8871,
+    "en": "Those electronic news vendors just aren't the same as real, live vendors.",
+    "before": "那些电子新闻售卖机跟真人售卖机就是不一样。",
+    "after": "自动报刊售卖机，到底比不上活生生的报贩。",
+    "basis_id": 8871,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8872,
+    "en": "Those magnets should lift up those crates. We just need to turn them on.",
+    "before": "那些磁铁应该能抬起那些箱子。我们只需要打开它们。",
+    "after": "把磁铁打开，应该就能吸起那些箱子。",
+    "basis_id": 8872,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8894,
+    "en": "To commit an object from the room to your short-term memory (STM) for use in a conversation, DRAG the object into the STM screen.",
+    "before": "要把房间中的物体存入短期记忆（STM）以便在对话中使用，请把该物体拖入短期记忆界面。",
+    "after": "把场景中的物体拖入短期记忆（STM）界面，就能记住它，在对话时作为话题。",
+    "basis_id": 8894,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8895,
+    "en": "To create a Short-Term memory of any item in the game, click and drag the item from the screen and drop it into a slot in your STM (Short-Term Memory.)",
+    "before": "要创建游戏中任何物品的短期记忆，请点击并将物品从屏幕拖放到STM（短期记忆）槽位中。",
+    "after": "想记住游戏里的某件物品，就按住它，拖进短期记忆（STM）的空位。",
+    "basis_id": 8895,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8955,
+    "en": "Turns out it was for an expos^ - unceremoniously outed the poor bastard without warning or permission.",
+    "before": "结果那是为了曝光——毫无预警、未经许可就把那可怜的家伙公开了。",
+    "after": "结果却成了篇揭底的报道——没打招呼，也没征得同意，就把那可怜家伙的秘密全抖了出来。",
+    "basis_id": 8955,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 8961,
+    "en": "Two: Even with the blueprints, we're going to need some kind of information on the vault to help us figure out exactly where in the lab it might be.",
+    "before": "第二：就算有了蓝图，我们还需要一些关于保险库的信息，才能确定它到底可能在实验室的哪个位置。",
+    "after": "第二：光有蓝图还不够。还得查些保险库的资料，才能确定它到底藏在实验室的什么位置。",
+    "basis_id": 809,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 8977,
+    "en": "Uh, and the lights came back on, and there were loose cables and fires, so I broke the window with my trusty wrench and jumped.",
+    "before": "呃，然后灯又亮了，有松脱的电缆和火，所以我就用我那把可靠的扳手砸破窗户跳了出来。",
+    "after": "呃，后来灯又亮了，电缆脱落，到处起火。我就拿那把趁手的扳手砸开窗户，跳了出去。",
+    "basis_id": 810,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9033,
+    "en": "Unfortunately, I still need some proof that he's dead.",
+    "before": "不幸的是，我还需要一些证明他死亡的证据。",
+    "after": "可我还是得有他已经去世的证明。",
+    "basis_id": 9033,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9070,
+    "en": "Usually I go in here to question gunshot victims or drunk drivers.",
+    "before": "通常我来这儿是为了审问枪伤受害者或醉驾司机。",
+    "after": "我通常来这里，是找枪伤受害者或醉驾司机问话。",
+    "basis_id": 9070,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9072,
+    "en": "Usually the computer will automatically grant you access to documents relevant to a case you're working on.",
+    "before": "通常计算机会自动授予你访问与正在办理案件相关文件的权限。",
+    "after": "通常，电脑会自动允许你调阅与手头案件有关的文档。",
+    "basis_id": 9072,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9105,
+    "en": "Wait, are you sure we're not walking into a parlous situation here?",
+    "before": "等等，你确定我们不是正走进一个危险的境地吗？",
+    "after": "等等，你确定我们此去不会险象环生？",
+    "basis_id": 9105,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 9228,
+    "en": "We used to use it to measure magnetic waves, particle movements and thermal energy, among other things.",
+    "before": "我们以前用它来测量磁波、粒子运动和热能，还有其他东西。",
+    "after": "我们以前拿它测磁波、粒子运动、热能之类的数据。",
+    "basis_id": 9228,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9267,
+    "en": "We're trying to direct them where it's needed most.",
+    "before": "我们正试着把他们调到最需要的地方。",
+    "after": "我们正在把人手调往最急需支援的地方。",
+    "basis_id": 732,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9277,
+    "en": "We've got a whole evidence locker full of those cheap pre-paid Cellfish phones that we don't know what to do with.",
+    "before": "我们有个证物柜，塞满了那种便宜的预付费Cellfish手机，都不知道拿它们怎么办。",
+    "after": "证物柜里塞满了那种便宜的Cellfish预付费手机，都不知道该怎么处理。",
+    "basis_id": 9277,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9280,
+    "en": "We've got little mini-emergencies all over Aventine.",
+    "before": "阿文廷到处都有小规模紧急情况。",
+    "after": "阿文廷各处都出了些小状况。",
+    "basis_id": 733,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9290,
+    "en": "We've got to find out where Uncle Javi's vault is, and for that we need the blueprints to Juno Labs.",
+    "before": "我们得找出哈维叔叔的保险库在哪，为此我们需要朱诺实验室的蓝图。",
+    "after": "得先拿到朱诺实验室的蓝图，才能查出哈维叔叔的保险库在哪儿。",
+    "basis_id": 9290,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9524,
+    "en": "What's this? A large payment to something called \"Tortoise Security\"?",
+    "before": "这是什么？向一个叫“托托伊斯安保”的东西支付了一大笔钱？",
+    "after": "这是什么？给一家叫“托托伊斯安保”的公司付了一大笔钱？",
+    "basis_id": 9524,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 9550,
+    "en": "Whatever it is that happened, it looks like it busted a water pipe.",
+    "before": "不管发生了什么，看起来是弄爆了一根水管。",
+    "after": "也不知道出了什么事，反正像是把水管弄爆了。",
+    "basis_id": 9550,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9560,
+    "en": "When I say that I want to clean up this dirty town, I don't mean literally.",
+    "before": "我说想清理这座肮脏的城市时，可不是字面意思。",
+    "after": "我说要清理这座肮脏的城市，可不是要拿着扫把打扫。",
+    "basis_id": 9560,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9612,
+    "en": "Which means they must operate something else instead.",
+    "before": "也就是说，它们一定是用来操作别的东西的。",
+    "after": "也就是说，它们是用来控制别的东西的。",
+    "basis_id": 9612,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9699,
+    "en": "With a pizza joint and two chinese takeouts on the same block, I don't have much need for cooking.",
+    "before": "同一个街区就有一家披萨店和两家中餐外卖，我不太需要做饭。",
+    "after": "一个街区里就有披萨店，还有两家中餐外卖店，哪还用得着自己做饭。",
+    "basis_id": 9699,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9715,
+    "en": "Without the key and combination, we're not getting through this thing without a blow torch.",
+    "before": "没有钥匙和密码，不用喷灯我们打不开这东西。",
+    "after": "没有钥匙和密码，就只能拿喷灯来开它了。",
+    "basis_id": 9715,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9730,
+    "en": "Wow! It's like a million dollars!",
+    "before": "哇！这就像一百万美元！",
+    "after": "哇！这么多，都快像一百万美元了！",
+    "basis_id": 814,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9798,
+    "en": "Yes I did. I'll get to it soon. I just... need to work myself up to it.",
+    "before": "是的，我说过。我很快会去的。我只是……需要做好心理准备。",
+    "after": "是，我说过。很快就去。我只是……还得鼓起点勇气。",
+    "basis_id": 9798,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9820,
+    "en": "Yes. It will be worth it.",
+    "before": "是的。这一切都会值得。",
+    "after": "对。这一切都值得。",
+    "basis_id": 648,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9827,
+    "en": "Yesterday morning I was staking out this known criminal dead-drop with my partner.",
+    "before": "昨天早上我和搭档在监视一个已知罪犯的接头点。",
+    "after": "昨天早上，我跟搭档正在蹲守一个已知的犯罪接头点。",
+    "basis_id": 9827,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9832,
+    "en": "You and I both know how much disregard my uncle had for rules... even if they were set up for his own safety.",
+    "before": "你我都清楚我叔叔有多无视规矩……哪怕那些规矩是为了他自己的安全。",
+    "after": "你也知道叔叔有多不把规矩当回事……就算那些规矩是为了保护他。",
+    "basis_id": 9832,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9867,
+    "en": "You can't deprive the world of such-",
+    "before": "你不能剥夺世界这样的——",
+    "after": "你不能让全世界失去这么——",
+    "basis_id": 816,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9902,
+    "en": "You guys should keep away from all these falling objects. That metal slab on the far end? Dangerous.",
+    "before": "你们最好离这些掉下来的东西远点。最那头那块金属板？很危险。",
+    "after": "离这些往下掉的东西远点。尤其是最那头那块金属板，危险。",
+    "basis_id": 9902,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9933,
+    "en": "You know what I have to do to keep food on our table!?",
+    "before": "你知道为了让我们有饭吃我得做什么吗！？",
+    "after": "你知道我得干些什么，才能让咱们吃上饭吗！？",
+    "basis_id": 761,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9957,
+    "en": "You need to swipe an authorised hospital ID card to go to the morgue.",
+    "before": "你需要刷一张授权的医院ID卡才能去太平间。",
+    "after": "得刷有权限的医院工作证，才能进太平间。",
+    "basis_id": 9957,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 9971,
+    "en": "You see some ugly things on the force, but that was one of the ugliest.",
+    "before": "当警察见过不少丑恶的东西，但那是其中最丑恶的之一。",
+    "after": "干警察这行，丑恶的事见了不少，可那次真算最糟的几回之一。",
+    "basis_id": 9971,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 10046,
+    "en": "You're sorry!?",
+    "before": "你对不起！？",
+    "after": "你还好意思说对不起！？",
+    "basis_id": 691,
+    "reason": "修正误译或不准确表达"
+  },
+  {
+    "id": 10067,
+    "en": "Your nuts, if you don't quit messing with things that don't belong to you.",
+    "before": "你的蛋，如果你不停止乱动不属于你的东西的话。",
+    "after": "你的蛋蛋——再乱动别人的东西，就得小心了。",
+    "basis_id": 10067,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 10106,
+    "en": "[[And for God sakes, DO NOT GIVE ANYONE YOUR PASSWORD! TECH SUPPORT WILL NEVER ASK FOR YOUR LOGIN INFORMATION!",
+    "before": "[[还有，看在上帝份上，绝对不要把你的密码给任何人！技术支持永远不会索要你的登录信息！",
+    "after": "[[还有，拜托，绝对别把密码交给任何人！技术支持不会向你索要登录信息！",
+    "basis_id": 10106,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 10169,
+    "en": "emma,[[somethng important just came up. i'd really like 2 change shifts with u on tues.[[can u work the 7:30 to 5 shift and ill take ur graveyard?[[really important!!![[thanks,[sars",
+    "before": "艾玛，[[有件重要的事刚冒出来。我真的很想跟你换周二班。[[你能上7:30到5点的班，我来顶你的夜班吗？[[非常重要！！！[[谢谢，[萨斯",
+    "after": "艾玛，[[突然有件急事，周二能不能跟你换个班？[[你上7:30到5点，我来顶你的夜班，行吗？[[真的很急！！！[[谢谢，[萨斯",
+    "basis_id": 10169,
+    "reason": "改善中文表达与角色语气"
+  },
+  {
+    "id": 6787,
+    "en": "RES_JOURNAL_LINE_031",
+    "before": "找到了！三次测试，",
+    "after": "找到了！三次测试，三次都捕获",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6788,
+    "en": "RES_JOURNAL_LINE_032",
+    "before": "三次都成功瞥见了我的新粒子。",
+    "after": "了新粒子的踪迹。它们竟是电子",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6789,
+    "en": "RES_JOURNAL_LINE_033",
+    "before": "它们是构成电子的更小结构！",
+    "after": "内部的组成结构！一对连体双生",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6790,
+    "en": "RES_JOURNAL_LINE_034",
+    "before": "一对连体双生粒子，",
+    "after": "粒子，占据着同一空间！这怎么",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6791,
+    "en": "RES_JOURNAL_LINE_035",
+    "before": "占据着同一个空间！",
+    "after": "可能？我还没弄明白。但可以确",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6792,
+    "en": "RES_JOURNAL_LINE_036",
+    "before": "但这怎么可能？",
+    "after": "定，一旦将它们分开，不到一微",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6793,
+    "en": "RES_JOURNAL_LINE_037",
+    "before": "我还不知道。",
+    "after": "秒，它们就会猛地撞回一起，双",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6794,
+    "en": "RES_JOURNAL_LINE_038",
+    "before": "不过我已经知道，",
+    "after": "双粉碎。",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6795,
+    "en": "RES_JOURNAL_LINE_039",
+    "before": "一旦分离，",
+    "after": " ",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6796,
+    "en": "RES_JOURNAL_LINE_040",
+    "before": "它们的可见时间还不到一微秒，",
+    "after": " ",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6797,
+    "en": "RES_JOURNAL_LINE_041",
+    "before": "随即便猛然撞回一起，",
+    "after": " ",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6798,
+    "en": "RES_JOURNAL_LINE_042",
+    "before": "互相粉碎。",
+    "after": " ",
+    "basis_id": 92,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6877,
+    "en": "RES_JOURNAL_LINE_121",
+    "before": "连续两周，每晚都是。",
+    "after": "整整两周，每晚都来。一辆没",
+    "basis_id": 93,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6878,
+    "en": "RES_JOURNAL_LINE_122",
+    "before": "一辆没有标记的蓝色面包车。",
+    "after": "有任何标识的蓝色面包车。现",
+    "basis_id": 93,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6879,
+    "en": "RES_JOURNAL_LINE_123",
+    "before": "现在我在家工作时",
+    "after": "在在家工作，我都把窗帘拉得",
+    "basis_id": 93,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6880,
+    "en": "RES_JOURNAL_LINE_124",
+    "before": "一直拉着窗帘。",
+    "after": "严严实实。他们为什么来这",
+    "basis_id": 93,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6881,
+    "en": "RES_JOURNAL_LINE_125",
+    "before": "他们为什么在这里？",
+    "after": "里？",
+    "basis_id": 93,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6905,
+    "en": "RES_JOURNAL_LINE_149",
+    "before": "我检查了实验室、",
+    "after": "实验室、做实验用的模拟器，",
+    "basis_id": 94,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6906,
+    "en": "RES_JOURNAL_LINE_150",
+    "before": "我做实验的模拟器，",
+    "after": "还有去保险库的一路，我都找",
+    "basis_id": 94,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6907,
+    "en": "RES_JOURNAL_LINE_151",
+    "before": "以及通往保险库的整条路线。",
+    "after": "过了。一无所获。难道我只收",
+    "basis_id": 94,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6908,
+    "en": "RES_JOURNAL_LINE_152",
+    "before": "什么都没有。",
+    "after": "集了19组？",
+    "basis_id": 94,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6909,
+    "en": "RES_JOURNAL_LINE_153",
+    "before": "也许我只收集了19组。",
+    "after": " ",
+    "basis_id": 94,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6882,
+    "en": "RES_JOURNAL_LINE_126",
+    "before": "两天后我再次使用对撞机。",
+    "after": "两天后就能再次使用对撞机",
+    "basis_id": 95,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6883,
+    "en": "RES_JOURNAL_LINE_127",
+    "before": "设备几乎准备好了。",
+    "after": "了。装置也快准备好了。我",
+    "basis_id": 95,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6884,
+    "en": "RES_JOURNAL_LINE_128",
+    "before": "我还没告诉埃德我打算",
+    "after": "还没告诉埃德这次打算做什",
+    "basis_id": 95,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6885,
+    "en": "RES_JOURNAL_LINE_129",
+    "before": "尝试什么。",
+    "after": "么。保险库一周前就装好",
+    "basis_id": 95,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6886,
+    "en": "RES_JOURNAL_LINE_130",
+    "before": "一周前我安装了保险库，",
+    "after": "了，一切应该都已就绪。",
+    "basis_id": 95,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6887,
+    "en": "RES_JOURNAL_LINE_131",
+    "before": "所以一切都应该就绪了。",
+    "after": " ",
+    "basis_id": 95,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6937,
+    "en": "RES_JOURNAL_LINE_181",
+    "before": "我以为有人在洗劫我",
+    "after": "我以为有人在翻我的实验室，结果只是",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6938,
+    "en": "RES_JOURNAL_LINE_182",
+    "before": "的实验室，",
+    "after": "清洁工老索尔。我不该冲他吼，可他也",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6939,
+    "en": "RES_JOURNAL_LINE_183",
+    "before": "但只是老清洁工索尔。",
+    "after": "不该进来。我得睡一觉，却又不能离开",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6940,
+    "en": "RES_JOURNAL_LINE_184",
+    "before": "我不该吼他，",
+    "after": "实验室。好在模拟器里有个位置，躺着",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6941,
+    "en": "RES_JOURNAL_LINE_185",
+    "before": "但他不该在这里。",
+    "after": "还算舒服。",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6942,
+    "en": "RES_JOURNAL_LINE_186",
+    "before": "我需要睡眠，",
+    "after": " ",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6943,
+    "en": "RES_JOURNAL_LINE_187",
+    "before": "但我不能离开实验室。",
+    "after": " ",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6944,
+    "en": "RES_JOURNAL_LINE_188",
+    "before": "我在模拟器里找到了一个舒服的姿势。",
+    "after": " ",
+    "basis_id": 98,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6961,
+    "en": "RES_JOURNAL_LINE_205",
+    "before": "半夜我沿着实验室走",
+    "after": "半夜沿着实验室走廊去洗手",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6962,
+    "en": "RES_JOURNAL_LINE_206",
+    "before": "廊去洗手间，",
+    "after": "间，听见身后有脚步声。我",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6963,
+    "en": "RES_JOURNAL_LINE_207",
+    "before": "听到身后有别人的脚步声。",
+    "after": "拔腿就跑，对方也追了上",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6964,
+    "en": "RES_JOURNAL_LINE_208",
+    "before": "我拔腿就跑，",
+    "after": "来。我把自己锁进洗手间，",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6965,
+    "en": "RES_JOURNAL_LINE_209",
+    "before": "他们追了上来。",
+    "after": "直到外面再没了动静。",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6966,
+    "en": "RES_JOURNAL_LINE_210",
+    "before": "我把自己锁在洗手间里，",
+    "after": " ",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6967,
+    "en": "RES_JOURNAL_LINE_211",
+    "before": "直到什么也听不见。",
+    "after": " ",
+    "basis_id": 99,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6764,
+    "en": "RES_JOURNAL_LINE_008",
+    "before": "我会联系你并",
+    "after": "我会联系你，",
+    "basis_id": 101,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6765,
+    "en": "RES_JOURNAL_LINE_009",
+    "before": "给出指示。",
+    "after": "说明下一步。",
+    "basis_id": 101,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6925,
+    "en": "RES_JOURNAL_LINE_169",
+    "before": "我让埃德忙着为共振",
+    "after": "我让埃德专心构思共振",
+    "basis_id": 104,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6926,
+    "en": "RES_JOURNAL_LINE_170",
+    "before": "技术设想可能的应用。",
+    "after": "技术的应用。他脑子很",
+    "basis_id": 104,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6927,
+    "en": "RES_JOURNAL_LINE_171",
+    "before": "他头脑聪明。",
+    "after": "灵，想出了不少好点",
+    "basis_id": 104,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6928,
+    "en": "RES_JOURNAL_LINE_172",
+    "before": "很多绝妙的想法。",
+    "after": "子。",
+    "basis_id": 104,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6757,
+    "en": "RES_JOURNAL_LINE_001",
+    "before": "我把这本日记寄给你保管，",
+    "after": "这本日记寄给你，一是请你妥善",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6758,
+    "en": "RES_JOURNAL_LINE_002",
+    "before": "也是为了帮你做出一个",
+    "after": "保管，二是希望它能帮你做出抉",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6759,
+    "en": "RES_JOURNAL_LINE_003",
+    "before": "我可能会请你做的抉择",
+    "after": "择。将来，我或许得请你替我做",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6760,
+    "en": "RES_JOURNAL_LINE_004",
+    "before": "——一个我自己没能做",
+    "after": "这个决定——一个连我自己都没",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6761,
+    "en": "RES_JOURNAL_LINE_005",
+    "before": "出的抉择。",
+    "after": "能做出的决定。你必须弄清共振",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6762,
+    "en": "RES_JOURNAL_LINE_006",
+    "before": "你必须了解共振是什么，",
+    "after": "是什么，更要明白它可能带来什",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6763,
+    "en": "RES_JOURNAL_LINE_007",
+    "before": "更要了解它将来可能变成什么。",
+    "after": "么。",
+    "basis_id": 105,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6805,
+    "en": "RES_JOURNAL_LINE_049",
+    "before": "还要一个月我才能再",
+    "after": "还得再等一个月才能使",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6806,
+    "en": "RES_JOURNAL_LINE_050",
+    "before": "次使用对撞机，",
+    "after": "用对撞机，不过这期间",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6807,
+    "en": "RES_JOURNAL_LINE_051",
+    "before": "但有太多模拟要运行。",
+    "after": "有的是模拟实验要做。",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6808,
+    "en": "RES_JOURNAL_LINE_052",
+    "before": "我基于这样的理论：",
+    "after": "我目前的假设是：亚电",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6809,
+    "en": "RES_JOURNAL_LINE_053",
+    "before": "亚电子连体双生粒子",
+    "after": "子连体双生粒子占据同",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6810,
+    "en": "RES_JOURNAL_LINE_054",
+    "before": "占据同一空间，",
+    "after": "一空间，却不处于同一",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6811,
+    "en": "RES_JOURNAL_LINE_055",
+    "before": "但不在同一时间。",
+    "after": "时刻。它们在时空中的",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6812,
+    "en": "RES_JOURNAL_LINE_056",
+    "before": "它们以完全相反却又",
+    "after": "振动方式完全相反，却",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6813,
+    "en": "RES_JOURNAL_LINE_057",
+    "before": "完全互补的模式在时",
+    "after": "又恰好互补。两个粒子",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6814,
+    "en": "RES_JOURNAL_LINE_058",
+    "before": "空中振动。两个粒子，",
+    "after": "彼此吸引，无法分离，",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6815,
+    "en": "RES_JOURNAL_LINE_059",
+    "before": "相互吸引，不可分离，",
+    "after": "却永远不会相遇。",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6816,
+    "en": "RES_JOURNAL_LINE_060",
+    "before": "却永不相遇。",
+    "after": " ",
+    "basis_id": 107,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6901,
+    "en": "RES_JOURNAL_LINE_145",
+    "before": "十九个？我刚检查了笔记，",
+    "after": "十九个？刚查过笔记，我记",
+    "basis_id": 109,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6902,
+    "en": "RES_JOURNAL_LINE_146",
+    "before": "我以为我做了二十个设备。",
+    "after": "得做了二十个装置，可现在",
+    "basis_id": 109,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6903,
+    "en": "RES_JOURNAL_LINE_147",
+    "before": "我有十九个。",
+    "after": "只有十九个。我当时累成那",
+    "basis_id": 109,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6904,
+    "en": "RES_JOURNAL_LINE_148",
+    "before": "我那么累吗？我数错了吗？",
+    "after": "样了吗？还是数错了？",
+    "basis_id": 109,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6835,
+    "en": "RES_JOURNAL_LINE_079",
+    "before": "共振！",
+    "after": "共振！我给粒子的这种特殊振动取",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6836,
+    "en": "RES_JOURNAL_LINE_080",
+    "before": "这是我给粒子特殊振动起的名字。",
+    "after": "了这个名字。同一组粒子的振动频",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6837,
+    "en": "RES_JOURNAL_LINE_081",
+    "before": "一组中的每个粒子都以",
+    "after": "率完全一致，因此彼此相连。可为",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6838,
+    "en": "RES_JOURNAL_LINE_082",
+    "before": "完全相同的频率振动，",
+    "after": "什么它们只与自己的孪生粒子结",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6839,
+    "en": "RES_JOURNAL_LINE_083",
+    "before": "这使它们结合在一起。",
+    "after": "合，不与其他粒子结合？我的推测",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6840,
+    "en": "RES_JOURNAL_LINE_084",
+    "before": "但为什么这些孪生粒子",
+    "after": "是：整个宇宙中，没有两组粒子的",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6841,
+    "en": "RES_JOURNAL_LINE_085",
+    "before": "彼此结合，",
+    "after": "共振频率相同。每一组都独一无",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6842,
+    "en": "RES_JOURNAL_LINE_086",
+    "before": "而不与其他任何粒子结合？",
+    "after": "二！",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6843,
+    "en": "RES_JOURNAL_LINE_087",
+    "before": "我的理论是，",
+    "after": " ",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6844,
+    "en": "RES_JOURNAL_LINE_088",
+    "before": "整个宇宙中没有任何两组粒",
+    "after": " ",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6845,
+    "en": "RES_JOURNAL_LINE_089",
+    "before": "子拥有相同的共振频率。",
+    "after": " ",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6846,
+    "en": "RES_JOURNAL_LINE_090",
+    "before": "每一组都是独一无二的！",
+    "after": " ",
+    "basis_id": 113,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6889,
+    "en": "RES_JOURNAL_LINE_133",
+    "before": "成功了！利用这些设备，",
+    "after": "成功了！用这些装置，我",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6890,
+    "en": "RES_JOURNAL_LINE_134",
+    "before": "我成功捕获了二十对",
+    "after": "捕获了二十对SECT粒",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6891,
+    "en": "RES_JOURNAL_LINE_135",
+    "before": "SECT粒子。",
+    "after": "子。装置能阻断它们特有",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6892,
+    "en": "RES_JOURNAL_LINE_136",
+    "before": "设备阻断了它们的特殊",
+    "after": "的振动，让它们在碰撞后",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6893,
+    "en": "RES_JOURNAL_LINE_137",
+    "before": "属性——它们的振动，",
+    "after": "保持分离，再分别吸住分",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6894,
+    "en": "RES_JOURNAL_LINE_138",
+    "before": "使它们在粒子碰撞后",
+    "after": "开的两个孪生粒子。现在",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6895,
+    "en": "RES_JOURNAL_LINE_139",
+    "before": "能够保持分离。",
+    "after": "有二十组可供实验了！",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6896,
+    "en": "RES_JOURNAL_LINE_140",
+    "before": "然后设备各自吸引分离",
+    "after": " ",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6897,
+    "en": "RES_JOURNAL_LINE_141",
+    "before": "的孪生粒子之一。",
+    "after": " ",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6898,
+    "en": "RES_JOURNAL_LINE_142",
+    "before": "我有二十组可以实验了！",
+    "after": " ",
+    "basis_id": 115,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6853,
+    "en": "RES_JOURNAL_LINE_097",
+    "before": "这是今天早上第三",
+    "after": "今天上午第三次被电",
+    "basis_id": 116,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6854,
+    "en": "RES_JOURNAL_LINE_098",
+    "before": "个打断我的电话了。",
+    "after": "话打断了。对面没人",
+    "basis_id": 116,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6855,
+    "en": "RES_JOURNAL_LINE_099",
+    "before": "另一端没人，",
+    "after": "说话，只有咔嗒咔嗒",
+    "basis_id": 116,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6856,
+    "en": "RES_JOURNAL_LINE_100",
+    "before": "只有咔嗒声。",
+    "after": "的声音。",
+    "basis_id": 116,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6929,
+    "en": "RES_JOURNAL_LINE_173",
+    "before": "趁埃德忙碌时，我溜去保险库。",
+    "after": "趁埃德忙着，我偷偷去了保险",
+    "basis_id": 120,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6930,
+    "en": "RES_JOURNAL_LINE_174",
+    "before": "不能让任何人知道。",
+    "after": "库。绝不能让任何人知道。",
+    "basis_id": 120,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6910,
+    "en": "RES_JOURNAL_LINE_154",
+    "before": "谁会拿走一个？",
+    "after": "谁会拿走一组？根本没人知道",
+    "basis_id": 121,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6911,
+    "en": "RES_JOURNAL_LINE_155",
+    "before": "甚至没人知道我有这些东西。",
+    "after": "我手里有这些东西。连埃德都",
+    "basis_id": 121,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  },
+  {
+    "id": 6912,
+    "en": "RES_JOURNAL_LINE_156",
+    "before": "连埃德都不知道。",
+    "after": "不知道。",
+    "basis_id": 121,
+    "reason": "同步日记分行显示，保留行数、日期与分页"
+  }
+]

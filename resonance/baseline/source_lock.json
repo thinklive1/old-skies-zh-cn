@@ -1,0 +1,726 @@
+{
+  "version": "1.0.1",
+  "source": "<本地补丁目录>\\Resonance_简体中文汉化_v1.0.1_正式版",
+  "files": [
+    {
+      "path": "CompatSprites.cs",
+      "bytes": 16468,
+      "sha256": "68665f4dc796ae0841a14c81cfb4f901b0d69c763bb51fd318b4ca47e4c20958"
+    },
+    {
+      "path": "ExePatch/spans/spr2983.bin",
+      "bytes": 2692,
+      "sha256": "dd55c5c4d4226d7e98eb6583f09cd4b0f7ff81a7064107094a05075c3420cbd1"
+    },
+    {
+      "path": "ExePatch/spans/spr2984.bin",
+      "bytes": 2696,
+      "sha256": "c7c1abd6386c6716a6e0980c7da69ff9abfd95d659da12732025a1047fd9dae2"
+    },
+    {
+      "path": "ExePatch/spans/spr2985.bin",
+      "bytes": 8268,
+      "sha256": "9703b846c175b37aeba6e6b1c0ccf91bf2f924d6f33558ab142c9767f79a2194"
+    },
+    {
+      "path": "ExePatch/spans/spr2986.bin",
+      "bytes": 3004,
+      "sha256": "0cfdbf410bb3cfd729ad8ac76fcfafd549ead133e15d501762c25c8b691be743"
+    },
+    {
+      "path": "ExePatch/spans/spr2987.bin",
+      "bytes": 8268,
+      "sha256": "bbdde55aaa7d9c8b16c3914625950e52b8b7fca399aead9f2f1c562af3c3edd9"
+    },
+    {
+      "path": "ExePatch/spans/spr2988.bin",
+      "bytes": 3064,
+      "sha256": "eb01a29abcb9d782d956ebf226ba9c8246da0dbbcf546262f6ea528df913571b"
+    },
+    {
+      "path": "ExePatch/spans/spr4220.bin",
+      "bytes": 307212,
+      "sha256": "86d9b02c9b55a3a3f80d65899bb3fd7ee833aac93ec9a99f1e2b59e2e5b530e1"
+    },
+    {
+      "path": "ExePatch/spans/spr4225.bin",
+      "bytes": 307212,
+      "sha256": "d3dc7f1c5cdc7e31bba55db388b90c8e300d28649f63a219de051bec7c0b2be5"
+    },
+    {
+      "path": "ExePatch/spans/spr4528.bin",
+      "bytes": 9886,
+      "sha256": "2d963d4c4bdb9ecdd5627a110d2baf70611abba40b628aa6b947a380d02122cf"
+    },
+    {
+      "path": "ExePatch/spans/spr4544.bin",
+      "bytes": 38596,
+      "sha256": "82d93eaafa5a0193591ae8a10cd8686d653a573e93529bd61fd59a9e46bb4f4f"
+    },
+    {
+      "path": "ExePatch/spans/spr4547.bin",
+      "bytes": 38596,
+      "sha256": "d73ab00cf51c3397f011af0a281e416d6e3f2ee9f746c5c6d6eefb4f150f1e76"
+    },
+    {
+      "path": "ExePatch/spans/spr4591.bin",
+      "bytes": 1372,
+      "sha256": "9de7f9a5be137eb1b23c20c1427d616858c1df3b53797e56b2fc27271d4214e7"
+    },
+    {
+      "path": "ExePatch/spans/spr4592.bin",
+      "bytes": 1392,
+      "sha256": "84b900fcf6dbd6f7ce9a606c53811f03c94d1eb2572b053c5bb2a1f6c100864f"
+    },
+    {
+      "path": "ExePatch/spans/spr4593.bin",
+      "bytes": 21916,
+      "sha256": "b62791d26c4b41417acf3345552a75f99553ff462a12233571bf54dc2c325338"
+    },
+    {
+      "path": "ExePatch/spans/spr4597.bin",
+      "bytes": 2511,
+      "sha256": "72d594e2029e204a4778b07fa3c02acf9ca7b96c65b3906e7764b20a77eb9094"
+    },
+    {
+      "path": "ExePatch/spans/spr4598.bin",
+      "bytes": 2463,
+      "sha256": "d7cc27264c406406aee446e3430d5f1f0288cc05d48e796ffb0158a472e35913"
+    },
+    {
+      "path": "ExePatch/spans/spr5595.bin",
+      "bytes": 2126,
+      "sha256": "f53ca35c911d6fdecd408bc0aec12d6b9de2191af823028efb5cfee9cbc5ba94"
+    },
+    {
+      "path": "ExePatch/spans/spr5616.bin",
+      "bytes": 307212,
+      "sha256": "04975de937e9a6891e84de60ba6ce98d218b5b8f63abb3ceba184cca7812f9e3"
+    },
+    {
+      "path": "ExePatch/spans/spr5618.bin",
+      "bytes": 307212,
+      "sha256": "8ff8c292203381b763c883613c70e8ea6fafb38e7e9aed8d6c89e5b6b12ecfe0"
+    },
+    {
+      "path": "ExePatch/spans/spr5641.bin",
+      "bytes": 23748,
+      "sha256": "683678e1a48ccc8872a3336df3a6cf1cf0aaf1cc735a907b5bae7caa788138d2"
+    },
+    {
+      "path": "ExePatch/spans/spr5642.bin",
+      "bytes": 23748,
+      "sha256": "683678e1a48ccc8872a3336df3a6cf1cf0aaf1cc735a907b5bae7caa788138d2"
+    },
+    {
+      "path": "ExePatch/spans/spr5953.bin",
+      "bytes": 14348,
+      "sha256": "fd35afe9927a3dace0006f0200fc22db1732d39612fc15eec71f25cd3aa03596"
+    },
+    {
+      "path": "ExePatch/spans/spr5954.bin",
+      "bytes": 14348,
+      "sha256": "efd00ef582392003a0729166a9cf14b3451882317dfd8fbcc13f9a752b52d6e0"
+    },
+    {
+      "path": "ExePatch/spans/spr5975.bin",
+      "bytes": 14348,
+      "sha256": "6bf4e59a7c8f08477a1e5b1b69ed24ff050ac2312c1b73ed9a1a136ba892ed56"
+    },
+    {
+      "path": "ExePatch/spans/spr5976.bin",
+      "bytes": 14548,
+      "sha256": "c002cb1a881ca6aa935abe542c62338beda439e2389b0b103725ee3d5130c5b2"
+    },
+    {
+      "path": "ExePatch/spans/spr5977.bin",
+      "bytes": 14668,
+      "sha256": "a03cd7ad201de0ee6522a09731c7b8dfa5a1d7a64ea1614c3864d42427c34f33"
+    },
+    {
+      "path": "ExePatch/spans/spr5978.bin",
+      "bytes": 14668,
+      "sha256": "a03cd7ad201de0ee6522a09731c7b8dfa5a1d7a64ea1614c3864d42427c34f33"
+    },
+    {
+      "path": "ExePatch/spans/spr5979.bin",
+      "bytes": 14348,
+      "sha256": "5a723f8faa150d06104c8029a09df8c31831d044eb05156c4765dfda14859209"
+    },
+    {
+      "path": "ExePatch/spans/spr5982.bin",
+      "bytes": 14400,
+      "sha256": "79303a8cc7cc6120c8b8bc3acaa1b9e2e37b361debc31a84fa927309f37c6607"
+    },
+    {
+      "path": "ExePatch/spans/spr6030.bin",
+      "bytes": 11112,
+      "sha256": "05e1700acbd09dc5ef597dd67d1fb69d51a72969e4dd9718937ff7662d66b1ab"
+    },
+    {
+      "path": "ExePatch/spans/spr6031.bin",
+      "bytes": 14672,
+      "sha256": "ef78e420feb33cd3a62971e72c33092edbd6d8ec6e17b39969b1f1c5d745514f"
+    },
+    {
+      "path": "ExePatch/spans/spr6112.bin",
+      "bytes": 11139,
+      "sha256": "b03ae1721c356e841404d8e1c4be1d895b293e50192f1fbc947303f2fa8c3389"
+    },
+    {
+      "path": "ExePatch/spans/spr6137.bin",
+      "bytes": 7513,
+      "sha256": "52ee0d6c12416141eb0dc152cc5108377c7ccd8b72585eeedf88cf56f51a11a4"
+    },
+    {
+      "path": "ExePatch/spans/spr6142.bin",
+      "bytes": 15834,
+      "sha256": "48d30c4b9ca113a7e0d90090c86bdd283aae0b88389b8b6b2d9f4fc7de37043b"
+    },
+    {
+      "path": "ExePatch/spans/spr6159.bin",
+      "bytes": 2270,
+      "sha256": "96a96abe419b5d7e8101c6a4517673ea012df532410224e7d2026188121004e9"
+    },
+    {
+      "path": "ExePatch/spans/spr6172.bin",
+      "bytes": 2270,
+      "sha256": "ec0cfe653674e6edf4f8bf3b758ab24df2ba843d12e5063b99c936e06c5a4268"
+    },
+    {
+      "path": "ExePatch/spans/spr6173.bin",
+      "bytes": 2120,
+      "sha256": "18fdeab9051d76b15f74b2565c5c14d386dc089026811a622ed38ac85c9c4423"
+    },
+    {
+      "path": "ExePatch/spans/spr6174.bin",
+      "bytes": 2120,
+      "sha256": "d36d94a9e984cb7efd9f38bc36e5adf1065a07558afccda921dc0850519dc96f"
+    },
+    {
+      "path": "ExePatch/spans/spr6175.bin",
+      "bytes": 1704,
+      "sha256": "da7acf5adde6201080dbff6979533507e769802e6aadb1e8f4241507bb836cb9"
+    },
+    {
+      "path": "ExePatch/spans/spr6176.bin",
+      "bytes": 1696,
+      "sha256": "3c063fe6b133bb16796e3e5aa832e2fe5b2ac4c1db3d4140c47175006c381fa7"
+    },
+    {
+      "path": "ExePatch/spans/spr6177.bin",
+      "bytes": 2742,
+      "sha256": "d0809e9707e058edbd6a1b6566bd2a9d835eaf868f5fd93da8ac67e16e4374e2"
+    },
+    {
+      "path": "ExePatch/spans/spr6178.bin",
+      "bytes": 2746,
+      "sha256": "2ab00d6de548a46975abb3794fe11e1cfc7f80eab7fab47318b7fb3759c873ab"
+    },
+    {
+      "path": "ExePatch/spans/spr6179.bin",
+      "bytes": 1274,
+      "sha256": "7925ed36fdd4edc946921290beb08fd65830038aa67578c4f717e249e222c05e"
+    },
+    {
+      "path": "ExePatch/spans/spr6180.bin",
+      "bytes": 1278,
+      "sha256": "8a8840a900c9d4e09b153e40f5d06e21c5255e5eb04f2888903884a645da59b2"
+    },
+    {
+      "path": "ExePatch/spans/spr6181.bin",
+      "bytes": 2094,
+      "sha256": "cec2cabd92378106e352816e6ce84245c23a57c8893acf7bd0c5dc593fbce714"
+    },
+    {
+      "path": "ExePatch/spans/spr6182.bin",
+      "bytes": 2094,
+      "sha256": "ed32a2a1aa1082fcc821778046a7c15712aa311170f54e086c8641e4d5f1f1c2"
+    },
+    {
+      "path": "ExePatch/spans/spr6183.bin",
+      "bytes": 1646,
+      "sha256": "d1a275deb28406a5e1e107da285194cb17c6d9b15c22f593becac4c3fb555115"
+    },
+    {
+      "path": "ExePatch/spans/spr6184.bin",
+      "bytes": 1650,
+      "sha256": "59611fc96b4ded196d1710b5968dba4a1279d208fdf8975729c557ad0332d0c9"
+    },
+    {
+      "path": "ExePatch/spans/spr6185.bin",
+      "bytes": 2384,
+      "sha256": "4b18007af7f1ae2d60c854c63e9fb4c560999ee291a224dbf413765c53f21ad0"
+    },
+    {
+      "path": "ExePatch/spans/spr6186.bin",
+      "bytes": 2388,
+      "sha256": "0d63f43658c0089f78960e8a8655a801d0a191e5be5c1204a79d66d736ab9164"
+    },
+    {
+      "path": "ExePatch/spans/spr6187.bin",
+      "bytes": 2122,
+      "sha256": "1452e0e65c2755b79d9c9218d8d6e073083f74a9db059bd69111dd0bf06848a3"
+    },
+    {
+      "path": "ExePatch/spans/spr6188.bin",
+      "bytes": 2007,
+      "sha256": "d880963453461c8eff0c1971f4656a75052c3d640e399e534c502015c1de4c24"
+    },
+    {
+      "path": "ExePatch/spans/spr6189.bin",
+      "bytes": 2011,
+      "sha256": "501c1551e8fce2317f9191225efd2610f8680e51e27264b8b7ab3a4be1b062d5"
+    },
+    {
+      "path": "ExePatch/spans/spr6199.bin",
+      "bytes": 1524,
+      "sha256": "08552ce7a3cbeafc7af98e5bdedcaa0796426c7414ec51f493b19995d515052e"
+    },
+    {
+      "path": "ExePatch/spans/spr6249.bin",
+      "bytes": 1116,
+      "sha256": "701320cdf0648fe4b11b1fc6483c1cabbb99bf329c1ac20141d52704c74634df"
+    },
+    {
+      "path": "ExePatch/spans/spr6728.bin",
+      "bytes": 307212,
+      "sha256": "14cbfec0398baeff1f63f97c634244cafebe2eb71f9351c28a05d6f1304b324d"
+    },
+    {
+      "path": "ExePatch/spans/spr6979.bin",
+      "bytes": 2090,
+      "sha256": "f49c96c95a63efd7f1bd1d9c21753ff833256fe2c841276b8451ebeb7f97fe53"
+    },
+    {
+      "path": "ExePatch/spans/spr6980.bin",
+      "bytes": 2094,
+      "sha256": "b2880f6d96062702d00574dc2592ee527215b30ac72ded83f9f6f438a8b5b24d"
+    },
+    {
+      "path": "ExePatch/spans/spr6998.bin",
+      "bytes": 55692,
+      "sha256": "a375fbbdd8d372c07083005dcf6ada9c5be51debe8c9299b2e05aade88ab74b9"
+    },
+    {
+      "path": "ExePatch/spans/spr7005.bin",
+      "bytes": 6608,
+      "sha256": "c2df27b8f72d9a3016b17c0450af436a629d852c86846ba96929c8078eda57a0"
+    },
+    {
+      "path": "ExePatch/spans/spr7006.bin",
+      "bytes": 6608,
+      "sha256": "c2df27b8f72d9a3016b17c0450af436a629d852c86846ba96929c8078eda57a0"
+    },
+    {
+      "path": "ExePatch/spans/spr7007.bin",
+      "bytes": 1951,
+      "sha256": "d5c822b1c03fcb1384cca843084b297c102950f90eed93899fff75e39dc3ba1c"
+    },
+    {
+      "path": "ExePatch/spans/spr7008.bin",
+      "bytes": 2047,
+      "sha256": "f2245778f981b1454780d8c49a4b33f24a958a0ff7231606189cdf471e989acc"
+    },
+    {
+      "path": "ExePatch/spans/spr7009.bin",
+      "bytes": 2176,
+      "sha256": "8f2f749b7b842cc5b05e069f52cebea22cca1da6fe97c926071204bd6ed0a990"
+    },
+    {
+      "path": "ExePatch/spans/spr7010.bin",
+      "bytes": 2356,
+      "sha256": "d92e6a570faf8c7958bee49bec93cdd6efce8c4f95010270cebde777d5beec83"
+    },
+    {
+      "path": "ExePatch/spans/spr7350.bin",
+      "bytes": 1866,
+      "sha256": "a40b852e809708a28a6f08622ce78d2310cc79d158edf227bbbf4df014c62757"
+    },
+    {
+      "path": "ExePatch/spans/spr7542.bin",
+      "bytes": 12188,
+      "sha256": "199f6ec6275627f799cc1e715825996d1b6749152b2efbb207c540660e8dc861"
+    },
+    {
+      "path": "ExePatch/spans/spr7543.bin",
+      "bytes": 8824,
+      "sha256": "b85d5b3f9ffd0a674490506d04403a81de72d989c4688ee27fb783e04d056783"
+    },
+    {
+      "path": "ExePatch/spans/spr7545.bin",
+      "bytes": 8824,
+      "sha256": "3213710703d669e618220d980a34558d076e5e16480fc488bdd42db8a53a1953"
+    },
+    {
+      "path": "ExePatch/spans/spr7546.bin",
+      "bytes": 9468,
+      "sha256": "f16735460a71fdcf2099b1798157cb7728aa3a05a1904ecd822bd29a7d3eeaff"
+    },
+    {
+      "path": "ExePatch/spans/spr7547.bin",
+      "bytes": 8824,
+      "sha256": "2f25edde22d318a75550cc7ecd4461bfe76809791c8a1fda20edc20c43701244"
+    },
+    {
+      "path": "ExePatch/spans/spr7548.bin",
+      "bytes": 8824,
+      "sha256": "a98d1b67ad68e2b10662956abfcff4f56edc7241aade0730df6d62f8eca9eebb"
+    },
+    {
+      "path": "ExePatch/spans/spr7549.bin",
+      "bytes": 10764,
+      "sha256": "7f0e5482bc3e0902e47ad6e7b788f88a0ff3b43de865b34d01e55c1e41330eed"
+    },
+    {
+      "path": "ExePatch/spans/spr7551.bin",
+      "bytes": 9464,
+      "sha256": "299983c81cd877b85e07895606d82c1ae6e3b4e7954f682b2e876a2715ff96d1"
+    },
+    {
+      "path": "ExePatch/spans/spr7553.bin",
+      "bytes": 8304,
+      "sha256": "10b6ab151869c5e7ecdb125dcd5bf825542297b8a8f925fba7e854d4bdaf9289"
+    },
+    {
+      "path": "ExePatch/spans/spr7596.bin",
+      "bytes": 4608,
+      "sha256": "55ae101ccd99dfee17e25921ebfe819e5b04e0abff8162e18dc4836b2fbcda51"
+    },
+    {
+      "path": "ExePatch/spans/spr7602.bin",
+      "bytes": 6112,
+      "sha256": "c5c8cdc374b9a81ba8d0d8ca46cb43623ed3ec602c3d40e2535e5224952938d2"
+    },
+    {
+      "path": "ExePatch/spans/spr7603.bin",
+      "bytes": 6108,
+      "sha256": "689985da3f01a33fe447e920176e3a10bb1a4edeaaec1800032f7ea3cca693fd"
+    },
+    {
+      "path": "ExePatch/spans/spr7794.bin",
+      "bytes": 307212,
+      "sha256": "ed652aa7cac082ceb0d015c21b3365c7b6877b37a6ce9560d96e6c7551a79832"
+    },
+    {
+      "path": "ExePatch/spans/spr7979.bin",
+      "bytes": 5460,
+      "sha256": "2450575871067b43d02edd798fc1d9721dada4646e3047df9095d5bff399227d"
+    },
+    {
+      "path": "ExePatch/spans/spr7980.bin",
+      "bytes": 5460,
+      "sha256": "25415512570e2a19a838ece2838c77707df4bd53589146486f88a6200fbd3d9e"
+    },
+    {
+      "path": "ExePatch/spans/spr7983.bin",
+      "bytes": 5460,
+      "sha256": "1aef1d4cc7a0bde7af4f277d59edcc7b092b187672f723f73b7b18174c15fd4a"
+    },
+    {
+      "path": "ExePatch/spans/spr7997.bin",
+      "bytes": 5460,
+      "sha256": "2450575871067b43d02edd798fc1d9721dada4646e3047df9095d5bff399227d"
+    },
+    {
+      "path": "ExePatch/spans/spr8000.bin",
+      "bytes": 76836,
+      "sha256": "cf011a47080f2d060c9905db9080234b1d8f1145db279c6f02e54067f565c4c5"
+    },
+    {
+      "path": "ExePatch/spans/spr8001.bin",
+      "bytes": 76836,
+      "sha256": "a5aa4df7265bc024d722d67d548f7d92728eb4e4a606397feda42005a62e1d86"
+    },
+    {
+      "path": "ExePatch/spans/spr8002.bin",
+      "bytes": 76828,
+      "sha256": "0fae7fdfad07da1f3ee1b570d13b2dae04f4f880e1fc37ffabad075b742098cb"
+    },
+    {
+      "path": "ExePatch/spans/spr8390.bin",
+      "bytes": 41444,
+      "sha256": "47a04748559c7bfc161fa1ca07cf9273edcb09d5f906d580c2c23cc781565d91"
+    },
+    {
+      "path": "ExePatch/spans/spr8391.bin",
+      "bytes": 41444,
+      "sha256": "a20b894464a89ba8a1ccd797a40f8d3e404566e07eb00bd9d3e69da6eecb5088"
+    },
+    {
+      "path": "ExePatch/spans/spr8392.bin",
+      "bytes": 41444,
+      "sha256": "f125f44d702cf9e19a75f5afcbfd65e6793fb4e8ed2e5f6d840b12d1f810521d"
+    },
+    {
+      "path": "ExePatch/spans/spr8393.bin",
+      "bytes": 41444,
+      "sha256": "c2af363e7115f938d5aa5c2f0921be5add1836fbe33896cd9f6fa72a99205a93"
+    },
+    {
+      "path": "ExePatch/spans/spr8395.bin",
+      "bytes": 307212,
+      "sha256": "e9440fe3b94ba3ca2bf5f824a90465e34fc5222fbd13ba120c7efddecbd3b56b"
+    },
+    {
+      "path": "ExePatch/spans/spr8417.bin",
+      "bytes": 1460,
+      "sha256": "dcdd949bda2619afcd04c56afa4ed9a30d4f65d890133ad41bf075220f1f1499"
+    },
+    {
+      "path": "ExePatch/spans/spr8418.bin",
+      "bytes": 1456,
+      "sha256": "11e5b01615152c976a6ef3d6df42210dc9ab1e1f012dfac7172345c4a08edb6c"
+    },
+    {
+      "path": "ExePatch/spans/spr8832.bin",
+      "bytes": 307212,
+      "sha256": "73045ad94ebbc308bf59f547246291acba470ecc9b19a3dfae0808dcc6bc3df7"
+    },
+    {
+      "path": "ExePatch/spans/spr8833.bin",
+      "bytes": 307212,
+      "sha256": "466efa8328903a73cf83a4c7b2a06aa7367a9ef171b49fd7967c430d09d0ec7d"
+    },
+    {
+      "path": "ExePatch/spans/spr8834.bin",
+      "bytes": 16656,
+      "sha256": "0953e533678b7eeff870aa5f7f72c578c8e88f0644740f176256b3d67e025ca8"
+    },
+    {
+      "path": "ExePatch/spans/spr8835.bin",
+      "bytes": 16656,
+      "sha256": "0953e533678b7eeff870aa5f7f72c578c8e88f0644740f176256b3d67e025ca8"
+    },
+    {
+      "path": "ExePatch/spans/spr8836.bin",
+      "bytes": 16656,
+      "sha256": "d6ba36b8de3b2687e3460641762752b63205db9687d9903ea8e0cc705a90865e"
+    },
+    {
+      "path": "ExePatch/spans/spr8837.bin",
+      "bytes": 16656,
+      "sha256": "d6ba36b8de3b2687e3460641762752b63205db9687d9903ea8e0cc705a90865e"
+    },
+    {
+      "path": "ExePatch/spans/spr8838.bin",
+      "bytes": 16140,
+      "sha256": "8e1fb00eb39530d67117654fdac56e2920c4c0df5744d1f457723bcaf3b45a6f"
+    },
+    {
+      "path": "ExePatch/spans/spr8839.bin",
+      "bytes": 16140,
+      "sha256": "8e1fb00eb39530d67117654fdac56e2920c4c0df5744d1f457723bcaf3b45a6f"
+    },
+    {
+      "path": "ExePatch/spans/spr8840.bin",
+      "bytes": 16140,
+      "sha256": "b90aaf85ba4375936602ba06a09becae2157c3c21aba3bbc75c5e26e1b631aae"
+    },
+    {
+      "path": "ExePatch/spans/spr8841.bin",
+      "bytes": 16140,
+      "sha256": "b90aaf85ba4375936602ba06a09becae2157c3c21aba3bbc75c5e26e1b631aae"
+    },
+    {
+      "path": "ExePatch/spans/spr8866.bin",
+      "bytes": 2860,
+      "sha256": "4302a0926d785f8a255f7b8d29da2cdc82a8405823db43f939cacf7cad97b518"
+    },
+    {
+      "path": "ExePatch/spans/spr8867.bin",
+      "bytes": 2948,
+      "sha256": "0bd88a20999795c98aa61a1160d4e7c2db8ea336e1016e70a1352ad8f33e1792"
+    },
+    {
+      "path": "patch_manifest.json",
+      "bytes": 128549,
+      "sha256": "432edd2db5bd4a503546bad91c1782ed5a817875ce490e8fe22845c6f5784e4a"
+    },
+    {
+      "path": "PatchFiles/agsfnt0.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt1.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt10.ttf",
+      "bytes": 277728,
+      "sha256": "d2ae5217be4868f3638c68775840bc633f4b8b13c952b8d56fd8b93cb8547b84"
+    },
+    {
+      "path": "PatchFiles/agsfnt13.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt14.ttf",
+      "bytes": 417596,
+      "sha256": "b3bce231f3f84ba36ba4f2ea41ac80a1fb541a2ec55e683e38ac928fc055883c"
+    },
+    {
+      "path": "PatchFiles/agsfnt3.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt4.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt5.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt6.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/agsfnt9.ttf",
+      "bytes": 354152,
+      "sha256": "825cf89b1bce8a851f21327bc66d175a0ddc64b3a85d4787f84bc8b8c21ab1f3"
+    },
+    {
+      "path": "PatchFiles/Chinese.tra",
+      "bytes": 877355,
+      "sha256": "3a82d044e4f8902bb7abed15ebd665eeab7c2c5168414ea0df4582ba14a99dcb"
+    },
+    {
+      "path": "PatchFiles/game28.dta",
+      "bytes": 5593085,
+      "sha256": "0a911bcd5e2d6512f6f974f5ef144234158ac7b77656d077426797beadbe1c6e"
+    },
+    {
+      "path": "PatchFiles/intro.ogv",
+      "bytes": 53777264,
+      "sha256": "7394deed9c2345cf564dbff75dda65846ab195c1e9c3034d410a578e38a49384"
+    },
+    {
+      "path": "PatchFiles/intro2.ogv",
+      "bytes": 44049204,
+      "sha256": "f08cbc45d237a84c1404aa9cf91051aeadbdecd1823ff47483b743e4b46dc693"
+    },
+    {
+      "path": "PatchFiles/OFL-FusionPixel.txt",
+      "bytes": 28736,
+      "sha256": "1e455b55e2e93840887c99030ea5665e8f97ba882e05fcff6f06301942f7aee8"
+    },
+    {
+      "path": "PatchFiles/room1.crm",
+      "bytes": 734890,
+      "sha256": "ae04e04a2bcb0cc22059c2c0a999871595196c2db69e4a7ab6efdb62f2f963bb"
+    },
+    {
+      "path": "PatchFiles/room16.crm",
+      "bytes": 212204,
+      "sha256": "e866e701d17a34cb1d6841283d12233e2450ba88ea76d9c3c1492c0055a07584"
+    },
+    {
+      "path": "PatchFiles/room18.crm",
+      "bytes": 160571,
+      "sha256": "8c9b8f54d2cc8c38642309fca97ca3aa0ac73a2990c4ea57c2fb3039022bfd68"
+    },
+    {
+      "path": "PatchFiles/room21.crm",
+      "bytes": 146803,
+      "sha256": "da80d2edc4543cfac79294e0a11cfefd319cbf90d7c6fdd2231efe8ad7f45749"
+    },
+    {
+      "path": "PatchFiles/room22.crm",
+      "bytes": 66472,
+      "sha256": "1230de9801361aa82c4898bb54278a72ec9a9da29e5be562f424e8a778fc2d41"
+    },
+    {
+      "path": "PatchFiles/room41.crm",
+      "bytes": 182297,
+      "sha256": "857acb48e743b008c7ecdb81ceda813fe5048b4a505363c07b16430154aa056e"
+    },
+    {
+      "path": "PatchFiles/room45.crm",
+      "bytes": 196152,
+      "sha256": "9a51ec57cfe5585a61ac9380451105c47db40afddf2635a232c8662b783ee9e8"
+    },
+    {
+      "path": "PatchFiles/room49.crm",
+      "bytes": 186477,
+      "sha256": "ccdaa8d6cce0dd599fa248ec04c40c8cd89bdaf4fc2118d318e5d6fe27d95b2d"
+    },
+    {
+      "path": "PatchFiles/room63.crm",
+      "bytes": 198774,
+      "sha256": "9349ffa6d4c50324f88b5a4eb953147a1faaeada3df07c748eead194c72230e9"
+    },
+    {
+      "path": "PatchFiles/room65.crm",
+      "bytes": 186523,
+      "sha256": "d982df7e270e26d55bded863a06e57cf622bc61f1d747c5918a3b013dbf78980"
+    },
+    {
+      "path": "PatchFiles/room76.crm",
+      "bytes": 147103,
+      "sha256": "168faf055aafff39802d0307bfd6c8b232d22fcd721461d485e26f7af8677b36"
+    },
+    {
+      "path": "中文字幕/intro.zh-CN.srt",
+      "bytes": 1149,
+      "sha256": "fa4fdc31eab5cf8e49e59118b577651099819b928799c38b57734eb60c14527a"
+    },
+    {
+      "path": "中文字幕/intro2.zh-CN.srt",
+      "bytes": 889,
+      "sha256": "dc9b70d63bc133f830563db7919d35590dbfbcbc655a457e6171dfab90d82be7"
+    },
+    {
+      "path": "卸载汉化.bat",
+      "bytes": 221,
+      "sha256": "6f2ade083d9e483224ef5493469356cc5f2ce9dca8663725f20494728cf20132"
+    },
+    {
+      "path": "卸载汉化.ps1",
+      "bytes": 408,
+      "sha256": "cb2cc71a27e3ba16937948bd058dfa83f3f8c519cf006f147d1a7f576498b4d9"
+    },
+    {
+      "path": "发布说明.md",
+      "bytes": 2901,
+      "sha256": "47e7baec3d331346793c2b496fcbb4f16be9f27a5a64f8ca1c62da4d241ab086"
+    },
+    {
+      "path": "回退汉化.bat",
+      "bytes": 221,
+      "sha256": "366f002924255a49864d7440d60ec28141ab43383d79c8089ff8c8f53608084b"
+    },
+    {
+      "path": "回退汉化.ps1",
+      "bytes": 4808,
+      "sha256": "995b85c28f0b52203bffc2823d281e67898cc0487adf4df237b00081c33580e0"
+    },
+    {
+      "path": "安装汉化.bat",
+      "bytes": 221,
+      "sha256": "1d8dc9fe7603520f4f17496ece1d491abc50ed51eb32b3708f56f93238f186de"
+    },
+    {
+      "path": "安装汉化.ps1",
+      "bytes": 29740,
+      "sha256": "3054ceafdea9b4378312c064a7aaa17b390f7339eb63fed84e55ba46d96c4fe7"
+    },
+    {
+      "path": "安装说明.txt",
+      "bytes": 3296,
+      "sha256": "d70be8fccc0530a853554561c08001b070c6a4116fc46b8b2556bd2f2c6865dd"
+    },
+    {
+      "path": "离线验证.json",
+      "bytes": 11009,
+      "sha256": "3da347732f897ac86f58a32154b3ae11dd294fbc89e9292461a633f15aa335fa"
+    }
+  ]
+}

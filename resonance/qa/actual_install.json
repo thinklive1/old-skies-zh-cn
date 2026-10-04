@@ -1,0 +1,22 @@
+{
+  "version": "1.1",
+  "game": "<游戏目录>",
+  "zip_sha256": "ba451ce815e58f795f2b411d21af73170508a17d8bea7db9944e5ba52d554ada",
+  "package_manifest_sha256": "eb8784e1d81107f2631749e45eed1613f6d2ea0caec7e384844097104c41a9ff",
+  "steam_build": 24412244,
+  "exe_version": "3.6.1.35",
+  "install_passed": true,
+  "installed_managed_files": 29,
+  "installed_file_hashes_passed": true,
+  "original_backups_passed": true,
+  "unmanaged_files_unchanged": true,
+  "translation": "Chinese",
+  "backup": "<游戏目录>\\_Resonance_简中备份",
+  "matched_images": 105,
+  "already_images": 0,
+  "skipped_images": 0,
+  "original_exe_sha256": "83da4494ee14c30ed1710aec7910059a2e6b597f92b6f6a3cc4c5534fa1dd2a8",
+  "installed_exe_sha256": "2e309ad577005f9a70f156b4b1348149825e1570547be811b7ea881a4317e10a",
+  "real_game_display_playtest": false,
+  "note": "Actual game installation and file integrity verified. Game executable was not launched; display and complete story playtest remain pending."
+}

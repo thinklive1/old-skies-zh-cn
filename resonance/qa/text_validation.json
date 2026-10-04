@@ -1,0 +1,206 @@
+{
+  "version": "1.1",
+  "release_status": "candidate",
+  "date": "2026-10-03",
+  "baseline_version": "1.0.1",
+  "dictionary_pairs": 10202,
+  "changed_pairs": 1497,
+  "review_status_counts": {
+    "reviewed_unchanged": 8339,
+    "edited_direct": 1308,
+    "numeric_verified_unchanged": 366,
+    "edited_same_english_variant": 86,
+    "edited_journal_line": 103
+  },
+  "source_integrity": "passed",
+  "baseline_tra_byte_identical_roundtrip": "passed",
+  "english_keys_order_and_count": "passed",
+  "non_dictionary_blocks_unchanged": "passed",
+  "edited_placeholders_linebreaks_display_markers": "passed",
+  "compiled_tra_readback": "passed",
+  "font_coverage": [
+    {
+      "font": "agsfnt0.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt1.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt10.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt13.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt14.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt3.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt4.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt5.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt6.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    },
+    {
+      "font": "agsfnt9.ttf",
+      "all_non_ascii_codepoints": 2160,
+      "missing": []
+    }
+  ],
+  "journal_sync": [
+    {
+      "basis_id": 92,
+      "first": 6787,
+      "last": 6798,
+      "width_limit_units": 14,
+      "used_lines": 8,
+      "slots": 12
+    },
+    {
+      "basis_id": 93,
+      "first": 6877,
+      "last": 6881,
+      "width_limit_units": 13,
+      "used_lines": 5,
+      "slots": 5
+    },
+    {
+      "basis_id": 94,
+      "first": 6905,
+      "last": 6909,
+      "width_limit_units": 13,
+      "used_lines": 4,
+      "slots": 5
+    },
+    {
+      "basis_id": 95,
+      "first": 6882,
+      "last": 6887,
+      "width_limit_units": 12,
+      "used_lines": 5,
+      "slots": 6
+    },
+    {
+      "basis_id": 98,
+      "first": 6937,
+      "last": 6944,
+      "width_limit_units": 17,
+      "used_lines": 5,
+      "slots": 8
+    },
+    {
+      "basis_id": 99,
+      "first": 6961,
+      "last": 6967,
+      "width_limit_units": 12,
+      "used_lines": 5,
+      "slots": 7
+    },
+    {
+      "basis_id": 101,
+      "first": 6764,
+      "last": 6765,
+      "width_limit_units": 6,
+      "used_lines": 2,
+      "slots": 2
+    },
+    {
+      "basis_id": 104,
+      "first": 6925,
+      "last": 6928,
+      "width_limit_units": 10,
+      "used_lines": 4,
+      "slots": 4
+    },
+    {
+      "basis_id": 105,
+      "first": 6757,
+      "last": 6763,
+      "width_limit_units": 14,
+      "used_lines": 7,
+      "slots": 7
+    },
+    {
+      "basis_id": 107,
+      "first": 6805,
+      "last": 6816,
+      "width_limit_units": 10,
+      "used_lines": 11,
+      "slots": 12
+    },
+    {
+      "basis_id": 109,
+      "first": 6901,
+      "last": 6904,
+      "width_limit_units": 12,
+      "used_lines": 4,
+      "slots": 4
+    },
+    {
+      "basis_id": 113,
+      "first": 6835,
+      "last": 6846,
+      "width_limit_units": 15,
+      "used_lines": 8,
+      "slots": 12
+    },
+    {
+      "basis_id": 115,
+      "first": 6889,
+      "last": 6898,
+      "width_limit_units": 11,
+      "used_lines": 7,
+      "slots": 10
+    },
+    {
+      "basis_id": 116,
+      "first": 6853,
+      "last": 6856,
+      "width_limit_units": 9,
+      "used_lines": 4,
+      "slots": 4
+    },
+    {
+      "basis_id": 120,
+      "first": 6929,
+      "last": 6930,
+      "width_limit_units": 14,
+      "used_lines": 2,
+      "slots": 2
+    },
+    {
+      "basis_id": 121,
+      "first": 6910,
+      "last": 6912,
+      "width_limit_units": 13,
+      "used_lines": 3,
+      "slots": 3
+    }
+  ],
+  "runtime_playtest": "not_run: game installed; display and story playtest pending",
+  "unreviewed_pairs": 0,
+  "scope": "全部10,202个TRA键完成校对；其中366个金额键逐项等值核验，其他9,836个键按9,506组双语审校；补齐同源字形；25条SRT完成中文通读，英文音轨与图像硬字幕、游戏内语境待验收。"
+}

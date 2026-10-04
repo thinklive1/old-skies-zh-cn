@@ -1,0 +1,20 @@
+[
+  {
+    "file": "intro.zh-CN.srt",
+    "cues": 13,
+    "sha256": "fa4fdc31eab5cf8e49e59118b577651099819b928799c38b57734eb60c14527a",
+    "Chinese_text_read_in_full": true,
+    "decision": "retain current readable broadcast translation and original timing",
+    "English_audio_verified": false,
+    "hard_subtitle_verified": false
+  },
+  {
+    "file": "intro2.zh-CN.srt",
+    "cues": 12,
+    "sha256": "dc9b70d63bc133f830563db7919d35590dbfbcbc655a457e6171dfab90d82be7",
+    "Chinese_text_read_in_full": true,
+    "decision": "retain current readable broadcast translation and original timing",
+    "English_audio_verified": false,
+    "hard_subtitle_verified": false
+  }
+]

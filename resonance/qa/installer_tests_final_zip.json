@@ -1,0 +1,82 @@
+{
+  "version": "1.1",
+  "fixture_only": true,
+  "real_game_playtest": false,
+  "note": "Synthetic PE fixtures validate installer behavior only. No game binary was executed.",
+  "tests": [
+    {
+      "test": "windows_powershell_5_1_parse",
+      "passed": true
+    },
+    {
+      "test": "install-v1.1",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "install-v1.1.log"
+    },
+    {
+      "test": "repeat-v1.1",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "repeat-v1.1.log"
+    },
+    {
+      "test": "rollback-modified-and-missing",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "rollback-modified-and-missing.log"
+    },
+    {
+      "test": "rollback_restores_original_bytes_and_preserves_save_and_modified_state",
+      "passed": true
+    },
+    {
+      "test": "install-v1.0.1",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "install-v1.0.1.log"
+    },
+    {
+      "test": "reject-direct-old-upgrade",
+      "passed": true,
+      "expected_success": false,
+      "exit_code": 1,
+      "log": "reject-direct-old-upgrade.log"
+    },
+    {
+      "test": "rollback-v1.0.1",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "rollback-v1.0.1.log"
+    },
+    {
+      "test": "upgrade-after-old-rollback",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "upgrade-after-old-rollback.log"
+    },
+    {
+      "test": "rollback-upgraded-v1.1",
+      "passed": true,
+      "expected_success": true,
+      "exit_code": 0,
+      "log": "rollback-upgraded-v1.1.log"
+    },
+    {
+      "test": "reject-corrupt-payload",
+      "passed": true,
+      "expected_success": false,
+      "exit_code": 1,
+      "log": "reject-corrupt-payload.log"
+    }
+  ],
+  "zip_sha256": "ba451ce815e58f795f2b411d21af73170508a17d8bea7db9944e5ba52d554ada",
+  "package_manifest_sha256": "eb8784e1d81107f2631749e45eed1613f6d2ea0caec7e384844097104c41a9ff",
+  "fixture_directory": "work/installer-full-review-frozen-zip"
+}

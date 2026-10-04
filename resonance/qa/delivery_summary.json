@@ -1,0 +1,19 @@
+{
+  "version": "1.1",
+  "dictionary_keys_checked": 10202,
+  "changed_keys": 1497,
+  "counts": {
+    "reviewed_unchanged": 8339,
+    "edited_direct": 1308,
+    "numeric_verified_unchanged": 366,
+    "edited_same_english_variant": 86,
+    "edited_journal_line": 103
+  },
+  "original_v1_0_1_files_unchanged": 144,
+  "final_zip_sha256": "ba451ce815e58f795f2b411d21af73170508a17d8bea7db9944e5ba52d554ada",
+  "offline_validation": "passed",
+  "actual_install": "passed",
+  "runtime_display_and_story_playtest": "pending",
+  "release_status": "full-text-reviewed candidate",
+  "formal_release_gate": "blocked only by absent actual game playtest report"
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.1",
+  "release_status": "candidate",
+  "destination": "<本地补丁目录>\\Resonance_简体中文汉化_v1.1_候选版",
+  "copied_package_files_verified": 145,
+  "original_v1_0_1_files_still_identical": 144,
+  "zip_sha256": "9ec39ac1a79b1ec7e2703f9c943d9d865b0b3e62d95f2102fa5822ce01efe211",
+  "final_zip_installer_test_report": "installer_tests_final_zip.json",
+  "game_playtest": false
+}

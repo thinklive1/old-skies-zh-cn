@@ -1,3 +1,17 @@
+# 共鸣 / Resonance 汉化分支
+
+本分支 `resonance-zh-cn` 收录《共鸣》的 v1.1 全量校对候选版。
+
+- [共鸣项目说明、审校资料与构建方法](resonance/README.md)
+- [共鸣完整补丁与 SHA256 校验文件](resonance/releases)
+- [Old Skies 项目主分支](https://github.com/thinklive1/old-skies-zh-cn/tree/main)
+
+《共鸣》全部 10,202 个翻译键已完成校对，修改 1,497 个显示键；技术与实际安装检查通过，游戏内显示与完整剧情验收待完成。原汉化署名保留为那卡nakami。
+
+下方保留 Old Skies 项目说明。共鸣资料位于 `resonance/`。
+
+---
+
 # Old Skies《往昔天穹》简体中文汉化 v1.1
 
 基于那卡nakami制作的 v1.0 简体中文汉化进行文本修订，目标是减少直译、生硬句式与语义错误，并统一人物、时间旅行设定及界面术语。

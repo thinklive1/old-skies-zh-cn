@@ -1,0 +1,79 @@
+﻿{
+    "version":  "1.1",
+    "fixture_only":  true,
+    "real_game_playtest":  false,
+    "note":  "Synthetic PE fixtures validate installer behavior only. No game binary was executed.",
+    "tests":  [
+                  {
+                      "test":  "windows_powershell_5_1_parse",
+                      "passed":  true
+                  },
+                  {
+                      "test":  "install-v1.1",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "install-v1.1.log"
+                  },
+                  {
+                      "test":  "repeat-v1.1",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "repeat-v1.1.log"
+                  },
+                  {
+                      "test":  "rollback-modified-and-missing",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "rollback-modified-and-missing.log"
+                  },
+                  {
+                      "test":  "rollback_restores_original_bytes_and_preserves_save_and_modified_state",
+                      "passed":  true
+                  },
+                  {
+                      "test":  "install-v1.0.1",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "install-v1.0.1.log"
+                  },
+                  {
+                      "test":  "reject-direct-old-upgrade",
+                      "passed":  true,
+                      "expected_success":  false,
+                      "exit_code":  1,
+                      "log":  "reject-direct-old-upgrade.log"
+                  },
+                  {
+                      "test":  "rollback-v1.0.1",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "rollback-v1.0.1.log"
+                  },
+                  {
+                      "test":  "upgrade-after-old-rollback",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "upgrade-after-old-rollback.log"
+                  },
+                  {
+                      "test":  "rollback-upgraded-v1.1",
+                      "passed":  true,
+                      "expected_success":  true,
+                      "exit_code":  0,
+                      "log":  "rollback-upgraded-v1.1.log"
+                  },
+                  {
+                      "test":  "reject-corrupt-payload",
+                      "passed":  true,
+                      "expected_success":  false,
+                      "exit_code":  1,
+                      "log":  "reject-corrupt-payload.log"
+                  }
+              ]
+}

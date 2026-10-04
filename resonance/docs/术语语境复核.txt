@@ -1,0 +1,7 @@
+语境复核记录：living will
+英文条目2295询问市档案馆是否存放living wills与death certificates。
+包内后续对白把要调取的will用于证明侄女继承关系，界面与任务名称使用will。
+因此本条在游戏用途语境中采用“生前遗嘱”，保持与任务“遗嘱”的衔接。
+医学上的living will通常指预先医疗意愿文件，其含义已核对：
+https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will
+这不作为现实法律或医疗文件的翻译参考；游戏内文件及前后对话列入实机语境复核。

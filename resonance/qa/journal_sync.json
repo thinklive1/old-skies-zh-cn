@@ -1,0 +1,130 @@
+[
+  {
+    "basis_id": 92,
+    "first": 6787,
+    "last": 6798,
+    "width_limit_units": 14,
+    "used_lines": 8,
+    "slots": 12
+  },
+  {
+    "basis_id": 93,
+    "first": 6877,
+    "last": 6881,
+    "width_limit_units": 13,
+    "used_lines": 5,
+    "slots": 5
+  },
+  {
+    "basis_id": 94,
+    "first": 6905,
+    "last": 6909,
+    "width_limit_units": 13,
+    "used_lines": 4,
+    "slots": 5
+  },
+  {
+    "basis_id": 95,
+    "first": 6882,
+    "last": 6887,
+    "width_limit_units": 12,
+    "used_lines": 5,
+    "slots": 6
+  },
+  {
+    "basis_id": 98,
+    "first": 6937,
+    "last": 6944,
+    "width_limit_units": 17,
+    "used_lines": 5,
+    "slots": 8
+  },
+  {
+    "basis_id": 99,
+    "first": 6961,
+    "last": 6967,
+    "width_limit_units": 12,
+    "used_lines": 5,
+    "slots": 7
+  },
+  {
+    "basis_id": 101,
+    "first": 6764,
+    "last": 6765,
+    "width_limit_units": 6,
+    "used_lines": 2,
+    "slots": 2
+  },
+  {
+    "basis_id": 104,
+    "first": 6925,
+    "last": 6928,
+    "width_limit_units": 10,
+    "used_lines": 4,
+    "slots": 4
+  },
+  {
+    "basis_id": 105,
+    "first": 6757,
+    "last": 6763,
+    "width_limit_units": 14,
+    "used_lines": 7,
+    "slots": 7
+  },
+  {
+    "basis_id": 107,
+    "first": 6805,
+    "last": 6816,
+    "width_limit_units": 10,
+    "used_lines": 11,
+    "slots": 12
+  },
+  {
+    "basis_id": 109,
+    "first": 6901,
+    "last": 6904,
+    "width_limit_units": 12,
+    "used_lines": 4,
+    "slots": 4
+  },
+  {
+    "basis_id": 113,
+    "first": 6835,
+    "last": 6846,
+    "width_limit_units": 15,
+    "used_lines": 8,
+    "slots": 12
+  },
+  {
+    "basis_id": 115,
+    "first": 6889,
+    "last": 6898,
+    "width_limit_units": 11,
+    "used_lines": 7,
+    "slots": 10
+  },
+  {
+    "basis_id": 116,
+    "first": 6853,
+    "last": 6856,
+    "width_limit_units": 9,
+    "used_lines": 4,
+    "slots": 4
+  },
+  {
+    "basis_id": 120,
+    "first": 6929,
+    "last": 6930,
+    "width_limit_units": 14,
+    "used_lines": 2,
+    "slots": 2
+  },
+  {
+    "basis_id": 121,
+    "first": 6910,
+    "last": 6912,
+    "width_limit_units": 13,
+    "used_lines": 3,
+    "slots": 3
+  }
+]
