@@ -1,0 +1,450 @@
+[
+  {
+    "id": "643aa97e949c9c35",
+    "source": "Sofa",
+    "target": "沙发",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6cf18d593a3e0807",
+    "source": "Trance User",
+    "target": "迷境用户",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7be5610a028c050c",
+    "source": "Spray",
+    "target": "喷雾",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2595aaf59177c638",
+    "source": "IV Drip",
+    "target": "静脉输液",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16be85c9442acb87",
+    "source": "User Disconnected:[[Pheerless Phil[Vomitor",
+    "target": "用户已断开连接：[[无畏菲尔[呕吐者",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55b5507a4527346e",
+    "source": "Users: %d",
+    "target": "用户：%d",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "714251a4c2eda663",
+    "source": "&554 It's built into the wall, I can't just pull that out.",
+    "target": "&554 它嵌在墙里，不能直接拔出来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "48bf1523d7cf11fd",
+    "source": "&700 There's a really bad smell coming from the vent. Somehow it's even worse than this room.",
+    "target": "&700 通风口里有股恶臭，居然比这个房间还臭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "60fda73eb48b8127",
+    "source": "&701 A public-access terminal, covered in other people's wetware.",
+    "target": "&701 一台公共接入终端，上面全是其他人的湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "756cbfa45c9afc86",
+    "source": "&702 From the cables running up the stairs, I guess it's been liberated off the street.",
+    "target": "&702 沿着楼梯铺上去的电缆，看来这东西是从街上“解放”过来的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dbddce35896691b8",
+    "source": "&703 It's been cracked to run a customized software-environment for the Trance.",
+    "target": "&703 它经过破解，能运行定制的迷境软件环境。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6f3e3cc00b9e26b",
+    "source": "&555 I can't reach any of its control surfaces, there's a centimetre-thick layer of other people's wetware covering its surface.",
+    "target": "&555 所有操作界面都够不着，表面糊着一厘米厚的他人湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2b17543e70f3d6b",
+    "source": "// Connection formed: ENV.TRANCE/DEN",
+    "target": "//连接已建立：ENV.TRANCE/DEN",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "893b99492c3e7afe",
+    "source": "Mandala",
+    "target": "曼荼罗",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "702c0e1f6f529ead",
+    "source": "&704 The stairs lead back up to the street.",
+    "target": "&704 楼梯通往上面的街道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32067d7fab999594",
+    "source": "&556 She looks so starved and ragged.",
+    "target": "&556 她看起来饥肠辘辘，衣衫褴褛。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8e4123677dca36fc",
+    "source": "&557 It's people like her that give Trancers a bad rep.",
+    "target": "&557 就是她这种人，让迷境用户的名声变差。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46f8f97318d735dd",
+    "source": "&516 // Diagnostic Link Formed[[USER ID: CaptainCheese969[SYNC TIME: %d:%d:%d[SYNC RATIO: 45%[[SYNC TARGET: //CoN/Terminal/LEON",
+    "target": "&516 //诊断连接已建立[[用户ID：CaptainCheese969[同步时间：%d:%d:%d[同步率：45%[[同步目标：//CoN/Terminal/LEON",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d7806eee0bb59478",
+    "source": "&558 It's really, REALLY uncool to steal from someone who's in the Trance.",
+    "target": "&558 偷正在迷境里的人身上的东西，真的，真的很不够意思。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e3afdff9593aa55d",
+    "source": "&559 But I'm in something serious.",
+    "target": "&559 可我现在遇到了大麻烦。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f9d885e1e549200",
+    "source": "&560 Huh...she doesn't even have anything on her.",
+    "target": "&560 哦……她身上连东西都没带。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fe93dc11e3399737",
+    "source": "&705 A battered sofa. It must be older than I am.",
+    "target": "&705 一张破沙发，肯定比我年纪还大。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c791127092d73dd5",
+    "source": "Picked up: Credit Chip",
+    "target": "已拾取：信用芯片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d7391b1871786eed",
+    "source": "&561 This is a LOT of quanta for someone to lose in the sofa.",
+    "target": "&561 这可是一大笔量子币，谁会丢在沙发里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "741523d8bce3f770",
+    "source": "&562 There's nothing else in there.",
+    "target": "&562 里面没别的了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "042eed5d76e07ec2",
+    "source": "&563 Plus, I think I might catch something if I keep touching it.",
+    "target": "&563 而且，再碰下去，我大概会染上什么病。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1fc5cd9a5e462d95",
+    "source": "&564 I'm not getting anywhere near that thing!",
+    "target": "&564 我绝不靠近那东西！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "216429116d499cb9",
+    "source": "&518 The pipes feel still. Apparently, nothing is flowing through them.",
+    "target": "&518 管道摸起来没动静，里面显然没有东西流过。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f92d0053b429cc9",
+    "source": "&519 You can feel the flow of water through the creaky pipes.",
+    "target": "&519 你能感觉到水流经过吱呀作响的管道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b6b86579ebf8ea6",
+    "source": "&520 The pipes rumble and shake with built-up pressure.",
+    "target": "&520 积聚的压力让管道轰鸣、震动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7d0a694e199f8e4",
+    "source": "&521 The pipes cross the ceiling, usefully labelled for maintenance. These are apparently tasked to carry water.",
+    "target": "&521 管道横跨天花板，标记清楚，方便维修。显然，这些是供水管道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "24a865f4d7cad32a",
+    "source": "&522 Thanks to your handiwork, the young man on the mat is getting a better wash from them than he's likely had in weeks.",
+    "target": "&522 多亏你的手艺，垫子上的年轻人洗了个澡，可能比过去几周洗的都干净。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a7b6312ab244a1e",
+    "source": "&523 The leak you've created in the pipe, along with the backlog of effluence, creates a nauseating mess across the walls and floor.",
+    "target": "&523 你弄破的管道，加上积压的污水，把墙面和地板弄得令人作呕。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eac31ade39ac8553",
+    "source": "&565 No way, I'm not getting under that mess.",
+    "target": "&565 想都别想，我才不站到那堆脏东西下面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4242684380488fb4",
+    "source": "&566 That's the plumbing wrecked.",
+    "target": "&566 管道算是毁了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3b65a1d5f3ad954",
+    "source": "&567 This guy'd better hope nobody turns the shower on.",
+    "target": "&567 这家伙最好祈祷，没人打开淋浴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b212e8db57ca870",
+    "source": "&568 Oh, ew!",
+    "target": "&568 哦，真恶心！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "53b36fa1a4dd1acd",
+    "source": "&706 Looks like they're growing their own wetware down here as well.",
+    "target": "&706 看来，他们也在这里自己培养湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2a7c0a7ca7763828",
+    "source": "&707 I guess it's so warm and damp, the pirated cultures must love it.",
+    "target": "&707 这么暖和又潮湿，盗版培养物肯定喜欢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "241911d604464674",
+    "source": "&569 Nah. Mine's fresher.",
+    "target": "&569 不了，我自己的更新鲜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fedc519a1c3202d4",
+    "source": "&570 Besides, everyone else will have been sticking their fingers in that stuff.",
+    "target": "&570 再说，其他人肯定都把手指伸进过这些东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f331ac9b5f1c2340",
+    "source": "&708 Looks like he's made himself comfortable.",
+    "target": "&708 看来，他把自己安顿得很舒服。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "19510df9af5fceb9",
+    "source": "&571 Nope, nothing.",
+    "target": "&571 不，什么也没有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38f85bf90cba2f18",
+    "source": "&709 He's enhancing his experience with a side of intravenous drugs. The IV bag says it's epinephrine.",
+    "target": "&709 他还用静脉注射的药物增强体验。输液袋上写着肾上腺素。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1cafc5ac0b4ebb1",
+    "source": "&572 I can't just yank it out, I have no idea what that'll do to him!",
+    "target": "&572 不能直接拔掉，我完全不知道会对他造成什么影响！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bafe20b1a29d22f",
+    "source": "&527 // Diagnostic Link Formed[[USER ID: Domino[SYNC TIME: %d:%d:%d[SYNC RATIO: 87%[[SYNC TARGET: //CoN/Terminal/LEON",
+    "target": "&527 //诊断连接已建立[[用户ID：Domino[同步时间：%d:%d:%d[同步率：87%[[同步目标：//CoN/Terminal/LEON",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8e70bbe4d79894e",
+    "source": "&528 You find a part of his arm that's definitely a blood vessel, rather than a tattoo.",
+    "target": "&528 你在他胳膊上找到了一处，可以确定那是血管，而不是纹身。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a03eadfb34cc5fd",
+    "source": "&575 He got the whole dose. This should be interesting...",
+    "target": "&575 一整剂都给他了。这下有意思了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b310284c6bc76e1c",
+    "source": "&576 Doesn't work like that.",
+    "target": "&576 不是这么用的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dcd2901ce12e11f0",
+    "source": "&577 It's for putting stuff in, not sucking it out.",
+    "target": "&577 它是用来往里注射，不是往外吸的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fcb69579af11c139",
+    "source": "&529 The injector, now empty, would do no good.",
+    "target": "&529 注射器已经空了，不会有用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6603adcf6ec575f8",
+    "source": "&530 // Diagnostic Link Formed[[USER ID: Gandarf[SYNC TIME: %d:%d:%d[SYNC RATIO: 18%[[SYNC TARGET: //CoN/Terminal/LEON",
+    "target": "&530 //诊断连接已建立[[用户ID：Gandarf[同步时间：%d:%d:%d[同步率：18%[[同步目标：//CoN/Terminal/LEON",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "544d272854efd4ff",
+    "source": "&710 One of the Trancers is spread out on a foam mat on the floor, underneath all the rusty water pipes.",
+    "target": "&710 一名迷境用户摊在地上的泡沫垫上，头顶就是那些锈迹斑斑的水管。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f185ec0d3a7c69a7",
+    "source": "&578 Hey.",
+    "target": "&578 嘿。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17ac53c61ad17c10",
+    "source": "&579 Nope, he's under.",
+    "target": "&579 没用，他已经沉进去了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b97b4838ebea917",
+    "source": "&711 I don't want to lose anything in the sofa.",
+    "target": "&711 我可不想把东西丢进沙发里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

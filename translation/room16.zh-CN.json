@@ -1,0 +1,410 @@
+[
+  {
+    "id": "ef2056b5d9637035",
+    "source": "Surgical Lab",
+    "target": "手术室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5054e7ab28f4dc1d",
+    "source": "Regis & Lao's Office",
+    "target": "里吉斯与劳的办公室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8faa00c6aab2e17d",
+    "source": "Santiago and Preston's Office",
+    "target": "圣地亚哥与普雷斯顿的办公室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "efb96e4d959b392f",
+    "source": "Waiting Room",
+    "target": "等候室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b56c2156e9b1b082",
+    "source": "Bulletins",
+    "target": "公告",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38d82ca600a245a3",
+    "source": "Corpsman Quince",
+    "target": "昆斯医务员",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7fc5ff411f58b348",
+    "source": "&348 This door lead's to CEL's surgical lab. It seems to currently be occupied.",
+    "target": "&348 这扇门通向CEL的手术室。里面现在似乎有人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9edf5a407a3b7d8",
+    "source": "&443 This door leads into the surgical lab. The bomber's body is being stored here until it can be disposed of properly.",
+    "target": "&443 这扇门通向手术室。炸弹客的尸体暂存在里面，等待妥善处理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c8665a63af184650",
+    "source": "&1511 Locked. They must have finished with the bomber.",
+    "target": "&1511 锁了。他们应该已经处理完炸弹客了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab836e423c66c626",
+    "source": "&2004 Locked. Dr Santiago must be working on something he doesn't want me seeing.",
+    "target": "&2004 锁了。圣地亚哥博士肯定在做什么不想让我看见的事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8787417ed86f6bf0",
+    "source": "// CEL Operations - Corr. L8-NW",
+    "target": "// CEL行动部门：L8-NW走廊",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "359016ec1582d12e",
+    "source": "CEL Headquarters",
+    "target": "CEL总部",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "725f99ebafc7841d",
+    "source": "&1512 Corpsman, the girl in there's life may be at risk.",
+    "target": "&1512 医务员，里面那个姑娘可能有生命危险。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0072911d86cca89",
+    "source": "&1513 Do not let her leave without authorization from myself, or Dr Lao.",
+    "target": "&1513 没有我或劳博士的许可，别让她离开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "da87188e7466ac58",
+    "source": "&78 Can do, Cha...ah...Dr Regis.",
+    "target": "&78 明白，查……啊……里吉斯博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f56612e650f24c8e",
+    "source": "&1514 'Empty apartment' my ass...that girl was locked in there...",
+    "target": "&1514 放屁，什么“空公寓”……那姑娘当时被锁在里面……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa187a0b24a2aef8",
+    "source": "&1515 That asshole knew what would happen when I...",
+    "target": "&1515 那混蛋知道我一旦……会发生什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "600489702b0b770b",
+    "source": "&1516 He wanted her killed...I know what he has against me, but why her as well?",
+    "target": "&1516 他想杀她……我知道他为什么恨我，可为什么连她也要杀？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eecb008cbc4bf072",
+    "source": "&349 // DEBUG - Civs in Benny Hill mode again. Repexecing them to normal speed (I hope)",
+    "target": "&349 // 调试：市民又进入班尼·希尔模式了。在每帧执行中恢复正常速度（希望如此）",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2fcb566bc4af9ad5",
+    "source": "&1517 Better not...I'm already having enough trouble making myself go...",
+    "target": "&1517 还是别了……我已经很难说服自己离开了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69b726bbc2114519",
+    "source": "&350 One of the department's offices. According to the drone's memory, there's a warning about one of the agents working in there - apparently, he doesn't exactly treat service drones well.",
+    "target": "&350 部门的一间办公室。无人机的记忆里，对在里面工作的一名探员有条警告：他对服务无人机可不怎么友好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ec518d2202583ba3",
+    "source": "&444 You've been sharing an office with Lao for nineteen months now. Normally Central would have rotated your partners by now, if it weren't for the enormous jump in efficiency since the match, and the fact that nobody else can stand working with you.",
+    "target": "&444 你和劳共用这间办公室，已经十九个月了。按理说，中枢早就该给你轮换搭档，不过你们搭档后效率大幅提升，而且其他人都受不了跟你共事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "752b2cfbf10abadf",
+    "source": "&351 One of the corner offices where CEL's agents carry out their work. The drone's optical sensors are too cheap to see through the frosted glass.",
+    "target": "&351 CEL探员办公的一间转角办公室。无人机的光学传感器太廉价，无法透过磨砂玻璃看清里面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "283d8202b1d1e333",
+    "source": "&445 You don't mind Santiago, but aren't too keen on Preston. Everything he says or does seems to be a slavishly obedient attempt to stay in line with Central. Not even Central cares that much.",
+    "target": "&445 你不讨厌圣地亚哥，可不怎么喜欢普雷斯顿。他的一言一行，都像是在卑躬屈膝地迎合中枢。连中枢自己都没那么在乎。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "44d597cb184d71e0",
+    "source": "&352 The office is locked. Apparently, these agents are following their security procedures manual.",
+    "target": "&352 办公室锁着。看来，这些探员正在照安全规程办事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "48bcf2efef8998e4",
+    "source": "&446 Though you can tolerate Dr Santiago's opinions, it looks like Dr Preston's the only one in the office. You'd rather avoid another sermon on the merits of Centralized government.",
+    "target": "&446 圣地亚哥博士的观点，你还勉强能忍，但现在办公室里似乎只有普雷斯顿博士。你可不想再听一遍中枢政府有多好的说教。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "120492e1d3bc21d9",
+    "source": "&353 Judging by all the people and drones coming and going, you'd have a hard time escaping this way - if you can manage to leave the 'waiting room'.",
+    "target": "&353 看这人和无人机来来往往的样子，就算能离开“等候室”，你也很难从这条路逃出去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a218df91ab1d9088",
+    "source": "&447 You rarely take this elevator to anywhere but the vehicle bays.",
+    "target": "&447 你坐这部电梯，通常都是去车辆停放区。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d6d577aeafe001fd",
+    "source": "// Error: Insufficient Clearance",
+    "target": "// 错误：权限不足",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "604dd881919420da",
+    "source": "&79 Hey! Charlie!",
+    "target": "&79 嘿！查理！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9f4a59bfce6ae9bf",
+    "source": "&1518 That's 'Dr Regis', corpsman.",
+    "target": "&1518 应该叫“里吉斯博士”，医务员。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "96c218b98ee726a6",
+    "source": "&80 Oh, uh, sorry Dr Regis...sir...",
+    "target": "&80 哦，呃，抱歉，里吉斯博士……长官……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "62a63bc8d5c8bbfa",
+    "source": "&81 I need your help, doctor.",
+    "target": "&81 我需要您的帮助，博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d1053a0bee67b3c9",
+    "source": "&82 Rescue brought someone in, but I'm not qualified to take the statement.",
+    "target": "&82 救援队带回来一个人，可我没有资格询问并记录口供。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a083e07aa67864e5",
+    "source": "&1519 I'm very busy, corpsman. Can't you find Santiago or Lao?",
+    "target": "&1519 我很忙，医务员。你不能找圣地亚哥或劳吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93e1b99390fb208b",
+    "source": "&83 Um, no sir. They're still in the AR lab, trying to fight off the heuristic attack.",
+    "target": "&83 呃，不行，长官。他们还在增强现实实验室，设法抵御启发式攻击。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "09dfc0487e690b47",
+    "source": "&84 It'd only take a second, sir.",
+    "target": "&84 只要一会儿就好，长官。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6ed4a184927ed567",
+    "source": "&85 Oh, thank you sir! I've been panicking all evening about it.",
+    "target": "&85 哦，谢谢您，长官！为这事，我整个晚上都慌得不行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2f00d371ecbb19a",
+    "source": "&86 She's in the waiting room at the end, here.",
+    "target": "&86 她就在这头的等候室里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7d474dd8d20b10e8",
+    "source": "&1520 Better see what that corpsman wants before I leave.",
+    "target": "&1520 离开前，最好先看看那个医务员有什么事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e115231c37734c61",
+    "source": "&359 The way into the cells - you remember being brought in through here hours ago.",
+    "target": "&359 这里通往牢房。你记得几小时前，自己就是从这里被带进去的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7dddc6b4ffd6919",
+    "source": "&360 At this end of the hall, the door leads into the waiting rooms. Persons of interest who don't quite deserve the cells are temporarily kept here.",
+    "target": "&360 走廊这头的门通向等候室。一些需要关注、但还不至于关进牢房的人，会被暂时留在这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8adc6f22c5e66eb8",
+    "source": "&362 Notices upon notices float past. Many of them are nothing but CEL's technical jargon - all you understand is what's appeared in detective sims.",
+    "target": "&362 公告一条接一条飘过。大多都是CEL的技术术语，你只看得懂侦探模拟游戏里出现过的那些。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6624da51a4483d42",
+    "source": "&363 Notices cascade across the board. You dislike the way they need to move all of the time, and believe that it reflects the short attention span people have in this city.",
+    "target": "&363 公告在面板上不断滚动。你不喜欢它们总要动来动去，觉得这反映了这座城市的人注意力有多短暂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f72bd39e485a0009",
+    "source": "&364 The drone doesn't have the reach to select any of the notices, giving you only a momentary glimpse of each.",
+    "target": "&364 无人机够不着，无法选中任何公告，你只能匆匆瞥见每条的内容。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e70f0967dd584baa",
+    "source": "&366 The friendly corpsman stands guard outside the cells. He looks like he expects any problems to come from inside the cell, rather than the corridor.",
+    "target": "&366 那位友善的医务员守在牢房外。他似乎只提防牢房里出问题，不怎么留意走廊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "18bd7a287464291a",
+    "source": "&367 He doesn't appear to notice your drone. No wonder, there are so many of them roaming CEL.",
+    "target": "&367 他似乎没注意到你的无人机。也不奇怪，CEL里到处都有无人机在走动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5256577ac39006c3",
+    "source": "&369 From down on the ground, there's nothing the drone can do to it.",
+    "target": "&369 从地面上，无人机拿它毫无办法。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "57ab3426206702a6",
+    "source": "&370 Sabotaging the camera in your own office is one thing, but people might seriously question you if you start vandalising the ones in the hallways.",
+    "target": "&370 破坏自己办公室的摄像头是一回事，可要是连走廊里的也开始破坏，别人恐怕就真要找你问话了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a2bbeb1828ad1839",
+    "source": "Another of Central's cameras. You've lost count of how many you've seen in this building.",
+    "target": "又一个中枢的摄像头。你已经数不清，在这栋楼里见过多少个了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e169c34a17171b7f",
+    "source": "&2089 One of Central's fish-eye cameras.",
+    "target": "&2089 中枢的鱼眼摄像头。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

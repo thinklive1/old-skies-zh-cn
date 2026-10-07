@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c8ca40c6ba0043ee",
+    "source": "Latha.HUB",
+    "target": "拉塔的迷境中心",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4b415ab1819fb1f6",
+    "source": "Wasteland",
+    "target": "荒原",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8bfae3eee941527",
+    "source": "Writing",
+    "target": "文字",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "59645daaa072e8a6",
+    "source": "DATA - Epinephrine.mol",
+    "target": "数据——Epinephrine.mol",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ced39975426dc69",
+    "source": "Return to HUB",
+    "target": "返回迷境中心",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f6d4b7b4cf670366",
+    "source": "'Guy'",
+    "target": "“盖伊”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7a9694a65108bb11",
+    "source": "Hey, Dala! (^_^) [  Seems like we haven't seen you in YEARS (>.<)  No idea if you heard, but there's a big game coming up at the Rotunda. If you're up for leaving your apartment, we can probably get you a place on the team  xoxo  - T",
+    "target": "嘿，达拉！(^_^) [感觉好多年没见你了(>.<) 不知道你听说了没有，圆形大厅最近要办一场大比赛。你要是愿意出公寓，我们应该能给你在队里留个位置。亲亲，抱抱。——T",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49007605f3f89e83",
+    "source": "Yo, Dala! Good to hear from you, even though I know really it means you want something :P     Basically yes, the batch of blue wetware you got is cracked, so you can grow it yourself, just don't Grey Goo your place! It needs a few things: 1) Water, since that's what makes up like 99% of it. 2) Nutrition, it's an organism after all. 3) Heat, in the normal stuff it'd cause it to break down, but the special blend is activated instead.",
+    "target": "哟，达拉！收到你的消息真高兴，虽然我知道你肯定又想要点什么:P 简单说，没错，你拿到的那批蓝色湿件已经破解了，可以自己培养。只是别把家里弄成灰蛊灾难现场！需要几样东西：1）水，毕竟它差不多99%都是水。2）营养，它终究是个生物。3）热量，普通湿件遇热会分解，不过这个特殊配方反而会被激活。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "00da60e9eac3ae64",
+    "source": "&688 Better be careful what I touch. Anything could be a carrier for malware in here.",
+    "target": "&688 碰东西得小心。这里任何东西都可能携带恶意软件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0c84830435d4893b",
+    "source": "&482 A dry, barren wasteland, like something out of a warzone. You're not sure if it's based upon a real place, or carefully designed to create the right mood.",
+    "target": "&482 干燥荒芜的废土，像是从战场上搬来的景象。你不知道这是根据真实地点还原的，还是精心设计来营造这种气氛。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83cf4983a87d95c5",
+    "source": "&689 I have no idea what it means, but it sure looks oppressive.",
+    "target": "&689 不知道这些字是什么意思，不过看着就很压抑。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c486804ff7e835a7",
+    "source": "&690 In a sim like this, it's probably read-only.",
+    "target": "&690 在这种模拟环境里，应该只能读取。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d38fa1f5abecac2b",
+    "source": "//Return to:[// USR.Mandala/Hub",
+    "target": "//返回至：[// USR.Mandala/Hub",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

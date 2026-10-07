@@ -1,0 +1,162 @@
+[
+  {
+    "id": "99ee12779e4b311f",
+    "source": "Growth Cylinder",
+    "target": "培养筒",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4a1bc66856484594",
+    "source": "Yellow Plants",
+    "target": "黄色植物",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "62e93ec2ae802516",
+    "source": "Purple Plants",
+    "target": "紫色植物",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32f6692fc35fbc8c",
+    "source": "&1139 I'd better not touch it with my bare hands.",
+    "target": "&1139 最好别徒手碰它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f04908e5d6313cce",
+    "source": "&1140 I've tranced too many horror-sims that start that way.",
+    "target": "&1140 我在迷境里玩过太多恐怖模拟，都是这么开场的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e2b3e794f4ec16ce",
+    "source": "&1141 Yeesh, no wonder this stuff's labelled 'ecohazard'.",
+    "target": "&1141 嘶，难怪这东西标着“生态危害”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "98ceac334b692812",
+    "source": "&1142 Give it a few weeks, it could probably eat the whole planet.",
+    "target": "&1142 再长上几个星期，它大概能把整个星球吃掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31e8b9bcf6bba361",
+    "source": "&1143 I hope it doesn't grow in my pocket...",
+    "target": "&1143 希望它别在我口袋里长起来……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4dea27c6f1301682",
+    "source": "&1144 Hey, this one's empty.",
+    "target": "&1144 嘿，这个是空的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ba06d02d71562fe",
+    "source": "&1145 This is the one I planted the growth matrix inside.",
+    "target": "&1145 我就是把培养基质种在了这个里面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6fa71892f5c0abf0",
+    "source": "&1146 There's nothing in here.",
+    "target": "&1146 里面什么都没有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "085945707c8e3c2b",
+    "source": "&1147 I only just planted it!",
+    "target": "&1147 我才刚种下去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8bda7de131a45868",
+    "source": "&1148 There, I've planted the growth matrix.",
+    "target": "&1148 好，培养基质种下去了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55f7d0820a6bc26f",
+    "source": "&1149 Let's hope I got mom's green fingers.",
+    "target": "&1149 希望我继承了妈妈养植物的本事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "285bf74f93aa2f73",
+    "source": "&1150 I don't think I can plant that.",
+    "target": "&1150 那个应该不能种。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc370d5d60d8ad72",
+    "source": "&489 //GROWTH 1[[CHAMBER A: [Orchidaceae Isotria v2.47[Status: Updated version (TM & Copyright Tiphal Labs)[[CHAMBER B:[Adoxaceae Medica[Status: Testing epiphytic structure alterations",
+    "target": "&489 //培养区1[[A舱：[Orchidaceae Isotria v2.47[状态：更新版本（商标及版权归蒂法尔实验室所有）[[B舱：[Adoxaceae Medica[状态：正在测试附生结构的改造",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5259677fa480c7df",
+    "source": "&490 //GROWTH 1[[CHAMBER A: [Not in use[Status: N/A[[CHAMBER B:[Beta Vulgaris[Status: Cyclic-testing ideal ambient temperatures for new strain",
+    "target": "&490 //培养区1[[A舱：[未使用[状态：不适用[[B舱：[Beta Vulgaris[状态：循环测试新品系的理想环境温度",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6b2aa9bffd8b6e1d",
+    "source": "&491 //GROWTH 1[[CHAMBER A: [Xenosporans Tizardi[Status: WARNING - EXPONENTIAL GROWTH: DANGER OF CONTAMINATION[[CHAMBER B:[Gamma Vulgaris[Status: Cyclic-testing ideal ambient temperatures for new strain",
+    "target": "&491 //培养区1[[A舱：[Xenosporans Tizardi[状态：警告——指数级生长：存在污染危险[[B舱：[Gamma Vulgaris[状态：循环测试新品系的理想环境温度",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9f6eddff0f44046",
+    "source": "&1151 These don't look like any of the others in here.",
+    "target": "&1151 这些看起来跟这里其他的植物都不一样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f51f1c391c8cd89",
+    "source": "&1152 I'll be here for hours if I start taking every single plant I find.",
+    "target": "&1152 要是看到什么植物都采一点，我得忙上好几个小时。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "id": "5ff30619e9df240e",
+    "source": "Corridor",
+    "target": "走廊",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6fe357156ae9a7fb",
+    "source": "X-Ray",
+    "target": "X光片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9f306b464ddf1bc1",
+    "source": "Hand X-Ray",
+    "target": "手部X光片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f3c579e4c5daf2b",
+    "source": "Autopsy Report",
+    "target": "尸检报告",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ddff15a2da596882",
+    "source": "Hologram",
+    "target": "全息影像",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6650e883aa151ba4",
+    "source": "Surgical Apparatus",
+    "target": "手术设备",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4cc78edbb0a75ab6",
+    "source": "Remains",
+    "target": "遗骸",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "007e760186a81e40",
+    "source": "// CEL Operations - Autopsy Lab",
+    "target": "// CEL行动部门：尸检室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1f8882b59fa78950",
+    "source": "Autopsy Lab[CEL Command Office[[T-2 Hours",
+    "target": "尸检室[CEL指挥部[[T−2小时",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66c63790f25963e0",
+    "source": "&1084 Oh...you found him.",
+    "target": "&1084 哦……你找到他了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2a0a9929583527fe",
+    "source": "&1475 Apparently, this is what Central wanted me to see.",
+    "target": "&1475 看来，中枢就是想让我看这个。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9ba02eec987695a",
+    "source": "&1476 Why would it do this?",
+    "target": "&1476 它为什么要这么做？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "debe11af8cc9a31f",
+    "source": "&1477 I stopped him!",
+    "target": "&1477 我已经阻止他了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dae3c51139d5805d",
+    "source": "&1085 Charlie...",
+    "target": "&1085 查理……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b20a6c867004711",
+    "source": "&1478 I promised him I could help!",
+    "target": "&1478 我答应过他，我能帮他！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "37c53d0d1696394c",
+    "source": "&1479 And then they...IT did this to him...",
+    "target": "&1479 然后他们……它就这样对待他……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2871f6fbac5d2e7d",
+    "source": "&1086 Maybe it's trying to hammer home the message.",
+    "target": "&1086 也许它是想让你记牢这次的教训。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b6323df0ea572102",
+    "source": "&1087 After all, Central didn't ask you to talk him out of it.",
+    "target": "&1087 毕竟，中枢没叫你劝他回头。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4b0af80aa28bb0c2",
+    "source": "&1088 It said 'neutralize.'",
+    "target": "&1088 它说的是“消除威胁”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f9542b6efbd70d0",
+    "source": "&1480 Why would it be so...?",
+    "target": "&1480 它怎么能这么……？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "da151b84ca16b31f",
+    "source": "&94 Doctor Regis.",
+    "target": "&94 里吉斯博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed5eb739629c42e9",
+    "source": "&1481 You...soulless, callous...",
+    "target": "&1481 你这……没有灵魂、冷血无情的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4686e73e214bcb01",
+    "source": "&1482 I PROMISED HIM -",
+    "target": "&1482 我答应过他——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d4214f109fa0ae95",
+    "source": "&95 His euthanasia was a necessary measure.",
+    "target": "&95 对他实施安乐死，是必要的措施。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0f489b0a36a04d00",
+    "source": "&96 75 percent of the captured bombers have attempted self-immolation in custody.",
+    "target": "&96 被捕的炸弹客中，有百分之七十五曾在羁押期间试图自爆。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bde2d12c248e55d3",
+    "source": "&97 The risk of repeating such an action was unacceptable.",
+    "target": "&97 我们不能接受这种行为再次发生的风险。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "96addedb4bb944cf",
+    "source": "&1483 He wouldn't have...",
+    "target": "&1483 他不会的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a21b8ba50115f80",
+    "source": "&98 Whatever the case may have been,",
+    "target": "&98 无论事实如何，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e29ab25826e14967",
+    "source": "&99 CEL Command Offices are now safe from -",
+    "target": "&99 CEL指挥部现已不再受到——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "79061bcc34dd1ade",
+    "source": "&1484 What's left of him, anyway.",
+    "target": "&1484 至少，他剩下的那些部分不会了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7cf6f34f83b89a87",
+    "source": "&1089 Charlie...there was nothing we could do...",
+    "target": "&1089 查理……我们也无能为力……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a1ca5538afea86ee",
+    "source": "&1090 He was endangering lives.",
+    "target": "&1090 他危及了别人的生命。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e907235cc31e939",
+    "source": "&1485 We should have done BETTER, though.",
+    "target": "&1485 可我们本该做得更好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f2e433fcacb84d1",
+    "source": "&1486 He deserved better.",
+    "target": "&1486 他不该落得这个下场。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "61184a6693363f26",
+    "source": "&1091 He was a brainwashed militant.",
+    "target": "&1091 他是个被洗脑的武装分子。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cfdff7ff55f996ed",
+    "source": "&1092 And I shot him. It's my responsibility.",
+    "target": "&1092 而且，是我开的枪。责任在我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5ee287d66f63619a",
+    "source": "&1487 I'm your superior. I made the call. It's all on me.",
+    "target": "&1487 我是你的上级，决定是我做的。全都该由我负责。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a32132c97d959729",
+    "source": "&1488 Very good shot, by the way.",
+    "target": "&1488 顺便说一句，那一枪打得很准。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "22740866088640f7",
+    "source": "&1489 You probably saved my life with it.",
+    "target": "&1489 你大概救了我一命。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "28fee5bd6ff7430e",
+    "source": "&100 A most satisfactory performance, Dr Regis.",
+    "target": "&100 表现十分令人满意，里吉斯博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8dde1f617f05a529",
+    "source": "&101 I have assimilated Dr Lao's report.",
+    "target": "&101 我已读取劳博士的报告。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "27c531f029c5abfa",
+    "source": "&102 No further lives were put at risk.",
+    "target": "&102 未有更多人的生命受到威胁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "422007b2d93aedae",
+    "source": "&103 You will of course remember confidentiality protocol.",
+    "target": "&103 当然，你应当记得保密规定。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e6bcf1469fb983b",
+    "source": "&104 Discussion of this event outside CEL brings severe penalties.",
+    "target": "&104 在CEL以外谈论此次事件，将受到严厉惩处。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6038c641bded638a",
+    "source": "&1490 As usual.",
+    "target": "&1490 老规矩。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef069f443aac4e64",
+    "source": "&105 I'm sure you understand, to protect the safety of -",
+    "target": "&105 我相信你能理解，这是为了保障——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "abd4357199630e83",
+    "source": "&1491 What's left, anyway.",
+    "target": "&1491 反正，也只剩这些了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6b3f217528a6cfe4",
+    "source": "&1093 I'm amazed there was that much to find.",
+    "target": "&1093 能找到这么多，我都很惊讶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc24142e3dc3fb59",
+    "source": "&1094 I think Central was blowing its top when I sent it the report.",
+    "target": "&1094 我把报告发过去的时候，中枢大概气炸了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "10d44f6dc5d25451",
+    "source": "&1492 I should have done better, Max.",
+    "target": "&1492 我本该做得更好，麦克斯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "64d3c9fd8fc300e6",
+    "source": "&1095 He was a brainwashed fundamentalist.",
+    "target": "&1095 他是个被洗脑的原教旨主义者。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "413900ec43bef443",
+    "source": "&1096 And you're lucky you got out alive.",
+    "target": "&1096 你能活着出来，已经很幸运了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a3c96a06bad9766",
+    "source": "&1097 It's a miracle nobody else was hurt.",
+    "target": "&1097 没有其他人受伤，简直是个奇迹。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b4c62fcd9292c7c",
+    "source": "&1493 He was a dud.",
+    "target": "&1493 他是个哑弹。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc016f41870dc746",
+    "source": "&1494 Whoever engineered him did a terrible job.",
+    "target": "&1494 给他做改造的人，手艺糟透了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "57436c4eebe453a9",
+    "source": "&1495 It's why there are such big pieces of him left.",
+    "target": "&1495 所以他的身体还能剩下这么大的碎块。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a1559fffaa50968",
+    "source": "&1098 And now you're trying to make peace with those parts?",
+    "target": "&1098 而你现在想和这些碎块和解？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c982383f511b7261",
+    "source": "&1496 I feel like he could have been more.",
+    "target": "&1496 我总觉得，他的人生本可以不止于此。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0a2280ccfce2294a",
+    "source": "&1497 He was a human being, Max.",
+    "target": "&1497 他也是个人，麦克斯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "358380506aa18d16",
+    "source": "&106 Dr Regis. I have been analysing today's engagement.",
+    "target": "&106 里吉斯博士。我一直在分析今天的交锋。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8815a273075d7b86",
+    "source": "&107 Dr Lao has been overly generous in her report.",
+    "target": "&107 劳博士的报告对你过于宽容。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d4bf4be9e80e7e6a",
+    "source": "&108 It is unsettlingly obvious that it should have been resolved more appropriately.",
+    "target": "&108 显而易见，此事原本应当得到更妥善的解决，这令人不安。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "909dc3f79190c0f0",
+    "source": "&109 It is fortunate for yourself and the city that his detonation was not wholly successful.",
+    "target": "&109 对你和这座城市而言，幸运的是，他的爆炸并未完全成功。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8eb94e1389b509d1",
+    "source": "&110 Pending an investigation of your actions today -",
+    "target": "&110 在调查你今天的行动期间——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2855d4e1ee99518",
+    "source": "&1498 Central?",
+    "target": "&1498 中枢？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "262868a20c98a4a0",
+    "source": "&111  - aaaayyyyyy -",
+    "target": "&111  - aaaayyyyyy -",
+    "status": "preserve",
+    "reason": "room15中枢遇袭时的非语义故障拖音；按原语音与屏幕声音标记保留，不计入译文。",
+    "review_notes": ""
+  },
+  {
+    "id": "33679c7872863843",
+    "source": "&112 - nnnnnnnnnnn -",
+    "target": "&112 - nnnnnnnnnnn -",
+    "status": "preserve",
+    "reason": "room15中枢遇袭时的非语义故障拖音；按原语音与屏幕声音标记保留，不计入译文。",
+    "review_notes": ""
+  },
+  {
+    "id": "3a27274f4de0e716",
+    "source": "&1099 Uh-oh.",
+    "target": "&1099 糟了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0724dbb52eab226a",
+    "source": "&113 General alarm, general alarm. Central functions compromised.",
+    "target": "&113 紧急警报，紧急警报。中枢功能受损。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d11c8199b0311d2f",
+    "source": "&114 Localised E-War attack detected within heuristic barrier systems.",
+    "target": "&114 在启发式屏障系统内部，检测到局部电子战攻击。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2e1d46dd7469a4e",
+    "source": "&115 Systems entering siege mode. All personnel equipped for abstract-dynamic countermeasures,",
+    "target": "&115 系统进入围城模式。所有具备抽象动态反制能力的人员，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "af895912d0eb0f29",
+    "source": "&116 please report to action stations. Repeat, abstract-dynamics to action stations.",
+    "target": "&116 请前往战斗岗位。重复，抽象动态人员前往战斗岗位。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d0605bec3f4b2a3d",
+    "source": "&1100 Sounds like I'm needed.",
+    "target": "&1100 看来轮到我上场了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3da5b099cdabe57",
+    "source": "&1102 Remember - I'm here if YOU need me, too.",
+    "target": "&1102 别忘了，你需要我的时候，我也会在。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4f9a83c84f51e430",
+    "source": "&1103 Remember - no matter what Central says, you've done a great job today.",
+    "target": "&1103 记住，不管中枢怎么说，你今天都干得很出色。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "08836ffe4f56e787",
+    "source": "%d:%d:%d",
+    "target": "%d:%d:%d",
+    "status": "preserve",
+    "reason": "纯时钟格式串，三个数字占位符与冒号无需语言翻译。",
+    "review_notes": ""
+  },
+  {
+    "id": "9b6fd1a7a96ce80a",
+    "source": "0%d:%d:%d",
+    "target": "0%d:%d:%d",
+    "status": "preserve",
+    "reason": "纯时钟格式串，前导零与数字占位符必须保留。",
+    "review_notes": ""
+  },
+  {
+    "id": "a61cc6f32b81759d",
+    "source": "%d:0%d:0%d",
+    "target": "%d:0%d:0%d",
+    "status": "preserve",
+    "reason": "纯时钟格式串，前导零与数字占位符必须保留。",
+    "review_notes": ""
+  },
+  {
+    "id": "65f4c7c09a389dfb",
+    "source": "&426 The reports tell you that he was euthanised shortly after being taken into custody. Despite assurances that his death was a product of Central's caution, you can't help but perceive it as a spiteful show of power.",
+    "target": "&426 报告显示，他在被羁押后不久就遭到了安乐死。尽管报告声称，他的死是中枢谨慎行事的结果，你却无法不觉得，这是一场恶意的权力示威。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4c82a706299a621e",
+    "source": "&427 Despite Max's assurances, you can't help but wonder if there could have been a better end to this. Central's enthusiastic congratulations do nothing to help your feelings on the matter.",
+    "target": "&427 尽管麦克斯安慰了你，你仍忍不住想，事情是否本可以有更好的结局。中枢热情的祝贺，丝毫没有让你感觉好些。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9e14bebfe04ef33",
+    "source": "&428 Having seen this young man's end from so close, you're reminded of a life you left long ago...",
+    "target": "&428 如此近距离地见到这个年轻人的结局，让你想起了很久以前抛下的那种生活……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d7eaa0ba5cb2e22",
+    "source": "&429 You've never personally performed an autopsy, but you're sure that you'd need more than your bare hands.",
+    "target": "&429 你从未亲自做过尸检，但你确定，光靠一双手肯定不够。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "af77561c6522bf35",
+    "source": "&430 The three heavy-duty polymer bags containing his remains have been sealed shut following the coroner's report.",
+    "target": "&430 装着他遗骸的三个高强度聚合物袋，在验尸官出具报告后已经封好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31b375dc13e8e7b7",
+    "source": "&431 Better not. If you start pouring heating gel all over the remaining volatile bones, you're likely to end up triggering an explosion.",
+    "target": "&431 还是别了。要是把烹饪凝胶倒在那些仍不稳定的骨头上，很可能会引发爆炸。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e4df1583de28a423",
+    "source": "&432 You think for a moment, then decide against searching again. Anything else in there that could be learned would be better left to the coroner.",
+    "target": "&432 你想了想，决定不再翻找。里面若还有什么值得了解的，还是留给验尸官处理更好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "811fb7049f1f16c6",
+    "source": "&1499 Why would I want to harm him any more?",
+    "target": "&1499 我为什么还要继续伤害他？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ee1e538078b297c2",
+    "source": "&433 The body has not had a great deal of examination, you suppose they're being careful about the potentially volatile nature of parts of his body. You make a slice along his thigh, and pull his femur loose.",
+    "target": "&433 尸体还没经过太多检查，你猜他们是担心某些部位仍有爆炸风险。你沿着大腿切开一道口子，取出他的股骨。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "42bf854fe6a40790",
+    "source": "&434 Most of the examination has been kept to the head, where the shot was made. You make a slice along his thigh, and pull his femur loose.",
+    "target": "&434 检查主要集中在中弹的头部。你沿着大腿切开一道口子，取出他的股骨。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "57b0093c7a708478",
+    "source": "&435 Making a slice into one of the bags, you remove a femur that survived the blast, mostly intact.",
+    "target": "&435 你划开其中一个袋子，取出一根在爆炸中幸存、基本完好的股骨。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ea0369d8dc75e17",
+    "source": "&436 The door leads back out into this wing of the Case-Specialists Office.",
+    "target": "&436 门外是办案专员办公室这一翼的走廊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "73d430e0151cc01e",
+    "source": "&339 A flickering blue projection of a skeleton. From what you remember of school, you can tell that some of the bones shouldn't be shaped like that.",
+    "target": "&339 蓝色的骨骼投影忽明忽暗。凭着上学时学过的一点知识，你也能看出，有些骨头不该长成那个样子。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21dc39da58fc9041",
+    "source": "&1500 They've holomapped his bone-structure.",
+    "target": "&1500 他们给他的骨骼结构做了全息建模。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c614fe18874f68c5",
+    "source": "&1501 Years of gene-tampering left this kid's bones weakened and warped all around his body.",
+    "target": "&1501 多年的基因改造，让这孩子全身的骨头都变得脆弱、畸形。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "599446869167e001",
+    "source": "&340 The projection continues to flicker. Apparently, your drone has no way to engage with it.",
+    "target": "&340 投影仍在闪烁。看来，你的无人机没法和它交互。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6960a67794a3762c",
+    "source": "&1502 It's a volumetric hologram. Even *I* know I can't actually grab it.",
+    "target": "&1502 这是立体全息影像。连我都知道，根本抓不住它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "27de19e3f03cfdfb",
+    "source": "&342 A good thing Guy's breach wasn't into that drone built into the ceiling, otherwise you wouldn't get very far.",
+    "target": "&342 幸好盖伊侵入的不是那台固定在天花板上的无人机，不然你可走不了多远。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2d12a8186c7e6eb",
+    "source": "&1503 They've been using drones like that for auto or telepresence surgery since I was a kid.",
+    "target": "&1503 我小时候，他们就用这种无人机做自动手术或远程手术了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "24d30d87e77c34fa",
+    "source": "&1504 Looks like it's finished with the autopsy.",
+    "target": "&1504 看来尸检已经做完了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65e15eb2c56279eb",
+    "source": "&346 It's powered down - apparently the utility drone you inhabit can't communicate with it.",
+    "target": "&346 它已经关机，看来你附身的作业无人机无法和它通信。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8ecf7b4835d5cc51",
+    "source": "&1505 It's operated by Central. There isn't anything I can do with it.",
+    "target": "&1505 它由中枢操控。我拿它没办法。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "447f7d521598fca4",
+    "source": "&347 Screens full of medical data. Even if the drone's optics had a high enough resolution for you to read them, you're certain they'd make no sense to you.",
+    "target": "&347 屏幕上满是医学数据。就算无人机的光学系统分辨率够高，让你读清上面的内容，你肯定也看不懂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0769a8f251044630",
+    "source": "&1506 The x-ray shows I was right. He had the spinal brace for scoliosis.",
+    "target": "&1506 X光片证明我没猜错。他戴的是矫正脊柱侧弯的支具。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "580ec6659872231f",
+    "source": "&1507 It's a symptom of the genetic adjustments made to his bones.",
+    "target": "&1507 这是骨骼基因改造带来的症状。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9241a4857ca8efb1",
+    "source": "&1508 It's already been compiled for the report.",
+    "target": "&1508 它已经整理进报告里了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d5dfc2ab4739dc1",
+    "source": "&1509 Apparently the high quantities of explosives in his bones was giving him joint problems.",
+    "target": "&1509 看来，骨头里大量的爆炸物让他的关节出了问题。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "abcc5875064750e2",
+    "source": "&1510 Poor kid must've been in a lot of pain...",
+    "target": "&1510 可怜的孩子，一定疼得厉害……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d91965dfcd0ee28",
+    "source": "&437 // PRELIMINARY SURGICAL REPORT[// SUSPECT CASE: E87-07-141[[NAME: Thomas Beckett[[Suspect terminated in process of security actions at Barbers Gate Transit Station (Red Line, fourth network). Engaged in behavior deemed threatening to public welfare.",
+    "target": "&437 // 初步手术报告[// 嫌疑人案件编号：E87-07-141[[姓名：托马斯·贝克特[[嫌疑人在巴伯斯门交通站（红线，第四网络）的安全行动中被终止生命。其行为被认定为威胁公共福祉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7e1f0918905efbbb",
+    "source": "&438 Surgeon's report:[[It is apparent that the suspect has been subjected to extensive prenatal genetic engineering, though this modification has been seen on a number of occasions. Throughout childhood, the normal deposition of calcium compounds into the skeleton has been reprogrammed to substitute explosive nitrate compounds, leading to secondary bone disease.",
+    "target": "&438 手术医师报告：[[嫌疑人显然在出生前接受过大规模基因改造，此类改造曾多次出现。在整个童年期，其骨骼正常沉积钙化合物的过程被重新编程，改为沉积具有爆炸性的硝酸盐化合物，导致继发性骨病。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7a9960205364629",
+    "source": "&439 Subject was taken into custody without harm to public, but has been determined to be a continued danger due to physical composition and risk of relapse into undesirable worldview.[[Suspect was terminated at 04:00 hours via barbiturate overdose.",
+    "target": "&439 对象被羁押时未造成公众伤害，但鉴于其身体组成，以及再次持有不良世界观的风险，被判定为持续威胁。[[嫌疑人于04:00通过过量使用巴比妥类药物被终止生命。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2808c9cff59e07a",
+    "source": "&440 Subject was neutralized on-site as per CENTRAL recommendation. Low-velocity ammunition used to limit risk of secondary-impact detonation. No other casualties, risk to public mitigated in most acceptable manner.",
+    "target": "&440 根据中枢建议，已在现场消除对象所构成的威胁。使用低速弹药，以限制二次冲击引爆的风险。无其他伤亡，以最为妥当的方式降低了公众风险。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3c4274e43a557a6",
+    "source": "&441 Attempts to neutralize subject unsuccessful. It is believed that a mishandled attempt at negotiation by case officer (REDACTED) provoked activation of subject's volatile physiology.[[Due to comparatively late stage of suspect bodily development, explosive damage was limited. Remains have been recovered for study.",
+    "target": "&441 消除对象威胁的尝试未能成功。据信，办案人员（已隐去姓名）在谈判中处理失当，触发了对象不稳定的生理机制。[[由于嫌疑人的身体发育阶段已相对较晚，爆炸造成的破坏有限。遗骸已回收供研究。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ac2278e7bb8e69c",
+    "source": "&442 !! CAUTION !![[Disposal of remains should be handled with EXTREME CARE. Though subject can no longer trigger a detonation, skeletal remains still retain risk of volatility.[[Handle with care, as with previous such cases.",
+    "target": "&442 ！！注意！！[[处理遗骸时必须极其谨慎。尽管对象已无法自行引爆，其骨骼遗骸仍有爆炸风险。[[请参照此前同类案件，小心处理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "Paired reread five remaining labels/explicit debug notice. Preserved voice token; short literal object/hotspot names translated conservatively because no verified exclusion. Two actual comparison/DoOnceOnly values scoped separately with compiled call evidence.",
+  "source_batches": [
+    "0171-final-object-labels.json"
+  ],
+  "entries": [
+    {
+      "id": "160c0535e5c3c137",
+      "sha256": "6bf6bd09d9195a3845f9194f9451fef76d4b62fdbb8dfa5329c3e5ef7bfa761f"
+    },
+    {
+      "id": "176b5cd144a55b64",
+      "sha256": "d3b59c865feca2bb2ae7887ff0f067e83161540d26e986c8942469f306ccd270"
+    },
+    {
+      "id": "3d3c4a8117c978e4",
+      "sha256": "22a30d9d1c58837320738d1434e9a2408e4503784ca746a675a96626801d46c6"
+    },
+    {
+      "id": "5d7de6709efa9e12",
+      "sha256": "899b1336685cbee97bb14bcc090563f0dbfa31d8dfa47cbf0cc71b7dfcf50e77"
+    },
+    {
+      "id": "eecb008cbc4bf072",
+      "sha256": "ded5bc79158ba1d9bd2081ad36e47d4a0b4419877e2611b7e3ff93a340288c20"
+    }
+  ]
+}

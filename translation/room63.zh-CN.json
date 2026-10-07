@@ -1,0 +1,154 @@
+[
+  {
+    "id": "df36e8a2e993c281",
+    "source": "&1713 Damn...they got past...",
+    "target": "&1713 该死……他们过去了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "488cbdbf7a26b6ce",
+    "source": "&1257 Looks like we're not just stopped, we're docked!",
+    "target": "&1257 看来，不只是停下来，我们靠泊了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "afe05f197acc5cbb",
+    "source": "&1258 Uh-oh...I recognize that office...",
+    "target": "&1258 糟了……我认得那间办公室……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "129ff64ca031789f",
+    "source": "&135 Power systems cycled, re-initialising conduit Alpha.",
+    "target": "&135 电力系统已循环重启，正在重新初始化Alpha供电线路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ce4c4da7f345351",
+    "source": "&39 Power systems cycled, re-initialising conduit Alpha.",
+    "target": "&39 电力系统已循环重启，正在重新初始化Alpha供电线路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0100bb1d462d4c4a",
+    "source": "&136 Power systems cycled, re-initialising conduit Beta.",
+    "target": "&136 电力系统已循环重启，正在重新初始化Beta供电线路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "97c9e9da2513845f",
+    "source": "&40 Power systems cycled, re-initialising conduit Beta.",
+    "target": "&40 电力系统已循环重启，正在重新初始化Beta供电线路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c5bb4f850d451ea9",
+    "source": "SURVIVE",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "692a1464a78852d4",
+    "source": "Currently in Newton on their second night, the group's management have apparently sought asylum arrangements with the city-state. Henry Temba, Newton's Exterior Minister, has confirmed that protection is being sought, stating that \"(the city) will not allow people to be forced to make a choice between free speech, and their safety. We welcome these young men to our community, and will continue to oppose the blatant hypocrisy still rife in the Concord.\"  [ ",
+    "target": "组合目前在牛顿市停留到第二晚，经纪团队似乎已向这个城市国家寻求庇护安排。牛顿市外交部长亨利·滕巴确认，有人正在申请保护，并表示：“本市不会让人被迫在言论自由与人身安全之间作出选择。我们欢迎这些年轻人加入我们的社区，也会继续反对康科德仍然猖獗的公然虚伪。”[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "390a86923a646618",
+    "source": "&631 A hole has been blasted in the window high up the side of the Fulcrum Tower, and a gangplank laid across for entry.",
+    "target": "&631 支点大厦高处的侧窗被炸出一个洞，并架上了通道板，方便进入。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f61ff26746e8e2d",
+    "source": "&632 A large valve on the side of the container of pressurised gas. You suppose this is for siphoning off whatever's in the container.",
+    "target": "&632 加压气体容器侧面的大阀门。你猜，是用来导出里面气体的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b75e55bef126487d",
+    "source": "&1714 I wonder what this...hey!",
+    "target": "&1714 不知道这……嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9567946506fea48",
+    "source": "&601 I can hear a gas, but I can't smell...hey!",
+    "target": "&601 能听到气体的声音，可闻不到……嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f7b08b4c3bd42a36",
+    "source": "&633 You fill the springy membrane with helium, and tie off the hole. You're not sure how big it'd need to be for you to float away as well.",
+    "target": "&633 你把弹性的膜袋充满氦气，扎住开口。不知道，要多大的袋子，才能连你也一起带走。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "657f634d68d24217",
+    "source": "&40 Sorry, Doc - they got past after I ran outta bullets.",
+    "target": "&40 抱歉，博士，我子弹打光以后，他们就过去了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7fad2aee83c28711",
+    "source": "&41 Took three of them, though!",
+    "target": "&41 不过，我干掉了三个！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "477f208a6ad368d6",
+    "source": "&711 Though she made a valiant stand, it appears that sheer force of numbers managed to overwhelm the turret.",
+    "target": "&711 虽然她奋勇抵挡，可人数上的绝对优势，还是压垮了炮塔。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b0550c28b8ded05",
+    "source": "&730 The control room. Looks like they've cleared out.",
+    "target": "&730 控制室。看来，他们已经撤走了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "543875e29a5bcded",
+    "source": "&731 Nothing remains in the control room, except for the slaughtered bodies of several hired-guns.",
+    "target": "&731 控制室里什么都没剩下，除了几具被杀的雇佣枪手尸体。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

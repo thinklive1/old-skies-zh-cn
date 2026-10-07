@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-10-07T06:06:53.859440+00:00",
+  "version": "1.0.0-dev.3",
+  "isolated_copy": true,
+  "engine": "3.6.1.35",
+  "build_files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "size": 1501273,
+      "sha256": "5cd2d843addb5b81f1886dbac72ee95bd09071ac71de914484363cc460779dba"
+    },
+    {
+      "name": "game28.dta",
+      "size": 5637738,
+      "sha256": "c6656e9adbad800c86eb36525df18a73ba147ba2389d36ed1c448c0de8585644"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "sha256": "2745bb76d9076ea3a45bbb0bc47eea1a5b880b879a81f72edaa57414dd7b14ca",
+      "size": 466624
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "sha256": "0ea5b56dbac5dfe8064c249ba27c0751a0fd6b261c9286a422339e87bbf6b17e",
+      "size": 446712
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "sha256": "2589a122bdf835c67e55d238aee32304b5ffcb32a5115ffed459a8f95839b37b",
+      "size": 157452
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "sha256": "d991e5fe3572e8c2b0ebedbef131e1f0b916da82900258137b1488317f8f2147",
+      "size": 457240
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "sha256": "45be13f5f2e94e7737e69d0b00cfa58ddabc67d681aae83fd1291c580ac4cfcf",
+      "size": 457240
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "sha256": "2d3644c4c3f069001a5ad6b58683ba07f2490cb444feeb3fa11029427ed23c1b",
+      "size": 466892
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "sha256": "c3cfb6d9df6ffca3e0887c9aa41eb98f2627d18cbfccc3d44fc435e562194275",
+      "size": 446292
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "sha256": "0983e7154d1376ad0b8895708e5b7b5cbda79fb7e46c7ee6fd8efa9febd78e29",
+      "size": 502680
+    }
+  ],
+  "args": [
+    "<workspace>\\work\\technobabylon\\pilot\\Technobabylon.exe",
+    "--localuserconf",
+    "--windowed",
+    "--gfxdriver",
+    "Software",
+    "--gfxfilter",
+    "StdScale",
+    "1",
+    "--no-message-box",
+    "--log-file=all:debug",
+    "--log-file-path=<workspace>\\work\\technobabylon\\pilot\\test-run-8dd6c747\\logs",
+    "--user-data-dir",
+    "<workspace>\\work\\technobabylon\\pilot\\test-run-8dd6c747\\userdata",
+    "--shared-data-dir",
+    "<workspace>\\work\\technobabylon\\pilot\\test-run-8dd6c747\\shared"
+  ],
+  "language_selection": "installed acsetup.cfg; no --translation override",
+  "visual_game_verified": false,
+  "steam_integration": "not verified",
+  "passed": true,
+  "context_data_sha256": "c6656e9adbad800c86eb36525df18a73ba147ba2389d36ed1c448c0de8585644",
+  "contextual_dialogue_visual_test": "not exercised; startup room only",
+  "duration_seconds": 10.08,
+  "remained_running_during_observation": true,
+  "ended": "owned test process stopped after observation",
+  "checks": {
+    "translation_loaded": true,
+    "utf8_initialized": true,
+    "engine_started": true,
+    "startup_room_entered": true,
+    "all_fonts_loaded": true,
+    "process_survived": true
+  },
+  "rollback_byte_exact": true
+}

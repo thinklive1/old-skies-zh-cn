@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-10-06T05:38:34.181697+00:00",
+  "tool_commit": "3971a5de79c8b45050ec8ddf742bec1a0bb6e2f5",
+  "sdk": "6.0.414",
+  "unique_keys": 13118,
+  "occurrences": 20207,
+  "english_keys_and_order_identical": true,
+  "all_source_contexts_identical": true,
+  "verified_extracted_assets": 95,
+  "all_selected_asset_hashes_match": true
+}

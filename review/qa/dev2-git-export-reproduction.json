@@ -1,0 +1,62 @@
+{
+  "source_commit": "f48a066452083c810beff3e5927f2988ede475f0",
+  "method": "Git archive of committed dev.2 tree; rebuild outside working checkout",
+  "passed": true,
+  "translated": 6702,
+  "reviewed": 5759,
+  "payload_files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "size": 875525,
+      "sha256": "2a23723b16f252e3fada79d769b63963e55d5fa942426c85ab50efa4217724a3"
+    },
+    {
+      "name": "game28.dta",
+      "size": 5636828,
+      "sha256": "3f5495d139e6ce5d4bdf869ca23c1954aa75bf39bd4a28d82f63457014c98820"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "sha256": "196c2c3a188a69a647c1013889ec7191d74bbaf3606515b24ce7af007511f7cd",
+      "size": 394848
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "sha256": "44a63422f2752cc9b09fe1a0e2e05e39fbadadce34c38762a3c9d0042d820bf2",
+      "size": 377684
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "sha256": "04ba381d7b0147764edd4c363644290eb547a83d673a2e51422ff27eb46f5ec2",
+      "size": 135508
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "sha256": "e2eb871776fd3f810f4202429c970220cebc313501ef8ac794b519446980f5d6",
+      "size": 386824
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "sha256": "4565d3c0b04af4b437b63265cac6235605da3b4b76338c7784bcbb0fac4ed3fd",
+      "size": 386824
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "sha256": "d2183fc5acd09a076c291cdefb5262f0551868be94d8e9d5f96cc0f916c903a2",
+      "size": 395104
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "sha256": "17f4c0ee11f03e1193327ea722653de79ddeca2ed61916ede265ba6da3714b61",
+      "size": 377640
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "sha256": "f1e745645008459e6e599f7a3560a3c27c10acada4328d9433633eecc99cd318",
+      "size": 426740
+    }
+  ],
+  "build_manifest_sha256": "63f13c9eddb2ebd6124913cf36572518456ea71388b48b2241d475a241e5ef2a",
+  "all_payload_bytes_identical": true,
+  "formal_release": false
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "017d43c8cfc756c5",
+    "source": "&108 What are we going to do?",
+    "target": "&108 我们该怎么办？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "271fd298e3afea2e",
+    "source": "&52 Well, what are we going to do?",
+    "target": "&52 那现在怎么办？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cfeb1ce0db9ab979",
+    "source": "&143 Gentlemen, please, there's no cause for concern.",
+    "target": "&143 各位先生，请冷静，没什么好担心的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "92d11f2b0c563f83",
+    "source": "&135 My dear, we have all sunk quite a considerable investment into this project, oh my yes.",
+    "target": "&135 亲爱的，我们在这个项目里可投入了不少资金。是啊，可不少。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "76246ca69fde8aef",
+    "source": "&109 Dr Regis KNOWS about us. That means Central knows.",
+    "target": "&109 里吉斯博士知道了我们的事。也就是说，中枢也知道了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6feee9cea65a97d9",
+    "source": "&53 Dr Regis going to tell Central everything that happen.",
+    "target": "&53 里吉斯博士会把发生的事全告诉中枢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "409a004eb833f2a2",
+    "source": "&136 Indeed, we must find some way to avoid implication.",
+    "target": "&136 的确，我们必须想办法脱身。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b6e958e09bb9e65",
+    "source": "&137 Drs Regis and Lao are only two people, and we have powerful legal connections, oh my yes.",
+    "target": "&137 里吉斯和劳博士只有两个人，而我们在司法界人脉深厚。是啊，相当深厚。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7f4e675be0f117ff",
+    "source": "&144 I believe that, though the project cannot succeed, we must salvage what we can.",
+    "target": "&144 我认为，项目虽然已经失败，我们仍该尽量挽回损失。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5a349648a1e85a6",
+    "source": "&110 Most sensible.",
+    "target": "&110 很明智。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb2e5134d3c11f85",
+    "source": "&54 Good thinking.",
+    "target": "&54 好主意。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0baafe05dacb5ceb",
+    "source": "&145 That is why I've decided to turn state's witness, and aid in your prosecution.",
+    "target": "&145 所以，我决定转为控方证人，协助检方起诉你们。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "71b2ca5081bb75ef",
+    "source": "&111 I beg your pardon?",
+    "target": "&111 你说什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6a20019678a0eae9",
+    "source": "&55 What?!",
+    "target": "&55 什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7773ca068bd2ac0c",
+    "source": "&146 Is that enough for you, Charlie?",
+    "target": "&146 查理，这些够了吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7c4e7f3d35a1b491",
+    "source": "&1807 Central's heard plenty.",
+    "target": "&1807 中枢已经听得够多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ef1e61d0894ec2b",
+    "source": "&1808 Councillor Deane, I am arresting you for abuses of the democratic process.",
+    "target": "&1808 迪恩议员，你涉嫌破坏民主程序，我现在依法逮捕你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cfae3a9f83f1fc5d",
+    "source": "&1809 Due to the political and high-profile nature of your crimes,",
+    "target": "&1809 鉴于你的罪行涉及政治，且备受公众关注，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8936cf585e918113",
+    "source": "&1810 ...sentencing will be carried out by secret tribunal.",
+    "target": "&1810 ……将由秘密法庭对你判刑。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9b45d10f188d2c0",
+    "source": "&112 Nina! You can't!",
+    "target": "&112 妮娜！你不能这样！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5dcb37e7e873d28c",
+    "source": "&1811 Chairman Ran, I am arresting you for attempted disruption of city's infrastructure.",
+    "target": "&1811 冉主席，你涉嫌企图破坏本市基础设施，我现在依法逮捕你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "139d1aee1f9e6592",
+    "source": "&56 Okay, I get it, how much you want?",
+    "target": "&56 好，我懂了。你要多少钱？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ce6a9fc90f28260f",
+    "source": "&147 That means 'no lawyers'.",
+    "target": "&147 意思就是：没有律师。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7f05c85dc81e13b",
+    "source": "&138 You would have a hard time prosecuting me for any such thing, Dr Regis.",
+    "target": "&138 里吉斯博士，你恐怕很难以任何这类罪名起诉我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0c474ffce5233e52",
+    "source": "&1319 He's right, we can't arrest him - despite how he looks, he's not people.",
+    "target": "&1319 他说得对，我们不能逮捕他。别看他长得像人，他在法律上可不算人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9328c725ec62a24c",
+    "source": "&1812 No, but we can confiscate you as evidence.",
+    "target": "&1812 不能逮捕，但可以把你作为证物扣押。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6fa281da5d96a297",
+    "source": "&1813 I imagine nobody will want to take responsibility for your actions, though.",
+    "target": "&1813 不过，我想没人愿意为你的行为承担责任。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a238834684730f0b",
+    "source": "&1320 You're going to be in the lock-up for a long time, anyway.",
+    "target": "&1320 总之，你要在证物室里待很久了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7e7e405b1ceeea50",
+    "source": "&139 Oh...my...",
+    "target": "&139 哎……呀……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b6bfb27b777bf5f1",
+    "source": "&1321 Come on.",
+    "target": "&1321 走吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f090c1fa1b48928a",
+    "source": "&148 A job well done! Another triumph for justice.",
+    "target": "&148 干得漂亮！正义又一次获胜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ddba7647926014ef",
+    "source": "&1814 I'm amazed...no, disgusted that Central agreed to your plea bargain.",
+    "target": "&1814 中枢竟然同意跟你做认罪交易，我真是惊讶……不，是恶心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "79aca72e69098601",
+    "source": "&149 What can I say? Networking is my thing.",
+    "target": "&149 怎么说呢？我最擅长的就是经营人脉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

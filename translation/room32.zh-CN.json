@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3c080b85b195f820",
+    "source": "Painting",
+    "target": "画作",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ff666a9b7165845f",
+    "source": "Fulcrum Tower[Central Controller's Office",
+    "target": "支点大厦[中枢管理者办公室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "606ad9205652b71f",
+    "source": "&245 Dr Lao! So good to see you again, my dear.",
+    "target": "&245 劳博士！又见到你真好，亲爱的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6a2c459d5eb668dd",
+    "source": "&1478 Wow, what a view!",
+    "target": "&1478 哇，这视野！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "820eeda94dbe59da",
+    "source": "&1479 I'm glad I had my fear of heights turned off.",
+    "target": "&1479 真庆幸，我把恐高关掉了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "76e553789bfa0b59",
+    "source": "A classically-styled painting - \"Pygmalion\", by Simon Denver.",
+    "target": "一幅古典风格的画作——西蒙·丹佛的《皮格马利翁》。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

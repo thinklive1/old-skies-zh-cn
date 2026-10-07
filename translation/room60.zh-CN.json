@@ -1,0 +1,426 @@
+[
+  {
+    "id": "831d27d57e0b6738",
+    "source": "Sickbay",
+    "target": "医务舱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "610adb67c00432c9",
+    "source": "Cargo Hold",
+    "target": "货舱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "71f2b093ea238d00",
+    "source": "Junction Point",
+    "target": "接线点",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eecb89c53a78a0ef",
+    "source": "Junction",
+    "target": "接头",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31a4730ecf0c5558",
+    "source": "Goggles",
+    "target": "护目镜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f4410384c01a03d3",
+    "source": "Junction Box",
+    "target": "接线盒",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9eb18b63376b3ab",
+    "source": "&1699 That operator'll shoot me down the moment I open the door...",
+    "target": "&1699 我一打开门，那个操作员就会开枪打我……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d475ac89cb1e7f73",
+    "source": "&141 Gotcha!",
+    "target": "&141 抓住你了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3404ef9fc377558c",
+    "source": "&1207 Wow, nice throw, Chantelle.",
+    "target": "&1207 哇，扔得漂亮，尚特尔。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d71458902494dc9",
+    "source": "&198 Did I do good, Dr Max?",
+    "target": "&198 我做得好吗，麦克斯博士？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93fef86db243304a",
+    "source": "&1208 You did great. I'd better find where Regis went...",
+    "target": "&1208 做得很好。最好赶快找到里吉斯……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aecf7855236dd658",
+    "source": "&1209 Ah, dammit. I don't believe it.",
+    "target": "&1209 啊，该死，真不敢相信。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21036fbe12f1a320",
+    "source": "&1700 It ran out of charge again, didn't it?",
+    "target": "&1700 又没电了，是吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8091ed3571a8b069",
+    "source": "&1210 She must have over-exerted herself.",
+    "target": "&1210 她肯定用力过度了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14dc89fc9d020c4d",
+    "source": "&1211 Damn it...I had him *right here*.",
+    "target": "&1211 该死……刚才他就在我*眼前*。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1afc8d99222ac2e7",
+    "source": "&1701 Whoa, what's happening?",
+    "target": "&1701 哇，怎么了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f469a5543b379f8",
+    "source": "&1702 The aerostat's taking off!",
+    "target": "&1702 浮空艇起飞了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14984b59b897bb9d",
+    "source": "&1212 Where are they taking it?",
+    "target": "&1212 他们要开到哪儿去？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "209c4d1e30a1342b",
+    "source": "&1703 It doesn't matter - wherever it is, we...need...",
+    "target": "&1703 无所谓，不管去哪儿，我们……需要……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "86e83c1e7c5660cb",
+    "source": "&1213 You alright, Charlie?",
+    "target": "&1213 没事吧，查理？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c8df3be73bce7a54",
+    "source": "&1214 I'm not sure how much of that stuff I was supposed to give you.",
+    "target": "&1214 我不太确定，那东西该给你用多少。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0155ed12a7f28ec6",
+    "source": "&1704 I'll be...fine...",
+    "target": "&1704 我会……没事的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "304ca78f19c0b52f",
+    "source": "&1215 You're in no fit state for any more trouble.",
+    "target": "&1215 你现在的状态，可经不起再折腾。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "425ea0b4282e6904",
+    "source": "&1216 Stay down here, try and figure out what they're doing with the girl.",
+    "target": "&1216 待在下面，查清他们想对那个女孩做什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0ce3b44ccccd9991",
+    "source": "&1217 I'll find a way to the upper deck.",
+    "target": "&1217 我来想办法上甲板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "716d016a9251d252",
+    "source": "&28 General alarm - starboard control surfaces compromised",
+    "target": "&28 全船警报——右舷操纵面受损",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f712dbdb77356fd",
+    "source": "Picked up: Thermal Goggles",
+    "target": "已拾取：热成像眼镜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bbb679237a6b8937",
+    "source": "&607 One of the security staff has apparently forgotten to collect a set of thermal-imaging goggles.",
+    "target": "&607 看来，一名安保人员忘了取走这副热成像眼镜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f4cecd4c92ce42c4",
+    "source": "&608 These lockers appear to contain supplies for repair and maintenance of the aerostat.",
+    "target": "&608 这些储物柜里，应该是浮空艇维修保养的用品。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12b5772a7e11182a",
+    "source": "Picked up: Bolt Gun",
+    "target": "已拾取：铆钉枪",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2b81f41114ed7eaf",
+    "source": "&609 It's no wonder this aerostat's such a heap, they've almost run out of maintenance supplies - moreso now that you've helped yourself.",
+    "target": "&609 难怪这艘浮空艇这么破，维修用品都快用光了。现在你又拿走一些，就更少了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aea9993bd9e4bad7",
+    "source": "&610 The sign by the door tells you that this is a 'multi-purpose' room, likely reequipped from job to job depending on the needs of a client. From the smell and the surgical lamps you can see through the window it appears to be fitted as a sickbay.",
+    "target": "&610 门边的牌子写着，这是“多用途”房间，可能根据每次客户需求重新装备。从气味和窗内的手术灯来看，目前应该是医务舱。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "736abc0b1ffd816d",
+    "source": "&1708 Unreliable hardware.",
+    "target": "&1708 不可靠的硬件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52cd896de748a520",
+    "source": "&1221 Next time, we'll get the model with longer battery life.",
+    "target": "&1221 下次，换个电池续航更长的型号。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "90b466e3216c7d9a",
+    "source": "&1222 It'd only work when she's powered up.",
+    "target": "&1222 得等她开机，才会有用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d2d9e6a4536267a",
+    "source": "&1223 I've already cracked her mind open.",
+    "target": "&1223 我已经把她的心智破解了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "35dbe37ad5faba43",
+    "source": "&1224 Her mind-state is in my storage buffer.",
+    "target": "&1224 她的意识状态，在我的存储缓冲区里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2745eb79a321bb69",
+    "source": "// Unmounting Mindstate Amalgam: CHANTELLE",
+    "target": "//正在卸载意识状态组合：CHANTELLE",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef78e8d413871c59",
+    "source": "Download complete:[- Pers/Cheffie[- Plat/Chantelle[- Role/Barman",
+    "target": "下载完成：[- 人格／小厨[- 机体／尚特尔[- 职责／酒保",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17bdd547259c4885",
+    "source": "&1225 Everything that was her is now in my pockets.",
+    "target": "&1225 她原来的一切，现在全在我口袋里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e8cc776183f0576b",
+    "source": "&611 The door that leads back to the cargo hold.",
+    "target": "&611 回到货舱的门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a73880b6e02432a8",
+    "source": "&1226 I've got to find Regis!",
+    "target": "&1226 我得找到里吉斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ad905d3af86ce842",
+    "source": "&612 A hatch leading to the upper deck of the aerostat.",
+    "target": "&612 通往浮空艇上层甲板的舱口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "311667e6aef6159d",
+    "source": "&613 The hatch has been locked from the other side.",
+    "target": "&613 舱口被从另一边锁上了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "207232e9d23a3ca0",
+    "source": "&614 Someone working aboard the aerostat has apparently forgotten to shut down their terminal after using it. You wonder how someone forgets something so basic these days, especially after all the informative cartoons in school.",
+    "target": "&614 看来，船上的某个人用完终端后，忘了关机。如今还有人忘记这种基本常识，真是难以理解，毕竟学校里放过那么多科普动画。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "94829b1fba29a69e",
+    "source": "&1227 I don't need to breach it - it's already unlocked.",
+    "target": "&1227 不用入侵，已经解锁了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0971aa27373f5e0b",
+    "source": "&688 It's locked with a password. How quaint. It will still need to be breached before the terminal can be accessed.",
+    "target": "&688 用密码锁着，还真老派。想接入终端，仍然得先攻破它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "04e00a6f97bb77c3",
+    "source": "&615 You remember seeing a hotspot through the thermal vision underneath here.",
+    "target": "&615 你记得，之前用热成像视野在下面发现过一个热点。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ce0ee307495c3c7",
+    "source": "&1709 What do I look like, a mechanic?",
+    "target": "&1709 我看着像机械师吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb3efbc3866a4213",
+    "source": "&1710 That's what I've got Lao for.",
+    "target": "&1710 这才是我找劳帮忙的原因。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "df94494dfb4a9f69",
+    "source": "&1228 That's one of the power junctions pulled.",
+    "target": "&1228 一个电力接点拔掉了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d5c73b809bcc3685",
+    "source": "&1229 That's another done.",
+    "target": "&1229 又一个。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e28231b37fdcbff",
+    "source": "&1230 How many of these things are there?",
+    "target": "&1230 到底有多少这种东西？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

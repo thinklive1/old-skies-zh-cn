@@ -1,0 +1,162 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "逐条英中二读38条已校对正文的精确重复候选，仅复用完整同文正文，保留各目标语音编号，不做模糊匹配或逐词拼装。单独检查Lets go/Go on调用上下文：前者由劳在room63发话改为走吧，后者为催尚特尔继续回忆保留接着说；其余问候、感叹、录音与物品句对照阅读后确认。",
+  "source_batches": [
+    "0122-exact-body-reuse-after-context-review.json"
+  ],
+  "entries": [
+    {
+      "id": "11a3fe3ca8b3c3a0",
+      "sha256": "6511c9085ac3e313139caa8bdd2b9f31173b982f4ef3e23ecc36b87672b7fe8e"
+    },
+    {
+      "id": "11c78588e1652e96",
+      "sha256": "ed312facbd2470407d0110b9e6f28a82e277211acb22ab4061fecb46e179e4b1"
+    },
+    {
+      "id": "19450fe55ca18d38",
+      "sha256": "b9e4ad869130cb9057075600a7e0a9a56b0ee9bd31c8074380266f23ff036085"
+    },
+    {
+      "id": "28d0e8e8370c7491",
+      "sha256": "7f31ed202c95b029cdfda071adf0c19f3e36440efbcb4b0284434480b7c11dec"
+    },
+    {
+      "id": "2b6f538641dd344b",
+      "sha256": "c952253e91638e8535544fd8419978b306eb8a34bded1026f041730efd411123"
+    },
+    {
+      "id": "2ffa720eeb1e2f92",
+      "sha256": "a89c4bf9f806f115294456da2510f4e717b4699bd7cf522aed307825b528bc15"
+    },
+    {
+      "id": "32b983ff45198bb1",
+      "sha256": "57bded54c1134e709a5bf22d48cd158aaaf379082e1f8f8ea2ce385143f001b9"
+    },
+    {
+      "id": "37e3333621dc86a5",
+      "sha256": "6b91cbb7709b50cd17118d4e331fcefc586f412d3d65d939eb8f83b57aa75d7e"
+    },
+    {
+      "id": "46537879a9926cf8",
+      "sha256": "37573bae57e914e4cb4d5a108ffd8fe26ae2ca6215b6f5ba3c2b15bd47c82712"
+    },
+    {
+      "id": "4fe001524965b742",
+      "sha256": "fb4892628e48caeadc0f85403595aa5058a1975d389f223eeb56ebccfe71a096"
+    },
+    {
+      "id": "5e1a9b52853551c7",
+      "sha256": "3052ac62e41fe65741a845e87b2a53900bddf5e75f1fe48bf108c74ee1d88941"
+    },
+    {
+      "id": "60c784177e55da88",
+      "sha256": "4fc0865c76513a66a93fd797b1bcbbb8dac4b496893d9300dead8a51cb27367d"
+    },
+    {
+      "id": "67cc8ac3e00e8647",
+      "sha256": "8b3b87b494cff4d97618c864f4fe82ec8808e9c8e4afd8f05a7a567147c31f74"
+    },
+    {
+      "id": "6a20019678a0eae9",
+      "sha256": "faf580dac32a988da485198e91f139b65d5c5f7a82f8fc186948dd07fa800bc0"
+    },
+    {
+      "id": "70f9be6fdb1dc6f6",
+      "sha256": "23412c13cdcac7aaa1459a2e6ac9a065c3646b1c3d4317e6821bbcb32f29df1e"
+    },
+    {
+      "id": "77ae902bee7cd17a",
+      "sha256": "6b1ab21632b83b25c228aff043fdfac8248c41ef337a29c9df4e5a9f41a6e1bd"
+    },
+    {
+      "id": "77f803be3f0b7ce7",
+      "sha256": "11ceda74d6f053b659e5cd1189a2fb6f3f274f6d9ea56ee1575fc09f0a342004"
+    },
+    {
+      "id": "7bf9bf7f191e0083",
+      "sha256": "70aca52d8991c9b4c8195e7b1dc294e97a62698f8af1ca95914e6acc175254d1"
+    },
+    {
+      "id": "8043d41306d1d6aa",
+      "sha256": "293df84e126691d82f2f33b833b4b43d26ee14fdcac4318c1b51c72effec10e3"
+    },
+    {
+      "id": "82e5dbfaff94cdff",
+      "sha256": "f03afbbccad06c77cdd2f2ef93893cef8a29e3fcaa7cd4966ddb1c102ff1a898"
+    },
+    {
+      "id": "8a68b1d091ce6db4",
+      "sha256": "695125795c49d10ed75207bcc97ebc77bcb150de6ede4c987442a5c666bb88d3"
+    },
+    {
+      "id": "8b40f765b90e7e45",
+      "sha256": "7dc642dbeedce5336fa69fbbaa14ad73c9d8c5f3a36ac11f828a7dd2b6b78d4c"
+    },
+    {
+      "id": "8e0b683c71dee34e",
+      "sha256": "9f37fa1f9449d4042ae1ea2474a73091ee594693f80f8a3289aa9e253398e025"
+    },
+    {
+      "id": "8f97d99fcef9b160",
+      "sha256": "af7c8963799dd235b8119577cdda62680f7d2e95531b741982884beca7cf492c"
+    },
+    {
+      "id": "95dfff595e9ba7e8",
+      "sha256": "545311670cde39c553af47094cd75d700609fcef436e09c3e093d41b938ebf53"
+    },
+    {
+      "id": "964d52b847e4e1f3",
+      "sha256": "c26394c3641558dd3cdc46bb50f312c3de7b77f30a313144639d4f06873b6b8e"
+    },
+    {
+      "id": "97d6918882fbf374",
+      "sha256": "0c9eaf28ac52de09623ced815342da8509ec0ac1a46e194dc3ff5c3168fa7f14"
+    },
+    {
+      "id": "a6b338a160925e0c",
+      "sha256": "03f4e3c5ce985f8c76b1e28e753321f18fea7c448e7373b059ba7edd0d96ea3a"
+    },
+    {
+      "id": "ba65c32552edbe3a",
+      "sha256": "7c0d0b4277012a314ce84ddae59774bd7c921e3e25daf5ec9d9dc04219ed1ad7"
+    },
+    {
+      "id": "bf34edf0de079e52",
+      "sha256": "e28cbf01c5179bd8a934a32d82fe53291856de22039c5e64e58079498630fca6"
+    },
+    {
+      "id": "ce89d8b05f2b0a81",
+      "sha256": "bed0a71f6f0e073bfc6f5cbb27571c4c89c5c1daef3068081d34b9d248af9938"
+    },
+    {
+      "id": "dce34e319c74997b",
+      "sha256": "18eb0d59fd042e4f2bb315360c6664c2e1cc6b5f2e99fab0f124be2cdab2ac85"
+    },
+    {
+      "id": "df387300119644f9",
+      "sha256": "7b6a7a653e7f0bdc05c6063218696f1321538e28dbe01b7856026608d9a5e2f0"
+    },
+    {
+      "id": "e295707c2b5c5466",
+      "sha256": "6d83f98aeba6645c9b0333264ec852819a16309baf090cfafb9cf47ef13f5a8b"
+    },
+    {
+      "id": "fc225941ac4b075a",
+      "sha256": "65c33b5d2c9e2fac15952e271558bc1daf80bbf396430bfd86eb15dbc98a5684"
+    },
+    {
+      "id": "ff16f1c5d2455bbf",
+      "sha256": "fdf30ce66f8229e47f20bc5328eba1014f6e832b3dc99e61f2b218fce3520c23"
+    },
+    {
+      "id": "ff4e95ff4d73a421",
+      "sha256": "e0ddc6c14074fd5578560f39661487766cf4d93bd790166a3e8bd4648cbb5e8a"
+    },
+    {
+      "id": "ffa2747e786e0cb8",
+      "sha256": "ffaebd33108c19db7b53b55f4d70ab2d6e9e2c16e88bd2ddc1b1b436625f7b92"
+    }
+  ]
+}

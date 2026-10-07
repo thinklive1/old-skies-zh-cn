@@ -1,0 +1,13 @@
+{
+  "id": "TB-L10N-003",
+  "status": "resolved",
+  "release_blocking": false,
+  "problem": "Original space-based wrapping hangs on long Chinese paragraphs (150001-loop guard).",
+  "resolution": "Translated-mode detours use UTF-8 codepoints, measured font-0 pixel width <=260 and explicit [ line breaks; English mode resumes original entry code.",
+  "evidence": [
+    "review/qa/pre-fix-long-text-hang.log",
+    "review/qa/text-layout-probe.json",
+    "review/qa/text-layout-probe.log"
+  ],
+  "limits": "263 long paragraphs checked as both mail and news, 526 list checks, 40 font3 controls. This is offscreen engine validation, not a complete visible playthrough."
+}

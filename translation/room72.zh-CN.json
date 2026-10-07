@@ -1,0 +1,138 @@
+[
+  {
+    "id": "b6898f35c4686baa",
+    "source": "&636 Um...hi...",
+    "target": "&636 呃……你好……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "91d53091f148d143",
+    "source": "&637 Max...um...Dr Lao told me you'd be here, since you left the hospital.",
+    "target": "&637 麦克斯……呃……劳博士说，你出院后会来这儿。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ad93e9f3a015930",
+    "source": "&1801 Did she, now?",
+    "target": "&1801 她这么说的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5410a86e59b5e18a",
+    "source": "&638 Yeah...she said this was your...special place?",
+    "target": "&638 嗯……她说，这里对你……很特别？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0cd7a7a89005e658",
+    "source": "&639 I kinda know what that's like. I've got one of my own...",
+    "target": "&639 我大概能理解。我也有个这样的地方……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8cd89760bdf05ea0",
+    "source": "&1802 Latha, I need to say it again...I'm sorry...",
+    "target": "&1802 拉塔，我得再说一遍……对不起……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d7e4450553a22ad7",
+    "source": "&640 Damn right, you should be!",
+    "target": "&640 没错，你是该道歉！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fe46a906c9566218",
+    "source": "&641 You nearly killed me!",
+    "target": "&641 你差点杀了我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ce22076e0df47574",
+    "source": "&642 But, Lao also told me what you did in the tower...",
+    "target": "&642 不过，劳也告诉我，你在塔里做了什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d8b7b510179f9608",
+    "source": "&1803 It was the right thing to do.",
+    "target": "&1803 那是我该做的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "56d0ba6bdb2eb406",
+    "source": "&643 It was more than that! You almost DIED!",
+    "target": "&643 不只是这样！你差点连命都没了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e6042af24a7a5ca",
+    "source": "&644 And...I think it goes a hell of a long way to making up for before.",
+    "target": "&644 所以……我觉得，你已经弥补了很多。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a03e5ccd20720c2",
+    "source": "&1804 We have a lot of catching up to do. How about we start again from scratch?",
+    "target": "&1804 我们还有很多事要聊。不如从头认识一下？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77ac29b3216d787e",
+    "source": "&1805 Hi, I'm Charlie Regis. I'm a CEL agent, I have difficulty with change, and I'm apparently a father.",
+    "target": "&1805 你好，我叫查理·里吉斯。是CEL探员，不太能适应变化，而且看来还是个父亲。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e7e275e3a67f0d7",
+    "source": "&645 Hey, I'm Latha. I'm a Trance-addict, and I've spent the last two years jobless.",
+    "target": "&645 嗨，我叫拉塔。我有迷境瘾，过去两年一直没工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ebaa3814ebd5c53e",
+    "source": "&646 I'd also like to learn about where I came from...",
+    "target": "&646 我也想知道，自己究竟从哪里来……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5115663bda50f4e5",
+    "source": "&1806 Take a seat. Let me tell you about your mother...",
+    "target": "&1806 坐吧。我跟你讲讲你母亲的事……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,1223 @@
+{
+  "generated_at": "2026-10-07T06:50:04.157393+00:00",
+  "version": "1.0.0-rc.1",
+  "release_state": "ready",
+  "source_sha256": "2e34cd71fca6112e061289cfa9dfe4a294058f8b17690b572d230f2bf03c109c",
+  "translation_sha256": "7dcaf44ef62581b8404255b339bc3ae8a66a5aa10c647b099155bee9e89f958d",
+  "unique_source_keys": 13118,
+  "occurrences": 20207,
+  "translated_total": 11984,
+  "counts": {
+    "reviewed": 11984,
+    "preserve": 243,
+    "excluded": 891
+  },
+  "scope_finalized": true,
+  "complete": true,
+  "scripts": {
+    "Alleviation.asc": {
+      "reviewed": 389,
+      "excluded": 1
+    },
+    "Commentary.asc": {
+      "reviewed": 2,
+      "excluded": 689
+    },
+    "Dialog 0": {
+      "reviewed": 98,
+      "preserve": 3
+    },
+    "Dialog 10": {
+      "reviewed": 87
+    },
+    "Dialog 11": {
+      "reviewed": 23
+    },
+    "Dialog 12": {
+      "reviewed": 22
+    },
+    "Dialog 13": {
+      "reviewed": 49
+    },
+    "Dialog 14": {
+      "reviewed": 10
+    },
+    "Dialog 15": {
+      "reviewed": 78
+    },
+    "Dialog 16": {
+      "reviewed": 92
+    },
+    "Dialog 17": {
+      "reviewed": 100
+    },
+    "Dialog 18": {
+      "reviewed": 126
+    },
+    "Dialog 19": {
+      "reviewed": 80
+    },
+    "Dialog 2": {
+      "reviewed": 11
+    },
+    "Dialog 20": {
+      "reviewed": 1
+    },
+    "Dialog 21": {
+      "reviewed": 226
+    },
+    "Dialog 22": {
+      "reviewed": 11
+    },
+    "Dialog 23": {
+      "reviewed": 167
+    },
+    "Dialog 24": {
+      "reviewed": 162
+    },
+    "Dialog 25": {
+      "reviewed": 30
+    },
+    "Dialog 26": {
+      "reviewed": 99
+    },
+    "Dialog 27": {
+      "reviewed": 117
+    },
+    "Dialog 28": {
+      "reviewed": 39
+    },
+    "Dialog 29": {
+      "reviewed": 15
+    },
+    "Dialog 3": {
+      "reviewed": 95
+    },
+    "Dialog 30": {
+      "reviewed": 20
+    },
+    "Dialog 31": {
+      "reviewed": 115
+    },
+    "Dialog 32": {
+      "reviewed": 113,
+      "preserve": 1
+    },
+    "Dialog 33": {
+      "reviewed": 57
+    },
+    "Dialog 34": {
+      "reviewed": 56
+    },
+    "Dialog 35": {
+      "reviewed": 126
+    },
+    "Dialog 36": {
+      "reviewed": 74,
+      "excluded": 1
+    },
+    "Dialog 37": {
+      "reviewed": 64
+    },
+    "Dialog 38": {
+      "reviewed": 70,
+      "preserve": 1
+    },
+    "Dialog 39": {
+      "reviewed": 103
+    },
+    "Dialog 4": {
+      "reviewed": 82
+    },
+    "Dialog 40": {
+      "reviewed": 106
+    },
+    "Dialog 41": {
+      "reviewed": 35
+    },
+    "Dialog 42": {
+      "reviewed": 11
+    },
+    "Dialog 43": {
+      "reviewed": 136
+    },
+    "Dialog 44": {
+      "reviewed": 66
+    },
+    "Dialog 45": {
+      "reviewed": 114
+    },
+    "Dialog 46": {
+      "reviewed": 77
+    },
+    "Dialog 47": {
+      "reviewed": 105
+    },
+    "Dialog 48": {
+      "reviewed": 61
+    },
+    "Dialog 49": {
+      "reviewed": 102
+    },
+    "Dialog 5": {
+      "reviewed": 93
+    },
+    "Dialog 50": {
+      "reviewed": 24
+    },
+    "Dialog 51": {
+      "reviewed": 23,
+      "excluded": 1
+    },
+    "Dialog 53": {
+      "reviewed": 55
+    },
+    "Dialog 54": {
+      "reviewed": 42
+    },
+    "Dialog 55": {
+      "reviewed": 70
+    },
+    "Dialog 56": {
+      "reviewed": 2
+    },
+    "Dialog 57": {
+      "reviewed": 32
+    },
+    "Dialog 58": {
+      "reviewed": 2
+    },
+    "Dialog 59": {
+      "reviewed": 36
+    },
+    "Dialog 6": {
+      "preserve": 1,
+      "reviewed": 204,
+      "excluded": 1
+    },
+    "Dialog 60": {
+      "reviewed": 35
+    },
+    "Dialog 61": {
+      "reviewed": 35
+    },
+    "Dialog 62": {
+      "reviewed": 86
+    },
+    "Dialog 63": {
+      "reviewed": 166
+    },
+    "Dialog 64": {
+      "reviewed": 121
+    },
+    "Dialog 65": {
+      "reviewed": 116
+    },
+    "Dialog 66": {
+      "reviewed": 98
+    },
+    "Dialog 67": {
+      "reviewed": 28
+    },
+    "Dialog 68": {
+      "reviewed": 31
+    },
+    "Dialog 69": {
+      "reviewed": 91
+    },
+    "Dialog 7": {
+      "reviewed": 66
+    },
+    "Dialog 70": {
+      "reviewed": 12
+    },
+    "Dialog 71": {
+      "reviewed": 12
+    },
+    "Dialog 72": {
+      "reviewed": 49
+    },
+    "Dialog 74": {
+      "reviewed": 34
+    },
+    "Dialog 75": {
+      "reviewed": 43
+    },
+    "Dialog 76": {
+      "reviewed": 73
+    },
+    "Dialog 79": {
+      "reviewed": 87
+    },
+    "Dialog 8": {
+      "reviewed": 208
+    },
+    "Dialog 80": {
+      "reviewed": 77
+    },
+    "Dialog 81": {
+      "reviewed": 56
+    },
+    "Dialog 82": {
+      "reviewed": 76
+    },
+    "Dialog 83": {
+      "reviewed": 110
+    },
+    "Dialog 84": {
+      "reviewed": 89
+    },
+    "Dialog 85": {
+      "reviewed": 14
+    },
+    "Dialog 86": {
+      "preserve": 1,
+      "reviewed": 68,
+      "excluded": 1
+    },
+    "Dialog 87": {
+      "reviewed": 6
+    },
+    "Dialog 9": {
+      "reviewed": 84
+    },
+    "GlobalScript.asc": {
+      "reviewed": 1493,
+      "preserve": 134,
+      "excluded": 31
+    },
+    "Scrollers.asc": {
+      "preserve": 1,
+      "reviewed": 3
+    },
+    "TechnoScript.asc": {
+      "reviewed": 743,
+      "preserve": 40,
+      "excluded": 3
+    },
+    "_GlobalVariables.asc": {
+      "excluded": 2
+    },
+    "dialog0": {
+      "reviewed": 11
+    },
+    "dialog1": {
+      "reviewed": 9
+    },
+    "dialog10": {
+      "reviewed": 7
+    },
+    "dialog11": {
+      "reviewed": 4
+    },
+    "dialog12": {
+      "reviewed": 5
+    },
+    "dialog13": {
+      "reviewed": 9
+    },
+    "dialog14": {
+      "reviewed": 3
+    },
+    "dialog15": {
+      "reviewed": 11
+    },
+    "dialog16": {
+      "reviewed": 11,
+      "preserve": 1
+    },
+    "dialog17": {
+      "reviewed": 14
+    },
+    "dialog18": {
+      "reviewed": 16
+    },
+    "dialog19": {
+      "reviewed": 7
+    },
+    "dialog2": {
+      "reviewed": 12
+    },
+    "dialog20": {
+      "reviewed": 10
+    },
+    "dialog21": {
+      "reviewed": 23
+    },
+    "dialog22": {
+      "reviewed": 6
+    },
+    "dialog23": {
+      "reviewed": 21
+    },
+    "dialog24": {
+      "reviewed": 18
+    },
+    "dialog25": {
+      "reviewed": 7
+    },
+    "dialog26": {
+      "reviewed": 14
+    },
+    "dialog27": {
+      "reviewed": 10
+    },
+    "dialog28": {
+      "reviewed": 6,
+      "preserve": 1
+    },
+    "dialog29": {
+      "preserve": 2
+    },
+    "dialog3": {
+      "reviewed": 11
+    },
+    "dialog30": {
+      "preserve": 2
+    },
+    "dialog31": {
+      "reviewed": 18
+    },
+    "dialog32": {
+      "reviewed": 15
+    },
+    "dialog33": {
+      "reviewed": 12
+    },
+    "dialog34": {
+      "reviewed": 8
+    },
+    "dialog35": {
+      "reviewed": 19
+    },
+    "dialog36": {
+      "reviewed": 11
+    },
+    "dialog37": {
+      "reviewed": 11
+    },
+    "dialog38": {
+      "reviewed": 9
+    },
+    "dialog39": {
+      "reviewed": 14
+    },
+    "dialog4": {
+      "reviewed": 9
+    },
+    "dialog40": {
+      "reviewed": 13
+    },
+    "dialog41": {
+      "reviewed": 5
+    },
+    "dialog42": {
+      "reviewed": 2
+    },
+    "dialog43": {
+      "reviewed": 16
+    },
+    "dialog44": {
+      "reviewed": 8
+    },
+    "dialog45": {
+      "reviewed": 13
+    },
+    "dialog46": {
+      "reviewed": 9
+    },
+    "dialog47": {
+      "reviewed": 12
+    },
+    "dialog48": {
+      "reviewed": 7
+    },
+    "dialog49": {
+      "reviewed": 13
+    },
+    "dialog5": {
+      "reviewed": 12
+    },
+    "dialog50": {
+      "reviewed": 5
+    },
+    "dialog51": {
+      "reviewed": 6
+    },
+    "dialog53": {
+      "reviewed": 10
+    },
+    "dialog54": {
+      "reviewed": 3
+    },
+    "dialog55": {
+      "reviewed": 10
+    },
+    "dialog56": {
+      "reviewed": 3
+    },
+    "dialog57": {
+      "reviewed": 10
+    },
+    "dialog58": {
+      "reviewed": 5,
+      "preserve": 1
+    },
+    "dialog59": {
+      "reviewed": 4,
+      "preserve": 1
+    },
+    "dialog6": {
+      "reviewed": 21
+    },
+    "dialog60": {
+      "reviewed": 9
+    },
+    "dialog61": {
+      "reviewed": 4
+    },
+    "dialog62": {
+      "reviewed": 10
+    },
+    "dialog63": {
+      "reviewed": 19
+    },
+    "dialog64": {
+      "reviewed": 15
+    },
+    "dialog65": {
+      "reviewed": 12
+    },
+    "dialog66": {
+      "reviewed": 11
+    },
+    "dialog67": {
+      "reviewed": 5,
+      "preserve": 1
+    },
+    "dialog68": {
+      "reviewed": 5,
+      "preserve": 1
+    },
+    "dialog69": {
+      "reviewed": 10,
+      "preserve": 1
+    },
+    "dialog7": {
+      "reviewed": 9
+    },
+    "dialog70": {
+      "preserve": 2
+    },
+    "dialog71": {
+      "preserve": 2
+    },
+    "dialog72": {
+      "reviewed": 7
+    },
+    "dialog73": {
+      "reviewed": 10
+    },
+    "dialog74": {
+      "reviewed": 4
+    },
+    "dialog75": {
+      "preserve": 5
+    },
+    "dialog76": {
+      "reviewed": 11
+    },
+    "dialog79": {
+      "reviewed": 12
+    },
+    "dialog8": {
+      "reviewed": 10
+    },
+    "dialog80": {
+      "reviewed": 10
+    },
+    "dialog81": {
+      "reviewed": 6
+    },
+    "dialog82": {
+      "reviewed": 12
+    },
+    "dialog83": {
+      "reviewed": 14
+    },
+    "dialog84": {
+      "reviewed": 10
+    },
+    "dialog85": {
+      "reviewed": 4
+    },
+    "dialog86": {
+      "reviewed": 9
+    },
+    "dialog87": {
+      "reviewed": 2
+    },
+    "dialog9": {
+      "reviewed": 10
+    },
+    "room1.asc": {
+      "reviewed": 58,
+      "preserve": 1,
+      "excluded": 5
+    },
+    "room10.asc": {
+      "reviewed": 16
+    },
+    "room11.asc": {
+      "reviewed": 58,
+      "preserve": 1,
+      "excluded": 1
+    },
+    "room12.asc": {
+      "reviewed": 121,
+      "preserve": 2
+    },
+    "room13.asc": {
+      "reviewed": 66
+    },
+    "room14.asc": {
+      "reviewed": 37
+    },
+    "room15.asc": {
+      "reviewed": 101,
+      "preserve": 5
+    },
+    "room16.asc": {
+      "reviewed": 46,
+      "preserve": 1
+    },
+    "room17.asc": {
+      "reviewed": 46,
+      "preserve": 1
+    },
+    "room18.asc": {
+      "reviewed": 61
+    },
+    "room19.asc": {
+      "reviewed": 12,
+      "excluded": 1
+    },
+    "room20.asc": {
+      "reviewed": 161,
+      "preserve": 1,
+      "excluded": 3
+    },
+    "room21.asc": {
+      "reviewed": 25,
+      "preserve": 1
+    },
+    "room22.asc": {
+      "reviewed": 9,
+      "preserve": 1
+    },
+    "room23.asc": {
+      "reviewed": 5
+    },
+    "room24.asc": {
+      "reviewed": 13
+    },
+    "room25.asc": {
+      "reviewed": 45
+    },
+    "room26.asc": {
+      "reviewed": 32
+    },
+    "room27.asc": {
+      "reviewed": 25
+    },
+    "room28.asc": {
+      "reviewed": 22
+    },
+    "room29.asc": {
+      "reviewed": 18
+    },
+    "room3.asc": {
+      "excluded": 1,
+      "reviewed": 13
+    },
+    "room30.asc": {
+      "reviewed": 58
+    },
+    "room31.asc": {
+      "reviewed": 29
+    },
+    "room32.asc": {
+      "reviewed": 7
+    },
+    "room33.asc": {
+      "reviewed": 14
+    },
+    "room34.asc": {
+      "reviewed": 46
+    },
+    "room35.asc": {
+      "reviewed": 32
+    },
+    "room36.asc": {
+      "reviewed": 19
+    },
+    "room37.asc": {
+      "reviewed": 24
+    },
+    "room38.asc": {
+      "reviewed": 31
+    },
+    "room39.asc": {
+      "reviewed": 4,
+      "excluded": 1
+    },
+    "room4.asc": {
+      "reviewed": 52,
+      "preserve": 2
+    },
+    "room40.asc": {
+      "excluded": 1
+    },
+    "room41.asc": {
+      "reviewed": 62
+    },
+    "room42.asc": {
+      "reviewed": 27
+    },
+    "room43.asc": {
+      "reviewed": 66,
+      "preserve": 2,
+      "excluded": 2
+    },
+    "room44.asc": {
+      "reviewed": 12,
+      "excluded": 1
+    },
+    "room45.asc": {
+      "preserve": 5,
+      "reviewed": 63
+    },
+    "room46.asc": {
+      "reviewed": 11,
+      "preserve": 4,
+      "excluded": 1
+    },
+    "room47.asc": {
+      "reviewed": 4
+    },
+    "room48.asc": {
+      "reviewed": 22,
+      "excluded": 1
+    },
+    "room49.asc": {
+      "reviewed": 69,
+      "preserve": 1
+    },
+    "room5.asc": {
+      "reviewed": 109
+    },
+    "room50.asc": {
+      "reviewed": 39
+    },
+    "room51.asc": {
+      "reviewed": 22,
+      "excluded": 1
+    },
+    "room52.asc": {
+      "reviewed": 17
+    },
+    "room53.asc": {
+      "reviewed": 20
+    },
+    "room54.asc": {
+      "reviewed": 33,
+      "preserve": 1
+    },
+    "room55.asc": {
+      "reviewed": 73,
+      "preserve": 21
+    },
+    "room56.asc": {
+      "reviewed": 6
+    },
+    "room57.asc": {
+      "reviewed": 25,
+      "excluded": 1
+    },
+    "room58.asc": {
+      "reviewed": 99,
+      "excluded": 1
+    },
+    "room59.asc": {
+      "reviewed": 24,
+      "excluded": 1
+    },
+    "room6.asc": {
+      "reviewed": 18
+    },
+    "room60.asc": {
+      "reviewed": 56
+    },
+    "room61.asc": {
+      "reviewed": 23
+    },
+    "room62.asc": {
+      "reviewed": 55
+    },
+    "room63.asc": {
+      "reviewed": 26,
+      "excluded": 1
+    },
+    "room64.asc": {
+      "reviewed": 20
+    },
+    "room65.asc": {
+      "reviewed": 59
+    },
+    "room66.asc": {
+      "reviewed": 43
+    },
+    "room67.asc": {
+      "excluded": 1,
+      "reviewed": 1
+    },
+    "room68.asc": {
+      "preserve": 2,
+      "reviewed": 37,
+      "excluded": 2
+    },
+    "room69.asc": {
+      "reviewed": 90
+    },
+    "room7.asc": {
+      "reviewed": 31
+    },
+    "room70.asc": {
+      "reviewed": 36
+    },
+    "room71.asc": {
+      "reviewed": 11
+    },
+    "room72.asc": {
+      "reviewed": 18
+    },
+    "room73.asc": {
+      "reviewed": 34
+    },
+    "room74.asc": {
+      "reviewed": 48
+    },
+    "room75.asc": {
+      "reviewed": 49
+    },
+    "room76.asc": {
+      "reviewed": 17
+    },
+    "room77.asc": {
+      "reviewed": 4,
+      "excluded": 1
+    },
+    "room78.asc": {
+      "reviewed": 11
+    },
+    "room79.asc": {
+      "reviewed": 1
+    },
+    "room8.asc": {
+      "reviewed": 39,
+      "excluded": 4
+    },
+    "room80.asc": {
+      "reviewed": 69
+    },
+    "room81.asc": {
+      "reviewed": 43
+    },
+    "room82.asc": {
+      "reviewed": 6
+    },
+    "room83.asc": {
+      "reviewed": 41,
+      "preserve": 1
+    },
+    "room84.asc": {
+      "reviewed": 4
+    },
+    "room85.asc": {
+      "reviewed": 1
+    },
+    "room86.asc": {
+      "reviewed": 2
+    },
+    "room9.asc": {
+      "reviewed": 6
+    }
+  },
+  "rooms": {
+    "room1.crm": {
+      "reviewed": 58,
+      "preserve": 1,
+      "excluded": 55
+    },
+    "room10.crm": {
+      "excluded": 50,
+      "reviewed": 16
+    },
+    "room11.crm": {
+      "reviewed": 66,
+      "excluded": 46,
+      "preserve": 1
+    },
+    "room12.crm": {
+      "reviewed": 131,
+      "preserve": 2,
+      "excluded": 42
+    },
+    "room13.crm": {
+      "reviewed": 75,
+      "excluded": 45
+    },
+    "room14.crm": {
+      "excluded": 50,
+      "reviewed": 37
+    },
+    "room15.crm": {
+      "reviewed": 108,
+      "excluded": 46,
+      "preserve": 5
+    },
+    "room16.crm": {
+      "reviewed": 54,
+      "excluded": 42,
+      "preserve": 1
+    },
+    "room17.crm": {
+      "reviewed": 54,
+      "excluded": 43,
+      "preserve": 1
+    },
+    "room18.crm": {
+      "reviewed": 69,
+      "excluded": 46
+    },
+    "room19.crm": {
+      "reviewed": 17,
+      "excluded": 47
+    },
+    "room2.crm": {
+      "excluded": 50
+    },
+    "room20.crm": {
+      "reviewed": 180,
+      "excluded": 47,
+      "preserve": 1
+    },
+    "room21.crm": {
+      "reviewed": 30,
+      "preserve": 1,
+      "excluded": 47
+    },
+    "room22.crm": {
+      "reviewed": 12,
+      "preserve": 1,
+      "excluded": 50
+    },
+    "room23.crm": {
+      "excluded": 49,
+      "reviewed": 7
+    },
+    "room24.crm": {
+      "excluded": 48,
+      "reviewed": 16,
+      "preserve": 1
+    },
+    "room25.crm": {
+      "reviewed": 55,
+      "excluded": 40
+    },
+    "room26.crm": {
+      "reviewed": 41,
+      "excluded": 43
+    },
+    "room27.crm": {
+      "reviewed": 33,
+      "excluded": 43
+    },
+    "room28.crm": {
+      "reviewed": 28,
+      "excluded": 44
+    },
+    "room29.crm": {
+      "excluded": 44,
+      "reviewed": 24
+    },
+    "room3.crm": {
+      "excluded": 51,
+      "reviewed": 13
+    },
+    "room30.crm": {
+      "reviewed": 63,
+      "excluded": 48
+    },
+    "room31.crm": {
+      "reviewed": 37,
+      "excluded": 44
+    },
+    "room32.crm": {
+      "reviewed": 10,
+      "excluded": 47
+    },
+    "room33.crm": {
+      "reviewed": 21,
+      "excluded": 43
+    },
+    "room34.crm": {
+      "reviewed": 56,
+      "excluded": 43
+    },
+    "room35.crm": {
+      "reviewed": 39,
+      "excluded": 44
+    },
+    "room36.crm": {
+      "excluded": 44,
+      "reviewed": 24
+    },
+    "room37.crm": {
+      "reviewed": 32,
+      "excluded": 41
+    },
+    "room38.crm": {
+      "excluded": 44,
+      "reviewed": 39
+    },
+    "room39.crm": {
+      "excluded": 46,
+      "reviewed": 6
+    },
+    "room4.crm": {
+      "reviewed": 57,
+      "preserve": 2,
+      "excluded": 50
+    },
+    "room40.crm": {
+      "excluded": 51
+    },
+    "room41.crm": {
+      "reviewed": 63,
+      "excluded": 49
+    },
+    "room42.crm": {
+      "reviewed": 33,
+      "excluded": 47
+    },
+    "room43.crm": {
+      "reviewed": 71,
+      "preserve": 2,
+      "excluded": 48
+    },
+    "room44.crm": {
+      "excluded": 48,
+      "reviewed": 17
+    },
+    "room45.crm": {
+      "reviewed": 72,
+      "preserve": 5,
+      "excluded": 45
+    },
+    "room46.crm": {
+      "reviewed": 13,
+      "preserve": 4,
+      "excluded": 49
+    },
+    "room47.crm": {
+      "excluded": 47,
+      "reviewed": 7
+    },
+    "room48.crm": {
+      "reviewed": 24,
+      "excluded": 50
+    },
+    "room49.crm": {
+      "reviewed": 74,
+      "excluded": 47,
+      "preserve": 1
+    },
+    "room5.crm": {
+      "reviewed": 130,
+      "excluded": 36
+    },
+    "room50.crm": {
+      "reviewed": 43,
+      "excluded": 46
+    },
+    "room51.crm": {
+      "reviewed": 28,
+      "excluded": 49
+    },
+    "room52.crm": {
+      "excluded": 43,
+      "reviewed": 23
+    },
+    "room53.crm": {
+      "reviewed": 25,
+      "excluded": 45
+    },
+    "room54.crm": {
+      "reviewed": 39,
+      "preserve": 1,
+      "excluded": 45
+    },
+    "room55.crm": {
+      "reviewed": 84,
+      "excluded": 39,
+      "preserve": 21
+    },
+    "room56.crm": {
+      "excluded": 49,
+      "reviewed": 9
+    },
+    "room57.crm": {
+      "reviewed": 36,
+      "excluded": 51
+    },
+    "room58.crm": {
+      "reviewed": 105,
+      "excluded": 46
+    },
+    "room59.crm": {
+      "reviewed": 30,
+      "excluded": 47
+    },
+    "room6.crm": {
+      "reviewed": 26,
+      "excluded": 47
+    },
+    "room60.crm": {
+      "reviewed": 66,
+      "excluded": 41
+    },
+    "room61.crm": {
+      "excluded": 44,
+      "reviewed": 31
+    },
+    "room62.crm": {
+      "reviewed": 62,
+      "excluded": 45
+    },
+    "room63.crm": {
+      "reviewed": 30,
+      "excluded": 48
+    },
+    "room64.crm": {
+      "excluded": 48,
+      "reviewed": 23
+    },
+    "room65.crm": {
+      "reviewed": 73,
+      "excluded": 40
+    },
+    "room66.crm": {
+      "excluded": 46,
+      "reviewed": 50
+    },
+    "room67.crm": {
+      "excluded": 50,
+      "reviewed": 4
+    },
+    "room68.crm": {
+      "reviewed": 48,
+      "preserve": 2,
+      "excluded": 46
+    },
+    "room69.crm": {
+      "reviewed": 95,
+      "excluded": 46
+    },
+    "room7.crm": {
+      "reviewed": 32,
+      "excluded": 50
+    },
+    "room70.crm": {
+      "excluded": 49,
+      "reviewed": 37
+    },
+    "room71.crm": {
+      "reviewed": 12,
+      "excluded": 50
+    },
+    "room72.crm": {
+      "reviewed": 18,
+      "excluded": 50
+    },
+    "room73.crm": {
+      "reviewed": 34,
+      "excluded": 50
+    },
+    "room74.crm": {
+      "reviewed": 48,
+      "excluded": 50
+    },
+    "room75.crm": {
+      "excluded": 50,
+      "reviewed": 50
+    },
+    "room76.crm": {
+      "excluded": 50,
+      "reviewed": 17
+    },
+    "room77.crm": {
+      "reviewed": 7,
+      "excluded": 50
+    },
+    "room78.crm": {
+      "reviewed": 15,
+      "excluded": 47
+    },
+    "room79.crm": {
+      "excluded": 50,
+      "reviewed": 1
+    },
+    "room8.crm": {
+      "reviewed": 45,
+      "excluded": 50
+    },
+    "room80.crm": {
+      "reviewed": 76,
+      "excluded": 45
+    },
+    "room81.crm": {
+      "reviewed": 54,
+      "excluded": 39
+    },
+    "room82.crm": {
+      "excluded": 50,
+      "reviewed": 6
+    },
+    "room83.crm": {
+      "reviewed": 47,
+      "preserve": 1,
+      "excluded": 44
+    },
+    "room84.crm": {
+      "reviewed": 7,
+      "excluded": 49
+    },
+    "room85.crm": {
+      "excluded": 49,
+      "reviewed": 2
+    },
+    "room86.crm": {
+      "excluded": 50,
+      "reviewed": 4
+    },
+    "room9.crm": {
+      "reviewed": 6,
+      "excluded": 50
+    }
+  },
+  "unresolved_release_issues": [],
+  "next_work": [
+    "用户进入游戏确认可见画面与正常游玩；收到反馈后记录验收或针对问题修订。"
+  ]
+}

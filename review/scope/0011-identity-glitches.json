@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "id": "48987c13bd9e967e",
+      "source": "&62 iiiiiiiiiiiiiiiiiiiiii",
+      "status": "preserve",
+      "identity_only_rescope": true,
+      "reason": "食品机受病毒影响后的故障拖音；源文与目标完全相同，明确保留声音字形，不计入中文翻译数量。"
+    },
+    {
+      "id": "5af9ff51830f817c",
+      "source": "&63 rrrrrrrrrrrrrrrrrrrrrr",
+      "status": "preserve",
+      "identity_only_rescope": true,
+      "reason": "食品机受病毒影响后的故障拖音；源文与目标完全相同，明确保留声音字形，不计入中文翻译数量。"
+    },
+    {
+      "id": "37ad6eb21585a1a5",
+      "source": "&64 llllll11111111111------.......",
+      "status": "preserve",
+      "identity_only_rescope": true,
+      "reason": "食品机受病毒影响后的故障拖音；源文与目标完全相同，明确保留声音字形，不计入中文翻译数量。"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "id": "c78ffe19571018fb",
+    "source": "Platform",
+    "target": "站台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "45f7859648d9536e",
+    "source": "Mess",
+    "target": "杂物",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cadab177c16725fd",
+    "source": "CEL Cruiser",
+    "target": "CEL 巡逻车",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7db4734b75753eff",
+    "source": "Advert",
+    "target": "广告",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bc39374765b5307",
+    "source": "CEL Drone",
+    "target": "CEL 无人机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1f432d5396b1c779",
+    "source": "Barber's Gate Station",
+    "target": "巴伯之门站",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d11a185bbbdfa480",
+    "source": "&6102 Regis!",
+    "target": "&6102 里吉斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6eafdcded28eee63",
+    "source": "&1015 I saw the blast! I thought you were...",
+    "target": "&1015 我看见爆炸了！还以为你……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fd489ce25dacc8b6",
+    "source": "&1384 The doors were still open. I was...blown clear.",
+    "target": "&1384 门还开着。我被……炸到外面来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a36a3f9d990d873",
+    "source": "&1385 Turns out our friend wasn't as powerful as he thought.",
+    "target": "&1385 看来我们这位朋友，威力没有他自己想的那么大。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e2340a95214f2cb",
+    "source": "&1016 Central's not going to like how this went...",
+    "target": "&1016 事情弄成这样，中枢肯定不高兴……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6cf81a9b3c5b0834",
+    "source": "&1386 Screw Central. Come on, let's go.",
+    "target": "&1386 去他的中枢。走吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "71f6cd2a437ebc65",
+    "source": "&1387 The corpsmen can handle it here.",
+    "target": "&1387 这里交给警员处理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf8edbe315f06609",
+    "source": "BOMBER3",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "c42268cb2bafa968",
+    "source": "PART2",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "7171b96cc809d505",
+    "source": "&1017 You okay?",
+    "target": "&1017 你还好吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "065988fec72ce304",
+    "source": "&1388 Yeah, I...let's just go.",
+    "target": "&1388 嗯，我……先走吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f207dcad572d46aa",
+    "source": "&1389 Corpsman, get in touch with Central.",
+    "target": "&1389 警员，联系中枢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2bb957114f916f3",
+    "source": "&1390 Don't move the body until the bomb squad gets here.",
+    "target": "&1390 拆弹小组来之前，别移动尸体。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95724870fc94b4d8",
+    "source": "&25 Yes, Doctor.",
+    "target": "&25 是，博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e775fc6b80fe503b",
+    "source": "BOMBER2",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "db51f195bbf7b679",
+    "source": "&1391 Corpsman, the suspect has surrendered.",
+    "target": "&1391 警员，嫌疑人已经投降。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fd7acb1b35fdd1e1",
+    "source": "&1392 Take him into custody. Carefully.",
+    "target": "&1392 把他收押。小心点。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "924214f5e5180e03",
+    "source": "&1018 Regis, that was amazing!",
+    "target": "&1018 里吉斯，你刚才真是太厉害了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d24de6a1ab4fefe",
+    "source": "&1019 Central's going to be pissed, though.",
+    "target": "&1019 不过，中枢肯定会大发雷霆。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e06a254aefc1640f",
+    "source": "&1020 That was a huge risk.",
+    "target": "&1020 你冒的风险太大了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32ae40d3727db8d0",
+    "source": "&1394 Screw Central. Come on, we've got work to do.",
+    "target": "&1394 去他的中枢。走吧，我们还有事要办。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5356182964d553f6",
+    "source": "&1395 The corpsmen can handle it here.",
+    "target": "&1395 这里交给警员处理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d20907982c188196",
+    "source": "&1021 Yeah, with a little help from the bomb squad!",
+    "target": "&1021 没错，再加上拆弹小组的帮忙！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66ecabd4ea167f59",
+    "source": "BOMBER1",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "9b1e6e959ee30d32",
+    "source": "&1396 It sure looks like everyone evacuated in a hurry.",
+    "target": "&1396 看来大家撤得很匆忙。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a09668a1bbada908",
+    "source": "&1397 Nah. That's a job for the corpsmen.",
+    "target": "&1397 不行。那是警员的工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae86ae858186b809",
+    "source": "&1398 I always make sure this is the car we take out.",
+    "target": "&1398 每次出勤，我都特意开这辆车。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c3e45ce88f9e1a71",
+    "source": "&1022 They're all the same, Charlie.",
+    "target": "&1022 这些车都一样，查理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a7ddf0aaf79b0afc",
+    "source": "&1399 No they're not. This one's mine.",
+    "target": "&1399 才不一样。这辆是我的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46a876d2abf23f9b",
+    "source": "&1023 Hey, we only just got here!",
+    "target": "&1023 嘿，我们才刚到呢！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "306bbdfab9d72720",
+    "source": "&1400 Advertising. It's all the same crap wherever you are.",
+    "target": "&1400 广告。走到哪儿，都是一样的垃圾。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4414ca0076ff926d",
+    "source": "&1024 It looks a lot more impressive if you're wired, though.",
+    "target": "&1024 不过，要是你植入了湿件，看起来就壮观多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7f2b92795944aa1",
+    "source": "&1401 Supposedly, these things are interactive - if you're wired.",
+    "target": "&1401 据说这东西还能互动，前提是你植入了湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65a612af39560874",
+    "source": "&1025 Considering joining the present day, are you Regis?",
+    "target": "&1025 怎么，里吉斯，你终于打算跟上时代了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "58a66804243239a5",
+    "source": "&1402 Bah.",
+    "target": "&1402 哼。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "07b5583b3ae5f098",
+    "source": "&296 A young corpsman, probably fairly new. She surveys the perimeter, ensuring no curious members of the public have breached the cordon.",
+    "target": "&296 一名年轻警员，大概刚入职不久。她巡视着周边，确保没有好奇的市民越过警戒线。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d2c7816353987385",
+    "source": "&307 The pattern on her arm suggests she's a rookie - it's probably her (slightly) more highly-ranked colleague who's had operational command until your arrival.",
+    "target": "&307 她手臂上的标识表明她还是新人。你来之前，应该是那位级别稍高一点的同事在现场指挥。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b95b7f7d8741066",
+    "source": "&308 Empty platforms at this time of night - a sure sign that something's gone terribly wrong, but reassuringly that the corpsmen on the scene have begun evacuations.",
+    "target": "&308 这个时间，站台却空无一人，肯定是出了大事。不过，这至少说明现场警员已经开始疏散人群。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed10a180ed741e48",
+    "source": "&334 From down on the ground, that type of drone's unreachable - that's part of its purpose.",
+    "target": "&334 从地面上够不着这种无人机，这本来就是设计它的目的之一。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7bee9df81ede4811",
+    "source": "&335 Even the drones are helping to evacuate commuters from the station.",
+    "target": "&335 连无人机都在帮忙疏散站里的乘客。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

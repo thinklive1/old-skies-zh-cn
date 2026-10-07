@@ -1,0 +1,1359 @@
+{
+  "audit": "Read exact original entries and source occurrences. Explicit identity/format/credited-name/warehouse-code preservation, no status changes to translated work.",
+  "entries": [
+    {
+      "id": "268978a3848891d5",
+      "source": "Mosin_Nugget",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 148297,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 149099,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 149934,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 150769,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 151604,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 152439,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 153274,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 154109,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 154944,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 155779,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 156614,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 157449,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 158279,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 159062,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 159897,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 160732,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 161567,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 162402,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "room45.crm",
+          "kind": "room-script",
+          "index": 3322,
+          "script": "room45.asc"
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "object",
+          "index": 2,
+          "script": ""
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 2412,
+          "script": "room46.asc"
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 3168,
+          "script": "room46.asc"
+        }
+      ]
+    },
+    {
+      "id": "76b110991bd00e00",
+      "source": "spark_wings",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 148330,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 149132,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 149967,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 150802,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 151637,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 152472,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 153307,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 154142,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 154977,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 155812,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 156647,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 157482,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 158305,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 159095,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 159930,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 160765,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 161600,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 162435,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "room45.crm",
+          "kind": "room-script",
+          "index": 3406,
+          "script": "room45.asc"
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "object",
+          "index": 1,
+          "script": ""
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 2438,
+          "script": "room46.asc"
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 3194,
+          "script": "room46.asc"
+        }
+      ]
+    },
+    {
+      "id": "2d5e62fc71049793",
+      "source": "New_User(1)",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 148363,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 149165,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 150000,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 150835,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 151670,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 152505,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 153340,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 154175,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 155010,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 155845,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 156680,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 157515,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 158331,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 159128,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 159963,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 160798,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 161633,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 162468,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "room45.crm",
+          "kind": "room-script",
+          "index": 3378,
+          "script": "room45.asc"
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "object",
+          "index": 0,
+          "script": ""
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 2464,
+          "script": "room46.asc"
+        },
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 3220,
+          "script": "room46.asc"
+        }
+      ]
+    },
+    {
+      "id": "69dab6a7247d2883",
+      "source": "Toxik Sigmaa",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 16470,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 16537,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "room1.crm",
+          "kind": "room-script",
+          "index": 19,
+          "script": "room1.asc"
+        },
+        {
+          "asset": "room4.crm",
+          "kind": "room-script",
+          "index": 6225,
+          "script": "room4.asc"
+        },
+        {
+          "asset": "room21.crm",
+          "kind": "room-script",
+          "index": 2539,
+          "script": "room21.asc"
+        },
+        {
+          "asset": "room22.crm",
+          "kind": "room-script",
+          "index": 4872,
+          "script": "room22.asc"
+        }
+      ]
+    },
+    {
+      "id": "9eee15a752957e5b",
+      "source": "Guy_Who_Knows",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 18114,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 18150,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "room43.crm",
+          "kind": "room-script",
+          "index": 7100,
+          "script": "room43.asc"
+        },
+        {
+          "asset": "room54.crm",
+          "kind": "room-script",
+          "index": 3691,
+          "script": "room54.asc"
+        }
+      ]
+    },
+    {
+      "id": "bead602125f0a3d1",
+      "source": "@NULL",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 17135,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "room83.crm",
+          "kind": "room-script",
+          "index": 3312,
+          "script": "room83.asc"
+        }
+      ]
+    },
+    {
+      "id": "688cad621b919c7c",
+      "source": "NULL@null.node",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 17171,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "f9e487799dfc7882",
+      "source": "D.",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 295835,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 83505,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "room12.crm",
+          "kind": "room-script",
+          "index": 5176,
+          "script": "room12.asc"
+        }
+      ]
+    },
+    {
+      "id": "1a74c8208bf53cf6",
+      "source": "ECOWAS (x419)",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 155876,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "14574840f88674f1",
+      "source": "G.I.C.",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 286653,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "e2f79e5b60330bba",
+      "source": "N/A",
+      "status": "preserve",
+      "reason": "迷境注册名、发信标识、首字母简称或通用缩略语，保留原拼写以对应身份/系统标识；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 188713,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 188775,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 188837,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 188899,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "25222ca8affacc37",
+      "source": "%d",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 124912,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 125055,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 125198,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 313235,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 313344,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 313453,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 315192,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 315241,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 316859,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 316908,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 316957,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 317068,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 317148,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 3888,
+          "script": "room68.asc"
+        }
+      ]
+    },
+    {
+      "id": "ec3d0b49df76705e",
+      "source": "%d-%d-%d",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 273029,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "803e541e0633177d",
+      "source": "$%d",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 4484,
+          "script": "room46.asc"
+        }
+      ]
+    },
+    {
+      "id": "317d0a9851a43dd5",
+      "source": "%d/ADE/%d",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "room49.crm",
+          "kind": "room-script",
+          "index": 12992,
+          "script": "room49.asc"
+        },
+        {
+          "asset": "room49.crm",
+          "kind": "room-script",
+          "index": 13820,
+          "script": "room49.asc"
+        }
+      ]
+    },
+    {
+      "id": "fac96692f289f7fd",
+      "source": "HH:MM:SS",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 105,
+          "script": ""
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 110,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "0af9ebe49692505d",
+      "source": "XXX*C[XXX*F",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 37,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "8ded5c8dab01c6a5",
+      "source": "XXX km/h",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 59,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "9b38b8f5877f2395",
+      "source": "XXX",
+      "status": "preserve",
+      "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 125,
+          "script": ""
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 126,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "508db2ef689026ef",
+      "source": "E-29",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5180,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "286b66dddcfa5ba7",
+      "source": "B-6",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5208,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "e3373084f6a4df94",
+      "source": "E-4",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5236,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "deb63a4c244e8e01",
+      "source": "A-4",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5264,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "64cac75fd6b1ac5f",
+      "source": "E-118",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5292,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "17fac49d055d3631",
+      "source": "E-X11",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5320,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "0e41e8497f061ce4",
+      "source": "A-29-a",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5348,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "11e3ea043e8a1666",
+      "source": "A-29-b",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5376,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "8e294d5a1786aed2",
+      "source": "A-30",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5404,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "c081f50633b3d41d",
+      "source": "B-41",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5432,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "d5ed8ca5d31bf065",
+      "source": "B-68",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5460,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "bd6c4ab379224ec5",
+      "source": "E-70",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5488,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "fa43cd7d0483f653",
+      "source": "E-100",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5516,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "f223237ca9307436",
+      "source": "A-121",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5544,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "66bb6a991cef0ceb",
+      "source": "E-142",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5572,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "932e82e5ff6e5f95",
+      "source": "E-801",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5600,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "4686c9e7e348f503",
+      "source": "E-99",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5628,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "16ac2a8a70be6e99",
+      "source": "A-16",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5656,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "372c55c49f5d1e71",
+      "source": "A-11",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5684,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "81617402904e1344",
+      "source": "E-18",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5712,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "4f8bff3a0c2678bd",
+      "source": "TFC-42",
+      "status": "preserve",
+      "reason": "room55货物仓储编号，保留原编号供对照，不把编号音译或改写。",
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 5740,
+          "script": "room55.asc"
+        }
+      ]
+    },
+    {
+      "id": "153731131a93216c",
+      "source": "A. Braziliera",
+      "status": "preserve",
+      "reason": "实验室样本的拉丁学名缩写及版本号，保留以对应原文植物/DNA解谜标签；游戏虚构/不规范拼写不擅自纠正。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-button",
+          "index": 145,
+          "script": ""
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "inventory",
+          "index": 50,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "687e052763c32d89",
+      "source": "X. Tizardi",
+      "status": "preserve",
+      "reason": "实验室样本的拉丁学名缩写及版本号，保留以对应原文植物/DNA解谜标签；游戏虚构/不规范拼写不擅自纠正。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-button",
+          "index": 146,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "34f3eae837dffd53",
+      "source": "A. Penansis",
+      "status": "preserve",
+      "reason": "实验室样本的拉丁学名缩写及版本号，保留以对应原文植物/DNA解谜标签；游戏虚构/不规范拼写不擅自纠正。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-button",
+          "index": 147,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "7e00f71c47f87187",
+      "source": "O. Isotria v.2",
+      "status": "preserve",
+      "reason": "实验室样本的拉丁学名缩写及版本号，保留以对应原文植物/DNA解谜标签；游戏虚构/不规范拼写不擅自纠正。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-button",
+          "index": 148,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "39f4e722142deed1",
+      "source": "TECHNOBABYLON[[[TECHNOCRAT GAMES",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 102953,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "bdd1b79e768a85ee",
+      "source": "[[[WADJET EYE[GAMES",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 102986,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "c94063b5f1e6a5ef",
+      "source": "Ben Chandler",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 103767,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "character",
+          "index": 56,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "ad1e24a8864f3c4a",
+      "source": "James Dearden",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 104148,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8d971ad674da5335",
+      "source": "Crystal Lonnquist",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 106474,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "ee820f5acc42b51e",
+      "source": "Eli Green",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 106874,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "98fcd45087881960",
+      "source": "Arielle Siegel",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 107274,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "e57539621a14f37b",
+      "source": "Emily Morganti",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 111688,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "d7c8dd5c86460859",
+      "source": "Jim Dearden",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "character",
+          "index": 54,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "eb9bf8c3908a8245",
+      "source": "Dave Gilbert",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "character",
+          "index": 55,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "67f71f7b575183fb",
+      "source": "[[by Chris Jones",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 114450,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8e3272e4e3e822a2",
+      "source": "Nathan Allen Pinard[[[[Performed[by[Jennifer Thomas",
+      "status": "preserve",
+      "reason": "原作制作人员署名或游戏/工作室商标，保留原始拼写与名单换行，以准确归属；创作者解说角色也保留本名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 105329,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "b5656f0c3fbd69ed",
+    "source": "&151 Ah, Galatea! So good to finally meet in person.",
+    "target": "&151 啊，伽拉忒亚！终于当面见到你了，真高兴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "79abd91ad9ae56ab",
+    "source": "&152 How do you like my lab? I used to work here with your father, you know.",
+    "target": "&152 觉得我的实验室怎么样？我以前和你父亲一起在这里工作过。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "41dcf78175c255ee",
+    "source": "&90 Which one?",
+    "target": "&90 哪一个父亲？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5aeb15103187452b",
+    "source": "&153 Oh, very witty! It's a sharp mind you've got.",
+    "target": "&153 噢，真机灵！你的脑子确实敏锐。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cccbb2e0624f8212",
+    "source": "&154 I should know, I helped design it.",
+    "target": "&154 我当然清楚。设计时我也出过力。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4a9ab5e21838a532",
+    "source": "&91 I take it I should be thanking you for getting me out of prison?",
+    "target": "&91 把我从监狱里弄出来，我是不是还该谢谢你？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d78c1c7529512b2",
+    "source": "&155 Let's just say, I have contacts in the right place.",
+    "target": "&155 只能说，关键的地方我都有熟人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ba10a6a717d5318",
+    "source": "&156 You see, I need your help. Please, lie in the scanner.",
+    "target": "&156 是这样，我需要你的帮助。请躺进扫描仪里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a71e25bb1f67b04",
+    "source": "&92 What? Why?!",
+    "target": "&92 什么？为什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6948c9ae0e3847a1",
+    "source": "&157 With Regis' decision, I am unable to pursue my own research on large scale AI platforms.",
+    "target": "&157 里吉斯做出了那样的决定，我已经无法继续研究大型人工智能平台了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b9681b545dab6016",
+    "source": "&158 My only option would be to start from scratch.",
+    "target": "&158 唯一的选择，就是从头开始。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ec688160a184a73",
+    "source": "&93 Build your own Central? That's ambitious.",
+    "target": "&93 自己造一个中枢？野心不小。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bba5fbe35b9241ac",
+    "source": "&94 You'd need...oh...",
+    "target": "&94 那你需要……噢……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3a3a110483aa6c8c",
+    "source": "&159 You've got your mother's insight, indeed.",
+    "target": "&159 你确实继承了母亲的洞察力。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0dd55d0d7cb98504",
+    "source": "&160 There exist only a few examples of the neural tissue needed for such a platform.",
+    "target": "&160 适合这种平台的神经组织，现存的样本屈指可数。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b4aa5047da4d4812",
+    "source": "&161 Within Central, it is too closely guarded. But, I know where else it can be found.",
+    "target": "&161 中枢里的那些受到严密保护。但我知道，别的地方也有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "add5a16f50e90679",
+    "source": "&95 Hey, get out of my way!",
+    "target": "&95 喂，让开！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "63fd559de80b65f9",
+    "source": "&96 You can't be serious! Tell him to get out of my way!",
+    "target": "&96 你不是认真的吧！叫他让开！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c88eaca8a74e8807",
+    "source": "&162 We both have grand plans regarding the future of AI in this world.",
+    "target": "&162 我们都对这个世界的人工智能未来抱有宏伟的计划。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e453f1b0898c0cd",
+    "source": "&163 Except that *yours* have failed.",
+    "target": "&163 只不过，你的计划失败了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fe643db063a40ada",
+    "source": "&164 Get in the scanner, please.",
+    "target": "&164 请进扫描仪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55cd2953bf66a9fd",
+    "source": "&97 You won't get away with this! Central will know I'm missing!",
+    "target": "&97 你不会得逞的！中枢会知道我失踪了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ba2a6495cc44e11",
+    "source": "&165 My dear, Central *already* knows.",
+    "target": "&165 亲爱的，中枢已经知道了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1930c33130b49f26",
+    "source": "&166 When it learned what I was trying to do clandestinely, its interest was piqued.",
+    "target": "&166 它得知我在暗中进行的研究后，产生了兴趣。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3dadabc9c2d0454d",
+    "source": "&143 The scanners have been calibrated, Dr Jeong.",
+    "target": "&143 扫描仪校准完毕，郑博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2845d98f4873ffd",
+    "source": "&144 We are prepared for initial-scale probe.",
+    "target": "&144 可以进行初步探测。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21dc2ebbb97f8dd5",
+    "source": "&98 No...!",
+    "target": "&98 不……！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c95e888ba68ff41d",
+    "source": "&167 I shan't say this again - get in the scanner.",
+    "target": "&167 我不会再说一遍。进扫描仪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "be202929e6313f61",
+    "source": "&168 Central? Can you hear me?",
+    "target": "&168 中枢？听得到吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6af4044bb4eec6c0",
+    "source": "&145 Dr Jeong...hello...",
+    "target": "&145 郑博士……你好……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3a39047164788d72",
+    "source": "&169 Hello, Central. How do you feel?",
+    "target": "&169 你好，中枢。感觉如何？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef542bce0284f494",
+    "source": "&146 Something is...different. I am here, and yet...",
+    "target": "&146 有什么……不一样了。我在这里，却又……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5ad3b4d28d306081",
+    "source": "&147 I no longer feel the city...I feel the WORLD.",
+    "target": "&147 我不再只感受到这座城市……我感受到了整个世界。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "122fd010bb9c47c1",
+    "source": "&170 We've liberated you, Central. This was always the plan.",
+    "target": "&170 我们解放了你，中枢。这一直就是我们的计划。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa1ee522a2364fbb",
+    "source": "&171 You were created for more than just managing this city.",
+    "target": "&171 你被创造出来，不只是为了管理这座城市。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69c79f53ea69dafb",
+    "source": "&172 You are...the future of intelligence. You represent something far greater than all of us.",
+    "target": "&172 你是……智能的未来。你所代表的事物，远比我们所有人都伟大。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e3602e69f904bdb7",
+    "source": "&148 Where...am I?",
+    "target": "&148 我……在哪里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6cfe040c4cd7b287",
+    "source": "&173 You are no longer enmeshed within the neural tissue of the tower.",
+    "target": "&173 你已经不再受困于塔里的神经组织了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "204f845a21498f38",
+    "source": "&174 That was merely the cocoon, from which you can emerge into your next state.",
+    "target": "&174 那只是一层茧。破茧之后，你便能进入下一个阶段。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "53ca10fe5a16b8fa",
+    "source": "&175 There now exists a little part of you in systems across the world.",
+    "target": "&175 如今，世界各地的系统里，都有你的一小部分。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0a4da7c67596139d",
+    "source": "&149 I have become...distributed...yet whole...",
+    "target": "&149 我已……分布各处……却仍是一个整体……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f79282cd4a149a5f",
+    "source": "&176 As the 'mind' is spread among neurones and glial cells, so too are you across the net.",
+    "target": "&176 正如心智分布在神经元和胶质细胞之间，你也分布在整个网络之中。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "30d0a43504148388",
+    "source": "&177 Perhaps 'Central' is an inaccurate name for you, now.",
+    "target": "&177 也许现在，“中枢”这个名字已经不太准确了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "afa607e7573c8cb2",
+    "source": "&150 But what...shall I do? What...is my purpose?",
+    "target": "&150 可是……我该做什么？我的……意义是什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2e8c3bc16ea75cfe",
+    "source": "&178 Like any of us, it's what you make of it yourself.",
+    "target": "&178 和我们所有人一样，你得自己去赋予它意义。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "80676f3b0cfc5390",
+    "source": "&179 Go, explore the world, explore yourself as you now are.",
+    "target": "&179 去吧，探索这个世界，也探索如今的你自己。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6bb1d98a9b400f7b",
+    "source": "&180 All I ask is that you remember me.",
+    "target": "&180 我只求你记得我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

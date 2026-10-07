@@ -1,0 +1,74 @@
+{
+  "args": [
+    "<workspace>\\work\\technobabylon\\pilot\\Technobabylon.exe",
+    "--localuserconf",
+    "--windowed",
+    "--gfxdriver",
+    "Software",
+    "--gfxfilter",
+    "StdScale",
+    "1",
+    "--translation",
+    "Technobabylon_zh_CN",
+    "--no-message-box",
+    "--log-file=all:debug",
+    "--log-file-path=<workspace>\\work\\technobabylon\\pilot\\logs-latest",
+    "--user-data-dir",
+    "<workspace>\\work\\technobabylon\\pilot\\userdata",
+    "--shared-data-dir",
+    "<workspace>\\work\\technobabylon\\pilot\\shared"
+  ],
+  "pid": 25008,
+  "ended": "test process terminated after observation",
+  "exit_code": null,
+  "log": "<workspace>\\work\\technobabylon\\pilot\\logs-latest\\ags.log",
+  "build_files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "size": 330834,
+      "sha256": "9f13a753bace897f2563966b379445f0bf73c8dcd1836588bf9bc2f8217d83e1"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "sha256": "a22c65681723d07355476fc94c47cd4d997c0b4cf644247aad11b8c09994b86e",
+      "size": 280820
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "sha256": "4a812799ea51ffa0f8ab3a20b9419fd4ae7153b113077df0e02d2211d965599b",
+      "size": 268516
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "sha256": "b74d74539c923fa1e43c4cd29ff576f15c73b1cb5777d5412478be8ad14af156",
+      "size": 2036736
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "sha256": "150217efe00100646fb496dbdfb25405b41aad6b14f1cc17c38c26bddc137463",
+      "size": 275004
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "sha256": "fb17631a2a3c591ed90e694c6025e21c677c9571f1b6ad06622c0d93e035eccf",
+      "size": 275004
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "sha256": "0bbacd2d6b0c24e2e6f5235c3fef3c7f2da01482975cc64511a4eaafb868454d",
+      "size": 281076
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "sha256": "0f120b0f61d079c26766f91ab08390a3dafa55c519497101c27540a89c3b692c",
+      "size": 268472
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "sha256": "0b3e908cc8cdd2b768a6c02283a48bce1611a89d2d30d051cde5f023b66c164a",
+      "size": 306316
+    }
+  ],
+  "duration_seconds": 10,
+  "visual_verified": false
+}

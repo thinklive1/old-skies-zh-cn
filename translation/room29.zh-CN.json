@@ -1,0 +1,162 @@
+[
+  {
+    "id": "249c5d6657c7e64c",
+    "source": "First Aid Kit",
+    "target": "急救箱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a26e3ccda273c6cc",
+    "source": "Growth Lab",
+    "target": "培养实验室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d403653971c5301",
+    "source": "UV Lighting",
+    "target": "紫外线照明",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23473ac2eeed780e",
+    "source": "&122 Warning - copyright breach in progress.",
+    "target": "&122 警告——正在发生侵犯版权的行为。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66637bc4a651587b",
+    "source": "&4408 Excuse me?",
+    "target": "&4408 什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d1c2c0f518ffeed0",
+    "source": "&123 You are not authorised to remove orchidaceae isotria samples from the growth lab.",
+    "target": "&123 您无权将orchidaceae isotria样本带离培养实验室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0dd205c4df0afdbb",
+    "source": "&124 They are copyrighted property of Tiphal Labs GmbH. Beginning purge.",
+    "target": "&124 它们是蒂法尔实验室有限公司拥有版权的财产。开始清除。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49fc84a4dfd0036d",
+    "source": "&1153 Hey, my sample!",
+    "target": "&1153 嘿，我的样本！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a6621c97781d128",
+    "source": "&1154 What did you do?",
+    "target": "&1154 你干了什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0e72c48fb6285978",
+    "source": "&125 To prevent theft of intellectual property,",
+    "target": "&125 为防止知识产权被盗，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "24add87f0f2e5641",
+    "source": "&126 ...gene sequences in your possession have been neutralized.",
+    "target": "&126 ……您持有的基因序列已被失活处理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93e90fc25b8c83eb",
+    "source": "&127 Have a nice day.",
+    "target": "&127 祝您愉快。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2b6e154770151a04",
+    "source": "&1155 Gee, thanks.",
+    "target": "&1155 哎哟，真谢谢你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7700b0a2bd0a31d9",
+    "source": "&1156 Better to have it and not need it, I guess.",
+    "target": "&1156 总比需要的时候没有强。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f91d158e7c1c89fa",
+    "source": "Picked up: Autoinjector",
+    "target": "已拾取：自动注射器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "405fa3e5efcbc1b5",
+    "source": "&1157 This could be useful.",
+    "target": "&1157 这个可能有用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7debce99b65724b5",
+    "source": "&1158 They've got these pipes everywhere...",
+    "target": "&1158 他们到处都铺了这种管道……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a77eea5e818d948e",
+    "source": "&1159 Nothing happened.",
+    "target": "&1159 什么也没发生。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1994fc9687ee165",
+    "source": "&1473 They're pretty serious about preventing contamination.",
+    "target": "&1473 他们对防止污染，还真是认真。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5de130372a392283",
+    "source": "&508 You stare into the UV lighting. Unsurprisingly, it makes your eyes hurt.",
+    "target": "&508 你盯着紫外线灯看。不出所料，眼睛开始疼了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

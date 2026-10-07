@@ -1,0 +1,106 @@
+[
+  {
+    "id": "fd81159c3ee0c11a",
+    "source": "Pit",
+    "target": "深坑",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9dae78103ad0993",
+    "source": "Games",
+    "target": "游戏",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6fe2b88ccc2f5558",
+    "source": "// USER HAS DISCONNECTED:[Mosin_Nugget[spark_wings[New_User(1)",
+    "target": "//用户已断开连接：[Mosin_Nugget[spark_wings[New_User(1)",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7c99bb08956b6049",
+    "source": "&6616 Do svidaniya!",
+    "target": "&6616 再见！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "79764c0fc999ee99",
+    "source": "BANNED",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "1ef47ad58fbc0fc0",
+    "source": "&616 Guess that proves where they were from.",
+    "target": "&616 看来，这说明他们从哪儿来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c7e59997985c33c6",
+    "source": "&617 Guess that proves they weren't from around here.",
+    "target": "&617 看来，这说明他们不是本地人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "803e541e0633177d",
+    "source": "$%d",
+    "target": "$%d",
+    "status": "preserve",
+    "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+    "review_notes": ""
+  },
+  {
+    "id": "ca23703337cca3e1",
+    "source": "&532 A communal chill-out area lies inset in the floor. In keeping with the 'club' theme this sim has, it looks like they've got a bar going.",
+    "target": "&532 地板上凹下去的地方，是一片公共休闲区。为了配合这个模拟环境的“俱乐部”主题，看起来还弄了个酒吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb9ff2e2bd0b96ad",
+    "source": "&533 A shaft which, according to the glowing digital title, leads to this simulation's other diversions.",
+    "target": "&533 一条竖井。发光的数字标题显示，它通往这个模拟环境中的其他娱乐项目。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b1f6a5ea236a14a",
+    "source": "&42 Hey!",
+    "target": "&42 嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d559cc528a36e27",
+    "source": "&43 Get in line! I was here first.",
+    "target": "&43 排队！我先来的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "98d836a655ad07cb",
+    "source": "&698 Looks like they're having fun.",
+    "target": "&698 看起来，他们玩得挺开心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

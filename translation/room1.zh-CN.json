@@ -1,0 +1,826 @@
+[
+  {
+    "id": "ca0af2b5e6593851",
+    "source": "No hotspot",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "5e62bc4202ed627e",
+    "source": "Scrolly Text Example",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "13790a0ffd9ef161",
+    "source": "Test AA Speech",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "c731c925f9b96e56",
+    "source": "Hacking3",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "4663ba1bbb7b8c8a",
+    "source": "Hacking2",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "6109aa184654a9af",
+    "source": "zdfgbsdbhdfbhdfdunuifgm",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "7fdc36dffb694aae",
+    "source": "Cheater hacking",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "03e6379cee3c2481",
+    "source": "Test Credits",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "0c0bcc03a8b48384",
+    "source": "News 2",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "2da09e1fac71f125",
+    "source": "N3",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "b9cca56a720f2bee",
+    "source": "Test4",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "cfde65e6d8b6b0ac",
+    "source": "Test 5",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "ce4b6f624d54ea09",
+    "source": "Testy test 6",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "e8c1fe5a65f8fdff",
+    "source": "Zmorble 7",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "ef80ac60d0d49dea",
+    "source": "FFFFfffff8",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "ba545b33072ffcae",
+    "source": "Aroojit 9",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "6cb10a3c6a3484ff",
+    "source": "Blar 10",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "308019dfa9e33958",
+    "source": "Open Newspaper",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "e7613136111d599d",
+    "source": "Nooooz11",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "30f2111d9c34ed53",
+    "source": "Hotspot 19",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "5a7cc192d97d53f5",
+    "source": "Hotspot 20",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "f6692b5a36064f18",
+    "source": "Hotspot 21",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "3edeeb6bf294b913",
+    "source": "Hotspot 22",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "d88bb9903fa8abfc",
+    "source": "Hotspot 23",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "9e5cdce0bc8725ee",
+    "source": "Hotspot 24",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "668c710d146bece5",
+    "source": "Hotspot 25",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "c33bfbae265fa5b8",
+    "source": "Hotspot 26",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "924caf9c248361a4",
+    "source": "Hotspot 27",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "b8946de4165c9502",
+    "source": "Hotspot 28",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "1d888bb53b7de316",
+    "source": "Hotspot 29",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "f7598726cf0e2bba",
+    "source": "Hotspot 30",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "adfe8f358c491bdb",
+    "source": "Hotspot 31",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "d701d83c0ef5be90",
+    "source": "Hotspot 32",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "e630a3bde44bdc80",
+    "source": "Hotspot 33",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "9bef17dfa4cd5350",
+    "source": "Hotspot 34",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "165f9ac9c8fcfc1c",
+    "source": "Hotspot 35",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "9cb8afbb94bff07d",
+    "source": "Hotspot 36",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "4870e405542acab4",
+    "source": "Hotspot 37",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "0f89cf9cb667f47f",
+    "source": "Hotspot 38",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "c37740845b2a6551",
+    "source": "Hotspot 39",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "735ae91c7b64b04f",
+    "source": "Hotspot 40",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "50b323c0e8e45c40",
+    "source": "Hotspot 41",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "f94166b9327d5c02",
+    "source": "Hotspot 42",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "a4f5933588e7cd77",
+    "source": "Hotspot 43",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "2f0ecb56b8096bfe",
+    "source": "Hotspot 44",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "903db6ff208af015",
+    "source": "Hotspot 45",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "14195a1f32368e43",
+    "source": "Hotspot 46",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "fb6778a11d69207b",
+    "source": "Hotspot 47",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "b7fbc39c8538f997",
+    "source": "Hotspot 48",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "fd394f52b03cb2e9",
+    "source": "Hotspot 49",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "c0eb1911cb95642d",
+    "source": "Evacuation Drill at Transit Station",
+    "target": "交通站举行疏散演习",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "017f574f9efb5c57",
+    "source": "Commuters on the Red transit line last night were surprised by an evacuation drill that took place just after midnight at the Barbers Gate transit station. A CEL spokesprogram has confirmed that the evacuation was part of a planned emergency-response simulation, and that customers were in no danger. [             ",
+    "target": "昨晚，红线的通勤乘客遭遇了一场意外的疏散演习：演习于午夜刚过，在巴伯斯门交通站展开。CEL发言程序确认，这次疏散是预先安排的紧急响应模拟的一部分，乘客并未面临危险。 [             ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c7c2f3b66198e490",
+    "source": "\"CEL is required to ensure the preparedness of its agents and city infrastructure in cases of emergency,\" the program stated. \"There is a limit to what can be anticipated through simulation, especially when it comes to realistic crowd response. As such, we are required to runs tests like this periodically in active stations. CEL and Central are impressed at the professional attitude taken by the public, and thank them for their cooperation.\" [          ",
+    "target": "该程序表示：“CEL有责任确保探员和城市基础设施做好应对紧急情况的准备。模拟所能预测的情况终究有限，尤其难以还原人群的真实反应。因此，我们必须定期在正常运营的车站开展此类测试。公众表现出的专业态度，让CEL和中枢十分欣慰，感谢大家的配合。”[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4037fb1b30708223",
+    "source": "Travellers have complained that the sudden evacuation delayed their journey, though services were able to be routed around Barbers Gate, causing only minimal delays to the service, and those not stopping at the station. \"Yeah, it's a nuisance,\" said one bystander, \"but at least it's good to see CEL doing their jobs.\" The incident was also described as \"a rush\" by another.",
+    "target": "乘客抱怨，突如其来的疏散耽误了行程。不过，列车得以绕过巴伯斯门站运行，对班次以及不在该站下车的乘客，仅造成轻微延误。一名路人说：“是啊，挺烦人的，不过至少能看到CEL在做事，也挺好。”另一人则称这次事件“真刺激”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "85e68f6f202ad6e4",
+    "source": " If your journey has been affected by the drill, please contact Central for compensation. [              ",
+    "target": "如果您的行程受到此次演习影响，请联系中枢申请补偿。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ccc44b771231e78",
+    "source": "Friday 11 July 2087",
+    "target": "2087年7月11日，星期五",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "478aff45309e9c05",
+    "source": "&94 THis is a test of the antialiased portrait thingy.",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "c191f04f7527e35f",
+    "source": "&95 If this has worked, then the AA'd versions of Ilyich's portraits should appear.",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "a1f540d7e0e85966",
+    "source": "&96 This is going to be a really long box, to determine just how much of a challenge these things can handle. After all, I need to know how much characters can say.",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "6cf2e9bd0792a439",
+    "source": "&97 If not, well, I've no idea what's going to happen.",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "27fe49b2f29a07d3",
+    "source": "&98 Peace out, y'all!",
+    "target": "",
+    "status": "excluded",
+    "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+    "review_notes": ""
+  },
+  {
+    "id": "4ec2d70c3e8c4344",
+    "source": "Hungarian Artists to Visit Newton",
+    "target": "匈牙利艺术家将访问牛顿市",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8812b2a2c5a3e09",
+    "source": "The world-reknowned father-daughter art team of Tibor and Kami Puskás will be bringing their exhibition to the City of Newton this summer, as part of the Euroean Federation's \"cultural ambassador\" programme. ",
+    "target": "世界闻名的艺术家父女组合蒂博尔与卡米·普什卡什，将于今夏把展览带到牛顿市，这是欧洲联邦“文化大使”计划的一部分。 ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0014f210491bf980",
+    "source": "Known for their pioneering fusion of classical styles with the interactivity of the Trance, the pair rose to global attention after the EF Arts Minister Jerome Jurgen became so overwhelmed with emotion, that he had to be placed into a coma to recover. [ ",
+    "target": "这对父女以开创性地融合古典风格与迷境互动而闻名。欧洲联邦艺术部长杰罗姆·于尔根观看作品后，情绪激动得必须进入昏迷状态才能恢复，这也让他们引起了全球关注。 [ ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f428a409f3cbc16",
+    "source": "\"It was an epiphany,\" he told Chishiki. \"As though all of my life I'd been missing something I hadn't known I lacked, and this was the diagram showing the void in my soul.\" Other viewers have reported similarly transformative experiences, ",
+    "target": "他告诉Chishiki：“那是一种顿悟。仿佛我这一生都缺少某样东西，却从不知道自己缺少它，而这件作品，就是描绘我灵魂空洞的图解。”其他观众也报告了类似的深刻转变体验， ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "873f6f5151734851",
+    "source": "though skeptics believe that these may simply have to do with more direct neural-programming possible through the Trance than with the art itself. \"They're just jealous that they're not wired,\" replied the duo when this was suggested.",
+    "target": "但怀疑者认为，与其说这些体验来自艺术本身，不如说来自迷境所能进行的更直接的神经编程。对此，这对父女回应：“他们只是嫉妒自己没接入湿件。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "888a63afecb04c17",
+    "source": "Thursday 10 July 2087",
+    "target": "2087年7月10日，星期四",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a47212fd6c17673",
+    "source": "'Grey Goo' Incident Injures 4",
+    "target": "“灰蛊”事故致4人受伤",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "145fddabb5e19b72",
+    "source": "CEL firefighters have this afternoon been called to the Hartgill preparatory school, where the out-of-control growth of a wetware culture has resulted in what is euphemistically termed 'grey goo'. Principal Andrew Mtembe issued a statement on behalf of the school expressing relief that CEL has been able to control the outbreak before more damage could be done, and reiterated their policy against bringing wetware into the school. [             ",
+    "target": "今天下午，CEL消防人员接报赶往哈特吉尔预备学校。该校一份湿件培养物失控增殖，造成了被委婉称作“灰蛊”的事故。校长安德鲁·姆滕贝代表学校发表声明，对CEL及时控制事故、避免造成更大损害表示欣慰，并重申了学校禁止携带湿件入校的规定。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b3b2acded1e84cba",
+    "source": "'Wetware', so called due to its gelatinous appearance, is the genericised term for a number of nanomechanical products derived from organic structures. Safeguards are in place in commercial wetware to ensure that replication of the material can only occur within secure factory conditions. Hobbyist gengineers have on many occasions taken it as a challenge to 'breach' new wetware products, and reactivate the material's ability to create ",
+    "target": "“湿件”因其胶状外观而得名，是多种源自有机结构的纳米机械产品的通称。商用湿件内置防护机制，确保只有在安全的工厂环境中，材料才能复制自身。业余基因工程爱好者常将“破解”新湿件产品视为挑战，重新激活材料的能力，让它可以",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9bcf92e6f3884413",
+    "source": "more of itself. Such uncontrolled growth becomes dangerous when wetware no longer responds to chemical signals to cease its reproduction. It is believed that tampering with a recreational product was the catalyst for today's incident. [              ",
+    "target": "继续复制自身。湿件一旦不再响应停止繁殖的化学信号，这种失控生长就会变得危险。据认为，擅自改动某种娱乐产品，引发了今天的事故。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "047056168f2a4c31",
+    "source": "While the school has been closed for repairs and decontamination, CEL has reported that four students have received only minor injuries, and are being treated for burns and contamination. City coordinator AI Central has stated that the mass has been deactivated, and poses no further threat to lives or property within Newton.",
+    "target": "学校目前已关闭，以进行维修和清除污染。CEL报告称，四名学生仅受轻伤，正在接受烧伤及污染处理。城市统筹人工智能中枢表示，增殖团块已被失活处理，不再对牛顿市居民的生命或财产构成威胁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3a04cfb53e82fbe",
+    "source": "Friction in U.S. Successors Over Olympics",
+    "target": "美国继承国因奥运会再起争端",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "24a6c36bf20a2c6b",
+    "source": "The world prepares for the upcoming 49th Olympic Games being held in Panama next year. Likely to be a historic event, this will also mark the first time that both of the US Successor States will be fielding teams, following a ruling by the IOC. The States of the California Concord (S.C.C.) and the Liberty Coalition (L.C.), while no longer fighting a total war, are nonetheless at each other's throats again - over the flag. [        ",
+    "target": "全球正准备迎接明年在巴拿马举行的第49届奥运会。这有望成为一场历史性赛事：国际奥委会裁定，美国的两个继承国家都将派出代表队，这在历史上还是首次。加利福尼亚康科德诸州（S.C.C.）与自由联盟（L.C.）虽然不再进行全面战争，却又因国旗问题争得不可开交。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7942f76e623fd165",
+    "source": "Since the outbreak of the conflict in 2049 and the devastating nuclear attack on Washington D.C., each side has claimed to be the sole legitimate successor to the United States of America. Indeed, while the outside world refers to these new governments as the \"Concord\" or the \"L.C.\", each still refers to itself as the \"United States of America\", and its counterpart by a number of less-diplomatic descriptions - \"rebels\", \"heathens\" or \"drones\". ",
+    "target": "自2049年冲突爆发、华盛顿哥伦比亚特区遭到毁灭性核袭击以来，双方都宣称自己是美利坚合众国唯一合法的继承者。虽然外界把这两个新政府称为“康科德”或“L.C.”，两边依然自称“美利坚合众国”，却用一些不那么外交的措辞称呼对方：“叛军”“异教徒”或“无人机”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dd648201cf7a0b47",
+    "source": "As such, problems arise for the Olympics, as both nations continue to use the Stars and Stripes as their flag, and reject the legitimacy of its neighbour's existence, much less its use of classically American icons. [               ",
+    "target": "这也给奥运会带来了麻烦。两国继续使用星条旗作为国旗，却都否认邻国存在的合法性，更不用说接受对方使用传统的美国象征了。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c5a60ae8f30d121c",
+    "source": "Some observers are more optimistic than the IOC, and do not necessarily see this as an impossible deadlock. Eurofed Prime Minister  Jacqueline Santini remarked that \"both governments need to put on a show of patriotism for their populations over this issue\", but believes that eventually, each side will be able to agree to a proposed solution of creating new symbology specifically for international competitions such as this, and avoid use of the Stars and Stripes altogether. ",
+    "target": "一些观察人士比国际奥委会更乐观，并不认为这是无解的僵局。欧洲联邦总理雅克琳·桑蒂尼表示，“两国政府都需要借这个问题，向本国民众展示爱国姿态”，但她相信，双方最终会接受一项提议：专为此类国际比赛创设新的象征标志，完全避免使用星条旗。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b339423c5364f99a",
+    "source": "Commuters on the Red transit line last night were surprised by an evacuation drill that took place just after midnight at the Barbers Gate transit station. A CEL spokesprogram has confirmed that the evacuation was part of a planned emergency-response simulation, and that customers were in no danger. [               ",
+    "target": "昨晚，红线的通勤乘客遭遇了一场意外的疏散演习：演习于午夜刚过，在巴伯斯门交通站展开。CEL发言程序确认，这次疏散是预先安排的紧急响应模拟的一部分，乘客并未面临危险。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d3625d01ed50c0b",
+    "source": "Malfunction Causes Transit Fire",
+    "target": "机械故障引发列车火灾",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "837b8e4e9c33a247",
+    "source": "Commuters last night were forced to evacuate Barbers Gate transit station (Red Line, Northwest) when one of the trains developed a dangerous mechanical fault. The danger was confirmed when, minutes after the arrival of CEL personnel, the train's engine exploded, disabling the vehicle and causing minor fire damage to the station. The incident is believed to have been the result of overload within an engine's capacitor coil,",
+    "target": "昨晚，一辆列车出现危险的机械故障，乘客被迫疏散出巴伯斯门交通站（西北城区红线）。CEL人员抵达几分钟后，列车引擎发生爆炸，车辆因此瘫痪，车站也受到轻微火灾损害，证实了险情。据认为，这起事件是由于引擎中的电容线圈过载引发的，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "785217d6e40c43d9",
+    "source": " and Central has released an assurance that CEL are now performing checks on other units. [ ",
+    "target": "中枢也已发布保证，称CEL正在检查其他车辆。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "36da0867189671bb",
+    "source": "\"We're very fortunate that nobody was injured,\" a CEL spokesprogram stated. \"The malfunction was detected before it became a threat, and thanks to the public's cooperation with CEL corpsmen on the scene, an orderly evacuation was able to be carried out.\" The station has been temporarily closed, and Central anticipates a return to normal service by tomorrow evening. \"It'll be like nothing's happened!\" said one CEL corpsman. [       ",
+    "target": "CEL发言程序表示：“幸运的是，没有人受伤。故障在构成威胁之前就已发现，多亏公众配合现场的CEL医务员，才能有序完成疏散。”车站暂时关闭，中枢预计明晚便可恢复正常运营。一名CEL医务员说：“就跟什么都没发生过一样！”[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "213efca28729a35a",
+    "source": "Bystanders at the scene expressed mixed emotions. \"Yeah, it's a nuisance,\" said one, \"but it could've been a lot worse if CEL wasn't there.\" Another commented that \"it's times like these that make you glad Central's keeping an eye on everything!\" [              ",
+    "target": "现场人员的心情各不相同。一人说：“是啊，挺烦的，不过没有CEL，情况可能会糟得多。”另一人则说：“这种时候，就会庆幸中枢一直盯着所有事情！”[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9b229df6ff682aa1",
+    "source": "Sao Paulo Plans for Coordinator AI",
+    "target": "圣保罗计划引入统筹人工智能",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9ababa4224f7fb9",
+    "source": "Following the example of a growing number of cities such as London, New York, Newton and Tokyo, the Brazilian state of São Paulo has announced its intention to acquire an AI coordinator to aid in urban management and civic infrastructure. [       ",
+    "target": "效仿伦敦、纽约、牛顿市、东京等越来越多的城市，巴西圣保罗州宣布，计划引入人工智能统筹者，协助城市管理和公共基础设施运作。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f7be68eea84d3a4f",
+    "source": "While research and investigation is expected to last for several years, the city has entered into talks with a number of potential providers of such a system. Tatsumoto Heavy Engineering (THE) are providing a strong case, having set up coordinator systems for many North American and Asian cities, though have been plagued by rumors of secretly modifying the systems post-installation for their own benefits. Sao Paulo have also approached the city of Newton's ",
+    "target": "虽然研究和考察预计将持续数年，该市已经与几家潜在供应方展开磋商。辰本重型工程（THE）曾为众多北美和亚洲城市安装统筹系统，因此颇具竞争力。不过，该公司一直受到传闻困扰，被指在安装后偷偷修改系统以谋取私利。圣保罗还联系了牛顿市",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3597020cec5179bf",
+    "source": "government, with the possibility of acquiring its own variant of the successful 'CENTRAL' system, touted to be responsible for the record-low crime rates in a city of its size. Newton system administrator Dr Eduardo Vargas feels that 'though Central has had great success within our city, it may be some time before it is comfortable with operations overseas.' [                      ",
+    "target": "政府，探讨引入一套本地版“中枢”系统的可能性。这套成功的系统，被认为促成了同等规模城市中创纪录的低犯罪率。牛顿市系统管理员爱德华多·瓦尔加斯博士认为：“虽然中枢在本市取得了巨大成功，但它可能还需要一些时间，才能适应海外运作。”[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5eb044d0a0f49bb8",
+    "source": "Some inhabitants of Sao Paulo are less positive with the plans, believing the move to be uncomfortably close to 'handing over power to an unelected systems administrator appointed by a corporation'. City officials are downplaying such criticism, stating that safeguards will be in effect, and that 'much like in many cities, the AI will serve only to expedite existing functions of government.",
+    "target": "部分圣保罗居民对这项计划并不乐观，认为这几乎等于“把权力交给企业任命、未经选举的系统管理员”。市政府官员淡化了此类批评，称届时将落实防护措施，并表示：“和许多城市一样，人工智能只会加快政府现有职能的执行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ace2362c59729cf",
+    "source": "Residents Refuse to leave conflict 'Hotzone'",
+    "target": "居民拒绝离开冲突“热区”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a80995d48b14730d",
+    "source": "The short yet devastating Timuhani (Three-Way) War between India, China and Pakistan holds the ignoble honor of being the only conflict in history in which all participants resorted to some form of nuclear warfare as a strategy. Radioactive dust blows off the Himalayas, and will continue to do so for centuries. In addition, a number of historic, densely populated cities found ",
+    "target": "印度、中国和巴基斯坦之间的蒂穆哈尼（三方）战争虽短暂，却破坏巨大，并留下了一个不光彩的纪录：它是历史上唯一一场所有参战方都将某种形式的核战争作为战略的冲突。放射性尘埃从喜马拉雅山脉吹出，而且还会持续数百年。此外，一些历史悠久、人口稠密的城市，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba5299e41fb647c2",
+    "source": "themselves the targets of pre-emptive and retaliatory nuclear strikes for their strategic importance, or simply as revenge. While many surviving inhabitants of these cities have since fled, eagerly taken in by growing 'new cities' such as St. Jermain and Newton, thousands chose to remain, unwilling to leave their homes. [      While this presents a testament to human tenacity, ",
+    "target": "因其战略价值，或仅仅出于报复，成为先发制人及报复性核打击的目标。许多幸存居民已经逃离，并受到圣热尔曼、牛顿市等不断壮大的“新城”的接纳。可仍有数千人选择留下，不愿离开家园。[这体现了人类的顽强，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1e4f072149881825",
+    "source": "it has also been a serious obstacle to both the Indian and Pakistani governments. With aerial spraying of specialized wetware treatments, radioactive contamination has been dramatically reduced in test-areas, enabling normal growth of crops and reduction of radiation to safe, background levels for human inhabitation. Unfortunately, the treatment itself cannot be carried out in occupied areas, proving harmful to health until completed. [ ",
+    "target": "却也给印度和巴基斯坦政府带来了严重障碍。在试验区，通过空中喷洒专门的湿件处理剂，放射性污染已经大幅减少。庄稼得以正常生长，辐射也降至人类能够安全居住的本底水平。遗憾的是，处理过程本身在完成前会危害健康，因此不能在仍有人居住的地区实施。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "50380ad303f35a85",
+    "source": "Distrustful of the government, some locals have taken to armed response against troops sent to evacuate occupants from these 'hotzones'. Congress has appealed to the UN for assistance in evacuation of the remaining residents, warning that the potentially hazardous decontamination will eventually take place 'whether they remain or not.'",
+    "target": "一些居民不信任政府，对前来疏散“热区”居民的军队作出武装反抗。国会已向联合国请求协助，撤离留下的居民，并警告称，这项可能带来危险的去污处理，最终会“无论他们是否留下”都照常进行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "624b3b7b55595938",
+    "source": "Ground Broken in Construction of Newton's Space Elevator",
+    "target": "牛顿市太空电梯工程动工",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "536f28c29101cd3f",
+    "source": "The City of Newton's ambitions as a spacefaring power were brought a step closer to realisation last night, as the captured asteroid 40448-Columbiad was moved into a geostationary orbit above the equatorial city. The operation, carried out by drones whose success was confirmed by ground-control",
+    "target": "昨晚，被捕获的小行星40448-Columbiad移入赤道城市牛顿市上方的地球同步静止轨道，使这座城市成为航天强国的雄心，又向现实迈进了一步。此次行动由无人机实施，并于昨天上午由地面控制",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dacdc930675e8653",
+    "source": " teams yesterday morning, represents the first major step in the construction of Newton's space elevator. The asteroid will serve as the 'anchor' for the elevator, and must now be connected to the grounding platform on the Earth's surface. [    ",
+    "target": "团队确认成功，是建设牛顿市太空电梯的第一个重大步骤。小行星将作为电梯的“锚点”，接下来必须与地表平台相连。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e63a9c326f958835",
+    "source": "\"We are extremely proud of what our engineers have been able to accomplish,\" commented Councillor Diane Lee. \"Newton's equatorial position made it the obvious choice for this project, and we forsee easy access to space as potentially one of our biggest exports.\" [      ",
+    "target": "黛安·李议员表示：“工程师取得的成就，让我们深感自豪。牛顿市位于赤道，是这项工程显而易见的选址。便捷的太空通道，很可能成为我们最重要的出口服务之一。”[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "08dba68a473930cd",
+    "source": "Though a landmark in engineering, the project is by no means complete. The carbon-nanofibre 'track' must now be run from the asteroid to the city, itself a risky process. In the event of an accident, Newton's position on the Horn of Africa will allow a safe deorbit into the Indian Ocean. City authorities are optimistic that the elevator will be commercially active by 2101.",
+    "target": "虽然这是工程史上的里程碑，项目却远未完成。接下来，必须将碳纳米纤维“轨道”从小行星铺设到城市，这本身也是一项危险的工作。如果发生事故，牛顿市位于非洲之角，能够让设施安全脱轨，落入印度洋。市政府乐观预计，电梯将在2101年投入商业运营。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66827398b31c3f51",
+    "source": "Pop Group Seeks Asylum",
+    "target": "流行乐团寻求庇护",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0dac4b3c1c1c0f10",
+    "source": "The popular boy-band 'U-Phonix', currently on a world tour including Eurofed, Newton and SoCal, have been sentenced to death in absentia by a court in their home state of Oklahoma. The verdict, issued by the presiding judge Pastor William Phipps of the \"Patriotic Tribunal Board\", was given after accusations of treasonous conduct, blasphemy and \"incitement to immorality on an unprecedented scale\".",
+    "target": "人气男子组合“U-Phonix”正进行世界巡演，行程包括欧洲联邦、牛顿市和南加州。近日，他们被故乡俄克拉何马的一家法院缺席判处死刑。“爱国法庭委员会”的主审法官威廉·菲普斯牧师，依据叛国、亵渎神明以及“以空前规模煽动不道德行为”等指控，作出了这一判决。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23564b765db8ad7e",
+    "source": " While not acting as part of the legal government of Oklahoma (currently occupied by Concord peacekeepers), the ruling by an influential community figure carries a great deal of weight with much of its population, making it no longer safe for the group to return. There is also a risk that fanatics may attempt to act on this 'judgement' outside of their own territory. [            ",
+    "target": "虽然该委员会并非俄克拉何马合法政府的一部分，当地目前由康科德维和部队占领，但这位颇有影响力的社区人物作出的裁决，对许多居民仍具有分量。组合成员已无法安全返回家乡，也存在狂热分子试图在境外执行这项“判决”的风险。[",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0343c6a620b2a2dc",
+    "source": "Currently in Newton on their second night, the group's management have apparently sought asylum arrangements with the city-state. Henry Temba, Newton's Exterior Minister, has confirmed that protection is being sought, stating that \"(the city) will not allow people to be forced to make a choice between free speech, and their safety. We welcome these young men to our community, and will continue to oppose the blatant hypocrisy still rife in the Concord.\"  [              ",
+    "target": "乐队目前在牛顿市停留到第二晚，经纪团队显然已向这个城邦寻求庇护。牛顿市外务部长亨利·滕巴确认，乐队正在申请保护，并表示：“本市不会允许人们被迫在言论自由与自身安全之间作出选择。我们欢迎这些年轻人加入我们的社区，也将继续反对协约国内仍然盛行的公然虚伪。” [              ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "943d7fdfe25eb65e",
+    "source": "Some analysts suspect that the timing of the ruling intentionally coincided with U-Phonix's world tour. No longer able to return, it is likely that their assets within Concord territory will be seized by state or Warlord forces.",
+    "target": "一些分析人士怀疑，裁决刻意选在U-Phonix进行世界巡演时公布。他们如今无法返回，很可能将被州政府或军阀势力没收位于康科德境内的财产。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

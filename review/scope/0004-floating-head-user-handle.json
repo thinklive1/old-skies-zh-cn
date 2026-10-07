@@ -1,0 +1,6 @@
+{
+  "audit": "Dialog 38用户身份与退出提示逐项核对，提示正文翻译，账户标识保留。",
+  "entries": [
+    {"id":"054b72e6bc2449ca","source":"Gandarf","status":"preserve","reason":"迷境账户标识；退出通知引用相同ID，保留原拼写，不擅自改为其他作品人物的标准译名。"}
+  ]
+}

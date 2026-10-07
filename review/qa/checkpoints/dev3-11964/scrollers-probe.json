@@ -1,0 +1,98 @@
+{
+  "passed": true,
+  "isolated_copy": true,
+  "visual_test": false,
+  "detour": {
+    "detours": [
+      {
+        "hook": 10,
+        "helper": 4504,
+        "mode": "news"
+      },
+      {
+        "hook": 2221,
+        "helper": 4610,
+        "mode": "mail"
+      }
+    ],
+    "original_code_cells": 4504,
+    "added_code_cells": 204,
+    "changed_code_cells": [
+      10,
+      11,
+      2221,
+      2222
+    ],
+    "added_import": "GetTranslation",
+    "added_fixups": [
+      [
+        4,
+        4512
+      ],
+      [
+        4,
+        4521
+      ],
+      [
+        4,
+        4530
+      ],
+      [
+        4,
+        4535
+      ],
+      [
+        4,
+        4544
+      ],
+      [
+        4,
+        4553
+      ],
+      [
+        4,
+        4558
+      ],
+      [
+        4,
+        4567
+      ],
+      [
+        4,
+        4576
+      ],
+      [
+        4,
+        4581
+      ],
+      [
+        4,
+        4590
+      ],
+      [
+        4,
+        4599
+      ],
+      [
+        4,
+        4626
+      ],
+      [
+        4,
+        4647
+      ],
+      [
+        4,
+        4668
+      ],
+      [
+        4,
+        4689
+      ]
+    ]
+  },
+  "hook_source": "installed candidate payload",
+  "log_tail": "hat/work/technobabylon/pilot\n Path arg: \nFound game data embedded in executable\nLocated game data pak: <workspace>/work/technobabylon/pilot/Technobabylon.exe\nOpened game data file: game28.dta\nGame data version: 3060114\nCompiled with: 3.6.1.35\nStartup directory: <workspace>/work/technobabylon/pilot/\nData directory: <workspace>/work/technobabylon/pilot/\nSetting up game configuration\nUser config directory: <workspace>/work/technobabylon/pilot/.\nUser data directory: <workspace>\\work\\technobabylon\\pilot\\scrollers-probe-37460a01\\userdata\nShared data directory: <workspace>\\work\\technobabylon\\pilot\\scrollers-probe-37460a01\\shared\nVoice pack found: speech.vox\naudio.vox found and initialized.\nInitializing TTF renderer\nInitializing mouse: number of buttons reported is 3\nInitializing audio\nRequested audio driver: dummy\nAudio driver: dummy\nAudioCore: opened device \"Default OpenAL playback device\"\nSupported sound decoders:\n - Play modules through ModPlug : 669,AMF,AMS,DBM,DMF,DSM,FAR,GDM,IT,MDL,MED,MOD,MT2,MTM,OKT,PTM,PSM,S3M,STM,ULT,UMX,XM,\n - MPEG-1 Audio Layer I-III : MP3,MP2,MP1,\n - Microsoft WAVE audio format : WAV,\n - Audio Interchange File Format : AIFF,AIF,\n - Sun/NeXT audio file format : AU,\n - Ogg Vorbis audio : OGG,\n - Creative Labs Voice format : VOC,\n - Raw audio : RAW,\n - Shorten-compressed audio data : SHN,\n - Free Lossless Audio Codec : FLAC,FLA,\nSound cache set: 32768 KB\nInstall exit handler\nInitialize path finder library\nLoad game data\nGame title: 'Technobabylon'\nGame uid (old format): `1186933`\nGame guid: '{3d676a17-f50f-467f-bc87-f79ddcb63550}'\nGame GUI version: 119\nRequested script API: v3.5.1 (8), compat level: v3.5.1 (8)\nLoaded font 0: agsfnt0.ttf, req size: 16; nominal h: 16, real h: 20, extent: 0,20\nLoaded font 1: agsfnt1.ttf, req size: 32; nominal h: 32, real h: 36, extent: 0,36\nLoaded font 2: agsfnt2.ttf, req size: 32; nominal h: 32, real h: 38, extent: 0,38\nLoaded font 3: agsfnt3.ttf, req size: 0; nominal h: 16, real h: 20, extent: -1,20\nLoaded font 4: agsfnt4.ttf, req size: 16; nominal h: 16, real h: 18, extent: 0,18\nLoaded font 5: agsfnt5.ttf, req size: 16; nominal h: 16, real h: 18, extent: 0,18\nLoaded font 6: agsfnt6.ttf, req size: 16; nominal h: 16, real h: 20, extent: 0,20\nLoaded font 7: agsfnt7.ttf, req size: 24; nominal h: 24, real h: 27, extent: 0,27\nInitializing resolution settings\nGame native resolution: 640 x 400 (32 bit)\nMouse cursor graphic area: (0,0)-(639,399) (640x400)\nTry library path: agsteam-unified.dll\nPlugin 'agsteam-unified' loaded from 'agsteam-unified.dll', resolving imports...\nChecking for disk space\nDevice display resolution: 1024 x 768\nGraphic settings: driver: Software, windowed: yes, screen size: 1920 x 1080, game scale: stretch\nGraphic settings: refresh rate (optional): 0, vsync: 0\nUsing graphics factory: Software\nCreated graphics driver: SDL 2D Software renderer\nSupported gfx modes (32-bit): \n\t1024x768;\nAttempt to find nearest supported resolution for screen size 1920 x 1080 (32-bit) windowed, on display 0\nMaximal allowed window size: 1006 x 721\nAttempt to switch gfx mode to 1006 x 721 (32-bit) windowed, on display 0\nSDLRenderer: failed to query renderer info: Parameter 'renderer' is invalid\nGraphics driver set: SDL 2D Software renderer\nGraphics mode set: 1006 x 721 (32-bit) windowed, on display 0\nGraphics mode set: refresh rate (optional): 0, vsync: 0\nRender frame set, render dest (0, 0, 1005, 720 : 1006 x 721)\nRequested gfx filter: stdscale\nGraphics filter set: 'StdScale', filter dest (0, 0, 1005, 720 : 1006 x 721)\nUsing gfx filter: StdScale\nMouse speed control: enabled, unit: 1.000000, user value: 1.000000\nTouch-to-mouse motion mode: absolute\nMouse cursor graphic area: (0,0)-(1005,720) (1006x721)\nMultitasking mode set: 0\nSetting up window\nMultitasking mode set: 0\nInitialize sprites\nSprite cache set: 131072 KB\nInitialize game settings\nPrecache view 2 (loops 0-3) with 36 frames, total = 0 ms, average file->mem = 0 ms, bm->tx = 0 ms,\n\t\tloaded 0 sounds = 0 ms\n\tSprite cache: 1 -> 493 KB, texture cache: 0 -> 0 KB\nTranslation loaded: Technobabylon_zh_CN.tra\nTranslation's encoding: UTF-8\nGame's source encoding hint: own: 1252, from TRA: .1252\nConverting UTF-8 TRA keys to the game's encoding (.1252)\nTranslation initialized: Technobabylon_zh_CN (format: UTF-8)\nPrepare to start game\nGame : (room:-10) Cursor mode set to 0\nEngine initialization complete\nStarting game\nGame : (room:-10) Cursor mode set to 0\nGame : (room:-10) Playing music 0\nQuitting the game...\nA fatal error has been generated by the script using the AbortGame function. Please contact the game author for support.\n\nin the active script:\nin \"GlobalScript.asc\", line 0\n\nError: TB_L10N_PROBE news:语音音量保存游戏最新体育新闻天气预报 mail:绿色的可回收塑料托盘。食品机用它来盛那些糊糊。 subject:保存游戏\n***** ENGINE HAS SHUTDOWN\n",
+  "exit_code": 0,
+  "rollback_byte_exact": true
+}

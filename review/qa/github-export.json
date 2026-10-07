@@ -1,0 +1,51 @@
+{
+  "source_commit": "c627c8884c6055bc3db83ebe0373e767eaaa25b3",
+  "branch": "technobabylon-zh-cn",
+  "tag": "technobabylon-v1.0.0-rc.1",
+  "sanitized_reports": [
+    "review/qa/context-asset-priority-probe.json",
+    "review/qa/engine-smoke.json",
+    "review/qa/installed-verification.json",
+    "review/qa/package-check.json",
+    "review/qa/pilot-install-rollback.json",
+    "review/qa/real-install-preflight.json",
+    "review/qa/release-refusal.json",
+    "review/qa/scrollers-probe-initial.json",
+    "review/qa/scrollers-probe.json",
+    "review/qa/history/engine-latest-run.json",
+    "review/qa/checkpoints/dev3-11078/engine-smoke.json",
+    "review/qa/checkpoints/dev3-11078/pilot-install-rollback.json",
+    "review/qa/checkpoints/dev3-11964/engine-smoke.json",
+    "review/qa/checkpoints/dev3-11964/pilot-install-rollback.json",
+    "review/qa/checkpoints/dev3-11964/scrollers-probe.json"
+  ],
+  "package": "Technobabylon_zh_CN_1.0.0-rc.1.zip",
+  "size": 2741839,
+  "sha256": "09b3ece8e664fe0dfdec458b298855bb3318c7ec045a6f9f93edcb00202b61b8",
+  "payload_files_verified": 10,
+  "translation_and_receipt_bytes_unchanged": true,
+  "zip_crc_verified": true,
+  "visual_acceptance": "pending-user",
+  "export_validation": [
+    {
+      "tool": "test_formats.py",
+      "exit_code": 0
+    },
+    {
+      "tool": "test_context_data.py",
+      "exit_code": 0
+    },
+    {
+      "tool": "test_scom_runtime.py",
+      "exit_code": 0
+    },
+    {
+      "tool": "test_install.py",
+      "exit_code": 0
+    },
+    {
+      "tool": "build.py",
+      "exit_code": 0
+    }
+  ]
+}

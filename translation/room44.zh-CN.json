@@ -1,0 +1,138 @@
+[
+  {
+    "id": "eccda5bea168d41c",
+    "source": "Utility Control",
+    "target": "公用设施控制台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c666591df0537cf2",
+    "source": "Street",
+    "target": "街道",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "60315ad5ec0ea775",
+    "source": "Shaft",
+    "target": "竖井",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8da07f97a8e4481",
+    "source": "Panel Cover",
+    "target": "面板盖",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "04c226fbcfb33d4c",
+    "source": "&505 The panel bears the two-barred emblem of Centralized Government. Beneath this, a warning to unauthorized users or those not from the Utilities Office.",
+    "target": "&505 面板上印着中枢政府的双横杠徽记。下面是警告，禁止未经授权或不属于公用设施部门的人员使用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bfbce004d08c007d",
+    "source": "&551 It's old and rusty, but still locked.",
+    "target": "&551 虽然又旧又锈，可还是锁着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "35ab755f48b5b417",
+    "source": "&693 A steel grate, as rusted as everything else down here.",
+    "target": "&693 一块钢格栅，跟这里其他东西一样锈迹斑斑。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "70f08a86fb6e58de",
+    "source": "&694 Looks like it covers the access to another shaft.",
+    "target": "&694 看来，盖着通往另一条竖井的入口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7bab7f551dd3804c",
+    "source": "&695 I'm not strong enough to open it with my bare hands.",
+    "target": "&695 我力气不够，没法徒手打开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2e75995a0e84e13",
+    "source": "&696 This tunnel is small, but could still fit someone on all-fours.",
+    "target": "&696 隧道很小，不过一个人应该还能爬进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5dc2164b2378098",
+    "source": "&697 I wonder if it serves as access to the other systems down here.",
+    "target": "&697 不知道，能不能从这里进入下面其他设施。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a4cb1e29b3b6600",
+    "source": "VENT",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "64d80528fcb1a72c",
+    "source": "&698 This utility panel controls the flow of resources to buildings in this neighborhood.",
+    "target": "&698 这块设施面板，控制着向附近楼宇供应的资源。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "688bc061d7eb15c9",
+    "source": "&510 INVALID USER[[Warning: Unauthorized use of CITY OF NEWTON utilities terminals carries a penalty of fine, imprisonment or reconditioning.",
+    "target": "&510 无效用户[[警告：未经授权使用牛顿市公用设施终端，可处以罚款、监禁或行为矫正。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b69914bb735eba74",
+    "source": "&511 Having already breached this system's primitive defences, you decide not to waste any more wetware.",
+    "target": "&511 你已经攻破了这个系统简陋的防御，决定不再浪费湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9536723a2d9fa8fb",
+    "source": "&552 Too easy.",
+    "target": "&552 太简单了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9897f891192fefc2",
+    "source": "&699 The way back on to the street. At least it's not daylight out there.",
+    "target": "&699 回到街上的路。至少，外面还没天亮。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

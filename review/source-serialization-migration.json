@@ -1,0 +1,7 @@
+{
+  "generated_at": "2026-10-06T06:02:58.434942+00:00",
+  "reason": "Normalize source/project text to LF to preserve checksums across Git checkouts; JSON values, source keys, IDs, occurrence context and translation content unchanged",
+  "before": "9ed67f68ded12851851d60d7b3c519e14f606fb32f363238e6ea94a83c579dbd",
+  "after": "2e34cd71fca6112e061289cfa9dfe4a294058f8b17690b572d230f2bf03c109c",
+  "structured_data_identical": true
+}

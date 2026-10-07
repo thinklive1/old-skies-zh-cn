@@ -1,0 +1,435 @@
+{
+  "audit": "Exact control-reference ownership read from original game metadata. No source-shape inference or shared translated labels discarded.",
+  "entries": [
+    {
+      "id": "325fb06754b24a20",
+      "source": "Debuggery",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "label",
+        "control_index": 28,
+        "control_name": "Label15",
+        "events": []
+      }
+    },
+    {
+      "id": "039ba7edaeb794c7",
+      "source": "Debuggery Suite",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 66,
+        "control_name": "ButtonTestThinkbox",
+        "events": [
+          "ButtonTestThinkbox_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "4ff18900fcafe1f8",
+      "source": "Start P2.2",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 67,
+        "control_name": "ButtonStartDriving",
+        "events": [
+          "ButtonStartDriving_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "e89296adaddf078d",
+      "source": "JETPACK",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 68,
+        "control_name": "ButtonDebugSuicide",
+        "events": [
+          "ButtonDebugSuicide_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "48b99f218f6ee091",
+      "source": "Start S2B",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 69,
+        "control_name": "Button1",
+        "events": [
+          "Button1_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "62d60ad8c4a58567",
+      "source": "Start P3",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 70,
+        "control_name": "ButtonDebugPart3",
+        "events": [
+          "ButtonDebugPart3_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "c075483ec8218fbd",
+      "source": "End N",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 71,
+        "control_name": "ButtonUnlockVDW",
+        "events": [
+          "ButtonUnlockVDW_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "89cbe077fd304927",
+      "source": "10 Trance",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 72,
+        "control_name": "ButtonDebugBomber",
+        "events": [
+          "ButtonDebugBomber_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "0ab38a981eef633e",
+      "source": "Not-Pong",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 73,
+        "control_name": "ButtonGiveSplitter",
+        "events": [
+          "ButtonGiveSplitter_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "ccf5abd17ea68b9c",
+      "source": "Start P3.2",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 74,
+        "control_name": "ButtonSkip32",
+        "events": [
+          "ButtonSkip32_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "c078b9d56104acf2",
+      "source": "Start P4",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 75,
+        "control_name": "ButtonSkip41",
+        "events": [
+          "ButtonSkip41_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "594c632e9fedbfd7",
+      "source": "ArmRot Test",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 76,
+        "control_name": "ButtonDebugS4Stuff",
+        "events": [
+          "ButtonDebugS4Stuff_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "c120fc97c57d6339",
+      "source": "Start P5",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 77,
+        "control_name": "ButtonStartP5",
+        "events": [
+          "ButtonStartP5_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "374bb4af0efc6ddb",
+      "source": "Start P6",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 78,
+        "control_name": "ButtonStart6",
+        "events": [
+          "ButtonStart6_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "5fe61af29cf5b250",
+      "source": "Start P6.1",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 79,
+        "control_name": "ButtonStartP61",
+        "events": [
+          "ButtonStartP61_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "18e93ab3ee6586c7",
+      "source": "ZVar Values",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 80,
+        "control_name": "ButtonDebugVars",
+        "events": [
+          "ButtonDebugVars_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "2c672edbf6dc3ebd",
+      "source": "Start P6.2",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 81,
+        "control_name": "ButtonStartP62",
+        "events": [
+          "ButtonStartP62_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "f93aa60463bd1c29",
+      "source": "LiftsARGH",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 82,
+        "control_name": "ButtonStart111",
+        "events": [
+          "ButtonStart111_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "250edb0e556e7543",
+      "source": "Start P7",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 83,
+        "control_name": "ButtonS7Start",
+        "events": [
+          "ButtonS7Start_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "7a4a9d0343b98206",
+      "source": "Player Pos.",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 84,
+        "control_name": "BTNotPongTest",
+        "events": [
+          "BTNotPongTest_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "85e6bfbd3faef20e",
+      "source": "TrLath S10 Speed",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 85,
+        "control_name": "ButtonTestSt",
+        "events": [
+          "ButtonTestSt_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "90f73b3ebd8c2b6f",
+      "source": "Start P8",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 86,
+        "control_name": "ButtonStartP8",
+        "events": [
+          "ButtonStartP8_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "0b3f2817b2d48464",
+      "source": "End C",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 87,
+        "control_name": "ButtonEndC",
+        "events": [
+          "ButtonEndC_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "59a93831d830a007",
+      "source": "Start P9",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 88,
+        "control_name": "ButtonStart9",
+        "events": [
+          "ButtonStart9_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "4d10016ab8d5de28",
+      "source": "Start P9.1",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 89,
+        "control_name": "ButtonStart91",
+        "events": [
+          "ButtonStart91_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "4cec6a8a22f5f72b",
+      "source": "Start P9.2",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 90,
+        "control_name": "ButtonP92",
+        "events": [
+          "ButtonP92_OnClick"
+        ]
+      }
+    },
+    {
+      "id": "747444e1a53f9765",
+      "source": "Start P10",
+      "status": "excluded",
+      "reason": "仅属开发者gDebuggery调试面板的章节跳转/状态诊断控件，不属于正常剧情或玩家界面。已按GUI控制引用核对归属及事件处理器。",
+      "evidence": {
+        "gui_index": 18,
+        "gui_name": "gDebuggery",
+        "control_kind": "button",
+        "control_index": 91,
+        "control_name": "ButtonStart10",
+        "events": [
+          "ButtonStart10_OnClick"
+        ]
+      }
+    }
+  ]
+}

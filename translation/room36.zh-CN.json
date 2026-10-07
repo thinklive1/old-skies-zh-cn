@@ -1,0 +1,186 @@
+[
+  {
+    "id": "6f4a0dc571bffed1",
+    "source": "Hallway",
+    "target": "走廊",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eee213970524cadd",
+    "source": "Giant Crack",
+    "target": "巨大裂缝",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b77eaa0a3fb6fc8b",
+    "source": "Showers",
+    "target": "淋浴间",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "795b048ba2164e50",
+    "source": "Drain",
+    "target": "排水口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cd7bc50f3710b61b",
+    "source": "Picked up: [Whiskey[Polish",
+    "target": "已拾取：[威士忌[抛光剂",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "677e55c3f230fec0",
+    "source": "&1601 Apparently it's not just cleaning supplies they kept in here.",
+    "target": "&1601 看来，这里放的不只是清洁用品。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1e5d9170bdbe43ba",
+    "source": "&1602 This is some pricey liquor.",
+    "target": "&1602 这酒可不便宜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14df469c2becd6b5",
+    "source": "&1603 Back out into the hallway.",
+    "target": "&1603 回到走廊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "34fecbbbb4801519",
+    "source": "&1604 Lockers. Whatever they did here, it apparently needed specialized gear.",
+    "target": "&1604 储物柜。不管这里以前干什么，显然需要专门的装备。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a22c206e9f33f8a",
+    "source": "&1605 It's empty - there's nothing I can use in here.",
+    "target": "&1605 空的，没东西能用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95785ad307462872",
+    "source": "&1606 I haven't got the gear to fix it...or open it up some more.",
+    "target": "&1606 我没有修它的工具，也没法把它再撬开一些。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cb7819726a3fe131",
+    "source": "&1607 It's going to get a whole lot wetter downstairs.",
+    "target": "&1607 楼下马上就要湿透了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d25fd43081c85db8",
+    "source": "&1608 Looks like the beginnings of a fine hole in the floor.",
+    "target": "&1608 看来，地板上快弄出一个像样的洞了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7200edb868c308f7",
+    "source": "&1609 There's a little light coming through it, and I can hear voices.",
+    "target": "&1609 有一点光透上来，还能听见人说话。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "670ca91ca86b771c",
+    "source": "&1610 They've probably become even rustier because of all the water.",
+    "target": "&1610 这么多水，应该让它们锈得更厉害了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "894801271b8814f7",
+    "source": "&1611 It's rusted stuck.",
+    "target": "&1611 锈死了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "24f92d4e13bf0d08",
+    "source": "&1612 Aahh!",
+    "target": "&1612 啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0f33fc3b38c8a209",
+    "source": "&1613 I wonder if anything's made a nest in there since they stopped using this place...",
+    "target": "&1613 不知道这里废弃以后，有没有什么东西在里面筑巢……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6b083ace792e7053",
+    "source": "&1614 There's nothing in here.",
+    "target": "&1614 里面什么都没有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "de830744834e7a80",
+    "source": "&1615 I've stuffed the drain.",
+    "target": "&1615 我把排水口塞住了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c81f42adffb1121d",
+    "source": "&1616 That won't fit.",
+    "target": "&1616 放不进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a35213f698b70078",
+    "source": "&1617 I don't think anything'll get through, I jammed a couple of kilos of material in there.",
+    "target": "&1617 应该什么也过不去了。我往里面塞了两公斤左右的填料。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9fb8d981bb7ecd9b",
+    "source": "&1618 What am I, a plumber?",
+    "target": "&1618 我像是水管工吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

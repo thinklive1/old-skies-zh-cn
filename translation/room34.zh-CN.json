@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1f5dce2765b34c75",
+    "source": "Fire Control",
+    "target": "消防控制",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "937edaa8fb998de5",
+    "source": "Filing Cabinet",
+    "target": "档案柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21d2b4331d89963f",
+    "source": "Smoke Detector",
+    "target": "烟雾探测器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a1c54f55e7cfb1c",
+    "source": "Picture",
+    "target": "图片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e27e3cb00ef85fa2",
+    "source": "Bottle",
+    "target": "瓶子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ec893b6037b0093",
+    "source": "Pressurised Canister",
+    "target": "加压气罐",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ca462b381d95598f",
+    "source": "Maintenance Drone",
+    "target": "维修无人机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fd9f681478241c97",
+    "source": "&1558 So I got out...I managed to find somewhere to lie low...",
+    "target": "&1558 所以，我逃出来了……找了个地方躲起来……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dbdc9e0be519f2a8",
+    "source": "&1559 But I know what Central's capable of...you can only hide from it for so long...",
+    "target": "&1559 可我知道中枢有什么本事……躲它，也只能躲那么久……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f030fc3f3f3bff6b",
+    "source": "&1560 Lao had better find that message before an aerostat comes this way.",
+    "target": "&1560 劳最好赶在浮空艇过来之前，找到那条消息。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b99fd61713c395e",
+    "source": "&1561 What the Hell?!",
+    "target": "&1561 什么鬼？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c629a1e4851aca94",
+    "source": "&128 -pfffzzzt -ou hear me?",
+    "target": "&128 ——滋滋——听得到我吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cf5898357be78762",
+    "source": "&1562 Hello? Who's there?",
+    "target": "&1562 喂？谁在说话？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6bf4995b41d4957",
+    "source": "&1563 Someone managed to get this through the window - they must have one Hell of a pitching arm...",
+    "target": "&1563 有人居然把这东西从窗外扔进来，胳膊劲儿可真够大的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0f631a0a2ea561e6",
+    "source": "Picked up: Thermal Bottle",
+    "target": "已拾取：保温瓶",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55f8af9ff1a51017",
+    "source": "&1564 What the Hell is this...?",
+    "target": "&1564 这到底是什么鬼东西……？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "be5e66c1854f88ed",
+    "source": "&1565 A battered door. It's got the former occupant's name stenciled on it.",
+    "target": "&1565 一扇破旧的门。上面用模板喷着上一位使用者的名字。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8aa3a32eac751416",
+    "source": "&1566 It's empty. Nothing's loaded into the fire suppressant system.",
+    "target": "&1566 空的。灭火系统里没装任何东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d948950347cc7d33",
+    "source": "&1567 There's a canister of water-soluble fire suppressant loaded into the system.",
+    "target": "&1567 系统里装着一罐水溶性灭火剂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed40d08629d4dc27",
+    "source": "&1568 Looks like the red paint canister was compatible.",
+    "target": "&1568 看来，红色油漆罐也能装进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a6681cdf39765716",
+    "source": "&1569 The gauge says that the tank's exhausted.",
+    "target": "&1569 压力表显示，罐子已经空了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9800e644069809b0",
+    "source": "&1570 It's the fire-safety system. Probably hasn't been used in years.",
+    "target": "&1570 消防系统。大概好多年没用过了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "587a7577f525ac29",
+    "source": "&1571 Huh...it fits...",
+    "target": "&1571 哦……还真装得上……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "073a0734b38c4fd9",
+    "source": "&1572 The system only takes fluid tanks.",
+    "target": "&1572 系统只接受液体罐。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0dd8c527e8772007",
+    "source": "&1573 It's not going to be compatible with it.",
+    "target": "&1573 这个跟它不兼容。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1211649b3a524c78",
+    "source": "&1574 I guess some things, you just have to store physically.",
+    "target": "&1574 有些东西，还是得存成实体。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7ec8970977c5dc1",
+    "source": "&1575 The rest of it's decade-old paperwork.",
+    "target": "&1575 剩下的都是十年前的纸质文件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "126f1ebe3c697486",
+    "source": "&1576 Looks like this guy had a place to keep his vices at work.",
+    "target": "&1576 看来，这家伙在上班的地方还藏着些不良嗜好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9c92f98b3e4249ed",
+    "source": "Picked up: Cigarette Lighter",
+    "target": "已拾取：打火机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "674371b69da337ed",
+    "source": "&1577 I wonder if it even still works.",
+    "target": "&1577 不知道还能不能用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e61028b24956299",
+    "source": "&1578 I can't reach it from down here.",
+    "target": "&1578 从这里够不到它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a57b85e4f1e5750d",
+    "source": "&1579 Huh...must be empty.",
+    "target": "&1579 哦……肯定是空的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d49b9528129b97c6",
+    "source": "&1581 Lousy kids can't even do their own graffiti anymore without a bot's help.",
+    "target": "&1581 现在的小鬼真没用，连涂鸦都得靠机器人帮忙。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "40f67206b46bea90",
+    "source": "&1582 Nothing else in here looks like it'd work anymore.",
+    "target": "&1582 这里其他的东西，看着都没法用了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4fdd415ae5e5abb8",
+    "source": "&1583 Must've been a decorator.",
+    "target": "&1583 应该是个装修工。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "87154c489199c984",
+    "source": "Picked up: Paint cartridge",
+    "target": "已拾取：油漆筒",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d72cb376f01289d0",
+    "source": "&1584 An old office terminal. I'm kinda suprised nobody's stolen it yet.",
+    "target": "&1584 一台旧办公终端。居然还没人偷走，有点意外。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8fff9fbffabd7a4a",
+    "source": "&517 A painting of a glowing pyramid, hanging over a city. Despite the other 'decoration' that the walls of this office has acquired, this picture remains unvandalized.",
+    "target": "&517 画中，一座发光的金字塔悬在城市上空。虽然这间办公室的墙上多了不少其他“装饰”，这幅画却没有遭到破坏。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f07d64d7ab65d157",
+    "source": "&524 You can't think of anywhere that the painting would go well, even if it hadn't suffered from a decade of neglect.",
+    "target": "&524 就算不是十年无人打理的模样，你也想不出这幅画适合放在哪里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12c89b9af142e8df",
+    "source": "This part of town is full of disused factories, abandoned after an environmental catastrophe a decade earlier. While CEL technically has a mandate to keep it safe, the expense of doing so means that it rarely gets patrolled.",
+    "target": "这片城区到处都是废弃工厂，十年前一场环境灾难之后便无人使用。理论上，CEL有责任保障这里的安全，可费用太高，所以很少有人来巡逻。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

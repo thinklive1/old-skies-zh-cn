@@ -1,0 +1,94 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "对照检出的意识状态和牛顿市全部原文，统一心智状态／意识状态两种译法；CI工具拆分全部三个模块，问句用拆分器，保留原作另一显示名PERSONALITY SPLITTER对应人格分离器。",
+  "source_batches": [
+    "0178-final-mind-state-consistency.json"
+  ],
+  "entries": [
+    {
+      "id": "0bbf9e05b2cec94d",
+      "sha256": "a69afc5f264e62c527f03e4142380894d125df0565d13d49b27350ea5f4fb453"
+    },
+    {
+      "id": "0ee9221d4eff0f05",
+      "sha256": "7d30832190c51e1a23bcd9166b1fe747eb29748faf5380b94c3b0d6793d34619"
+    },
+    {
+      "id": "2745eb79a321bb69",
+      "sha256": "f7f3c7105b26f8eb991b27df0da6aaf66a693385b3cb96a9003c00ecee192680"
+    },
+    {
+      "id": "35dbe37ad5faba43",
+      "sha256": "93a356730cd3ffc9157db328cc05a6e9f03420ef1d48ec4f04424cf85c83ae79"
+    },
+    {
+      "id": "394564b700467a36",
+      "sha256": "9979f91015d87f1b6be975eb41924dd7d90fa2996a64d243ee6b68b898687e17"
+    },
+    {
+      "id": "3a9ac837734d3c42",
+      "sha256": "011d001e710af78b62a261ed6858b58a69b7cd1909e31e35ba4b981db8365bd0"
+    },
+    {
+      "id": "52e0bee481f3633c",
+      "sha256": "6befb4e3caffdf3959334f3f7cf6bb09d979ba40828c5c6277bab19e20832e23"
+    },
+    {
+      "id": "5ab6ad5fba159d8a",
+      "sha256": "3c74f279adf8384afb04a83bedf8ace541e23aee1b1fb9d105e212af37db5a67"
+    },
+    {
+      "id": "5f288fb888bc8c4a",
+      "sha256": "de1dfd52f308461085236b3a648a91b555459fc4cc47b1165d38cf0df19ff60a"
+    },
+    {
+      "id": "6574cdf46198c6cc",
+      "sha256": "c329f51f5762b724ab041ecd3af51d6efef88e42219cb3b90296e3abe68b10cd"
+    },
+    {
+      "id": "90eabcf6f998d8f1",
+      "sha256": "e24f4787553a78c0868d8e1c79fe8763525a35ff5cd3bed05ab960970187a4a4"
+    },
+    {
+      "id": "960aec9e7f3e040f",
+      "sha256": "54abecc2568db65122d3de5398ca06aae3c6c52aa35b0fc5e6ccf5d34459f590"
+    },
+    {
+      "id": "9e75172600c72d10",
+      "sha256": "6e0c07e925f578ce76760138327703b9ecc3f447c59d3bee25093452779a5f11"
+    },
+    {
+      "id": "aba7846c73ab9254",
+      "sha256": "c8fbfd39e5396b0528f3feade7334e00d7558ba2852b4f95bc39f7421801c621"
+    },
+    {
+      "id": "bd9888711938482a",
+      "sha256": "932bee2feb7379ce62f77b947a87cd73ff39ec3e964238a5ac4ee8587f2a0809"
+    },
+    {
+      "id": "c01c64013ce9095d",
+      "sha256": "adeef57524970c2d22250d487b170aa8c59623db1783fe9aa4ea01eb8d7ffd2c"
+    },
+    {
+      "id": "c9082efcb558ce68",
+      "sha256": "c7a98c0cd7c8493e6ca448a2c38e724c968e0438e29c787b0ba9ce4687aa4b85"
+    },
+    {
+      "id": "ca900dfa2aedadad",
+      "sha256": "0068b06469f98bed4cc3ef4fe58f42bafa0014188e0a18d4e7514a7ac3aacbec"
+    },
+    {
+      "id": "cefe2e20b6579170",
+      "sha256": "79a2fb9a691d00260963bc339223bf6e23cc8732dca2a86e4bef0eea599ce936"
+    },
+    {
+      "id": "e553ff6b9185716a",
+      "sha256": "23a8b366339dbdd3229a80f73e49984988a1401a307c00dc6b7de7855b41c03d"
+    },
+    {
+      "id": "fc6cb04c94322766",
+      "sha256": "ea7fb1aa544d0a5a25bfe3a620fe43fb4c6869ba3bd3c9f75ccb9ab11ae01eb7"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "35d1a60c66cfe6a8",
+    "source": "Aircon",
+    "target": "空调",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c173b5b549480c7b",
+    "source": "Mug",
+    "target": "杯子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "abb5f65dc0f2fd39",
+    "source": "Aerostat",
+    "target": "浮空艇",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3081dc6089651ee2",
+    "source": "XANADU Air Freight[NW Core",
+    "target": "上都航空货运[西北核心区",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bfac754ddf8bff38",
+    "source": "&1676 This is the place...",
+    "target": "&1676 就是这里……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "185e08e61212e85c",
+    "source": "&704 It looks like this aircon was busted recently. Maybe street punks, but thanks to the addictive properties of the Trance, you don't see so many of those about anymore. A mixed blessing.",
+    "target": "&704 这台空调看着刚被弄坏不久。也许是街头混混干的，可迷境让人上瘾，街上已经很少见到那种人。倒也不全是坏事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "22cf402fd2e661fb",
+    "source": "&712 That aircon's putting out a lot of heat. Must be working pretty hard in this weather.",
+    "target": "&712 这台空调排出好多热气。这种天气，肯定忙坏了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc8fc0cafaa9224a",
+    "source": "&713 All this vandalism...maybe people are right, perhaps too much Trancing really *is* warping my morals and principles.",
+    "target": "&713 搞了这么多破坏……也许别人说得对，过度沉迷迷境，*确实*扭曲了我的道德和原则。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f602cafd0a6ee595",
+    "source": "&714 Man, I can't wait to get back in the Trance.",
+    "target": "&714 真想赶快回到迷境里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32d1b37ea6819885",
+    "source": "&715 It doesn't appear to have a power switch, or any kinds of controls, accessible from out here.",
+    "target": "&715 从外面，似乎找不到电源开关或其他控制装置。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aec4e637d749364d",
+    "source": "&582 What do I look like, an engineer?",
+    "target": "&582 我看着像工程师吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8617e5fa49336e19",
+    "source": "&580 You can see a guard slumped over the desk, geared up the same way as the strike team at the factory.",
+    "target": "&580 一个守卫瘫在桌前，装备跟工厂里的突击队一样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e5fa52345def64e",
+    "source": "&581 Through the window, you see a man who looks too well-armed to be working at a front desk. Closer than that is his mug of coffee.",
+    "target": "&581 透过窗子，你看见一个男人。这么全副武装的人，怎么也不像前台工作人员。更靠近你的是他的咖啡杯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "67579ab15cb9b53f",
+    "source": "&582 Vapor from the guard's coffee is carried by the breeze into the warm night air.",
+    "target": "&582 守卫咖啡上的蒸气，被微风带进温暖的夜色。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f468924d1921cab6",
+    "source": "&716 It looks like it could be opened, but not from the outside.",
+    "target": "&716 应该能打开，但从外面不行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "baeae5ca7a02d88e",
+    "source": "&584 Nah. I don't want it now I know what's in it.",
+    "target": "&584 不了。知道里面是什么以后，我不想要了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e8304c8778431ac",
+    "source": "&717 I can reach it, but he'd notice pretty quickly if I just took it.",
+    "target": "&717 够得着，可我要直接拿走，他很快就会发现。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d6bf001e50c89c73",
+    "source": "&584 Taking care to ensure the guard doesn't see, you squeeze a few drops of tranquiliser from the injector into the coffee.",
+    "target": "&584 为了不让守卫看到，你小心地从注射器中挤出几滴镇静剂，滴进咖啡。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8092d66f5e096f9c",
+    "source": "&717 The door leads into the terminal.",
+    "target": "&717 这扇门通往货运站内部。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8fe51ddf57822756",
+    "source": "&718 Through the damage, you can make out an itinerary, some long-expired special offers, and a message where somebody's hacked the text to display rude ASCII drawings.",
+    "target": "&718 透过损坏的地方，你能辨认出一份行程表、早已过期的特价广告，还有一条被人篡改的消息，显示着粗俗的ASCII图画。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83a4e0f574049a38",
+    "source": "&718 This screen's probably not connected into the higher systems.",
+    "target": "&718 这块屏幕应该没连到上级系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8809d43fd286dfbc",
+    "source": "&719 I'd better save my wetware for more important targets.",
+    "target": "&719 湿件还是留给更重要的目标吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "11a3fe3ca8b3c3a0",
+    "source": "&2090 I can't reach it from here.",
+    "target": "&2090 从这里够不着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "64767e7d80d75abe",
+    "source": "&719 You recognize the model of aerostat - it's the same type that the Mindjacker escaped to from the top of Animus Organics.",
+    "target": "&719 你认出了浮空艇的型号，与意识劫持者从阿尼姆斯有机公司楼顶逃走时乘坐的型号相同。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "be9d7cf80449b39d",
+    "source": "&720 An aerostat is tethered to the landing field. Through the fence, you can see dock-workers loading crates of cargo.",
+    "target": "&720 一艘浮空艇系在起降场上。透过围栏，你看到码头工人正在装载货箱。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c5840b822ba37c09",
+    "source": "&720 I can smell his coffee from here.",
+    "target": "&720 在这里就能闻到他的咖啡。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "625c597c08c6f613",
+    "source": "&585 Real subtle.",
+    "target": "&585 真隐蔽啊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "579313af46733842",
+    "source": "baxtersayshi",
+    "target": "",
+    "status": "excluded",
+    "reason": "room77中Game::DoOnceOnly调用的一次性事件标识，不是剧情文本。",
+    "review_notes": ""
+  },
+  {
+    "id": "ecce9d5bee56af3c",
+    "source": "&749 Even if it weren't for the fact you'd stored the image in your wiring, you'd remember this face anywhere after his escape at Animus.",
+    "target": "&749 就算没把影像存进湿件线路里，在阿尼姆斯见识过他逃脱的样子之后，你也绝不会忘记这张脸。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "782f3fac9947d846",
+    "source": "&750 For a man about to pulverize someone's head with a claw-hammer, he looks remarkably cool and confident - as though this is just a step in a larger plan.",
+    "target": "&750 马上就要用羊角锤把别人的脑袋砸烂，他却显得格外冷静而自信，仿佛这不过是某个宏大计划中的一步。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bd93c38fe9ffdc79",
+    "source": "&751 Dr Baxter's body sits slumped in its chair, apparently the recent victim of a mindjacking attack. He looks a lot more complete than when you last saw him, though.",
+    "target": "&751 巴克斯特博士瘫坐在椅子里，显然刚遭到意识劫持。不过，和上次见面相比，他的身体倒完整多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,160 @@
+{
+  "note": "游戏内虚构人物记录采用本工程音译；东亚/泰国人名无原文汉字，中文不声明为官方姓名。OCG未展开。纳入日期不擅自改成死亡日期。",
+  "names": [
+    {
+      "source": "Turnbull, Robert",
+      "target": "特恩布尔，罗伯特",
+      "role": "市政规划管理，波哥大"
+    },
+    {
+      "source": "Lewis, Sarah",
+      "target": "刘易斯，莎拉",
+      "role": "儿科主任，芝加哥"
+    },
+    {
+      "source": "Kena, Taki",
+      "target": "凯纳，塔基",
+      "role": "城市规划，京都"
+    },
+    {
+      "source": "Kovaelba, Antonin",
+      "target": "科瓦埃尔巴，安托宁",
+      "role": "国防部，布鲁塞尔"
+    },
+    {
+      "source": "Utsahakijamnuoy, Suchada",
+      "target": "乌察哈基占努伊，苏查达",
+      "role": "工业工程师，曼谷"
+    },
+    {
+      "source": "Brass, Colin",
+      "target": "布拉斯，科林",
+      "role": "防务承包商，康科德"
+    },
+    {
+      "source": "Girbach, Avery",
+      "target": "吉尔巴赫，埃弗里",
+      "role": "人力资源管理，牛顿市"
+    },
+    {
+      "source": "Kwui-Wo, Lei",
+      "target": "奎沃，雷",
+      "role": "经济学家，大汉内政部"
+    },
+    {
+      "source": "Bean, Michelle",
+      "target": "比恩，米歇尔",
+      "role": "校准测试对象"
+    },
+    {
+      "source": "Ren, Shao-Ju",
+      "target": "任，绍朱",
+      "role": "学校行政管理，新加坡"
+    },
+    {
+      "source": "Da Silva, Eric",
+      "target": "达席尔瓦，埃里克",
+      "role": "市政工程师（水务），科伦坡"
+    },
+    {
+      "source": "Dixon, Geoff",
+      "target": "迪克森，杰夫",
+      "role": "数据库管理，康科德"
+    },
+    {
+      "source": "Dearden, Thomas",
+      "target": "迪尔登，托马斯",
+      "role": "高等法院法官，南安普敦"
+    },
+    {
+      "source": "di Stefano, Stefania",
+      "target": "迪斯特凡诺，斯特凡妮娅",
+      "role": "工业法律，西西里"
+    },
+    {
+      "source": "Stansfield, David",
+      "target": "斯坦斯菲尔德，大卫",
+      "role": "软件设计，圣保罗"
+    },
+    {
+      "source": "Abend, Gunther",
+      "target": "阿本德，君特",
+      "role": "军队行政管理，欧洲联邦"
+    },
+    {
+      "source": "Weinberg, Max",
+      "target": "温伯格，麦克斯",
+      "role": "外科医学主任，布拉瓦约"
+    },
+    {
+      "source": "Carrol, Erin",
+      "target": "卡罗尔，艾琳",
+      "role": "反恐监控，摄政市"
+    },
+    {
+      "source": "Compton, Andrew",
+      "target": "康普顿，安德鲁",
+      "role": "政治学教授，基辅"
+    },
+    {
+      "source": "King, Isaac",
+      "target": "金，艾萨克",
+      "role": "经济分析师，马里兰"
+    },
+    {
+      "source": "Miller, Johnathan",
+      "target": "米勒，乔纳森",
+      "role": "数据规律分析师，代顿"
+    },
+    {
+      "source": "Symonds, Sarah",
+      "target": "西蒙兹，莎拉",
+      "role": "数字意识研究，内罗毕"
+    },
+    {
+      "source": "Fokker, Simon",
+      "target": "福克，西蒙",
+      "role": "航空航天工程师，法兰克福"
+    },
+    {
+      "source": "Dragov, Tomasz",
+      "target": "德拉戈夫，托马什",
+      "role": "住宅设计师，里加"
+    },
+    {
+      "source": "Khan, Rina",
+      "target": "汗，丽娜",
+      "role": "基因工程师，班加罗尔"
+    },
+    {
+      "source": "Mansour, Ayesha",
+      "target": "曼苏尔，阿伊莎",
+      "role": "财务经理，谢菲尔德"
+    },
+    {
+      "source": "Gapp, Michael",
+      "target": "盖普，迈克尔",
+      "role": "轨道工程师，OCG"
+    },
+    {
+      "source": "Middlemiss, Mo",
+      "target": "米德尔米斯，莫",
+      "role": "警务行政管理，里约热内卢"
+    },
+    {
+      "source": "Carter, Jan",
+      "target": "卡特，扬",
+      "role": "欧洲联邦教育部"
+    },
+    {
+      "source": "Crosse, Xera",
+      "target": "克罗斯，泽拉",
+      "role": "人口趋势分析师，多伦多"
+    },
+    {
+      "source": "Fontenay, Matthew",
+      "target": "丰特奈，马修",
+      "role": "紧急服务主管，南加州"
+    }
+  ]
+}

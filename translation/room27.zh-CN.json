@@ -1,0 +1,122 @@
+[
+  {
+    "id": "df0663641d3ef583",
+    "source": "Ladder",
+    "target": "梯子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66a9b35d0ca30ea2",
+    "source": "Growth Cylinders",
+    "target": "培养筒",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46bb10c986636419",
+    "source": "Control Panel",
+    "target": "控制面板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26c1c6c16f2325cf",
+    "source": "&486 One of the specimens in a specialized growth cylinder.",
+    "target": "&486 其中一个样本，被放在专门的培养筒里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21a3dc2fc3e8f60f",
+    "source": "&1131 I can't see them from up here!",
+    "target": "&1131 站在这上面，看不到它们！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "687ab0dd8d4990cd",
+    "source": "&1132 They're keeping things in here because they're dangerous or unusual.",
+    "target": "&1132 放在这里的东西，要么危险，要么不同寻常。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a52b485ce3901f45",
+    "source": "&1133 Probably not what I want to be carrying around.",
+    "target": "&1133 我大概不会想把这种东西带在身上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8703b3782dc99c4",
+    "source": "&1134 This cylinder's already occupied.",
+    "target": "&1134 这个培养筒已经装着东西了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fea96ecc174ffac4",
+    "source": "&487 //GROWTH 1[[CHAMBER A: [Adoxaceae Penans[Status: Germination complete[[CHAMBER B:[Adoxaceae Hispanis[Status: Growth expected as per modification",
+    "target": "&487 //培养区1[[A舱：[Adoxaceae Penans[状态：萌发完成[[B舱：[Adoxaceae Hispanis[状态：预计将按改造方案生长",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "91879686abbdd9b0",
+    "source": "&488 //GROWTH 1]]CHAMBER A: [Adoxaceae Penans[Status: Germination complete[[CHAMBER B:[Adoxaceae Hispanis[Status: Growth expected as per modification",
+    "target": "&488 //培养区1]]A舱：[Adoxaceae Penans[状态：萌发完成[[B舱：[Adoxaceae Hispanis[状态：预计将按改造方案生长",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e3e00e159533de0e",
+    "source": "&1135 I don't know what's in them, but they look important.",
+    "target": "&1135 不知道里面有什么，可看着很重要。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38d719ed7f984e8f",
+    "source": "&1136 I don't think I can fix it. Not my field.",
+    "target": "&1136 我应该修不了。不在我的专业范围内。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c30f32b54a3f031b",
+    "source": "&1137 Oops.",
+    "target": "&1137 糟了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8095b944e3b70faf",
+    "source": "&1138 That's not going to fix it.",
+    "target": "&1138 这可修不好它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7431da42a782aa7a",
+    "source": "&1472 Apparently this lab is spread out over two levels.",
+    "target": "&1472 原来这个实验室分布在两层。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

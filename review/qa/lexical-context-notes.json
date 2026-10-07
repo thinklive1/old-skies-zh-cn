@@ -1,0 +1,25 @@
+{
+  "matriculated": {
+    "source_ids": [
+      "0d4a7163b0ccbc27",
+      "30a97532e59344b9"
+    ],
+    "target": "毕业",
+    "rationale": "后文明确86年matriculated后一直领救济；采用毕业概念，不擅自指定高中或大学。非洲教育用法仅作辅助，属结合剧情的译者判断。",
+    "supporting_source": "https://www.education.gov.za/Examinations/tabid/338/Default.aspx",
+    "source_fact": "南非基础教育部门称NSC考试俗称matric；这不证明虚构牛顿市采用完全相同制度。"
+  },
+  "protected_puzzle_names": {
+    "samples": "保留Medioflorens Interensis、Linaceae Lawsonis、Acoraceae Braziliera和Orchidaceae Isotria拉丁拼写，避免破坏字母检索；Xenofungus中文名后保留原拼写。"
+  },
+  "scope_finalized": false,
+  "luciferin_luciferase": {
+    "source_id": "647797af258d08be",
+    "target": "萤火虫的萤光素和萤光素酶",
+    "supporting_sources": [
+      "https://wechat.promega.com.cn/content/details2190_22246.html",
+      "https://wechat.promega.com.cn/content/details1604_23438.html"
+    ],
+    "rationale": "厂商中文材料使用萤光素酶/萤光素与荧光素酶/荧光素两种写法；本项目在生物发光对白采用萤光写法，不改写原作的基因工程过程。"
+  }
+}

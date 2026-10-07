@@ -1,0 +1,498 @@
+[
+  {
+    "id": "ad29bc9b8ce93a4b",
+    "source": "Microscope",
+    "target": "显微镜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "033bff6df233b512",
+    "source": "Twenty-four Years Earlier...",
+    "target": "二十四年前……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eb810bdacdf03709",
+    "source": "&122 Wow, looks like Vargas pulled together quite a team.",
+    "target": "&122 哇，看来瓦尔加斯组了个不同寻常的团队。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "34ddbeb3400d3c04",
+    "source": "&28 Dr Regis?",
+    "target": "&28 里吉斯博士？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "150850c4eb37209c",
+    "source": "&29 Hey, Dr Regis!",
+    "target": "&29 嘿，里吉斯博士！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "47c4998d8fbc03ad",
+    "source": "&123 Oh!",
+    "target": "&123 哦！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a562cf4ed4cfb6ec",
+    "source": "&55 You CAN'T withdraw the embryo now!",
+    "target": "&55 现在不能把胚胎撤走！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "67aecdeb222a683f",
+    "source": "&56 We're finished without it!",
+    "target": "&56 没有它，我们就完了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4866ca07de968a0b",
+    "source": "&31 What part of 'no' wasn't clear, Baxter?",
+    "target": "&31 我说“不”，有哪个字你听不懂，巴克斯特？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ced00adb90cc68c",
+    "source": "&32 We've decided not to use our embryos in the project.",
+    "target": "&32 我们已经决定，不把自己的胚胎用于这个项目。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3aa33dd25e37c759",
+    "source": "&33 We'll find another way to do it.",
+    "target": "&33 我们会找到别的办法。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ca1523f70beb8b91",
+    "source": "&57 You don't know what's at stake! Our reputations, our whole CAREERS could be made or broken by this!",
+    "target": "&57 你不知道这意味着什么！我们的声誉，整个事业，都可能成败在此！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d0f869740235adf",
+    "source": "&124 Dr Baxter, we've made our decision.",
+    "target": "&124 巴克斯特博士，我们已经决定了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f1f31a0b92f147b",
+    "source": "&58 He's poisoned you against us!",
+    "target": "&58 他挑拨你，让你反对我们！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "faa6b22194f8b274",
+    "source": "&59 Don't let his antiquated morals stand in the way of what we can achieve here!",
+    "target": "&59 别让他那些过时的道德观，挡住我们在这里取得成就！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3500fe1817381a8d",
+    "source": "&125 Thanks to Charlie, I've seen things from a more...holistic perspective.",
+    "target": "&125 多亏查理，我才从更……全面的角度看待这件事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0108b998024312a3",
+    "source": "&126 There's more to life than the project.",
+    "target": "&126 人生不只有这个项目。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "504dd5d63c08b4d5",
+    "source": "&60 Bah!",
+    "target": "&60 哼！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f63186a061666b13",
+    "source": "&34 Thanks, Vicky.",
+    "target": "&34 谢谢，维琪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6cb9172c6463b209",
+    "source": "&127 Thank *you*, Charlie.",
+    "target": "&127 该谢谢*你*，查理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68ddf9f74492eeb0",
+    "source": "&128 We're starting our lives together, and that's what's most important to me.",
+    "target": "&128 我们要一起开始新生活，对我来说，这才最重要。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2b9e8f8ed3b0d69a",
+    "source": "&129 Aahh!",
+    "target": "&129 啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5590589ffa96eaef",
+    "source": "&130 Adam! What are you doing!?",
+    "target": "&130 亚当！你在干什么！？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "72b9aaf0ac8b917f",
+    "source": "&61 Do you know what will happen when this project fails?",
+    "target": "&61 你知道，这个项目失败后会怎么样吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66c05b777bb57eb2",
+    "source": "&62 There's nowhere left to go for me after this.",
+    "target": "&62 从此我就无处可去了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "835adfd9adb86146",
+    "source": "&63 My career is in ruins, I've no future without this project...",
+    "target": "&63 我的事业已经毁了，没有这个项目，我就没有未来……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b37e831ae6c22af",
+    "source": "&64 Do you see, Dr Regis? You have ended me!",
+    "target": "&64 明白了吗，里吉斯博士？你毁了我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d16cc7433618ef5d",
+    "source": "&65 ...YOU...have ended...ME.",
+    "target": "&65 ……是你……毁了……我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95db0b924938b9b8",
+    "source": "&35 ...Vicky...",
+    "target": "&35 ……维琪……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "134abc52905e0d9a",
+    "source": "&2 Nina, I did not know you were still here.",
+    "target": "&2 妮娜，没想到你还在这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3c59188ef176fa44",
+    "source": "&30 Nobody else is doing any work.",
+    "target": "&30 其他人都没在干活。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66be797e22d4e34c",
+    "source": "&31 It looks like it's up to me to salvage this project.",
+    "target": "&31 看来，只能靠我挽救这个项目了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e9b8e0baf668a41",
+    "source": "&3 Don't get me wrong, I appreciate your attitude.",
+    "target": "&3 别误会，我很欣赏你的态度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e2c20ebcabc81942",
+    "source": "&4 But we have lost half of our team in one fell swoop - poor Viksha...",
+    "target": "&4 可一下子，我们就失去了半个团队。可怜的维克莎……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7fd9a16000876f34",
+    "source": "&5 I cannot say that I blame Charlie for removing the embryos from the project, after that.",
+    "target": "&5 发生了那种事，查理撤回胚胎，我也不能怪他。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8ed0d381f25c654f",
+    "source": "&32 Mhm. Embryos.",
+    "target": "&32 嗯，胚胎。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4967820ada533209",
+    "source": "&6 ...I know that look, Nina.",
+    "target": "&6 ……我认得这个眼神，妮娜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa0d9d13c0a27464",
+    "source": "&7 There is something that you are hiding.",
+    "target": "&7 你有什么事瞒着我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a13ba047ce8e947",
+    "source": "&33 Maybe.",
+    "target": "&33 也许吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf8364f2352db26f",
+    "source": "&8 My God...this data...you...",
+    "target": "&8 天哪……这些数据……你……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7f01e975b9b67516",
+    "source": "&34 Here's the thing about embryos - while they're at the 6 to 8 cell stage, they're *very* easy to split.",
+    "target": "&34 胚胎有个特点：在6到8细胞阶段，*很*容易分割。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e31778e7d751ca82",
+    "source": "&35 It's been the basis of cloning for a century. It's how twins are made.",
+    "target": "&35 一个世纪以来，这都是克隆的基础。双胞胎也是这么来的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eca3d2dbade70721",
+    "source": "&9 You...duplicated Viksha and Charlie's embryo?",
+    "target": "&9 你……复制了维克莎和查理的胚胎？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e8d3985148476276",
+    "source": "&36 Mhm. He's happy he's got his embryo back.",
+    "target": "&36 嗯。他拿回了自己的胚胎，很高兴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f78938401b799fde",
+    "source": "&37 I'm happy that I've got another three full embryos to continue the project.",
+    "target": "&37 我也很高兴，因为我还有三个完整胚胎，可以继续这个项目。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03399563577f77af",
+    "source": "&10 I'm not sure what to say...",
+    "target": "&10 我不知道该说什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bcc59f9bdf501e0c",
+    "source": "&38 Say 'thanks' to me, and say nothing to Charlie.",
+    "target": "&38 对我说“谢谢”，对查理什么也别说。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6258e059400b0ace",
+    "source": "&39 When Central is born, he'll assume we found another solution.",
+    "target": "&39 等中枢诞生，他会以为我们找到了别的办法。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "479e93f84210ebc9",
+    "source": "&40 This can just be our little secret...",
+    "target": "&40 这就算我们之间的小秘密吧……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2b759c0157905b0d",
+    "source": "&11 Your attention please, ladies and gentlemen.",
+    "target": "&11 女士们，先生们，请注意。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f701eba355b64ab5",
+    "source": "&12 As you look around, you will see some of the finest scientific minds of this generation.",
+    "target": "&12 看看周围，你们会发现，同代最出色的一些科学人才就坐在这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3115a84670fc0e9a",
+    "source": "&13 These minds have, at their disposal, the most cutting-edge tools available to humankind.",
+    "target": "&13 这些人才手中，掌握着人类最尖端的工具。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "caad061f14efc53e",
+    "source": "&14 Newton has decided, like an increasing number of cities, to invest in AI management.",
+    "target": "&14 和越来越多的城市一样，牛顿市决定投资人工智能管理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f107a4838a74e992",
+    "source": "&15 But they want no mere computer to run traffic patterns and coordinate electricity grids.",
+    "target": "&15 可他们要的，不只是一台指挥交通、协调电网的计算机。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "192c36e24bc8906b",
+    "source": "&16 They have asked me for something infinitely more advanced, they have asked me for the *future*.",
+    "target": "&16 他们要求我提供更加先进、远超以往的东西。他们要的是*未来*。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fd0ec74382a99b87",
+    "source": "&17 I have selected you for this venture, because I believe that together, we can make this future.",
+    "target": "&17 我选择你们参与这项事业，因为我相信，只要携手，我们就能创造这个未来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "437922292b3dacd0",
+    "source": "&18 Ladies and gentlemen, welcome to the Central project.",
+    "target": "&18 女士们，先生们，欢迎加入中枢项目。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dcf6e7444e5a57e5",
+    "source": "&494 An optical microscope. Might not be cutting-edge, but sometimes it's just the right tool for the job.",
+    "target": "&494 一台光学显微镜。也许不算最先进，但有时，最适合的工具就是它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "29b8ba0eab63b7fd",
+    "source": "&131 It's empty.",
+    "target": "&131 空的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9ea7627488cf274",
+    "source": "&132 I guess that's not surprising, the project hasn't started yet.",
+    "target": "&132 倒也不奇怪，项目还没开始。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8c1799c270420b2",
+    "source": "&133 Looks like the gengineered nerve tissue is as robust as we'd hoped.",
+    "target": "&133 看来，经过基因改造的神经组织，跟我们期待的一样结实耐用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2eb666b733a8c4f6",
+    "source": "&134 Self-maintenance, that's the big benefit of organic hardware.",
+    "target": "&134 能自我维护，这就是有机硬件最大的优势。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

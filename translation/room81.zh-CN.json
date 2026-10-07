@@ -1,0 +1,354 @@
+[
+  {
+    "id": "84ecd6328b8064e6",
+    "source": "Telephone",
+    "target": "电话",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f91cf6c6263dc004",
+    "source": "Charts",
+    "target": "图表",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "162e491cfe9f72a7",
+    "source": "Water Cooler",
+    "target": "饮水机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2236b14892169e7e",
+    "source": "Name Plate",
+    "target": "名牌",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d8bd2790e9d02a3b",
+    "source": "Keypad",
+    "target": "密码键盘",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "de20434e2a437f55",
+    "source": "Locked Terminal",
+    "target": "锁定的终端",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "76a499918709e5f7",
+    "source": "Active Terminal",
+    "target": "已启用的终端",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e1357e7929f02ec",
+    "source": "&2056 Damn it all.",
+    "target": "&2056 该死。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77186017d5dff9b2",
+    "source": "&1519 Burns all around the planar nodes in his wetware wiring.",
+    "target": "&1519 湿件线路的平面节点周围全是烧伤。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "beed93faf6485535",
+    "source": "&1520 Yeah...this is our mindjacking victim.",
+    "target": "&1520 嗯……这是意识劫持的受害者。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f59963ade75e65df",
+    "source": "&2057 Central was right...",
+    "target": "&2057 中枢说对了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "735a142767af93e0",
+    "source": "&1521 The attack was recent, maybe minutes ago.",
+    "target": "&1521 刚遇害不久，也许只有几分钟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1faaf1cb3ef4af4a",
+    "source": "&1522 The Mindjacker was probably interrupted by the janitor, who ended up on the street.",
+    "target": "&1522 意识劫持者大概被清洁工撞见了，清洁工就这么掉到了街上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed724970e966d4b3",
+    "source": "&2058 There's only one other way out of here - to the roof.",
+    "target": "&2058 这里还有一条出路，通往楼顶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f4ef581483ebfa7",
+    "source": "&2059 We need to get up there, before he escapes again!",
+    "target": "&2059 得赶紧上去，别让他再逃了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "950c48db34a327bb",
+    "source": "&2060 The Mindjacker was probably interrupted by the janitor.",
+    "target": "&2060 意识劫持者大概被清洁工撞见了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8117114c99f6d6e2",
+    "source": "&2061 Didn't want any witnesses.",
+    "target": "&2061 他不想留目击者。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d9d55513e4eb4c4",
+    "source": "&1523 He probably didn't mean to send him out the window, either.",
+    "target": "&1523 他可能也没打算把人扔出窗外。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f773e0178edbbe59",
+    "source": "&2062 His ID badge says 'Gerbach, Avery.'",
+    "target": "&2062 他的工牌上写着“格尔巴赫，艾弗里”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a857221b2066d818",
+    "source": "&2063 He's an HR supervisor.",
+    "target": "&2063 他是人力资源主管。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6758e537bcc21ab2",
+    "source": "&1524 If the Mindjacker's in corporate espionage, it's a pretty strange target.",
+    "target": "&1524 如果意识劫持者搞的是商业间谍活动，这个目标可够奇怪的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9e8a7703582f5d7",
+    "source": "&2064 Have Central run his data, see if it can flag anything.",
+    "target": "&2064 让中枢查一下他的资料，看看能不能找出什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "73aa45b6f2193f5a",
+    "source": "&2065 A roof-access door.",
+    "target": "&2065 通往楼顶的门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f9a5b54c78214d8",
+    "source": "&1525 From the keypad, I'd say it looks like it auto-locks.",
+    "target": "&1525 看这键盘，应该会自动上锁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d09615b9ea817532",
+    "source": "&2066 This keypad must be to stop people getting up on the roof.",
+    "target": "&2066 这个密码键盘应该是用来阻止人上楼顶的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a6e3dbfc25923498",
+    "source": "&1526 It's old-fashioned, but effective. Kind of like you.",
+    "target": "&1526 老派，但管用。有点像你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "948905b3f40cf57e",
+    "source": "&2067 Better save that for a last resort.",
+    "target": "&2067 最好留到万不得已的时候再用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "211aa82ef6cb5024",
+    "source": "&2068 If it *doesn't* work, we might be stuck.",
+    "target": "&2068 万一不管用，我们可能就没辙了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93fa11b55cc2283b",
+    "source": "&2071 It takes a combination, not a card.",
+    "target": "&2071 这里要输密码，不能刷卡。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0efb1562f7a6c778",
+    "source": "&2072 Come on, we've almost caught up with him!",
+    "target": "&2072 快点，我们就快追上他了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7d651caf77f5cc19",
+    "source": "&770 The door to the stairwell has been unlocked - you can feel cold air blowing in from the roof.",
+    "target": "&770 楼梯间的门已经打开，你能感觉到楼顶吹进来的冷风。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9619ed7d5454de8",
+    "source": "&771 The terminals are in standby mode, awaiting their users' return in the morning.",
+    "target": "&771 终端处于待机状态，等待使用者早晨回来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed1dfed4859e9186",
+    "source": "&772 The terminals have been locked with biometric security.",
+    "target": "&772 这些终端都用生物识别系统锁住了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "29fffa3b4c8384ed",
+    "source": "&773 The desk phone's projection shows unanswered messages.",
+    "target": "&773 桌上电话的投影显示着未读留言。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20b31c5ed544d51a",
+    "source": "&2073 We can't waste time on that now, otherwise we'll lose our tail on the Mindjacker!",
+    "target": "&2073 现在没时间管这个，不然意识劫持者就跑了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bac9ab9416aefe4c",
+    "source": "&774 A plaque identifying ownership of the office: \"Roy Atwood - HR Operations Manager\" - this must be who's in charge of this floor.",
+    "target": "&774 标牌上写着这间办公室的主人：“罗伊·阿特伍德——人力资源运营经理”。他应该就是这一层的负责人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "19f6e7cc3fae3194",
+    "source": "&775 You have no idea whether these charts mean the company's doing well, or going bust. Amongst all the economics and business-speak, the only word you recognize is 'wetware'.",
+    "target": "&775 你看不出这些图表到底说明公司经营良好，还是快破产了。那些经济术语和商业行话里，你只认得“湿件”这个词。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "81223af692f2b8ce",
+    "source": "&776 This terminal is still unlocked, apparently in-use at the time of the attack.",
+    "target": "&776 这台终端还没锁，遇袭时似乎正有人使用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "456efae7dd0c2d06",
+    "source": "&777 Apparently, the owner of this cubicle has gone home already.",
+    "target": "&777 这个隔间的主人显然已经回家了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "92b64e251499a17b",
+    "source": "&778 A cubicle partition, with polarising smart-glass for privacy.",
+    "target": "&778 办公隔间的隔板，装有偏光智能玻璃，用来保护隐私。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "84551c5fa7665efe",
+    "source": "&2074 Locked.",
+    "target": "&2074 锁着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c40f306e085b8ac1",
+    "source": "&1529 That keypad's probably got something to do with it.",
+    "target": "&1529 大概跟那个密码键盘有关。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "db3321ac1efd2d56",
+    "source": "Since you just came up yourselves, you can be sure that the Mindjacker hasn't escaped via the elevator.",
+    "target": "你们刚从电梯上来，所以可以确定，意识劫持者没有乘电梯逃走。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa494af7d81adbfb",
+    "source": "The elevator appears to be the only way into the office.",
+    "target": "电梯似乎是进入这间办公室的唯一途径。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

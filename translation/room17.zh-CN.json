@@ -1,0 +1,346 @@
+[
+  {
+    "id": "7237733826f5e470",
+    "source": "Waste Chute",
+    "target": "垃圾投放口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "099966d5906f4820",
+    "source": "Regis's Desk",
+    "target": "里吉斯的办公桌",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0a035edb86145ef3",
+    "source": "Lao's Desk",
+    "target": "劳的办公桌",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4727a1a2b79c0c21",
+    "source": "Screens",
+    "target": "屏幕",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f608c10f38fa3be6",
+    "source": "// CEL Operations - Office L8/A",
+    "target": "// CEL行动部门：L8/A办公室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cac4e3533e79bbcc",
+    "source": "&1521 I've been blackmailed, with the lives of my kids.",
+    "target": "&1521 有人拿我孩子的命，来勒索我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68d99aac3a4d3802",
+    "source": "&1522 I traced the calls the blackmailer made. There is only one man who would have done this...",
+    "target": "&1522 我追踪了勒索者的来电。会做出这种事的，只有一个人……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6693921aa1299861",
+    "source": "&1523 ...and yet, thanks to the neural Governor, he's also the only one who never could have.",
+    "target": "&1523 ……可由于他脑中的神经限制器，他又恰恰是唯一不可能做出这种事的人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e47ba0ff990df32e",
+    "source": "&1524 I've got to see that justice is done.",
+    "target": "&1524 我必须让正义得到伸张。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4b0c3832293329c7",
+    "source": "&1525 Good luck, Max.",
+    "target": "&1525 祝你好运，麦克斯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c230d0807b5a8b21",
+    "source": "&448 The door leads back out into CEL's Case-Specialist wing.",
+    "target": "&448 门外是CEL的办案专员办公区。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e552bb06d182410",
+    "source": "&375 Looks like a waste chute. There are rumors on the net that Central goes through everything people throw out, but it's never bothered you really - you haven't done anything illegal. Not with physical evidence, at least.",
+    "target": "&375 看起来是垃圾投放口。网上传言，中枢会检查人们丢掉的所有东西，不过你倒没怎么在意。你又没干什么违法的事，至少没留下过实物证据。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "24b7064122757e17",
+    "source": "&449 If something needs to be destroyed for confidentiality reasons, this is where it goes. Anything in here is gone forever - after thorough scrutiny by Central, no doubt.",
+    "target": "&449 需要保密销毁的东西，都丢在这里。放进去就永远没了——当然，中枢肯定会先仔细检查一番。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "947cbfbf8c0bf440",
+    "source": "&376 You can't reach it from your vantage point on the floor.",
+    "target": "&376 你现在在地板上，够不着它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2c4266af6a484585",
+    "source": "&450 Careful - if you put your arm in there, you'd lose it.",
+    "target": "&450 小心，把手臂伸进去，可就收不回来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3a7aebccde2a6d55",
+    "source": "&1526 All gone.",
+    "target": "&1526 全没了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1d73c899cfc5a1a1",
+    "source": "&1527 Nah. I want to keep that.",
+    "target": "&1527 不，这个我还要留着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8ee9acec42af264",
+    "source": "&378 I've got other places to be - paperwork can wait.",
+    "target": "&378 我还有别的地方要去，文书工作先放着吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "accd33cd1f36eca2",
+    "source": "&380 You'd love to pry around the inside of the desk, but these drones apparently aren't even equipped with manipulator arms.",
+    "target": "&380 你很想翻翻办公桌里面，可这些无人机似乎连机械臂都没有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e1519def162fb02",
+    "source": "&1528 Huh...I guess I should have turned these over to the evidence locker.",
+    "target": "&1528 嗯……这些东西，本来应该交进证物柜的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e6dafa988dceb5d7",
+    "source": "Picked up:[Cooking Gel[Kitchen Knife[Giel's Hand",
+    "target": "获得：[烹饪凝胶[菜刀[吉尔的手",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1f9ea8b17334b8c0",
+    "source": "&1529 It's been a long night. I don't feel like more work.",
+    "target": "&1529 折腾了一整晚，我可不想再干活了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "376ed8149bd03f5b",
+    "source": "&381 The cleaner of two desks within the office. From your point of view on the floor, you can't quite make out the nameplate.",
+    "target": "&381 办公室两张桌子里较整洁的一张。从地板上看，你不太能看清桌上的名牌。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ee9aa06b1605319b",
+    "source": "&451 Your territory within CEL, the desk doesn't see nearly as much use as it should - you prefer the more practical elements of investigation.",
+    "target": "&451 这是你在CEL的地盘。不过，这张桌子远没有得到充分利用，你更喜欢实地调查。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bdda792524556fe",
+    "source": "&382 Whoever this office belongs to, they've apparently had the same opinion as you about CEL's cameras - this one's covered in tape.",
+    "target": "&382 不管这间办公室属于谁，他对CEL摄像头的看法显然和你一样：这个摄像头上贴满了胶带。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e58bbc6ebbba7e74",
+    "source": "&2005 One of Central's fish-eye cameras. *Someone* has covered it in tape.",
+    "target": "&2005 中枢的鱼眼摄像头。不知是谁把它贴满了胶带。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f9a98c8e0c626fe",
+    "source": "&408 From down on the floor, it's difficult enough to *see* the camera, let alone mess with it.",
+    "target": "&408 在地板上，连看见摄像头都费劲，更别说动什么手脚了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b75640af67e45d2",
+    "source": "&453 Better not. They're already starting to suspect it's your fault the camera's needed to be replaced four times in a year.",
+    "target": "&453 还是别了。一年换了四次摄像头，他们已经开始怀疑是你搞的鬼了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77b1c4cd23b938e9",
+    "source": "&448 The desk is messier than you'd normally believe a CEL agent to be. Based on the chaos, you reckon you'd probably get along well with them.",
+    "target": "&448 你很难相信，CEL探员的办公桌也能这么乱。看这混乱程度，你觉得自己大概会跟桌子的主人合得来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b805d27cd74087f2",
+    "source": "&454 A number of cables run directly into the building's electrical and dataflow systems from Lao's desk. Apparently her customized wetware gear sometimes requires tremendous resources, and she doesn't care how many of the building's technicians complain about her pulling floors open.",
+    "target": "&454 劳的办公桌接出许多线缆，直接连进大楼的供电和数据流系统。看来，她定制的湿件设备有时需要大量资源，至于她掀开地板的行为让多少技术人员抱怨，她根本不在乎。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cfd11e26d76c48e",
+    "source": "&2085 \"Trying to tidy Lao's desk for her is a battle lost before it's even fought.\"",
+    "target": "&2085 “想替劳收拾办公桌，还没开始就已经输了。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16ab896727e6dfeb",
+    "source": "&2086 That's what she says, like it was something from The Art of War.",
+    "target": "&2086 她就是这么说的，仿佛这句话出自《孙子兵法》。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "def080c8ee7aff58",
+    "source": "A synthetic, dressed in a skimpy maid's outfit. Are they using synths for undercover work, now?",
+    "target": "一个穿着暴露女仆装的合成人。现在连合成人也派去做卧底了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b8bbb1e57f713cd",
+    "source": "&1530 Knowing Lao, I can't be certain that her interest in that thing is purely academic.",
+    "target": "&1530 以我对劳的了解，我可不能肯定，她对那东西的兴趣纯粹是学术上的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ca836ab237153ee7",
+    "source": "The synthetic is offline. The drone can't establish a data-connection with it.",
+    "target": "合成人处于离线状态。无人机无法与它建立数据连接。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "afaca89c44eea87e",
+    "source": "&1531 Better not touch it. Lao's probably got her own plans for it.",
+    "target": "&1531 最好别碰。劳大概对它另有打算。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e81a55de0087133a",
+    "source": "&932 It's empty - out of charge.",
+    "target": "&932 空了，没电了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43b3adbbff2bc39f",
+    "source": "&452 It'd be the opportunity of a lifetime to go through a CEL agent's terminal - all the dirt you could dig up! The drone doesn't seem to have any means of access, unfortunately.",
+    "target": "&452 翻看CEL探员的终端，简直是千载难逢的机会，不知道能挖出多少秘密！可惜，无人机似乎没法访问它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a167ae032045e9de",
+    "source": "&1532 I spend as little time as I can working on there.",
+    "target": "&1532 我尽量少在那东西上花时间。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f9e3b7264938d7a",
+    "source": "&1533 That's how I get results.",
+    "target": "&1533 这样才能办成事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "846fcbff37d8ea96",
+    "source": "&480 You've already got the preferences set up how you like them.",
+    "target": "&480 偏好设置已经调成你喜欢的样子了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4325cb38cf8f1c79",
+    "source": "The screens are showing information on an active CEL case. Something about a Mindjacker?",
+    "target": "屏幕上显示着CEL正在调查的案件资料。好像是个意识劫持者？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c1d16426ca13c92c",
+    "source": "&481 The screens run through all of the available data pertaining to the Mindjacker.",
+    "target": "&481 屏幕不断显示与意识劫持者有关的所有现有资料。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

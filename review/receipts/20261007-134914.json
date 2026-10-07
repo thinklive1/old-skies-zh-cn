@@ -1,0 +1,139 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "Paired reread32 entries. Kept credit cast-role linebreak alignment, staff attribution and registered handles Gandarf/CaptainCheese. Translated credits headings/roles, retained performer names. Revised skeptical neural-programming comparison without making it a proven claim; source newspaper variants preserved.",
+  "source_batches": [
+    "0168-credits-and-news.json",
+    "0169-credits-news-second-pass.json"
+  ],
+  "entries": [
+    {
+      "id": "0014f210491bf980",
+      "sha256": "52de20fefb4c2a534dbd8da2123fbf408382a2c4e6d22c572cee3d2f973d6364"
+    },
+    {
+      "id": "017f574f9efb5c57",
+      "sha256": "ea90d2f3df66dcb1a4d30bd250439dfb1aebfe704ee09024fbd32dba85553e3f"
+    },
+    {
+      "id": "0343c6a620b2a2dc",
+      "sha256": "999d609c0c20c1f24cb3f45ac8aea1536481b90c8cd30704a37eddad3980b7af"
+    },
+    {
+      "id": "0f8d7dfbbd531557",
+      "sha256": "1cd63be2fab63f2d43f313262b598800c0e8849285acb6ca078520eaebcd3269"
+    },
+    {
+      "id": "188709869139a022",
+      "sha256": "ee8c9915cc1e582bcc7dcb3b7d314f8d269f2a3de6d147f07d39817c1bc3b21e"
+    },
+    {
+      "id": "1f1fc2c72ed75bd5",
+      "sha256": "8f6a557de7f48734769875e9fac726c9366bb625c2fec23795faa35e9a335cce"
+    },
+    {
+      "id": "21b6a798321a49f7",
+      "sha256": "242257b075a731caf0d050c00cc3cf9ce621b7427d78220bd030994224e8e7f4"
+    },
+    {
+      "id": "2c6663e495fc6179",
+      "sha256": "49a0d42cdd3522bd6bbb676d8896a956d75183dcb2559ad2a1e09d99c15491cd"
+    },
+    {
+      "id": "41a304c67aa1850f",
+      "sha256": "2537b368a211fdfaeedfeb4afc905fa717e00e6309c256c968c7d5e2376fc4e2"
+    },
+    {
+      "id": "4c8b02a0dc4aae7c",
+      "sha256": "2dc28b05054988e76e83e3708586e24403edde6a64d9ef588a7157bf9d8c08a6"
+    },
+    {
+      "id": "4ec2d70c3e8c4344",
+      "sha256": "8b517193556305fc0065cff172a5b902cf85165ae08f0cf15ce0d767a2a00c15"
+    },
+    {
+      "id": "4ec4c0aea656eec0",
+      "sha256": "7abdd5bab2897e1387e3bc87262bb91c85725f62ae2d4e4918eba89fa4d58418"
+    },
+    {
+      "id": "53bf44f67f2029fb",
+      "sha256": "be7d8da200906b94e6430e82d6135097153bc44dd364a83d18ff208071ae9fb7"
+    },
+    {
+      "id": "57327eaf66bfd3c4",
+      "sha256": "ab84480dbda802a68d43bee8f4514c299357415ebf5080ab8c281438d0306948"
+    },
+    {
+      "id": "5fab23cee7c1e98c",
+      "sha256": "308717750afb61638e49f5b6c21cfc31cb571bf03d4f042b04e8bb4463d4bf00"
+    },
+    {
+      "id": "6e351437ec4a71b9",
+      "sha256": "61a49e7002df90c0f916458ffdd1f8a0c6ad335e06ce1ae1c99e1f5c9f270e86"
+    },
+    {
+      "id": "6f428a409f3cbc16",
+      "sha256": "cd6fc123b6f8bbe1d9b5a5e2c347781b0559cd55a835210b39555a3dda83d451"
+    },
+    {
+      "id": "873f6f5151734851",
+      "sha256": "9a6550292cd92e316e1c1b928be1e613624f9dd6ed59d92e8c523fad9bc6f962"
+    },
+    {
+      "id": "ab76a41d227fdf64",
+      "sha256": "c1e93097f164c9a44d12573136d7f7921a02020b53c935c9b86714284567259f"
+    },
+    {
+      "id": "bd89a5a93ccd3459",
+      "sha256": "8c73d8c8d33df158d0413fc2ab16248b6bb6c8c856143a01ae1d8fcbf04304e9"
+    },
+    {
+      "id": "c6b5217a67d2fb84",
+      "sha256": "07e41763c1bd9c9124eac038534bba67e6832fa000a0bfa0278d6f421f54bb3b"
+    },
+    {
+      "id": "cb4a5bf0e6d6fa89",
+      "sha256": "ebefac0cf46df2e1aa1e3ebf0787a27b424d73902e7107c2491a6bbf605aa499"
+    },
+    {
+      "id": "cb6e25303a8a5167",
+      "sha256": "1b9ad2dbd2fd599f003140fff3398718c28a36201440019a4a8cddadd57cd283"
+    },
+    {
+      "id": "da6cdf873ef4eb2d",
+      "sha256": "56f2a4df0a6a1e79336f3e0ea6f29f89cd0583d37ea2d127aa2d4530bed12b36"
+    },
+    {
+      "id": "df7e12de48423906",
+      "sha256": "9c21dc842ce6a32471dd95f932b40af65a03cbb0fb1a25f282edb6127a7b7531"
+    },
+    {
+      "id": "e12a4b036cddad4d",
+      "sha256": "da7c3736200119485914133333f63e194d092ab7dd1a5b10a1cb877b996b713e"
+    },
+    {
+      "id": "e34ce0bc88db4268",
+      "sha256": "4833b1515d0baac4d83095bae153ad5be1ad1a33a446ef586251d6f91398a19b"
+    },
+    {
+      "id": "e806a291cfc3e61f",
+      "sha256": "348cd6a12bf5c71cb81b5cc2c78519ddce985ead6df9f3505bf839a357405026"
+    },
+    {
+      "id": "ea41c01a8598e232",
+      "sha256": "a6e122ef74b5d69983c3aa2b5784732962bdca685164e73ff3ef941797ee1920"
+    },
+    {
+      "id": "eb8863993c1d86ab",
+      "sha256": "7b0a617c7bbd818a2aa68adacbbe94b1cbf67ac5fa81840678abcfbd3830f867"
+    },
+    {
+      "id": "ef5c739c36382769",
+      "sha256": "fa0f3174388a585b91c046866f96be583ad9f125e5d5156b4e7941bebae7ee3e"
+    },
+    {
+      "id": "f8812b2a2c5a3e09",
+      "sha256": "a4ef743f3c1953fc5db435298685ba07f582d6e592e47225ad5bb09f2382bb9e"
+    }
+  ]
+}

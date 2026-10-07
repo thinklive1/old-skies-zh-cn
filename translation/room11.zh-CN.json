@@ -1,0 +1,482 @@
+[
+  {
+    "id": "5864c44de9a38245",
+    "source": "Door Controls",
+    "target": "门控系统",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49c1e208c54a34af",
+    "source": "Dock",
+    "target": "停靠充电座",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03494b0d1f803522",
+    "source": "Camera",
+    "target": "摄像头",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "62c6859c8e878a77",
+    "source": "No-Longer-Floating Art",
+    "target": "不再悬浮的艺术品",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77bca2dd76eca1c0",
+    "source": "Elevator",
+    "target": "电梯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9159e91a384f4c5e",
+    "source": "Floating Sculpture",
+    "target": "悬浮雕塑",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "efec1f6c54f1e160",
+    "source": "Apartment Door",
+    "target": "公寓门",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e897ce31578d08e6",
+    "source": "Cleaning Bot",
+    "target": "清洁机器人",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "484f748918a7c875",
+    "source": "eOptionOn",
+    "target": "eOptionOn",
+    "status": "preserve",
+    "reason": "room11中Dialog::GetOptionText结果与此固定程序标签进行streq比较；保留匹配值，避免把枚举式标签当作对白。",
+    "review_notes": ""
+  },
+  {
+    "id": "74605c63ad63bc78",
+    "source": "Elysium Tower[Penthouse Suites[[T-17 hours",
+    "target": "极乐大厦[顶层套房[[倒计时：17 小时",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d80430858b05b2a",
+    "source": "&1404 So, Van der Waal finally agreed to cooperate?",
+    "target": "&1404 所以，范德瓦尔终于肯配合了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e647659d85860bb",
+    "source": "&1030 Yep. Said he could give us a headstart on the Mindjacker.",
+    "target": "&1030 是啊。他说能帮我们抢在意识劫持者前面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8ba4e322dc9a6517",
+    "source": "&1405 We'd better not keep the man waiting, then.",
+    "target": "&1405 那就别让他等太久了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "73a746486490adb5",
+    "source": "&1031 For such a classy building, they've sure got a lousy old-fashioned elevator.",
+    "target": "&1031 这么讲究的楼，电梯却又老又破。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "856523ffdd43fefe",
+    "source": "&1406 I believe the term is 'classic'.",
+    "target": "&1406 我认为，这应该叫‘经典’。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ce3b37c711862a4",
+    "source": "&1032 We're leaving already?",
+    "target": "&1032 这就走了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b37cd2a689d9b0ab",
+    "source": "&1407 No, not yet.",
+    "target": "&1407 不，还没。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "392f96495563c7f3",
+    "source": "&1033 Just checking it's still there, then?",
+    "target": "&1033 那只是确认一下电梯还在？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "35401b8fffabf43c",
+    "source": "&1408 It's way too big to take with me.",
+    "target": "&1408 太大了，我可拿不走。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a16e15c73349742f",
+    "source": "&1034 Plus, there's nowhere it'd look good in your apartment.",
+    "target": "&1034 而且，放你家哪儿都不好看。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5c3a736b7c04f522",
+    "source": "&1035 You've never struck me as much of an art lover.",
+    "target": "&1035 我一直没觉得你有多热爱艺术。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e257cae016ffdd44",
+    "source": "&1409 I'm not so keen on this kind of thing.",
+    "target": "&1409 我不怎么喜欢这一类。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e95e23f010098bcc",
+    "source": "&1410 The mag-coil keeping it floating, however...",
+    "target": "&1410 不过，让它悬浮的磁线圈嘛……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "892dd9f40fad5892",
+    "source": "Picked Up: Mag Coil",
+    "target": "已拾取：磁线圈",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "82f7fccbf076589d",
+    "source": "&1411 I don't get the appeal of this...cubist...stuff.",
+    "target": "&1411 我真不明白这种……立体主义……玩意儿有什么好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4bc67f1cce0d6894",
+    "source": "&1036 Looks more like abstract impressionism, to me. A classic piece by Chandler, if I'm not mistaken.",
+    "target": "&1036 我看更像抽象印象派。没认错的话，是钱德勒的一件经典作品。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "36418ce6858cd89d",
+    "source": "&1412 You know, that's a lot less impressive when you can call up a search inside your head.",
+    "target": "&1412 你能直接在脑子里搜索，这话听着可就没那么厉害了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e9e01c51c56194f",
+    "source": "&1413 At least it's staying put, now.",
+    "target": "&1413 至少，现在它老实待着了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6ec74d7587e17938",
+    "source": "&1037 Looks more like abstract impressionism, to me. Dixon's 'Storm', if I'm not mistaken.",
+    "target": "&1037 我看更像抽象印象派。没认错的话，是迪克森的《风暴》。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eb97408a04fce64f",
+    "source": "&1414 We've already gotten in, don't need to ring again.",
+    "target": "&1414 我们已经进去了，不用再按门铃。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52eaf71f709ac4f1",
+    "source": "&1415 Van der Waal, you there?",
+    "target": "&1415 范德瓦尔，你在吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e6486d581ce76e76",
+    "source": "&1416 You sure he's in?",
+    "target": "&1416 你确定他在家？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65d76df9ed7ea22f",
+    "source": "&1038 He told us to meet him here.",
+    "target": "&1038 是他让我们来这儿见面的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d2bda7aa625822cd",
+    "source": "&1039 Central hasn't logged any departures from this floor since this morning, either.",
+    "target": "&1039 中枢也没记录到今天早上以来，有谁离开过这一层。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dd9bc3ebccb9c595",
+    "source": "&1417 We haven't got time for this, Giel!",
+    "target": "&1417 吉尔，我们没空等！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e665c593bc2122c8",
+    "source": "&1040 I don't think he's answering.",
+    "target": "&1040 看来他不会应门了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "347dcc0c4610b51f",
+    "source": "&1418 CEL agents - open the door!",
+    "target": "&1418 CEL 探员，开门！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a56af5172d499efd",
+    "source": "&1041 We're going to have to try something else.",
+    "target": "&1041 得换个办法了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cfc05988fab030f4",
+    "source": "&385 While the door has an expensive hardwood appearance, you've no doubt that a man as paranoid as Giel Van der Waal has spared no cost to ensure that it's at least bomb-proof.",
+    "target": "&385 这扇门看着像是昂贵的实木门。不过，吉尔·范德瓦尔这么多疑，你毫不怀疑他会花大价钱，至少把门做成防爆的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49972b7360d02b20",
+    "source": "&1419 We're already in, we don't need to bust the lock open.",
+    "target": "&1419 我们都进去了，不用再撬锁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "56cf530bba26abab",
+    "source": "VDWELLIOTNESS",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "22451dbc2bd08a55",
+    "source": "Panel Error[/(Emergency Unlock)/[Consult Maintenance",
+    "target": "面板错误[／（紧急解锁）／[请联系维修人员",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "09b642a8cdb41dbd",
+    "source": "&1042 Whoa-ho, check out Regis, taking the Elliot Ness approach.",
+    "target": "&1042 哇，看看里吉斯，这是要学埃利奥特·内斯强行破门啊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "88173b1e97cdf86d",
+    "source": "&1420 We don't have time to hang around outside. I'm just being 'expedient', as Central puts it.",
+    "target": "&1420 我们没空在外面干等。按中枢的说法，我这叫‘灵活处置’。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e6bd73184e45a8d5",
+    "source": "&1043 Whatever. Van der Waal's not going to be happy about you busting his door.",
+    "target": "&1043 随你吧。你把门弄坏了，范德瓦尔肯定不高兴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "678ef2550fe50f8b",
+    "source": "&386 The dock in the wall, where the autonomous vacuum cleaner gets its power and offloads its waste. There is a notice above it:[['The management thanks you for allowing the sanitation machinery and staff to continue their work by not obstructing the docks. These stations are for the use of custodial equipment only.'",
+    "target": "&386 墙上的停靠充电座，自动吸尘器在这里充电、排出垃圾。上方贴着一则告示：[['感谢各位配合，请勿遮挡停靠座，以便清洁设备与工作人员正常作业。这些停靠座仅供物业清洁设备使用。'",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c3d241d81a5b663d",
+    "source": "&1421 What do you make of this, Max?",
+    "target": "&1421 麦克斯，你怎么看？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "07eca6e6d2b4271f",
+    "source": "&1044 My parents' old bot used to spend much more time in the charger than doing its job.",
+    "target": "&1044 我爸妈以前那个机器人，待在充电座里的时间，比干活还长。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38ef49c20f1f3f22",
+    "source": "&1045 I kept telling them to get a new one, but they never like to spend until they have to.",
+    "target": "&1045 我一直劝他们换个新的，可不到非花钱不可，他们就是不肯买。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a03a6edb5ae4468a",
+    "source": "&387 The access pad for the door. If you're not the owner, then this is where you let them know you've arrived.",
+    "target": "&387 门禁面板。如果你不是屋主，就从这里通知对方你到了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ff878795a257eaaf",
+    "source": "&388 The access pad for the door. It's showing an error message, and indicating the door's unlocked.",
+    "target": "&388 门禁面板。上面显示着错误信息，并提示门已解锁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc837b6d9e7e505c",
+    "source": "&389 After a few moments of contact, the gauge on the side of the cell fills.",
+    "target": "&389 接触片刻后，电池侧面的电量指示条就充满了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c08c376a1618e3b1",
+    "source": "&1422 I'd better not. Might break if it's overcharged.",
+    "target": "&1422 还是算了。充过头，可能会坏。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "df92ee7ad0a73744",
+    "source": "&1423 That's not going to fit into the charging dock.",
+    "target": "&1423 这东西放不进充电座。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "085990a7c196c6f0",
+    "source": "&390 A panoramic 'fish-eye' camera. Probably there so that the Van der Waals can decide whether or not they want to let someone in.",
+    "target": "&390 全景鱼眼摄像头。大概是让范德瓦尔夫夫看看来的是谁，再决定要不要放人进来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bda47500f5237292",
+    "source": "&391 No need, you've already breached the door.",
+    "target": "&391 没必要，门已经被你打开了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d31f7f37f6305d8",
+    "source": "&1424 Hey! Open up! It's Regis!",
+    "target": "&1424 喂！开门！我是里吉斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "59d7dea4526262a6",
+    "source": "&1425 Nope, that's not going to work.",
+    "target": "&1425 不行，这样没用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "634e7adbbe603e8c",
+    "source": "&392 In this part of town, even the buildings look lazy and decadent.",
+    "target": "&392 在这一带，连楼房都显得慵懒又奢靡。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03cc2675cef74eda",
+    "source": "&393 These windows won't open, for insurance reasons.",
+    "target": "&393 出于保险方面的考虑，这些窗户不能打开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

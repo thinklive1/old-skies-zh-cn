@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0-rc.1",
+  "technical_candidate_ready": true,
+  "visual_game_verified": false,
+  "full_playthrough_verified": false,
+  "user_visual_acceptance": "pending",
+  "policy": "用户要求完成后直接安装，并由用户进入游戏确认画面；技术发行门槛覆盖全文、二轮校对、实际引擎、字体度量、安装与回滚，用户画面验收独立记录。",
+  "gate_change": "旧 bitmap_font3_layout_checked 拆成 font3_usage_and_metrics_verified 与本文件的视觉验收。不得将离屏宽度检查当作画面或通关验证。"
+}

@@ -1,0 +1,35 @@
+{
+  "audit": "room15逐条上下文核对：纯时钟格式与中枢故障非语义拖音",
+  "entries": [
+    {
+      "id": "08836ffe4f56e787",
+      "source": "%d:%d:%d",
+      "status": "preserve",
+      "reason": "纯时钟格式串，三个数字占位符与冒号无需语言翻译。"
+    },
+    {
+      "id": "9b6fd1a7a96ce80a",
+      "source": "0%d:%d:%d",
+      "status": "preserve",
+      "reason": "纯时钟格式串，前导零与数字占位符必须保留。"
+    },
+    {
+      "id": "a61cc6f32b81759d",
+      "source": "%d:0%d:0%d",
+      "status": "preserve",
+      "reason": "纯时钟格式串，前导零与数字占位符必须保留。"
+    },
+    {
+      "id": "262868a20c98a4a0",
+      "source": "&111  - aaaayyyyyy -",
+      "status": "preserve",
+      "reason": "room15中枢遇袭时的非语义故障拖音；按原语音与屏幕声音标记保留，不计入译文。"
+    },
+    {
+      "id": "33679c7872863843",
+      "source": "&112 - nnnnnnnnnnn -",
+      "status": "preserve",
+      "reason": "room15中枢遇袭时的非语义故障拖音；按原语音与屏幕声音标记保留，不计入译文。"
+    }
+  ]
+}

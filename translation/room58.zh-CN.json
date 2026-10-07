@@ -1,0 +1,738 @@
+[
+  {
+    "id": "7abee2d3cae71cf5",
+    "source": "Stunner",
+    "target": "电击枪",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0c89d4459d18721c",
+    "source": "Hatch",
+    "target": "舱口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eb19862e26fae1d9",
+    "source": "&49 Stop squirming, will you?",
+    "target": "&49 别乱动了，行不行？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cded9ade5106239c",
+    "source": "&50 Aaah!",
+    "target": "&50 啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e30a9ae3b6101d3",
+    "source": "&132 Why'd you have to get someone like Jinsil involved in it, though?",
+    "target": "&132 可为什么要把金希尔那种人拉进来？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "13e615ffc337973e",
+    "source": "&51 Because when I asked *you* to do it, you apparently couldn't keep your thirst for revenge in check.",
+    "target": "&51 因为我叫*你*去做的时候，你显然控制不住复仇的渴望。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a94c5c4c0f6b1595",
+    "source": "&52 Or should I say, *Baxter's* thirst for revenge?",
+    "target": "&52 或者该说，是*巴克斯特*复仇的渴望？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ff16f1c5d2455bbf",
+    "source": "&133 Hmph.",
+    "target": "&133 哼。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "29013d6f8ba98849",
+    "source": "&53 I don't see why you store the targets in your own wiring.",
+    "target": "&53 我不明白，你为什么把目标的心智存在自己的神经接口里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a3306da16f81bce",
+    "source": "&54 It's obviously not good for you.",
+    "target": "&54 这显然对你没好处。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f081434760fd4c36",
+    "source": "&134 It's more secure.",
+    "target": "&134 更安全。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a2fcc840714d0a28",
+    "source": "&135 Bah. I suppose Jinsil did their job.",
+    "target": "&135 哼，金希尔总算完成了任务。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d4ae7d6cda764bc",
+    "source": "&55 Got her to walk right in the front door.",
+    "target": "&55 让她直接从正门走进来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fa2ae1240f53fc48",
+    "source": "&56 Even packaged and delivered herself! Ha.",
+    "target": "&56 还把自己打包送上门！哈。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3815aa4dd5e4c372",
+    "source": "&57 We have some BIG plans for you, sister.",
+    "target": "&57 我们为你准备了大计划，姐妹。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea033602f01db923",
+    "source": "&58 Ah! I...uh...thank God you're here!",
+    "target": "&58 啊！我……呃……谢天谢地，你来了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77f803be3f0b7ce7",
+    "source": "&3577 Who are you?",
+    "target": "&3577 你是谁？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6dcb4758011a8dd",
+    "source": "&59 You've got to get me out of here!",
+    "target": "&59 你得把我救出去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "410a56f8c3de60b7",
+    "source": "&60 They kidnapped me, two weeks ago!",
+    "target": "&60 两个星期前，他们绑架了我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1d9e4ac28cf3dcdd",
+    "source": "&61 I've been forced to conduct research for them in this aerostat!",
+    "target": "&61 我被迫在这艘浮空艇上，替他们做研究！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3c1aa7107c134ebd",
+    "source": "&1678 Research? What kind of 'research'?",
+    "target": "&1678 研究？什么“研究”？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "607146616e97fe3b",
+    "source": "&62 Human experimentation...this poor girl...",
+    "target": "&62 人体实验……这个可怜的女孩……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c8961fd55a750a96",
+    "source": "&63 You see that hardware in the corner?",
+    "target": "&63 看见角落的那些设备了吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f2631b9b710c603",
+    "source": "&1679 What the hell di...yo...ju...",
+    "target": "&1679 你到底干……你……刚……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66a1cc88b8650e4c",
+    "source": "&136 The upper level is clear, but I...",
+    "target": "&136 上层安全了，可我……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "53acd56132776521",
+    "source": "&137 Oh...huh...",
+    "target": "&137 哦……啊……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "315c5cf536fd55ab",
+    "source": "&64 Gave him a shot in the back.",
+    "target": "&64 给他背上来了一针。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "33576304990d632b",
+    "source": "&65 Your problem is, you overcomplicate things.",
+    "target": "&65 你的问题，就是把事情弄得太复杂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46e2007520e0792e",
+    "source": "&138 Still conscious?",
+    "target": "&138 还清醒着？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c333f7dda6b3d8c7",
+    "source": "&66 That's how the wetware works.",
+    "target": "&66 这湿件就是这么起作用的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ca0fef7eed31f34",
+    "source": "&67 You can't rip his memory, though.",
+    "target": "&67 不过，你没法抽取他的记忆。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "72a9c746c526de80",
+    "source": "&68 He isn't wired.",
+    "target": "&68 他没装神经接口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0cbadd7040417ad0",
+    "source": "&139 I'm aware, Ms Vargas. Take his weapon.",
+    "target": "&139 我知道，瓦尔加斯小姐。拿走他的武器。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf056c940c13ff7b",
+    "source": "&140 This is something I've been looking forward to for a long time...",
+    "target": "&140 这件事，我已经期待很久了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f75129408d7351e",
+    "source": "&69 Eurgh. No you haven't - *Baxter* was looking forward to it.",
+    "target": "&69 呃，不，你没有。期待的是*巴克斯特*。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2a5917ea78c6e66",
+    "source": "&1184 Hey, stop!",
+    "target": "&1184 嘿，住手！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "334a35fc6cec5a51",
+    "source": "&1185 What the Hell's going on in here?",
+    "target": "&1185 这里到底怎么回事？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "436c2fec9ca72e3c",
+    "source": "&1680 Good job, Lao.",
+    "target": "&1680 干得好，劳。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20501941d807bd33",
+    "source": "&1681 I've been doing some digging in here.",
+    "target": "&1681 我在这里查到了一些东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "88ad7a713ad260e3",
+    "source": "&1682 Apparently, their intended destination is Fulcrum Tower.",
+    "target": "&1682 显然，他们的目的地是支点大厦。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0b9bb1b3c3e7056",
+    "source": "&1187 The tower? In an aerostat? Why?",
+    "target": "&1187 大厦？坐浮空艇过去？为什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14cceca5a652c34f",
+    "source": "&1683 Let me send you the files.",
+    "target": "&1683 我把文件发给你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f97d99fcef9b160",
+    "source": "&594 Freeze!",
+    "target": "&594 别动！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ce89d8b05f2b0a81",
+    "source": "&7102 Regis!",
+    "target": "&7102 里吉斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68dcef828842aef5",
+    "source": "&1188 You just shot a CEL agent trying to help you!",
+    "target": "&1188 你刚刚开枪打了一位想帮你的CEL探员！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "33c7c68dfb6621d8",
+    "source": "&595 He...tried to kill me!",
+    "target": "&595 他……想杀我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "063008d22d52e2b5",
+    "source": "&1189 Hang on, Regis? Wait a minute, I know you...",
+    "target": "&1189 等等，里吉斯？等一下，我认识你……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2dec91218ac928da",
+    "source": "&1190 You're the girl who was with Dr Vargas...Galatea, right?",
+    "target": "&1190 你是跟瓦尔加斯博士在一起的女孩……伽拉忒亚，对吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0fd976e287a10c04",
+    "source": "&596 Gala-what?",
+    "target": "&596 伽拉什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "70f9be6fdb1dc6f6",
+    "source": "&1191 You alright?",
+    "target": "&1191 你还好吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65c5ad9a8b121566",
+    "source": "&1684 I'll be fine. Apparently, it wasn't as empty as I thought.",
+    "target": "&1684 我会没事的。看来，枪里还剩些电，倒是我没料到。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d83b43ca08259602",
+    "source": "&1685 The counter must have had a charging-plate.",
+    "target": "&1685 柜台上肯定有充电板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "756915146609cbe6",
+    "source": "&1192 More to the point, HOW did she shoot you with your own signature weapon?",
+    "target": "&1192 重点是，她怎么能用你自己的生物识别武器打中你？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8924d5ab380ee247",
+    "source": "&1686 I'm...not sure...",
+    "target": "&1686 我……不确定……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "854e9c0868a920df",
+    "source": "&1193 Hold still. Just need to scan you.",
+    "target": "&1193 别动，只要扫描一下。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "25d6d21c371f373d",
+    "source": "&1194 Um...Regis? Why does this girl have half of your genome?",
+    "target": "&1194 呃……里吉斯？这女孩为什么有你一半的基因组？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69463b02aa070ff6",
+    "source": "&1687 ...what?",
+    "target": "&1687 ……什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95761ec0174f5460",
+    "source": "&1195 This girl, who yesterday was introduced as Dr Vargas' daughter...",
+    "target": "&1195 这个女孩，昨天还被介绍成瓦尔加斯博士的女儿……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "11c78588e1652e96",
+    "source": "&597 I don't know what you're talking about!",
+    "target": "&597 我不知道你在说什么！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d00c8dfab037db9d",
+    "source": "&1688 Vargas...doesn't have a daughter...oh my God...",
+    "target": "&1688 瓦尔加斯……没有女儿……天哪……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e70347a24f349d8a",
+    "source": "&1689 My God...he couldn't have...",
+    "target": "&1689 天哪……他不可能……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ad99823d3abd1a0",
+    "source": "&1196 What? What is it?",
+    "target": "&1196 什么？怎么回事？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6cd1f46118b729e1",
+    "source": "&1690 That son of a bitch...I...I know who you are...and I am so sorry...",
+    "target": "&1690 那个混蛋……我……我知道你是谁了……真的非常抱歉……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d22ee8da2c8bcde6",
+    "source": "&1197 My God...so that means that this girl is...",
+    "target": "&1197 天哪……这么说，这女孩是……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d3f437bd87f052fb",
+    "source": "&1691 They must have continued their research after I left the project...",
+    "target": "&1691 我退出项目后，他们肯定还在继续研究……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e251c78e261a123",
+    "source": "&1692 ...duplicated the embryo to use as a baseline...",
+    "target": "&1692 ……复制胚胎，作为基础样本……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "59b28c5708c59fa3",
+    "source": "&598 Wait, that means, I'm your....",
+    "target": "&598 等等，那我就是你的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d7b501ccfef5a2d",
+    "source": "&599 Oh nuke, I think I'm gonna be sick...",
+    "target": "&599 哦，该炸的，我觉得自己要吐了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c58a24c4bcd9517a",
+    "source": "&1693 Max...this is my daughter...",
+    "target": "&1693 麦克斯……这是我的女儿……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b9a3756d8f39a916",
+    "source": "&1694 What was that?",
+    "target": "&1694 什么声音？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3fdbd8bc35235266",
+    "source": "&1198 The engines have cut out.",
+    "target": "&1198 引擎停了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1f01fc37cd16929c",
+    "source": "&600 ...or we've arrived.",
+    "target": "&600 ……或者，我们到了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "82e5dbfaff94cdff",
+    "source": "&1199 Uh-oh...",
+    "target": "&1199 糟了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "484c7dc0d57c7074",
+    "source": "PART9",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "ef567258f7f4472a",
+    "source": "&597 This door leads into the hallway.",
+    "target": "&597 这扇门通往走廊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2f1e9695956139f",
+    "source": "&1200 I can't leave Regis like that!",
+    "target": "&1200 不能把里吉斯这么丢下！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1499a166709402ec",
+    "source": "Girl",
+    "target": "女孩",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0336066948b8f1a",
+    "source": "&598 Regis' stunner lies on the counter. He may have been paralysed, but it looks like they didn't want to take any chances.",
+    "target": "&598 里吉斯的电击枪放在柜台上。虽然他已被麻痹，可他们显然不想冒任何风险。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5bf381490e634354",
+    "source": "&1201 I've got my own. Regis' wouldn't work for me anyway, they're signature weapons.",
+    "target": "&1201 我自己有一把。再说，他那把也不会让我用，都是生物识别武器。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "edde177280e622bf",
+    "source": "&1202 Hey, Regis - you want your stunner back?",
+    "target": "&1202 嘿，里吉斯，要把电击枪拿回去吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d81177369daf2e2",
+    "source": "&1695 Later. Got to help this poor girl, first.",
+    "target": "&1695 等会儿。先帮这个可怜的女孩。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "da39439fda312ff8",
+    "source": "&1203 Suit yourself. But *this* might be useful.",
+    "target": "&1203 随你。不过，*这个*可能有用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1eb415d03343c6f6",
+    "source": "Picked up: SCALPEL",
+    "target": "已拾取：手术刀",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "30a797f625075119",
+    "source": "&686 The man's apparently taken several industrial rivets in the back...you're not sure you want to imagine the circumstances that led Regis to this.",
+    "target": "&686 那人的背上中了几枚工业铆钉……你不太想去想象，究竟是什么情况，才让里吉斯这么做。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f0fed3d6b44f831c",
+    "source": "&687 You find nothing on him but his unusable weapon, and a communication system that you've already broken into.",
+    "target": "&687 他身上除了没法用的武器，和你已经侵入过的通信系统，没有别的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1d28a32e2de0f90e",
+    "source": "On the body you find his unusable weapon, and the communication gear hooked into his neural-wiring.",
+    "target": "你在尸体上找到了没法使用的武器，以及接入他神经接口的通信设备。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3c620c496ec8d527",
+    "source": "&707 A large terminal, connected to both a cradle for the memory module and the bed. Looks like it's still running a Trance simulation?",
+    "target": "&707 一台大终端，连着记忆模块插槽和那张床。看起来，还在运行迷境模拟？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "041de5a20136a202",
+    "source": "Locked. Apparently, this terminal will take a little breaking before it reveals its secrets to you.",
+    "target": "锁着。显然，不先攻破它，就别想让这台终端透露秘密。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "11132e269b883004",
+    "source": "&1485 Locked.",
+    "target": "&1485 锁着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3eb3ef270d2bd317",
+    "source": "&724 The hatch at the top of the ladder leads to the upper deck. Apparently, the girl you saw escaping through it has locked it behind her.",
+    "target": "&724 梯子顶端的舱口通往上层甲板。你看见逃进去的那个女孩，显然把它从另一边锁上了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "712dfcb9b8d8e877",
+    "source": "// EFFECTIVENESS REPORT - Thyroactinase-414B[[The use of a wetware-based incapacitating agent has proven fortuitous. In the course of his work, Mr Kreisel has found the 414B wetware to be effective at subduing the targets while retaining consciousness, but also acts as a \"primer\" for the extraction process.",
+    "target": "//效能报告——Thyroactinase-414B[[采用湿件型失能剂，效果相当理想。克赖塞尔先生在工作中发现，414B湿件能在使目标保持清醒的同时，令其失去行动能力，还能充当抽取过程的“预处理剂”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b3767f1e25a1d52",
+    "source": "The choice of wetware, rather than a conventional chemical paralytic, also enables a much less precise delivery vector, suitable for covert work.[[The only downside thus far has been 414B's susceptibility to wetware's inherent weaknesses (e.g. temperature, bodily rejection).",
+    "target": "采用湿件，而非传统的化学麻痹药，也让投送方式不必那么精确，更适合隐秘行动。[[目前唯一的缺点，是414B也受湿件固有弱点影响，例如温度变化和身体排斥。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

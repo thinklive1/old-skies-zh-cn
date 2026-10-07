@@ -1,0 +1,178 @@
+[
+  {
+    "id": "29a40861bafe31e7",
+    "source": "Console",
+    "target": "控制台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d18d0a523112f8c",
+    "source": "Guard?",
+    "target": "守卫？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e21410962099fc5",
+    "source": "Cargo Door",
+    "target": "货舱门",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a4a7960e18e806e",
+    "source": "Opened Crate",
+    "target": "打开的货箱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1127af87ce69121b",
+    "source": "&1204 Not until I find out what's in the crate.",
+    "target": "&1204 先看看货箱里是什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "99e711a3980d63c0",
+    "source": "&1205 If I drop it, it's gone forever!",
+    "target": "&1205 掉下去，就永远没了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b33a5f5b4bfb7891",
+    "source": "BOXDROP",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "bbfd79e2b2355e54",
+    "source": "&23 Intruder!",
+    "target": "&23 入侵者！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "09b49d56b4336d3d",
+    "source": "&599 The conspicuously large hatch in the floor is apparently how crates are lifted into the cargo bay.",
+    "target": "&599 地板上这扇显眼的大舱口，应该就是货箱被吊进货舱的地方。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f438f1326c6af07",
+    "source": "&600 Watch your step!",
+    "target": "&600 当心脚下！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0b14ac8903c9a347",
+    "source": "&601 You see the city pass slowly underneath you - good thing you've got a head for heights.",
+    "target": "&601 你看着城市在脚下缓缓经过。幸好，你不怕高。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ce1b090b263bea5",
+    "source": "&725 It doesn't appear to be operated by hand. Your sense for systems tells you the console is what controls it.",
+    "target": "&725 看起来，它不是手动操作的。你对系统的感知告诉你，是那台控制台在控制它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f3fa517243a69a7",
+    "source": "&1696 Looks like it's not operated by hand.",
+    "target": "&1696 看来，不是手动操作的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb91d1d4423f95bc",
+    "source": "&1486 That door leads to a kilometer-long, gravity assisted trip straight to the heart of the city.",
+    "target": "&1486 出了那扇门，就会在重力帮助下，直奔一公里下方的市中心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e97a23c7a0ceddc",
+    "source": "&604 Judging by the diagrams you can see through the surface of the screen, the console appears to control a loading hatch.",
+    "target": "&604 根据屏幕表面下透出的图示，控制台似乎操控着装货舱口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b12e0ecb9b3a8ac6",
+    "source": "&605 The thinness of the steel wall has allowed the thermal outline of the hired heavy to be visible from this side.",
+    "target": "&605 钢壁很薄，所以从这一侧，就能看见雇佣打手的热成像轮廓。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bd3659c40b75aa48",
+    "source": "&1697 It's thin, but it's not *that* flimsy.",
+    "target": "&1697 是很薄，可也没*那么*脆弱。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c01ba01f7cdd95d4",
+    "source": "&1698 I'm gonna need to find another way of getting through to him...",
+    "target": "&1698 得另想办法，穿过去对付他……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1de27926d0812a61",
+    "source": "&606 The crate is stamped 'U-ADS/148'. You are unsure what used to be in the now-opened container, but it looks military-grade.",
+    "target": "&606 货箱上印着“U-ADS/148”。这个已经打开的箱子，之前装的是什么，你不清楚，但看起来属于军用品。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d4281c9ac9b20680",
+    "source": "Picked up: AP Ammunition",
+    "target": "已拾取：AP穿甲弹",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6229d2cd47b41bd1",
+    "source": "&1206 I wonder what this was for.",
+    "target": "&1206 不知道这是做什么用的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d5de942460db8ffa",
+    "source": "&726 Deeper into the heart of the aerostat.",
+    "target": "&726 更深入浮空艇内部。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

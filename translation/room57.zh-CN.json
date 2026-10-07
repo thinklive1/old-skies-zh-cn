@@ -1,0 +1,250 @@
+[
+  {
+    "id": "f816a74c2310179d",
+    "source": "Bed",
+    "target": "床",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f76ea921edc2e55d",
+    "source": "Wall",
+    "target": "墙壁",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "685394345b4000bb",
+    "source": "Ceiling",
+    "target": "天花板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ebfe53c6d3e28f8",
+    "source": "Pillar",
+    "target": "柱子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d268c9c4492022ac",
+    "source": "Floor",
+    "target": "地板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "035ed1fffa9e0817",
+    "source": "&590 Here we go again.",
+    "target": "&590 又来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1b5e383840631de7",
+    "source": "&591 Now we just wait, and...",
+    "target": "&591 现在只要等着，然后……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ad8e264d65cfd87a",
+    "source": "&3 Alright, let's get it loaded!",
+    "target": "&3 好，把它装上去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba7502dd64f06f45",
+    "source": "&11 Yeah, y'know how bitchy the Doc gets waiting.",
+    "target": "&11 是啊，你知道，博士等急了有多难伺候。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "85c87b01aad845c6",
+    "source": "&4 Let's see if Addie's got it right this time.",
+    "target": "&4 看看阿迪这次有没有弄对。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cd661d6fd9868336",
+    "source": "&5 Hang on, hang on, the measurement's all wrong.",
+    "target": "&5 等等，等等，称重结果全错了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf34edf0de079e52",
+    "source": "&12 What?!",
+    "target": "&12 什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e72749235a77bc5",
+    "source": "&6 Addie must have screwed it up.",
+    "target": "&6 肯定是阿迪弄错了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6dc511c7f5b8c380",
+    "source": "&7 The manifest says it should be showing lighter.",
+    "target": "&7 清单上写着，它应该更轻。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bd4b224b00a945f0",
+    "source": "&8 The manifest says it should be showing heavier.",
+    "target": "&8 清单上写着，它应该更重。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "89c10c158e6926c6",
+    "source": "&13 Eurgh...idiot.",
+    "target": "&13 呃……蠢货。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2cd8d7ba0f3ac0e1",
+    "source": "&9 Send it back and get him to re-check the weights.",
+    "target": "&9 送回去，让他重新核对重量。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "41756d16ccb6aa91",
+    "source": "&10 Okay, weight's looking good. Try the scanner.",
+    "target": "&10 好，重量对了。试试扫描仪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2efe04cf289c4eac",
+    "source": "CRATE",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "57a2b31566a49ca0",
+    "source": "&14 Hang on, the scanner's reading the contents as organic.",
+    "target": "&14 等等，扫描显示，里面是有机物。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "76ce08733be3ab6e",
+    "source": "&15 Addie's got it listed as inorganic.",
+    "target": "&15 阿迪却把它列成了无机物。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1e759298842f33e4",
+    "source": "&11 Aw, typical. Send it back, tell him to get his act together.",
+    "target": "&11 啊，老样子。送回去，让他把事做好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3fcdcb0561106086",
+    "source": "&12 He should make sure the manifest matches what's in the box.",
+    "target": "&12 他得确保清单跟箱子里的东西相符。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "097e557c6163f4da",
+    "source": "&13 We can't exactly open them all up to check, we'd be here all night!",
+    "target": "&13 总不能每个都打开检查，不然得忙一整夜！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "25f33e15982ded5e",
+    "source": "&16 Scans show organic, same as the manifest.",
+    "target": "&16 扫描显示是有机物，跟清单一样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7183f13f70260095",
+    "source": "&14 Fantastic. Get it aboard, Kreisel and the Doc want to cast off.",
+    "target": "&14 太好了。装上船，克赖塞尔和博士等着起锚呢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d362c3887403a877",
+    "source": "&592 The signal's going crazy, I must be on top of -",
+    "target": "&592 信号疯了一样，我肯定就在——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b78dd27040fc25c",
+    "source": "&593 ...huh?",
+    "target": "&593 ……啊？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b160da8da0d1f27e",
+    "source": "&48 The simulation's exceeded its buffer.",
+    "target": "&48 模拟环境超出了缓冲容量。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "13a0ddddce89851f",
+    "source": "&130 Took her long enough.",
+    "target": "&130 她还真够磨蹭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0dd51b6ef9e45d8f",
+    "source": "&131 I think Jinsil did a pretty good job on that one.",
+    "target": "&131 我觉得，金希尔这件事做得不错。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

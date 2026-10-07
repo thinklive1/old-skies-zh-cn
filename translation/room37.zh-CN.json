@@ -1,0 +1,202 @@
+[
+  {
+    "id": "33cd5026f8169072",
+    "source": "Exposed Wiring",
+    "target": "外露线路",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "892559d4a8ac16e2",
+    "source": "Industrial Laser",
+    "target": "工业激光器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0e04cd10f9afd7e5",
+    "source": "Warnings",
+    "target": "警告标识",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ca7dea906800f87",
+    "source": "Water",
+    "target": "水",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d41809dc8cc7157f",
+    "source": "Apparatus",
+    "target": "设备",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dbff8fca4957cd66",
+    "source": "&12 Target sighted.",
+    "target": "&12 发现目标。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ee08d47f438c9b9",
+    "source": "Silicon Wafer",
+    "target": "硅晶圆",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "60897e2a0eb73ccf",
+    "source": "Stainless Steel",
+    "target": "不锈钢",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3266ed9804f031b7",
+    "source": "Aluminium",
+    "target": "铝",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "186414a2200e6ca1",
+    "source": "Mild Steel",
+    "target": "低碳钢",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7aaa37a14e7695bc",
+    "source": "Plywood",
+    "target": "胶合板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8fa017ad74e86d5f",
+    "source": "Titanium",
+    "target": "钛",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a1eb32aa6cb4562c",
+    "source": "Boron Epoxy",
+    "target": "硼-环氧复合材料",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fbb34a2104d88e10",
+    "source": "Concrete",
+    "target": "混凝土",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9b32a4213037ff2b",
+    "source": "DANGER - UNSAFE!",
+    "target": "危险——不安全！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32976475acd60be5",
+    "source": "&1619 The way back out to the stairs.",
+    "target": "&1619 返回楼梯的路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "56abb443c273ff27",
+    "source": "&1620 That can't be safety compliant, with all this gear around.",
+    "target": "&1620 周围这么多设备，这肯定不符合安全规定。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4b2afd87f7728bb9",
+    "source": "&1621 Then again, I don't work here.",
+    "target": "&1621 不过，我又不在这里工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31395864e0f6604c",
+    "source": "&1622 It's an industrial cutting laser. Looks like they had a little misfire.",
+    "target": "&1622 一台工业切割激光器。看来，之前出了点误射。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b6ee7d111d967fb",
+    "source": "&1623 Not from here, I can't.",
+    "target": "&1623 从这里不行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a97b3d5f0f25ec67",
+    "source": "&1624 It's like the one in the locker-room. Probably about the same place, too...",
+    "target": "&1624 跟更衣室里的那个差不多。位置大概也一样……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f0a32000f954189",
+    "source": "&526 A large gash has left much of the power-cable exposed and uninsulated. Based on the track-marks, you guess that someone was careless with the cutting laser.",
+    "target": "&526 一道大豁口，让电缆相当一部分裸露在外，没了绝缘保护。根据切割痕迹，你猜有人用激光器时不太小心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "25ce738560d07e62",
+    "source": "&531 Judging by the frequency and nature of the warnings around the room, this machinery must have been exceptionally hazardous to the human eye.",
+    "target": "&531 这里的警告既多又严厉，看来，这些机器对人眼格外危险。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "321dfebc98572e81",
+    "source": "&534 You decide against putting your hands in it, just in case the electricity decides to come back.",
+    "target": "&534 为防万一重新通电，你决定不把手伸进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba1b37e99568f02a",
+    "source": "&535 It looks like a cavitating coil, designed to build up charge for the laser.",
+    "target": "&535 看着像空化线圈，应该是用来给激光器积蓄电荷的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

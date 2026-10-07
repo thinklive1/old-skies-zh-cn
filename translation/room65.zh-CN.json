@@ -1,0 +1,474 @@
+[
+  {
+    "id": "f85409de8717b889",
+    "source": "Processor Core",
+    "target": "处理器核心",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1c6741fa305b96a5",
+    "source": "Control Centre",
+    "target": "控制中心",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b87e5ece7b80aa96",
+    "source": "Turbine Room",
+    "target": "涡轮室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a7a9b3e0c512f83c",
+    "source": "Vargas' Office",
+    "target": "瓦尔加斯的办公室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5cdf9f9dfc9825fb",
+    "source": "Cable Reel",
+    "target": "缆线卷盘",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6de0f21348c9969c",
+    "source": "Call Elevator",
+    "target": "呼叫电梯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3388d4e0d05ef6bd",
+    "source": "Start Elevator",
+    "target": "启动电梯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0292108ecfb9bd02",
+    "source": "Lock Status",
+    "target": "门锁状态",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "386848c5b20a86e9",
+    "source": "Power Conduit",
+    "target": "供电线路",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "420462eaf8a1780a",
+    "source": "&137 All power systems cycled, deactivating security systems.",
+    "target": "&137 所有电力系统已重置。正在停用安保系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d028bee469234487",
+    "source": "&41 All power systems cycled, deactivating security systems.",
+    "target": "&41 所有电力系统已重置。正在停用安保系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e10953f3e4ca159",
+    "source": "OPEN",
+    "target": "已开启",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf3d1db82835a694",
+    "source": "Central Processor Core[Fulcrum Tower",
+    "target": "中枢处理器核心[支点大厦",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6a086d9eefe09fcf",
+    "source": "&634 Apparently, the platform's controls are locked out while in motion. While this may have been an idea for safety, you can't help but think that a railing might have been a better start.",
+    "target": "&634 看来，平台移动时，控制装置会锁定。也许这是为了安全，可你还是觉得，不如先装个护栏。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "373d7154cc2208a5",
+    "source": "&637 All you can examine are the man's boots, the rest of his body remains pressed under the platform.",
+    "target": "&637 只能检查那人的靴子，身体其他部分都压在平台下面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d011f12e850dfee",
+    "source": "&638 All that's left of the elevator's victim will only be of interest to the coroner.",
+    "target": "&638 电梯受害者剩下的部分，只能引起法医的兴趣。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9c3431d2ac260932",
+    "source": "&639 Apparently, this man was a technician. You take his wrench.",
+    "target": "&639 看来，他是个技术员。你拿走了他的扳手。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b24e67eacfd4201c",
+    "source": "Picked up: Wrench",
+    "target": "已拾取：扳手",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2407a034a1f1f863",
+    "source": "&640 Most of this man's body has been crushed by the elevator platform. You're not sure whether he fell first, but the eventual result has rendered that point moot.",
+    "target": "&640 那人身体的大部分都被升降平台压碎了。你不确定，他是不是先摔下来，不过最终的结果，已经让这个问题无关紧要。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32e435d259d97f1e",
+    "source": "&641 The door at the top of the processor tower apparently leads to Central's logic centre. According to the lights above the door, the locks preventing your access are active.",
+    "target": "&641 处理器塔顶的门，显然通向中枢的逻辑中心。从门上的指示灯来看，阻止你进入的锁仍然有效。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "76aa6a0c6562068d",
+    "source": "&642 The door at the top of the processor tower has surrendered to your efforts, and the locks have given way to allow you access.",
+    "target": "&642 努力终于有了结果，处理器塔顶的门锁已经解除，你可以进入了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a08ae5e80cecef4e",
+    "source": "&643 From where you are at the moment, you're unable to get to the door.",
+    "target": "&643 从现在的位置，没法抵达那扇门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bd0a77f6f5ac2d08",
+    "source": "&644 The secure elevator leads back down to Dr Vargas' office.",
+    "target": "&644 那部受安保保护的电梯，通往下面瓦尔加斯博士的办公室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6c19db37a87ceee",
+    "source": "&645 A coiled-up portable antenna, waiting to be deployed.",
+    "target": "&645 一卷便携式天线，正等着展开架设。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "484ef26980b9357d",
+    "source": "The portable antenna has been deployed, lifted high enough to broadcast its signal.",
+    "target": "便携式天线已经架好，并升到了足以发射信号的高度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "40f03855d6f1a587",
+    "source": "Picked up: Grenade",
+    "target": "已拾取：手榴弹",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9131b60f71223304",
+    "source": "&1455 It might be useful. Call it a hunch...",
+    "target": "&1455 可能有用。就算是直觉吧……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "502d2d5e73b6e023",
+    "source": "&647 There's nothing else you can find on him that'd be of use.",
+    "target": "&647 在他身上找不到别的有用东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cb1b17cd428b9bbd",
+    "source": "&648 You're unable to reach him from here.",
+    "target": "&648 从这里够不到他。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "363303f0e854c1c2",
+    "source": "&649 The body of one of the remaining strike-team members. Apparently CEL officers managed to bring him down.",
+    "target": "&649 一名剩余突击队成员的尸体。看来，CEL警员成功将他击倒了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17b0d4542e6121eb",
+    "source": "&650 The power conduit runs up the wall, further up into the tower. Judging by the glow, it's working as expected.",
+    "target": "&650 供电线路沿墙向上，延伸进塔内更高处。从光芒来看，运作正常。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03e6ed8d655b6215",
+    "source": "&651 The power conduit has been taken offline, though it sounds like it'll cycle back on shortly.",
+    "target": "&651 供电线路已经离线，不过听起来，很快就会重新启动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a1570fbf87dc40b9",
+    "source": "&652 The power conduits have been fully deactivated, cutting power to the server room's security.",
+    "target": "&652 供电线路已全部停用，服务器房间的安保电源被切断。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16a43c6fb3d79e09",
+    "source": "&653 The power to the security system's already been deactivated. Better not mess with it any more.",
+    "target": "&653 安保系统的电源已经切断，最好别再乱动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6c2eb024ee02816e",
+    "source": "&654 It's already in its offline cycle. All you can do now is try to deactivate its counterpart before it restarts.",
+    "target": "&654 它已经进入离线周期。现在，只能赶在它重启前，把另一条也停掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d654012fee7cba9",
+    "source": "&655 You're unable to reach the power conduit at this distance.",
+    "target": "&655 距离太远，够不到供电线路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7300dd4f49b1b3bc",
+    "source": "&656 You make a grab for the power conduit, but the lift's movement carries you past its access point before you can disable it.",
+    "target": "&656 你试着抓住供电线路，可还来不及停用，电梯就已经带你越过了操作位置。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0c3033135483dedf",
+    "source": "&138 Power conduit Beta: Temporary shutdown.",
+    "target": "&138 Beta供电线路：暂时关闭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1adb70c775a53b1c",
+    "source": "&139 Reactivation in: THIRTY seconds.",
+    "target": "&139 重新启动倒计时：三十秒。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "445ac36904740a0c",
+    "source": "&42 Power conduit Beta: Temporary shutdown.",
+    "target": "&42 Beta供电线路：暂时关闭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9005e199a909ef5d",
+    "source": "&44 Reactivation in: THIRTY seconds.",
+    "target": "&44 重新启动倒计时：三十秒。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "01ecb29a1341ff31",
+    "source": "&712 A control panel for calling the elevator platform.",
+    "target": "&712 呼叫升降平台的控制面板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fb9ccfb461c6f3c0",
+    "source": "&713 //ERROR - Hardware Failure[[Motive systems unusable due to mechanical obstruction.[[//ERR-1/101/2",
+    "target": "&713 //错误——硬件故障[[机械阻挡，动力系统无法使用。[[//ERR-1/101/2",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "96696aa57c147113",
+    "source": "The antenna has already been deployed, and is apparently working as planned.",
+    "target": "天线已经架好，显然正按计划运行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ba99b8e41ff745b",
+    "source": "&734 The sturdy wrench prevents the platform's gears turning.",
+    "target": "&734 结实的扳手卡住了平台齿轮，让它无法转动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bcf1eb5f3a9ab2d2",
+    "source": "The door is resistant to physical damage - another way to open it will need to be found.",
+    "target": "这扇门能抵挡物理破坏，必须另找打开的办法。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "51873955c41d8014",
+    "source": "&2026 I...wouldn't know where to start...",
+    "target": "&2026 我……根本不知道该从哪里下手……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f41f80decc2928a2",
+    "source": "&1494 I'd better not touch it - I might risk harming Central.",
+    "target": "&1494 最好别碰，可能会伤到中枢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "184cbdfe35518a2a",
+    "source": "&723 Hardware's not my field. I'm going to need the Trance if I want to get into the machine.",
+    "target": "&723 硬件不是我的领域。想进入这台机器，我得靠迷境。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b4010b2a0a79a423",
+    "source": "&724 There's nowhere to make a connection out here.",
+    "target": "&724 外面没有可以建立连接的地方。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "29841a2b546c6824",
+    "source": "&2027 I understand Central's organic component, but I've no idea what this is for.",
+    "target": "&2027 中枢的有机部分，我明白，可这个是做什么的，完全不知道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f13e5b3c2d127439",
+    "source": "&1495 Central's inorganic framework...wow...",
+    "target": "&1495 中枢的无机框架……哇……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "54b367650c1e7a1f",
+    "source": "&2028 You planning on asking for an autograph?",
+    "target": "&2028 你还想请它签个名吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ec93c393a272a3b5",
+    "source": "An elevator platform runs up the side of the core. The exposed gear strikes you as an accident waiting to happen.",
+    "target": "一座升降平台沿着核心侧面上下移动。外露的齿轮，让你觉得事故迟早会发生。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9c861ee180cc2227",
+    "source": "A control console, handling the communications fibre-line that runs into Central, has been hooked up to a portable antenna.",
+    "target": "一台控制台，管理着接入中枢的通信光纤，如今又接上了便携式天线。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "173c12197c282385",
+    "source": "The crushed technician appears to have been in the middle of his work, his tools are still nearby.",
+    "target": "被压死的技术员，似乎当时还在工作，工具仍散落在旁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4883cf1f1b4f7b4f",
+    "source": "This door leads to the turbine room, controlling the power distribution amongst Central's innermost systems.",
+    "target": "这扇门通往涡轮室，那里控制着中枢内部系统之间的电力分配。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20e58ee80a48ceb0",
+    "source": "The lights are linked to the systems they control, though only as indicators - they have no influence over the locks themselves.",
+    "target": "灯与相应系统相连，但仅用来指示状态，不会影响门锁本身。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf785828d8a70d74",
+    "source": "An array of LED lights shows the status of each of the three layers of security protecting this door.",
+    "target": "一组LED灯，显示着保护这扇门的三层安保状态。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "1350e2e94e20f640",
+    "source": "Production Lab",
+    "target": "生产实验室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "458e1016936d4937",
+    "source": "Airlock",
+    "target": "气闸",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5173d1996670a0e1",
+    "source": "Gene Sequencer",
+    "target": "基因测序仪",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "42178084a86daf51",
+    "source": "Red-Flowered Tree",
+    "target": "开红花的树",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d30bd5dd5b22dc6",
+    "source": "Blue Plants",
+    "target": "蓝色植物",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "48c694aee96d3c2c",
+    "source": "Yellow Epigeal Plants",
+    "target": "黄色地表植物",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "175af98cfaac30fc",
+    "source": "Readouts",
+    "target": "读数",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65c5191d0b40f87f",
+    "source": "Readout",
+    "target": "读数显示屏",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1863d8de49224771",
+    "source": "Floating Drone",
+    "target": "悬浮无人机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed3829249d35d391",
+    "source": "Vickerman Pharmaceutical Laboratories",
+    "target": "维克曼制药实验室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "791702b71b061123",
+    "source": "&1104 Wow...that's a lot of green.",
+    "target": "&1104 哇……好多绿色植物。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d3fa1ffb1b8ec223",
+    "source": "&157 Great, they finally sent someone.",
+    "target": "&157 太好了，总算派人来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8794bcfc651d86fa",
+    "source": "&158 You here to get the body out?",
+    "target": "&158 你是来搬走尸体的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "11ada4f111b85c54",
+    "source": "&1105 Uh...maybe? I'm Max Lao, CEL case specialist.",
+    "target": "&1105 呃……也许？我是麦克斯·劳，CEL案件专员。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "343e65b179f3c288",
+    "source": "&159 No kidding. I'm the lab director, Dr Zvidzai Chigwa.",
+    "target": "&159 还真是。我是实验室主管，兹维扎伊·奇格瓦博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f61a529ec63c6d52",
+    "source": "&117 Warning - Security clearance not valid for access to growth lab.",
+    "target": "&117 警告——安全权限不足，无法进入培养实验室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "19667e12d6d5557b",
+    "source": "&118 Vickerman Pharmaceuticals thanks you for your cooperation.",
+    "target": "&118 维克曼制药感谢您的配合。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ac924c4f181b26ee",
+    "source": "&119 Warning - Security clearance not-not-no-",
+    "target": "&119 警告——安全权限不、不、不——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f62d2baa2cb20022",
+    "source": "&1106 Come on...",
+    "target": "&1106 快点……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93de070073777e01",
+    "source": "&120 -no-n-n-new security profile created.",
+    "target": "&120 ——不、不、新安全档案已创建。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "582656e311fdc3f0",
+    "source": "&121 Access granted. Welcome, Dr Lao.",
+    "target": "&121 访问已获批准。欢迎，劳博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a9e9821b9b48ff1",
+    "source": "&1107 Thanks.",
+    "target": "&1107 谢谢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "979186a94b434bc6",
+    "source": "&1108 I'm not a gengineer, I have no idea what it's for.",
+    "target": "&1108 我不是基因工程师，不知道这是做什么的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ed343d43c6b0a52",
+    "source": "&1109 It's the console for sequencing DNA data from specimens.",
+    "target": "&1109 这是个控制台，用来对样本的DNA数据进行测序。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d0628863ebe723ef",
+    "source": "&1110 I need to bring samples back here to see if more of Regis' message is hidden in them.",
+    "target": "&1110 我得把样本带回这里，看看其中是不是还藏着里吉斯的消息。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ebb041e1db27ebd0",
+    "source": "&1111 The sampler's empty, there's nothing to test.",
+    "target": "&1111 采样器是空的，没东西可检验。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d3135ed865e6fee",
+    "source": "&506 Purging current samples...",
+    "target": "&506 正在清除当前样本……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a700e8baaea52d93",
+    "source": "NO NEW DATA FOUND",
+    "target": "未发现新数据",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "987f47226f230794",
+    "source": "&1118 It's only compatible with the sampler tool.",
+    "target": "&1118 它只兼容采样工具。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "44fe7630c2b4a183",
+    "source": "&483 One of the plant specimens the lab's working on.",
+    "target": "&483 实验室正在研究的一株植物样本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f301dc3849715e45",
+    "source": "&1119 I'd better not.",
+    "target": "&1119 还是别碰了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1700869276fe67f0",
+    "source": "&1120 If I start taking every single specimen, I'll be here for days.",
+    "target": "&1120 要是每个样本都采一点，我得在这儿待上好几天。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4cf692186ff9a1a1",
+    "source": "&1122 The way out of the lab complex.",
+    "target": "&1122 离开实验区的出口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "18236fa2bc51c2e8",
+    "source": "&484 The console below analyses DNA samples taken from plants. The screens themselves are volumetric projections, and have no control over the process.",
+    "target": "&484 下面的控制台会分析从植物中采集的DNA样本。屏幕本身只是立体投影，不能用来控制分析过程。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "315793ba03212525",
+    "source": "&1466 I have no idea what anything on here means.",
+    "target": "&1466 上面这些东西什么意思，我完全看不懂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a0c03777e0997f65",
+    "source": "&1467 This is the kind of thing that'd take a cram course in Trance-ed.",
+    "target": "&1467 这种东西，得在迷境教育里上一门速成课才懂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2dd5fe795226004",
+    "source": "&1468 Better not. It might tell the lab director.",
+    "target": "&1468 还是别碰了。它可能会报告实验室主管。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7010ac4f9a54955e",
+    "source": "&507 A drone lays a finely-controlled mist over the delicate specimens.",
+    "target": "&507 无人机精确控制着细雾，洒在娇嫩的植物样本上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "73b1e2fc58dbe263",
+    "source": "&1469 The way out.",
+    "target": "&1469 出口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

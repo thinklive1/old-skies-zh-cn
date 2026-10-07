@@ -1,0 +1,106 @@
+[
+  {
+    "id": "2e51fbb98f42e244",
+    "source": "Lower Level",
+    "target": "下层",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "117bb913d376f96b",
+    "source": "Upper Level",
+    "target": "上层",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ac110e84d8627335",
+    "source": "Office Level",
+    "target": "办公层",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d8fc46cd4d1ac865",
+    "source": "Optics Lab",
+    "target": "光学实验室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7d28faf11da8f361",
+    "source": "Factory Floor",
+    "target": "工厂车间",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d31e2cdb759445cf",
+    "source": "Smashed Window",
+    "target": "破碎的窗户",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dc5bd366d2693d7a",
+    "source": "&22 Target sighted.",
+    "target": "&22 发现目标。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9678f602b98a2e3",
+    "source": "&1554 The door back to the offices.",
+    "target": "&1554 通往办公室的门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f5c3739058895d50",
+    "source": "&1555 I'd guess they had something dangerous in there, from all the goggles-warnings.",
+    "target": "&1555 到处都写着要戴护目镜，里面大概有危险的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d08305106ec78d1",
+    "source": "&1556 It's a long way down...",
+    "target": "&1556 下面可真够深的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b5f02570b79a88c",
+    "source": "&1557 I need to find a better way out than that!",
+    "target": "&1557 我得找个更好的出口！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8d260b6fb59bd78",
+    "source": "The lower level of the staircase.",
+    "target": "楼梯的下层。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7469eb96be4049b3",
+    "source": "The upper level leading back to the office.",
+    "target": "上层通往办公室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

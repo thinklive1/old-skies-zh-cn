@@ -1,0 +1,92 @@
+{
+  "version": "1.0.0-rc.1",
+  "game": "<game-dir>",
+  "exe_sha256": "8ed8f2312aed87cb6f6c520dd83be6afc9c93976f6ab004fca7e772b2411a44d",
+  "files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "source": "<project>\\build\\release\\Technobabylon_zh_CN.tra",
+      "before": null,
+      "after": "324943068e1a4bced8f9abf97322047e5f983e4edd72dc69824886109cf19f81"
+    },
+    {
+      "name": "game28.dta",
+      "source": "<project>\\build\\release\\game28.dta",
+      "before": null,
+      "after": "f07d1f948efb2796d3a427fa0fe2ce062cb2d9d40513650f85b3fc9f52f5609a"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "source": "<project>\\build\\release\\agsfnt0.ttf",
+      "before": null,
+      "after": "97f2f2bf79dc6c8b1996050db8780aac594f30cc2706249615b022495810662a"
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "source": "<project>\\build\\release\\agsfnt1.ttf",
+      "before": null,
+      "after": "d689898ac7808c3d5c092cdfb563e9ba7752da26b9acfb81e39174597eeff85f"
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "source": "<project>\\build\\release\\agsfnt2.ttf",
+      "before": null,
+      "after": "76c671ea9d3abee13237bc24ca914203417db4a12503a18f97c317ecdd7e8352"
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "source": "<project>\\build\\release\\agsfnt4.ttf",
+      "before": null,
+      "after": "e26ab0bc53fde02e0f8728bf7535069fb923a8c66329ddc11638c27cefb25d48"
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "source": "<project>\\build\\release\\agsfnt5.ttf",
+      "before": null,
+      "after": "21ef6327699b46e9244afff5ae087578c79efde389be072bd5bdea931440b110"
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "source": "<project>\\build\\release\\agsfnt6.ttf",
+      "before": null,
+      "after": "ec8beb3093730f1be6c8aeec1fdadd56bf75f89752258b75751d2ecc369f7908"
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "source": "<project>\\build\\release\\agsfnt7.ttf",
+      "before": null,
+      "after": "1124f8aff1b40a2d7955e35d2f35f032880565e5fdc049ccdc20fca41fe2916c"
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "source": "<project>\\build\\release\\agsfnt3.ttf",
+      "before": null,
+      "after": "a32c775cdd8b73c482de95642e85c45c2527be666d3e929ee2cedda33c2d804b"
+    },
+    {
+      "name": "acsetup.cfg",
+      "source": null,
+      "before": "4a8f33a83c132646d7a2310cfad2183890554e94c77f738188ea2e66c4261639",
+      "after": "af88cf13fb27590d686278b8691211625d6184936fbbeb769cdc824060b1d53f"
+    }
+  ],
+  "user_visual_acceptance": "pending",
+  "saves_before": {
+    "agssave.001": "7f59a4583625eff799e1f34d03cf1604639cadb059c2db987349f996cf589a17",
+    "agssave.003": "e3f7539decc0bce1b56f61d530fd2ed7db7e291ec42a72db2e784344f5339bcf",
+    "agssave.004": "9c0b96923c56278fed0324c947db4a04c1b548ca5347c5e43b34a3750ffdfb4b",
+    "agssave.099": "a0c525885e6d24994a69832dda9b7ae0d0f8db76109df3c793cf01bad938ac58",
+    "agssave.999": "aff0956dfe2e03c29ad1553f5375a8a29d7f8336e3732463705fc87bc3f81d99",
+    "dsettings.ini": "95809e41331f1be1d35c123386e61b05669cf47508466df602ab2b0a5dda5414",
+    "dspeech.ini": "3ec7f6af40fbca188cbef2a34ef92f94aa9a12a04aae47ecdde4faf837494804",
+    "dspeed.ini": "c828cda03f7fb34d4c94a51697674eff9304b9631d74ff3b8f7da8f30a2a125c",
+    "sldmusic.ini": "4b7178ca738887010585d95441345f4a5d0bf40f26000cc0d549b518e0ecc436",
+    "sldsound.ini": "c828cda03f7fb34d4c94a51697674eff9304b9631d74ff3b8f7da8f30a2a125c",
+    "steam_autocloud.vdf": "4f6082de7708123c04445700c51614470040c116cb6b24cc65f36700e2dc0d79"
+  },
+  "personal_language_config_candidates": {
+    "<user-profile>\\Saved Games\\Technobabylon\\acsetup.cfg": null,
+    "<user-profile>\\AppData\\Local\\AGS\\Technobabylon\\acsetup.cfg": null,
+    "<user-profile>\\AppData\\Roaming\\AGS\\Technobabylon\\acsetup.cfg": null
+  }
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "5d7de6709efa9e12",
+    "source": "Bdrop",
+    "target": "背景层",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d43ea66839fd7b7",
+    "source": "Connection to Food Machine",
+    "target": "食品机连接",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a772e7894be03141",
+    "source": "Connection to Door Panel",
+    "target": "门锁面板连接",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "518a3b2192d9d797",
+    "source": "Malware",
+    "target": "恶意软件",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c36f50a1586ebc73",
+    "source": "&376 There's nothing like being in Trance.",
+    "target": "&376 没什么能比得上置身迷境。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4767880304d9d365",
+    "source": "&377 A world built of abstracts and intellect.",
+    "target": "&377 那是一个由抽象概念与智慧构筑的世界。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1fe48c727077cdfc",
+    "source": "&378 Of tangible thought, where every part has been crafted by an individual soul.",
+    "target": "&378 思想在那里有了形体，每一处都出自一个独特灵魂的创造。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3434a03a9a17cdab",
+    "source": "&379 It's the purest form of contact a person can have, mind to mind. It's the pinnacle of human achievement.",
+    "target": "&379 意识与意识直接相连，这是人与人最纯粹的接触，也是人类文明的巅峰。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7f9fa54e0fc6ec9b",
+    "source": "&380 Some might say that achievement in the physical world is somehow more meaningful.",
+    "target": "&380 有人也许会说，现实世界里的成就才更有意义。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d0c3c030c65f8c00",
+    "source": "&381 To them, I say - 'join the future, or be surpassed by it'.",
+    "target": "&381 我的回答是：“拥抱未来，否则就等着被未来甩在身后。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5c9341dfd253b52b",
+    "source": "&382 I don't see why anyone would choose the outside voluntarily.",
+    "target": "&382 我真不明白，为什么有人会主动选择外面的世界。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c52f5b09d722fa00",
+    "source": "&383 A world defined by barriers - whether material, or personal.",
+    "target": "&383 那里到处都是隔阂——物质的，或是人与人之间的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "978d15a286d5e86c",
+    "source": "&384 Within the Trance, we are millions of minds, as one.",
+    "target": "&384 在迷境里，我们数百万个意识融为一体。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68477b24f4a789ae",
+    "source": "&385 But even as far as we've come, there's still one serious flaw:",
+    "target": "&385 不过，发展到今天，它还是有个很严重的缺陷：",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6188958c88ed8a18",
+    "source": "&386 Its reliance on the 'real world' as its backbone.",
+    "target": "&386 它仍然得靠“现实世界”来支撑。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5cf1cba5b6eab719",
+    "source": "&589 ...and disconnections. Damn.",
+    "target": "&589 ……还会断线。该死。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43c51faa306cb900",
+    "source": "&590 Don't panic. I'll just go and speak to the building manager.",
+    "target": "&590 别慌。去找楼管说一声就行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a0143355eeb1585d",
+    "source": "&591 It's not like there's anything to be afraid of out there...",
+    "target": "&591 外面又没什么好怕的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "597404513c99c07f",
+    "source": "&592 Let's get this over with.",
+    "target": "&592 赶紧把这事解决吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b62b82affcc072d",
+    "source": "// Open Inventory:[// Move mouse to BOTTOM-RIGHT corner",
+    "target": "// 打开物品栏：[// 将鼠标移到右下角",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "97e790b4add23f7f",
+    "source": "NO CONNECTION FOUND",
+    "target": "未找到连接",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eeadccb613a60fc4",
+    "source": "Unable to access CHISHIKI server. Please check your network, and try again. If problem persists, contact your network administrator. [       <Error 125-H> [      ",
+    "target": "无法访问CHISHIKI服务器。请检查网络后重试。如问题仍未解决，请联系网络管理员。[       <错误125-H> [      ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "728138d2c3e41500",
+    "source": "=====[    ",
+    "target": "=====[    ",
+    "status": "preserve",
+    "reason": "未知对象符号/纯分隔线，不含可译词语，保留标点及原换行控制符。",
+    "review_notes": ""
+  },
+  {
+    "id": "c36f39a8463ccf56",
+    "source": "&297 The connection you made to the food machine through your wetware. Better see what it can do!",
+    "target": "&297 这是你通过湿件建立的食品机连接。看看它能做些什么吧！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b77b0aa493d55847",
+    "source": "&298 // Error[[/Unable to access T.H.E. Foods Interactive Personality[[/ Application is currently subject to intensive malware screening and is not currently operational[[/ Normal program functions will return upon sweep completion.[[// Sentinel systems thanks you for your cooperation //",
+    "target": "&298 // 错误[[/无法访问T.H.E.食品交互人格[[/应用正在接受深度恶意软件扫描，暂时无法运行[[/扫描结束后，程序将恢复正常功能。[[// SENTiNEL系统感谢您的配合 //",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1c7c0c888dde5087",
+    "source": "&299 This is the connection you made to the door's control panel through your wetware.",
+    "target": "&299 这是你通过湿件与门锁控制面板建立的连接。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aea4276a1e5f9dc5",
+    "source": "&300 // Error[[/Unable to access SENTiNEL systems defence suite[[/ Application is currently conducting malware purge on (T.H.E./AVATAR.CHEF)[[/ A full report of this sweep will be available upon completion.[[// Sentinel systems thanks you for your cooperation //",
+    "target": "&300 // 错误[[/无法访问SENTiNEL系统防护套件[[/应用正在清除（T.H.E./AVATAR.CHEF）中的恶意软件[[/清除结束后，将提供完整扫描报告。[[// SENTiNEL系统感谢您的配合 //",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab1d4facdc373a71",
+    "source": "&593 Ha - no. I'm not storing THAT in my brain.",
+    "target": "&593 哈，才不要。我可不把这玩意儿存进脑子里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b567b31895227092",
+    "source": "&594 Not unless I want to wake up in some factory in China in ten years.",
+    "target": "&594 除非我想在十年后醒来，发现自己躺在中国的某家工厂里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "34ea045eda679184",
+    "source": "&301 A badly-disguised virus package, designed to trick the gullible into opening it. It might steal info, force you into a botnet, or just wreck systems for the hell of it.",
+    "target": "&301 一个伪装得很拙劣的病毒包，专骗好糊弄的人打开。它可能窃取信息，把你变成僵尸网络的一员，或者纯粹为了好玩，把系统毁掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fd741d1871b99c48",
+    "source": "&302 Normally, you wouldn't even have come close to downloading it...",
+    "target": "&302 平时你根本不可能把这种东西下载下来……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "30d50258f5714a56",
+    "source": "// Copied SPEED.BOOST.IMAGE/EXEC to MEM/EXTERNAL",
+    "target": "// 已将SPEED.BOOST.IMAGE/EXEC复制到MEM/EXTERNAL",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c1f0fc49ef6af3f9",
+    "source": "&595 I don't think I can infect this.",
+    "target": "&595 这东西应该没法感染。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e751bb4848534924",
+    "source": "&596 It's all the mail I could buffer before the connection went down.",
+    "target": "&596 断线前只来得及缓存这些邮件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "703a211c5cec8b19",
+    "source": "&110 Hi there!",
+    "target": "&110 你好呀！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f404de60b85df835",
+    "source": "&597 Hey. You want this?",
+    "target": "&597 喂。你要这个吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83d5b021bcba715f",
+    "source": "&111 Ooohh, I'm sorry.",
+    "target": "&111 哎呀，真抱歉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e1a636119a3ea495",
+    "source": "&112 I'm afraid I can only receive updates from T.H.E. Foods home server!",
+    "target": "&112 我只能接收T.H.E.食品官方服务器的更新！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3b2e7fbcfdac6a3f",
+    "source": "&598 Do you take new data any other way?",
+    "target": "&598 就没别的办法给你导入数据？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b90b69c5613c97d7",
+    "source": "&113 If you want to use new recipes, there's always memory cartridges!",
+    "target": "&113 想用新食谱的话，可以试试记忆卡匣呀！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "369cfdd785f0a28e",
+    "source": "&114 Just load it into your T.H.E. Foods unit, and away we go!",
+    "target": "&114 把卡匣插进T.H.E.食品机，我们就能开工啦！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "181f56172feb434a",
+    "source": "&599 Sounds simple enough.",
+    "target": "&599 听着倒挺简单。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9369f2ce7a87b42",
+    "source": "&115 'Idiot-proof meals' - that's our motto!",
+    "target": "&115 “傻瓜也能做饭”——这就是我们的口号！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eef6f1bd56b8c1fb",
+    "source": "&600 I...hey!",
+    "target": "&600 我……喂！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b147f7b2e21e92fc",
+    "source": "&116 Bye now!",
+    "target": "&116 再见啦！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0e00e321c1556577",
+    "source": "&117 !revres emoh sdooF .E.H.T morf setadpu eviecer ylno nac I diarfa m'I",
+    "target": "&117 ！新更的器务服主品食.E.H.T收接能只我，歉抱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e11773e965772459",
+    "source": "&118 Idiot-proof meals! Idiot-proof meals! Idiot-proof meals!",
+    "target": "&118 傻瓜也能做饭！傻瓜也能做饭！傻瓜也能做饭！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8f4fab5be181ca2",
+    "source": "&601 It'd probably wipe it clean as soon as it saw what was inside.",
+    "target": "&601 它一看到里面装的东西，估计就会把它清空。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9350ba01f173cf66",
+    "source": "&602 I've got to find something useful to do with it...",
+    "target": "&602 得想办法让这东西派上用场……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bbf94db881b9b291",
+    "source": "&603 It's way too big to copy on to a memory block.",
+    "target": "&603 太大了，记忆块根本装不下。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

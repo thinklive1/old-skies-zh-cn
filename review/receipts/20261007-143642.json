@@ -1,0 +1,142 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "对照检出的每一项原文与译文，统一食品机、人格程序、CI意识状态拆分器、魔典调查事务所与纳奎因镇静剂；中枢与人类的一般性格表述不机械替换。",
+  "source_batches": [
+    "0177-final-terminology-consistency.json"
+  ],
+  "entries": [
+    {
+      "id": "0b2dc6c9d2508352",
+      "sha256": "adacf47eba9289d79ab651c36bf61e193fedfd0dd274e65c2154c1f8e118f317"
+    },
+    {
+      "id": "144713706be0013a",
+      "sha256": "0a508a144cb29aab2dad5063a05482e9c410b743540c6e340faf1ec8a2af7e2c"
+    },
+    {
+      "id": "18cdef70d1682f4a",
+      "sha256": "0e38a916f2bb2264e0b666e0a9c5392d531ccc6016f150c17f939d9ea20cd58f"
+    },
+    {
+      "id": "19e5f7cf66ac68e3",
+      "sha256": "08e15997a00c5801c655f0bbf100340af871024e42d5ebb2dadbeb6e3848518d"
+    },
+    {
+      "id": "1b668b2b5a794944",
+      "sha256": "0fdb0319b499c61e81150e176fa9564e21eb6135b0b8c6a871b7e45c070f321d"
+    },
+    {
+      "id": "2c58ae51ce0dab7a",
+      "sha256": "5843804675209860864fbeef23a46b3c6e572b1a8cbce1d21114c4580f6d6718"
+    },
+    {
+      "id": "2e6699180dde39e4",
+      "sha256": "3fb9f4382f7e42de3452b8e9876fe6e8d12d47f4f4dd42af093cc916199da389"
+    },
+    {
+      "id": "2fdbf3cd397d144e",
+      "sha256": "9f651d55833707aa15136a1295451dd330a5a0b464528e6035d361a3962f266d"
+    },
+    {
+      "id": "300a6baba24ba4ae",
+      "sha256": "78f8b9c8df8ec557f83d66dfd2ca82f1ddebfcfde9a730597dc4a599573cd9cd"
+    },
+    {
+      "id": "31b3b33dc8ade34c",
+      "sha256": "feb1f8fe9992eedc919b99f514c8ad7a838742c76d3b47fb7ac6240ed2666cb4"
+    },
+    {
+      "id": "3fc933ade2bbc30b",
+      "sha256": "8c6874f0091df1144a614f6a92a2e0ce543ab79026f5874544ff3842890c78e5"
+    },
+    {
+      "id": "49630bda7d3bd634",
+      "sha256": "bf1d20537740b8c49810f0d717096f58be81ca4fb3735467323999d274f74b72"
+    },
+    {
+      "id": "51b21cbfa655d982",
+      "sha256": "32d9520eba3a2ecb4f4a588c8a6825cc6c6afa960675b83dae1ae6df11514b9d"
+    },
+    {
+      "id": "59004dc23016ede5",
+      "sha256": "baba758b9976bafcbd0ca4b0f090347b264f8dfb5d763b9ac80829854ef5af99"
+    },
+    {
+      "id": "5c1c5261fdc46363",
+      "sha256": "2f1171fcfa69c3d0b09a2f63982ed1db17eaa5e69601490a3860ce4dd003e967"
+    },
+    {
+      "id": "5dcc2f9998bb24a8",
+      "sha256": "05b5bb0b13d2e765d9dfef4191211ddee949c13fe270c835312c6df29082d22d"
+    },
+    {
+      "id": "723e6ab2efdfdf57",
+      "sha256": "21c35bccd336f3a40520004ccdb819defa1f79daffa506e40cc413320764cf96"
+    },
+    {
+      "id": "73ef0fb085a78f36",
+      "sha256": "47636bb31af3f9b308e37da86ebc2575d227b77439f424ace7be3f095d96910e"
+    },
+    {
+      "id": "80b3a456cea3d5b0",
+      "sha256": "991e4b83c5dd473c5f471130808efaf922a5267c4b6c714fe1fcb67f17b82a6e"
+    },
+    {
+      "id": "8eefc95d92b26bc8",
+      "sha256": "cbb4b098f9b553c588ea911ce8edf2df58aca7903a8bd2793a96aaa4a75230c1"
+    },
+    {
+      "id": "a115d6fd85e38067",
+      "sha256": "5f2b1fac884282b6235b558d78d311ebedf3a922bf027a5faad9deae17dae3e2"
+    },
+    {
+      "id": "b4c287c18272d1b7",
+      "sha256": "d8be58f005ef87862d4c94da6b67c9f035020473d1921b3e2aadfe1c87fd0af4"
+    },
+    {
+      "id": "b72746c71a6edc71",
+      "sha256": "28d2bdbf9511d22f9f081ef781f831af92e0ebcd164fa89d1e2cc6bd67e6a6b4"
+    },
+    {
+      "id": "c108709477ef9e64",
+      "sha256": "d4fdd5b8e1e41bf6bf2ca356d5063ad69c18ef37e08f3acb4fabddae1b216ded"
+    },
+    {
+      "id": "d4b0d1925db900a1",
+      "sha256": "e6f75e96ef51db514da0fa8613c2e01b5aee8b8c4d3e1bc19571f15fcc9102e3"
+    },
+    {
+      "id": "d86ae443828a0dc0",
+      "sha256": "be27eaced8d4d8824084ae113366c5f6a701f2d03d98a445c15e84b28ac33d23"
+    },
+    {
+      "id": "dae647849978f767",
+      "sha256": "860197cc4a95df41ed297cf41d14391e056c95b57c71e92eee85a5b1d8f41313"
+    },
+    {
+      "id": "e845e30f09d8a45b",
+      "sha256": "ed9408b6e6e4bbebc49be9cff6c648acdf09ce1305087db019555150e994676c"
+    },
+    {
+      "id": "eae5fe6a3daefdd7",
+      "sha256": "e4983a3d88f8579e864dc1ee1241b3a762b3d94ccce49c2dfc93f9a148429a48"
+    },
+    {
+      "id": "f0a25a39bb598517",
+      "sha256": "83061aa0dc7a11ebf68e29a161769e10090fc8b83376934e0efd76b02688637e"
+    },
+    {
+      "id": "f61b87604e8f9137",
+      "sha256": "46e706fb5af4403d5e34717c089ee6213efcb875245b254ea42af886dd81a55f"
+    },
+    {
+      "id": "faf634c4b8354b86",
+      "sha256": "3c64896a97ba0ec7f6ad3ceb3e7c01a0baebc681a2d39644109a114168bcce97"
+    },
+    {
+      "id": "ff86a0c15ce8cf27",
+      "sha256": "0dcd041003f9a717a285d0b99dd8f6721990e0968dc2dbd0c26ed6ce06794648"
+    }
+  ]
+}

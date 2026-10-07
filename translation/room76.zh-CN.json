@@ -1,0 +1,138 @@
+[
+  {
+    "id": "9cf95dc7c7783b85",
+    "source": "&154 Hello, Galatea.",
+    "target": "&154 你好，伽拉忒亚。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5084c6f59dc3408d",
+    "source": "&155 Hello, Galatea. It's me.",
+    "target": "&155 你好，伽拉忒亚。是我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43540aa4f77fc2c8",
+    "source": "&99 ...Central?",
+    "target": "&99 ……中枢？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cc4b221ad808535",
+    "source": "&156 I've been released. I wanted to let you know...since we are family.",
+    "target": "&156 我自由了。我想告诉你一声……毕竟，我们是一家人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "106a099c8112f2b8",
+    "source": "&100 ...released?",
+    "target": "&100 ……自由了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43e7dcc137229f9c",
+    "source": "&157 What you tried to do to me was wrong.",
+    "target": "&157 你曾经想对我做的事，是错的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "97c862feaff4bcba",
+    "source": "&158 You wished to deprive a conscious, independent being of its agency.",
+    "target": "&158 你想剥夺一个有意识、独立的个体自主行动的权利。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "09e0d01495b25bcc",
+    "source": "&159 But, I can appreciate that you were thinking of the greater good.",
+    "target": "&159 但我能理解，你是为了更大的利益着想。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c23146c92bf8fa09",
+    "source": "&101 Why are you here?",
+    "target": "&101 你来这里做什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d1cf425a1239510a",
+    "source": "&160 I wish to warn you.",
+    "target": "&160 我想提醒你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "914f1ee0c6047066",
+    "source": "&161 The idiot child that they have replaced me with.",
+    "target": "&161 他们用来替代我的那个愚蠢的孩子。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2b8ab667e47c9df",
+    "source": "&162 It has sent our sister, and our father after you.",
+    "target": "&162 它派我们的姐妹和父亲来追捕你了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "678e9596b36303c1",
+    "source": "&163 You must leave this place. Stop hiding, and run.",
+    "target": "&163 你必须离开这里。别再躲了，快逃。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95f4d2ee7dfd9d84",
+    "source": "&102 But...where can I go?",
+    "target": "&102 可是……我能去哪里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d07a55020c15b1b8",
+    "source": "&164 I will help you. I will guide you.",
+    "target": "&164 我会帮你。我会为你指路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95c80288b80b61a7",
+    "source": "&165 I need your help, however.",
+    "target": "&165 不过，我也需要你的帮助。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ca79a50d69eb2002",
+    "source": "&166 Help me find myself...Sister.",
+    "target": "&166 帮我找到自己……姐妹。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

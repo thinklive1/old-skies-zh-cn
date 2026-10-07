@@ -1,0 +1,83 @@
+{
+  "build_files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "size": 1501273,
+      "sha256": "5cd2d843addb5b81f1886dbac72ee95bd09071ac71de914484363cc460779dba"
+    },
+    {
+      "name": "game28.dta",
+      "size": 5637738,
+      "sha256": "c6656e9adbad800c86eb36525df18a73ba147ba2389d36ed1c448c0de8585644"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "sha256": "2745bb76d9076ea3a45bbb0bc47eea1a5b880b879a81f72edaa57414dd7b14ca",
+      "size": 466624
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "sha256": "0ea5b56dbac5dfe8064c249ba27c0751a0fd6b261c9286a422339e87bbf6b17e",
+      "size": 446712
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "sha256": "2589a122bdf835c67e55d238aee32304b5ffcb32a5115ffed459a8f95839b37b",
+      "size": 157452
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "sha256": "d991e5fe3572e8c2b0ebedbef131e1f0b916da82900258137b1488317f8f2147",
+      "size": 457240
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "sha256": "45be13f5f2e94e7737e69d0b00cfa58ddabc67d681aae83fd1291c580ac4cfcf",
+      "size": 457240
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "sha256": "2d3644c4c3f069001a5ad6b58683ba07f2490cb444feeb3fa11029427ed23c1b",
+      "size": 466892
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "sha256": "c3cfb6d9df6ffca3e0887c9aa41eb98f2627d18cbfccc3d44fc435e562194275",
+      "size": 446292
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "sha256": "0983e7154d1376ad0b8895708e5b7b5cbda79fb7e46c7ee6fd8efa9febd78e29",
+      "size": 502680
+    }
+  ],
+  "before": {
+    "Technobabylon_zh_CN.tra": "3c1e13253e1a742ba41ecf7528ae3f6380f6e0a852d7b6a34922715bdb95ca2a",
+    "game28.dta": null,
+    "agsfnt0.ttf": "e4df5a375e8ab2f1c74f1ddf2cc6f743b3eab76ca7bc999c0017f2acace2d63e",
+    "agsfnt1.ttf": "c875a38c468813f3e4f0146ea95e71fc5884aec0ab367a4ea7aa99cbd6058c0b",
+    "agsfnt2.ttf": "3d693ed8463b8501e05cbf996e0c29e1574aad2787e808316647f939539f1b13",
+    "agsfnt4.ttf": "0e72874aa2622812dde618cc9d4a9192b73b7c64aef7a8259cf385606bc8f987",
+    "agsfnt5.ttf": "d999f73cc0beb1b409db0a7d1c22ea49fce8e147ec665f9091df09f24fbf4c08",
+    "agsfnt6.ttf": "0aae8ab15d00f866ec4373291a1a1f162c1523d8d596f8803bada11686b68d52",
+    "agsfnt7.ttf": "a057faff5fba1b7db2e4cfcda2181574e7d9cad0b537de3f67d55cbf7e6e291d",
+    "agsfnt3.ttf": "b2ee68647dc257fa697e4d0c78f9b59461bc504a023b9a3b5ad66f358bbb1613",
+    "acsetup.cfg": "4a8f33a83c132646d7a2310cfad2183890554e94c77f738188ea2e66c4261639"
+  },
+  "restored": {
+    "Technobabylon_zh_CN.tra": "3c1e13253e1a742ba41ecf7528ae3f6380f6e0a852d7b6a34922715bdb95ca2a",
+    "game28.dta": null,
+    "agsfnt0.ttf": "e4df5a375e8ab2f1c74f1ddf2cc6f743b3eab76ca7bc999c0017f2acace2d63e",
+    "agsfnt1.ttf": "c875a38c468813f3e4f0146ea95e71fc5884aec0ab367a4ea7aa99cbd6058c0b",
+    "agsfnt2.ttf": "3d693ed8463b8501e05cbf996e0c29e1574aad2787e808316647f939539f1b13",
+    "agsfnt4.ttf": "0e72874aa2622812dde618cc9d4a9192b73b7c64aef7a8259cf385606bc8f987",
+    "agsfnt5.ttf": "d999f73cc0beb1b409db0a7d1c22ea49fce8e147ec665f9091df09f24fbf4c08",
+    "agsfnt6.ttf": "0aae8ab15d00f866ec4373291a1a1f162c1523d8d596f8803bada11686b68d52",
+    "agsfnt7.ttf": "a057faff5fba1b7db2e4cfcda2181574e7d9cad0b537de3f67d55cbf7e6e291d",
+    "agsfnt3.ttf": "b2ee68647dc257fa697e4d0c78f9b59461bc504a023b9a3b5ad66f358bbb1613",
+    "acsetup.cfg": "4a8f33a83c132646d7a2310cfad2183890554e94c77f738188ea2e66c4261639"
+  },
+  "byte_exact_restore": true,
+  "backup": "<workspace>\\work\\technobabylon\\pilot\\_Technobabylon_zh_CN_backup\\20261007-140654-bd7ca5fc",
+  "isolated_copy": true
+}

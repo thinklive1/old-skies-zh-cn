@@ -1,0 +1,258 @@
+[
+  {
+    "id": "eeba3be975e7f9ab",
+    "source": "Interface Chair",
+    "target": "接口座椅",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "40c86c544ccce650",
+    "source": "Neural Processors",
+    "target": "神经处理器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a47fdf6415fc436e",
+    "source": "Helmet",
+    "target": "头盔",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f46d5ecf51ea510d",
+    "source": "Green Globe",
+    "target": "绿色球体",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d389146f2083f053",
+    "source": "&1720 My God...they actually did it...",
+    "target": "&1720 天哪……他们真的做成了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "da9c7fb2af34aecd",
+    "source": "&1262 Wow...talk about organic computing...",
+    "target": "&1262 哇……这才叫有机计算……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3c22d2379117635d",
+    "source": "&602 Whoa...what is this stuff?",
+    "target": "&602 哇……这是什么东西？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "496bb5b0b36f4c0e",
+    "source": "&657 You wonder whether you should have stopped her.",
+    "target": "&657 你不禁想，是否应该阻止她。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95c438fe85a0826d",
+    "source": "&2029 I'm not certain, but based on its connections to the organic circuitry, it's probably an interface system.",
+    "target": "&2029 不确定，不过看它跟有机电路的连接，应该是某种接口系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "906dc308d96559a6",
+    "source": "&1496 I'm hesitant to guess, since I've only heard of them academically, but this looks like a neural interfacing terminal.",
+    "target": "&1496 只在学术资料里听说过，不敢贸然猜。但看起来，这是神经接入终端。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea6ef14a529da409",
+    "source": "&1497 The kind used before everyone was wired, anyway.",
+    "target": "&1497 至少，是大家还没装神经接口之前用的那种。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d1f979ade9f5d18",
+    "source": "&725 Hey, I know what this is, they used these for connecting to the Trance in the old days.",
+    "target": "&725 嘿，我知道这个。以前，人们用它接入迷境。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ff590913689d2e0",
+    "source": "&726 Man, life before wetware neural-wiring must have been hard.",
+    "target": "&726 没有湿件神经接口的年代，生活可真不容易。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21d075e62aef3f47",
+    "source": "&1721 No way in Hell am I getting in that thing...",
+    "target": "&1721 打死我，也不会进那东西……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3709db9e02d12ddb",
+    "source": "&1263 I'd want to run a diagnostic before trying that.",
+    "target": "&1263 试之前，我得先做诊断。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12a137aa37e34abc",
+    "source": "&603 Whoa...",
+    "target": "&603 哇……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2870aca4e4db4e32",
+    "source": "&661 Though the room is full of these globes of neural tissue, this one looks sicklier than the others.",
+    "target": "&661 房间里全是神经组织球体，可这个比其他的显得更病弱。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b9553a77354847cf",
+    "source": "&662 Without its globe, all that remains is a withered stalk.",
+    "target": "&662 没了球体，只剩一根枯萎的茎。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b1ca6a0cb27ccd03",
+    "source": "&663 Filling a space of about a cubic metre, you realize you'd never be able to carry this sac. The fluid inside must weigh about a metric ton.",
+    "target": "&663 这个囊袋占了大约一立方米的空间，你知道，自己不可能带走。里面的液体，大概就重一吨。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a2f3a3dc2217d802",
+    "source": "&665 The sphere's contents leak into the innards of the network, leaving only its empty skin.",
+    "target": "&665 球体里的东西流入网络内部，只留下空皮囊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "943727d9c73ba102",
+    "source": "&666 The power to the security's already been disabled. Better not mess with it any more.",
+    "target": "&666 安保电源已经切断，最好别再乱动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "385e81e9c7894d45",
+    "source": "&140 Power conduit Alpha: Temporary shutdown.",
+    "target": "&140 Alpha供电线路：暂时关闭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6ab3f65fb2921f8a",
+    "source": "&43 Power conduit Alpha: Temporary shutdown.",
+    "target": "&43 Alpha供电线路：暂时关闭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "61b93d4dfd4ebbd3",
+    "source": "&736 According to the readout on the screens, the organic systems are running within tolerances.",
+    "target": "&736 屏幕读数显示，有机系统正在容许范围内运行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed5342b4bcadec8c",
+    "source": "&737 The screens won't control anything - they're just data-readouts.",
+    "target": "&737 这些屏幕不能控制任何东西，只是读数显示。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fbe6d8fd20f6dcf7",
+    "source": "&2030 I ran tests on the prototypes for this stuff in the lab...I never thought they'd make so much of it...",
+    "target": "&2030 我在实验室测试过这些东西的原型……没想到，他们会造出这么多……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "725e9060a3331344",
+    "source": "&1498 The organic component of Central's mind.",
+    "target": "&1498 中枢心智的有机部分。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "00021af96cb3be84",
+    "source": "&1499 I wonder if Regis has realized that this...matter...probably shares a lot of DNA with him.",
+    "target": "&1499 不知道里吉斯有没有意识到，这些……组织……可能跟他共享着大量DNA。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cdce14ed436ec1a7",
+    "source": "&727 What *is* this stuff? It sure isn't wetware...",
+    "target": "&727 这*到底*是什么？肯定不是湿件……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95e0f524b9fbb7af",
+    "source": "&2031 I've had enough of this stuff.",
+    "target": "&2031 这种东西，我已经受够了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2843d12deb2665f3",
+    "source": "&1500 I'd have no idea where to begin. Biologicals are Regis' thing.",
+    "target": "&1500 完全不知道该从哪里下手。生物的部分，是里吉斯的领域。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e08f742b1b087a63",
+    "source": "&728 This stuff's probably got amazing processing power, but they're not going to let me take it as a souvenir.",
+    "target": "&728 处理能力肯定惊人，不过他们不会让我带回去当纪念品。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

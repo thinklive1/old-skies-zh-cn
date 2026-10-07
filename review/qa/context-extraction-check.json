@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-10-07T06:46:51.153056+00:00",
+  "passed": true,
+  "method": "Independent AGSUnpacker/Extractor.cs re-extraction",
+  "original_raw_sha256": "891605ec3010bd76424542ee753c0a9dba126364ecbc7bf8225da063eec543bc",
+  "patched_raw_sha256": "a3b2d7f74ba2a82a485d6737b2c9b4619f9f8fd5e44affa7e8c1ba943d650f72",
+  "metadata_unchanged": true,
+  "references": 20207,
+  "supplemental_wrapper_references": [
+    {
+      "source": "FROM:",
+      "asset": "game28.dta",
+      "kind": "module-script",
+      "index": 5335,
+      "script": "Scrollers.asc"
+    },
+    {
+      "source": "RECEIVED:",
+      "asset": "game28.dta",
+      "kind": "module-script",
+      "index": 5396,
+      "script": "Scrollers.asc"
+    },
+    {
+      "source": "SUBJECT:",
+      "asset": "game28.dta",
+      "kind": "module-script",
+      "index": 5457,
+      "script": "Scrollers.asc"
+    },
+    {
+      "source": "--------------------",
+      "asset": "game28.dta",
+      "kind": "module-script",
+      "index": 5518,
+      "script": "Scrollers.asc"
+    }
+  ],
+  "runtime_references": 20211,
+  "original_unique_keys": 13118,
+  "runtime_unique_keys": 13120,
+  "changed_references": [
+    {
+      "source": "&869 Gynoid!",
+      "asset": "game28.dta",
+      "kind": "dialog-script",
+      "index": 374818,
+      "script": "Dialog 71",
+      "runtime_key": "&869 Gynoid."
+    },
+    {
+      "source": "&870 If they look like a woman, they're a gynoid, not an android.",
+      "asset": "game28.dta",
+      "kind": "dialog-script",
+      "index": 374898,
+      "script": "Dialog 71",
+      "runtime_key": "&870 If they look like a woman, they're a gynoid, not an android!"
+    }
+  ],
+  "commentary_and_all_other_references_unchanged": true,
+  "visual_game_verified": false
+}

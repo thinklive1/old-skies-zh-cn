@@ -1,0 +1,178 @@
+[
+  {
+    "id": "12a64c5b43be3b92",
+    "source": "Downstairs",
+    "target": "楼下",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "475164973eee326c",
+    "source": "Cooler",
+    "target": "冷藏柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "998e41b432f4d199",
+    "source": "Bodyguard",
+    "target": "保镖",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7553ed053f2bf374",
+    "source": "&107 Ah, Dr Regis - might I have a word in private?",
+    "target": "&107 啊，里吉斯博士。能借一步说话吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b3ad0ae57a19dd6b",
+    "source": "PART8",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "9f17b73fdb69340c",
+    "source": "Waiter?",
+    "target": "服务员？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a75282c51aa7e906",
+    "source": "&557 You wonder if this counts as a corpse. Being a machine, he wasn't technically alive to begin with.",
+    "target": "&557 你不确定，这能不能算尸体。毕竟是机器，严格说，一开始也没活过。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fcf3060bd1979a32",
+    "source": "&558 A chiller lined with wine bottles stands by the window.",
+    "target": "&558 窗边的冷藏柜里，摆满了葡萄酒瓶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f80a417a24945c4",
+    "source": "&559 The cabinet is locked, likely to prevent guests simply helping themselves.",
+    "target": "&559 柜子锁着，大概是为了不让客人随便自取。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ab1d48846734265",
+    "source": "&561 The bottles in the cooler are no more than a mess of glass shards and spilled liquor.",
+    "target": "&561 冷藏柜里的酒瓶，如今只剩碎玻璃和洒出来的酒。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "82915cee36fb6ead",
+    "source": "&702 Though obscured by his dark glasses, you can tell that the guard is staring right through you. Apparently, conversation is not his priority.",
+    "target": "&702 虽然他戴着墨镜，但你知道，守卫正盯着你。看来，他并不打算聊天。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d18f67b358b88d80",
+    "source": "&703 While this synth is no doubt carrying a splittable personality, deactivating a guard where all can see may alarm the other guests.",
+    "target": "&703 这个合成人无疑有可以分离的人格，可当着所有人的面停用守卫，可能会惊动其他宾客。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e6d518c1ad9cf8a7",
+    "source": "&578 It might be presumptuous to be the first to sit down for dinner.",
+    "target": "&578 第一个坐下来等开饭，也许显得有些冒失。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7a2d5b731a86c8a",
+    "source": "&583 You're unsure if you could actually move the table. The fact that you managed to tip it was likely the work of adrenaline.",
+    "target": "&583 你不确定，自己究竟能不能挪动这张桌子。刚才能把它掀翻，多半是肾上腺素起了作用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "861e9b36790529e1",
+    "source": "&602 It looks like the waiters are in the process of setting up aperitifs.",
+    "target": "&602 看来，服务员正在准备开胃酒。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1086e0100460304",
+    "source": "&2012 This isn't the first time a table's saved my life.",
+    "target": "&2012 桌子救我的命，已经不是第一次了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "691d6838cbfff312",
+    "source": "&2013 Nothing on it I can use, and I'm not exactly equipped to repair synthetics.",
+    "target": "&2013 上面没东西能用，我也没带修合成人的设备。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dbe262eb2212e4e3",
+    "source": "&2014 It's too badly damaged to get anything useful out of it.",
+    "target": "&2014 损坏得太严重了，提不出有用的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "71615da87737f395",
+    "source": "&603 The guards' uniform appearance serves to heighten their intimidating nature.",
+    "target": "&603 守卫的外貌整齐划一，让他们显得更加吓人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d8ba54ef86a3a734",
+    "source": "&658 You can't find anything on her body that isn't an item of fashion.",
+    "target": "&658 她身上除了时尚用品，你找不到别的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93a969beab7c4d01",
+    "source": "&659 The blast has apparently spared her expensively-engineered beauty, though not her life. You wonder if this detail might have been of some comfort to her.",
+    "target": "&659 爆炸夺走了她的命，却没有破坏她花大价钱改造出的美貌。不知道，这一点是否能给她些许安慰。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ce62310866946a95",
+    "source": "&660 You swab the paper across a wound, taking a sample of her blood.",
+    "target": "&660 你用纸巾擦过伤口，取下一份血液样本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

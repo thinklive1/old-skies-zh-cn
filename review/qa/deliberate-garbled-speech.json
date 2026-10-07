@@ -1,0 +1,9 @@
+{
+  "batch": "0148-technoscript-reactions-call-recording.json",
+  "reason": "The source itself deliberately presents random, nonsensical and broken sentences in TechnoScript voice IDs111-141. Chinese preserves non sequiturs and broken grammar; do not normalize into coherent plot or treat these as ordinary natural dialogue.",
+  "source_voice_range": "&111 through &141",
+  "examples": [
+    "&126 12-year-old question: John goal anyone? I said John goal.",
+    "&129 Is a person of the worst living as a survival, pull the battle of long-term stay birds in their roots."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-10-07T01:25:35.976665+00:00",
+  "expected_refusal_verified": true,
+  "exit_code": 1,
+  "untranslated": 5483,
+  "unreviewed": 943,
+  "reason": "全文初译、二轮校对与最终发行门槛仍未完成",
+  "output": "Traceback (most recent call last):\n  File \"<project>\\tools\\build.py\", line 41, in <module>\n    ap=argparse.ArgumentParser();ap.add_argument('--development',action='store_true');build(ap.parse_args().development)\n                                                                                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<project>\\tools\\build.py\", line 21, in build\n    raise ValueError(f'Release blocked: {counts[\"untranslated\"]} untranslated, {counts[\"translated\"]} unreviewed')\nValueError: Release blocked: 5483 untranslated, 943 unreviewed\n"
+}

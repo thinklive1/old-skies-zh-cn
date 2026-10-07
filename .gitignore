@@ -1,0 +1,9 @@
+build/
+dist/
+release/
+vendor/AGSUnpacker/**/bin/
+vendor/AGSUnpacker/**/obj/
+work/
+__pycache__/
+*.pyc
+_backup/

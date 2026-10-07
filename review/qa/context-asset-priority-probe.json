@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-10-06T17:04:00.161652+00:00",
+  "isolated_copy": true,
+  "exe_unchanged": true,
+  "game_data_restored": true,
+  "changed_bytes": [
+    3498727,
+    3498803
+  ],
+  "asset_size": 5636828,
+  "phases": [
+    {
+      "phase": "invalid-header",
+      "alive": false,
+      "exit_code": 0,
+      "data_sha256": "64532f868bfe8e61bab4a0ccbcf83aa19d99c1606a5bb2efefc292c4615d15bb",
+      "log_path": "<workspace>\\work\\technobabylon\\pilot\\context-probe-invalid-header-d0a47e8c\\logs\\ags.log",
+      "engine_started": false,
+      "room_entered": false,
+      "signature_error": true,
+      "log_tail": "all exit handler\nInitialize path finder library\nLoading game failed with error:\nNot an AGS main game file or unsupported format..\n\nThe game files may be incomplete, corrupt or from unsupported version of AGS.\nQuitting the game...\n***** ENGINE HAS SHUTDOWN\n\n\nAdventure Game Studio v3.6 Interpreter\nCopyright (c) 1999-2011 Chris Jones and 2011-2026 others\nEngine version 3.6.1.35, 32-bit LE\n\nInstalling exception handler\nInitializing backend libs\nSDL Version: 2.28.5\nInitializing game data\nLooking for the game data.\n Cwd: <workspace>/work/technobabylon/pilot\n Path arg: \nFound game data embedded in executable\nLocated game data pak: <workspace>/work/technobabylon/pilot/Technobabylon.exe\nOpened game data file: game28.dta\nGame data version: 3060114\nCompiled with: 3.6.1.35\nStartup directory: <workspace>/work/technobabylon/pilot/\nData directory: <workspace>/work/technobabylon/pilot/\nSetting up game configuration\nUser config directory: <workspace>/work/technobabylon/pilot/.\nUser data directory: <workspace>\\work\\technobabylon\\pilot\\context-probe-invalid-header-d0a47e8c\\userdata\nShared data directory: <workspace>\\work\\technobabylon\\pilot\\context-probe-invalid-header-d0a47e8c\\shared\nVoice pack found: speech.vox\naudio.vox found and initialized.\nInitializing TTF renderer\nInitializing mouse: number of buttons reported is 3\nInitializing audio\nRequested audio driver: dummy\nAudio driver: dummy\nAudioCore: opened device \"Default OpenAL playback device\"\nSupported sound decoders:\n - Play modules through ModPlug : 669,AMF,AMS,DBM,DMF,DSM,FAR,GDM,IT,MDL,MED,MOD,MT2,MTM,OKT,PTM,PSM,S3M,STM,ULT,UMX,XM,\n - MPEG-1 Audio Layer I-III : MP3,MP2,MP1,\n - Microsoft WAVE audio format : WAV,\n - Audio Interchange File Format : AIFF,AIF,\n - Sun/NeXT audio file format : AU,\n - Ogg Vorbis audio : OGG,\n - Creative Labs Voice format : VOC,\n - Raw audio : RAW,\n - Shorten-compressed audio data : SHN,\n - Free Lossless Audio Codec : FLAC,FLA,\nSound cache set: 32768 KB\nInstall exit handler\nInitialize path finder library\nLoad game data\nLoading game failed with error:\nNot an AGS main game file or unsupported format..\n\nThe game files may be incomplete, corrupt or from unsupported version of AGS.\nQuitting the game...\n***** ENGINE HAS SHUTDOWN\n"
+    },
+    {
+      "phase": "valid-two-byte-key-patch",
+      "alive": true,
+      "exit_code": 1,
+      "data_sha256": "3f5495d139e6ce5d4bdf869ca23c1954aa75bf39bd4a28d82f63457014c98820",
+      "log_path": "<workspace>\\work\\technobabylon\\pilot\\context-probe-valid-two-byte-key-patch-1b01404c\\logs\\ags.log",
+      "engine_started": true,
+      "room_entered": true,
+      "signature_error": false,
+      "log_tail": "nsition-out in room -10\nGame : (room:-10) Loading room 2\nGame : (room:2) Mouse bounds constrained to (0,0)-(639,399)\nGame : (room:2) Cursor mode set to 1\nGame : (room:2) Room camera released back to engine control\nGame : (room:2) Now in room 2\nGame.SetAudioTypeVolume: type: 3, volume: 100, change: all\nGame.SetAudioTypeVolume: type: 2, volume: 50, change: all\nGame : (room:2)[G 477] FileOpen: request: $SAVEGAMEDIR$/dsettings.ini, mode: rb\nGame : (room:2)[G 477] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/dsettings.ini\n\ttried: <workspace>/work/technobabylon/pilot/context-probe-valid-two-byte-key-patch-1b01404c/userdata/./dsettings.ini\n\talt try: \nGame : (room:2)[G 524] FileOpen: request: $SAVEGAMEDIR$/dspeech.ini, mode: rb\nGame : (room:2)[G 524] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/dspeech.ini\n\ttried: <workspace>/work/technobabylon/pilot/context-probe-valid-two-byte-key-patch-1b01404c/userdata/./dspeech.ini\n\talt try: \nGame : (room:2)[G 533] FileOpen: request: $SAVEGAMEDIR$/dspeed.ini, mode: rb\nGame : (room:2)[G 533] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/dspeed.ini\n\ttried: <workspace>/work/technobabylon/pilot/context-probe-valid-two-byte-key-patch-1b01404c/userdata/./dspeed.ini\n\talt try: \nGame : (room:2)[G 542] FileOpen: request: $SAVEGAMEDIR$/sldsound.ini, mode: rb\nGame : (room:2)[G 542] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/sldsound.ini\n\ttried: <workspace>/work/technobabylon/pilot/context-probe-valid-two-byte-key-patch-1b01404c/userdata/./sldsound.ini\n\talt try: \nGame : (room:2)[G 552] FileOpen: request: $SAVEGAMEDIR$/sldmusic.ini, mode: rb\nGame : (room:2)[G 552] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/sldmusic.ini\n\ttried: <workspace>/work/technobabylon/pilot/context-probe-valid-two-byte-key-patch-1b01404c/userdata/./sldmusic.ini\n\talt try: \nGame : (room:2)[R 72] Cursor mode set to 6\nGame : (room:2) Transition-in in room 2\nGame : (room:2)[? 161] Object 11 turned on\nGame : (room:2)[? 167] Object 11 turned off\nGame : (room:2)[? 167] Object 11 stop moving\nGame : (room:2)[R 17] Obj 12 start anim view 10 loop 2, speed 1, repeat 1, frame 0\nGame : (room:2)[? 161] Object 12 turned on\nGame : (room:2)[? 167] Object 12 turned off\nGame : (room:2)[? 167] Object 12 stop moving\n"
+    }
+  ],
+  "external_main_data_priority_verified": true,
+  "visual_game_verified": false,
+  "gameplay_strings_not_exercised": true
+}

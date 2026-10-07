@@ -1,0 +1,79 @@
+{
+  "id": "TB-L10N-001",
+  "status": "resolved",
+  "release_blocking": false,
+  "description": "剧情和解说共用两条英语原文键。原生 TRA 以原文匹配，不能区分调用上下文；需在最终版中解决以保留解说英文。",
+  "entries": [
+    {
+      "id": "3f69af2cbdeaa3dd",
+      "sequence": 7783,
+      "source": "&869 Gynoid!",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 374818,
+          "script": "Dialog 71"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 11998,
+          "script": "Commentary.asc"
+        }
+      ]
+    },
+    {
+      "id": "e44670238e1074ea",
+      "sequence": 7785,
+      "source": "&870 If they look like a woman, they're a gynoid, not an android.",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 374898,
+          "script": "Dialog 71"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 12054,
+          "script": "Commentary.asc"
+        }
+      ]
+    }
+  ],
+  "solution": {
+    "method": "外置game28.dta，仅在Dialog 71字符串池替换两个末尾标点，分离原生TRA键；Commentary.asc原字符串保持逐字节一致。",
+    "original_exe_modified": false,
+    "asset_size": 5636828,
+    "changed_bytes": [
+      3498727,
+      3498803
+    ],
+    "patched_asset_sha256": "3f5495d139e6ce5d4bdf869ca23c1954aa75bf39bd4a28d82f63457014c98820",
+    "source_asset_sha256": "ec7dce2b3e0b658cff7ff20bbbdf5331ade8468cce159af977ee9d40364b26f7",
+    "verified": "官方3.6.1.35加载代码和隔离副本正/负对照：无效外置头部导致加载失败；同长两字节修改的外置数据正常启动并进入room2。",
+    "sources": [
+      "https://github.com/adventuregamestudio/ags/blob/v3.6.1.35/Common/game/main_game_file.cpp",
+      "https://github.com/adventuregamestudio/ags/blob/v3.6.1.35/Engine/main/main.cpp"
+    ],
+    "pending": [],
+    "implemented_in": [
+      "source/runtime-keys.json",
+      "tools/context_data.py",
+      "tools/encoding_bridge.py",
+      "tools/check_context_extract.py",
+      "tools/install.py"
+    ],
+    "evidence": [
+      "review/qa/context-asset-priority-probe.json",
+      "review/qa/context-extraction-check.json",
+      "review/qa/context-tra-check.json",
+      "review/qa/local-checks.json",
+      "review/qa/engine-smoke.json",
+      "review/qa/pilot-install-rollback.json"
+    ],
+    "limits": "已核对剧情/解说引用、实际TRA映射、完整候选启动和逐字节回滚；没有运行到Dialog 71查看实际字幕画面。字体布局/通关等最终门槛仍未完成。"
+  }
+}

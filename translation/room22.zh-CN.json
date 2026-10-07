@@ -1,0 +1,58 @@
+[
+  {
+    "id": "3360346f0ce5d0e4",
+    "source": "Connection to INFOWALL",
+    "target": "连接至：信息墙",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "50cf91805e586c16",
+    "source": "Connection to USR.GUY",
+    "target": "连接至：USR.GUY",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "64e50202dabad89c",
+    "source": "Security Systems",
+    "target": "安保系统",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7a752e29a3e2e7cc",
+    "source": "&604 I should be able to reach the net at large through the infowall's connection.",
+    "target": "&604 应该能通过信息墙的连接，接入外部网络。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b79afcc2930dd2bd",
+    "source": "&605 That officer better not decide to check on us while I'm in here...",
+    "target": "&605 我在这里的时候，那个警官最好别来检查我们……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ca7afbb9f107ea4f",
+    "source": "&606 Guy wasn't kidding, it's access to CEL's secure drone control.",
+    "target": "&606 盖伊没开玩笑，这真能接入CEL的安全无人机控制系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "de96eb63a6f4c92b",
+    "source": "//Connection to External System:[[// USR.Guy/Mindstate[// WARNING: This system appears to be compromised by malware. Please ensure your protective systems are up-to-date before making any connections.",
+    "target": "//连接至外部系统：[[// USR.Guy/Mindstate[// 警告：该系统似乎受到恶意软件侵害。建立任何连接前，请确保防护系统已更新至最新版本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

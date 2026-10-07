@@ -1,0 +1,25 @@
+{
+  "audit": "Exact compiled comparison and DoOnceOnly call inspected. Remaining object/hotspot labels conservatively translated, not excluded from spelling alone.",
+  "entries": [
+    {
+      "id": "484f748918a7c875",
+      "source": "eOptionOn",
+      "status": "preserve",
+      "reason": "room11中Dialog::GetOptionText结果与此固定程序标签进行streq比较；保留匹配值，避免把枚举式标签当作对白。",
+      "evidence": {
+        "script_pc": 1335,
+        "preceding_import": "Dialog::GetOptionText^1"
+      }
+    },
+    {
+      "id": "b402b8f08e658a7e",
+      "source": "FIX BEFORE LAUNCH THIS IS CRAZY",
+      "status": "excluded",
+      "reason": "room67中的Game::DoOnceOnly一次性事件键；开发备注式内容不是玩家文本。",
+      "evidence": {
+        "call_pc": 3034,
+        "import": "Game::DoOnceOnly^1"
+      }
+    }
+  ]
+}

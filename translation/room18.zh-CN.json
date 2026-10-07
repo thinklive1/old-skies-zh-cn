@@ -1,0 +1,474 @@
+[
+  {
+    "id": "3f8c65be8e28b2f7",
+    "source": "Bench",
+    "target": "长椅",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b4f6df3d63caa505",
+    "source": "Fragments",
+    "target": "碎片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fa6a629652482ec9",
+    "source": "Tool Locker",
+    "target": "工具柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cb59c83b5ecd2bc",
+    "source": "&1534 It'd be an understatement to say it's been a bad day.",
+    "target": "&1534 说今天过得不好，都算是轻描淡写了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6663145b8e1f8428",
+    "source": "&7 No kidding. I sure wouldn't want to be you.",
+    "target": "&7 可不是。我可不想跟你换。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "82cfcf040a8821d7",
+    "source": "&1535 Yeah, I've got a few problems.",
+    "target": "&1535 是啊，我有些麻烦。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c8f41b4d199a3860",
+    "source": "&1536 But I'm not going to let them threaten what I care about any longer.",
+    "target": "&1536 但我不会再让它们威胁我在乎的东西了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "920fa4d25375e470",
+    "source": "&71 You say that, but I think you're yellow.",
+    "target": "&71 嘴上这么说，可我觉得你就是个胆小鬼。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fb535e1a52ba11f2",
+    "source": "&1537 Hey, I've got a plan.",
+    "target": "&1537 嘿，我有计划。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c5e29f2d37e6cfe5",
+    "source": "&8 If you're so decisive, why haven't you unfrozen any of those embryos?",
+    "target": "&8 你要是真这么果断，为什么还没解冻哪怕一个胚胎？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b03c65f546f7ee72",
+    "source": "&72 It's been TWENTY YEARS, Regis.",
+    "target": "&72 已经二十年了，里吉斯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "41ab2f495c5b2661",
+    "source": "&19 You know who it is, Dr Regis.",
+    "target": "&19 你知道那是谁，里吉斯博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6be7cfc8ba9d04a4",
+    "source": "&20 There's only one person it could be...isn't there?",
+    "target": "&20 只可能是一个人……不是吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "85995ed12a26dbe1",
+    "source": "&1538 You think it's Baxter?",
+    "target": "&1538 你觉得是巴克斯特？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9fc355a3aa94a71",
+    "source": "&21 Well...YOU certainly do.",
+    "target": "&21 嗯……你自己肯定这么想。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4aa402a1e4f61b27",
+    "source": "&114 Good evening, Dr Regis.",
+    "target": "&114 晚上好，里吉斯博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "98298ce8145ef5bf",
+    "source": "&1539 Where are they, you son of a bitch?",
+    "target": "&1539 他们在哪儿，你这个狗娘养的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "15112342c22de7f7",
+    "source": "//SYNC Lock",
+    "target": "// 同步锁定",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dc725b9c26aec2b9",
+    "source": "&115 I saw your handiwork, and was most impressed.",
+    "target": "&115 我看过你的成果了，相当出色。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8cc25b2b7c512e25",
+    "source": "Cycle nodes...",
+    "target": "轮询节点……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "596b13e5fb15d7eb",
+    "source": "&1540 So you'll give them back?",
+    "target": "&1540 那你会把他们还给我？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06ca42d4dbd45c3b",
+    "source": "Region found...",
+    "target": "已找到区域……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ca290fc4805a7e4",
+    "source": "&116 . . .",
+    "target": "&116 ……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e4cd1db4cc9c241",
+    "source": "&117 I'm sending you an address. You'll find your reward there.",
+    "target": "&117 我给你发一个地址。你的报酬就在那里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cd327fccae668b8",
+    "source": "<HANDSHAKE>",
+    "target": "<握手>",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9e7148c595862bf",
+    "source": "&3000 Wait!",
+    "target": "&3000 等等！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "01cb221ed1018359",
+    "source": "&118 Hm?",
+    "target": "&118 嗯？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c4916f3793be6779",
+    "source": "Localizing...",
+    "target": "正在定位……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d40c9d0f76de763",
+    "source": "&1541 ...Baxter?",
+    "target": "&1541 ……巴克斯特？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f979a3cf9d974905",
+    "source": "&119 Heh.",
+    "target": "&119 呵。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "18d014a1a165d19d",
+    "source": "Caller: Found",
+    "target": "来电者：已定位",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ebe7be587322dad7",
+    "source": "&456 Sure enough, the tracker shows the call's location - the office of the now-paroled Dr Adam Baxter.",
+    "target": "&456 果然，追踪器显示了来电位置：刚获假释的亚当·巴克斯特博士的办公室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eab6e0379f996890",
+    "source": "&1542 How...how is this possible?",
+    "target": "&1542 怎……怎么可能？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17e764a1c18c6d0c",
+    "source": "&457 Some kind of clear, smashed remains lie on the grass.",
+    "target": "&457 草地上散落着一些透明物体的碎片。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "021a871e48a6d0cc",
+    "source": "&1543 What the Hell is this?!",
+    "target": "&1543 这他妈是什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bfea2362f9c929d",
+    "source": "&120 It is what you saw earlier, to show you two things.",
+    "target": "&120 就是你先前看到的东西。它是为了让你明白两件事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5c631a613db8e8cc",
+    "source": "&121 Firstly, it serves to prove what I have in my possession.",
+    "target": "&121 第一，证明我手里确实有你要的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69f99aa29c81b3cb",
+    "source": "&122 Second, that you must be VERY careful what you say when you speak with me.",
+    "target": "&122 第二，跟我说话时，你必须非常小心自己的措辞。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "506ffcc7e2a0443a",
+    "source": "&1544 I...have the memory module...from Van der Waal's place...",
+    "target": "&1544 我……拿到记忆模块了……从范德瓦尔家里……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "70e79900c70e8d6a",
+    "source": "&125 Good. Place it on the bench in your garden.",
+    "target": "&125 很好。放在你花园的长椅上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "37b824b684f2121e",
+    "source": "&123 It is to show you my opinion of how swiftly you have carried out your task, Dr Regis.",
+    "target": "&123 这是为了让你知道，我对你完成任务的速度有什么看法，里吉斯博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc0de01ce03a7e7b",
+    "source": "&124 You still have another three chances to change my mind.",
+    "target": "&124 你还有三次机会，让我改变主意。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6fc8b59f76338c3e",
+    "source": "&458 The doors lead to the inside of Fulcrum Tower.",
+    "target": "&458 这些门通往支点大厦内部。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "765925533b76be1e",
+    "source": "&459 Much as you'd like to rest, you need to keep moving if you want any chance of saving your legacy.",
+    "target": "&459 虽然很想歇一歇，但要想保住自己的血脉，你就必须继续行动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "41601ee0451947eb",
+    "source": "&460 A granite bench. It was hell getting it up the tower and into the garden, but worth it once here.",
+    "target": "&460 一张花岗岩长椅。把它运上大厦、搬进花园可费了老大的劲，不过摆在这里，一切都值了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a96705b05a16de33",
+    "source": "&461 Why would you just leave it out in the garden?",
+    "target": "&461 为什么要把它就这么丢在花园里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "67c8962c923c6ecb",
+    "source": "&1545 Okay, the module's in the garden.",
+    "target": "&1545 好了，模块放在花园里了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c88e08e38411ab92",
+    "source": "&126 Excellent. I'm sending you an address.",
+    "target": "&126 很好。我给你发一个地址。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "029f1db5daf040db",
+    "source": "&127 It's a dump of a studio apartment out in the Barrel. The occupant is on vacation.",
+    "target": "&127 是筒楼里一间破烂的单间公寓，住户正在度假。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1fd66598a4132f70",
+    "source": "RECEIVED - New Address:[Apt 14-E[8682 Zeus Street",
+    "target": "已收到新地址：[14-E室[宙斯街8682号",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1193e1bcf9ece022",
+    "source": "&128 I want you to destroy it.",
+    "target": "&128 我要你把它毁掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0aeeb76dd7cdc8dc",
+    "source": "&1546 ...excuse me?",
+    "target": "&1546 ……你说什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b16b1b7f28a8d04",
+    "source": "&129 Procure an explosive device. Plant it within his apartment.",
+    "target": "&129 弄一枚爆炸装置，放进他的公寓里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a3947843817e927e",
+    "source": "&462 Better leave it where it is...that's where the blackmailer wants it.",
+    "target": "&462 最好就放在那里，勒索者要求的就是这个位置。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf48678d468aa83f",
+    "source": "&463 The memory module that the blackmailer wants. It looks somehow less bright than earlier.",
+    "target": "&463 勒索者想要的记忆模块。看起来似乎比之前暗了一些。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "856b201f1e49641a",
+    "source": "&464 It could probably use some cleaning - you remind yourself to make a note of that for when this is all over.",
+    "target": "&464 大概该打扫一下了。你提醒自己，等事情结束后，要把这事记下来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9974b4e9c588fdf8",
+    "source": "&465 The tree is still looking quite sickly. It wasn't made for its viability though - just its memory.",
+    "target": "&465 这棵树看起来仍然很虚弱。不过，创造它并不是为了让它长得健壮，而是为了纪念她。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c8c9f10aa82cc719",
+    "source": "&466 You spent several months creating this tree at the genetic level and many years since caring for it, for the sake of her memory. At the moment, there isn't much else that can be done for it.",
+    "target": "&466 为了纪念她，你花了几个月从基因层面创造这棵树，之后又悉心照料了多年。眼下，你也没法为它再做什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba2c91a16173298a",
+    "source": "You aren't in the mood for a visit to that neighborhood. Down in that part of town, it's all restaurants and corporate headquarters.",
+    "target": "你没心情去那一带。城里那片地方，全是餐厅和公司总部。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

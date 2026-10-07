@@ -1,0 +1,512 @@
+{
+  "schema": 2,
+  "asset_name": "game28.dta",
+  "asset_size": 5636828,
+  "source_sha256": "ec7dce2b3e0b658cff7ff20bbbdf5331ade8468cce159af977ee9d40364b26f7",
+  "patched_sha256": "f07d1f948efb2796d3a427fa0fe2ce062cb2d9d40513650f85b3fc9f52f5609a",
+  "changed_bytes": [
+    3498727,
+    3498803,
+    5584236,
+    5584309,
+    5584387,
+    5584492,
+    5584565
+  ],
+  "entries": [
+    {
+      "id": "3f69af2cbdeaa3dd",
+      "source": "&869 Gynoid!",
+      "runtime_key": "&869 Gynoid.",
+      "story_offset": 3498716,
+      "commentary_offset": 3835188,
+      "story_code_index": 374818,
+      "commentary_code_index": 11998
+    },
+    {
+      "id": "e44670238e1074ea",
+      "source": "&870 If they look like a woman, they're a gynoid, not an android.",
+      "runtime_key": "&870 If they look like a woman, they're a gynoid, not an android!",
+      "story_offset": 3498739,
+      "commentary_offset": 3835214,
+      "story_code_index": 374898,
+      "commentary_code_index": 12054
+    }
+  ],
+  "note": "英文语义目录保持原 ID；只分离 Dialog 71 的两个运行时键。Commentary.asc 保留原键，TRA 为其保留英文恒等映射。完整游戏资源仅本地构建，不入 Git。",
+  "gui_controls": [
+    {
+      "name": "ListBoxMessages",
+      "index": 2,
+      "offset": 5584236,
+      "before_flags": 84,
+      "after_flags": 212,
+      "fingerprint": "540000000800000033000000a6000000a3000000010000004c697374426f784d657373616765730001000000"
+    },
+    {
+      "name": "ListBoxEmailMessage1",
+      "index": 3,
+      "offset": 5584309,
+      "before_flags": 84,
+      "after_flags": 212,
+      "fingerprint": "54000000b50000000f0000000801000013010000000000004c697374426f78456d61696c4d657373616765310001000000"
+    },
+    {
+      "name": "ListBoxS3Contacts",
+      "index": 4,
+      "offset": 5584387,
+      "before_flags": 84,
+      "after_flags": 212,
+      "fingerprint": "54000000090100005e00000024010000d9000000090000004c697374426f785333436f6e74616374730001000000"
+    },
+    {
+      "name": "ListNewsArticle",
+      "index": 5,
+      "offset": 5584492,
+      "before_flags": 84,
+      "after_flags": 212,
+      "fingerprint": "54000000b60000006e0000000b010000eb000000020000004c6973744e65777341727469636c650001000000"
+    },
+    {
+      "name": "ListBoxS7User",
+      "index": 6,
+      "offset": 5584565,
+      "before_flags": 84,
+      "after_flags": 212,
+      "fingerprint": "540000005e00000030000000d900000083000000010000004c697374426f785337557365720001000000"
+    }
+  ],
+  "base_patched_sha256": "7456101f91b8efb1a788bcef49096bea58d55584baa4eb8c828540e9bf3a0dfb",
+  "scroller_hook": {
+    "offset": 3984746,
+    "source_size": 22040,
+    "source_sha256": "27c94c280a6973ec06a5285345ef0d5e593124d72789d62fce59a9df020f6660",
+    "patched_sha256": "c3a81be9fd74d91c3acf827247f30c933e4beea6fb8a0534be9f58d5979c09cf",
+    "report": {
+      "detours": [
+        {
+          "hook": 10,
+          "helper": 4973,
+          "mode": "news"
+        },
+        {
+          "hook": 2221,
+          "helper": 5219,
+          "mode": "mail"
+        }
+      ],
+      "original_code_cells": 4504,
+      "added_code_cells": 1286,
+      "changed_code_cells": [
+        10,
+        11,
+        2221,
+        2222
+      ],
+      "added_imports": [
+        "GetTranslation",
+        "GetTextWidth",
+        "IsTranslationAvailable"
+      ],
+      "added_fixups": [
+        [
+          4,
+          4539
+        ],
+        [
+          4,
+          4589
+        ],
+        [
+          4,
+          4651
+        ],
+        [
+          4,
+          4695
+        ],
+        [
+          4,
+          4719
+        ],
+        [
+          4,
+          4761
+        ],
+        [
+          4,
+          4787
+        ],
+        [
+          4,
+          4819
+        ],
+        [
+          4,
+          4844
+        ],
+        [
+          4,
+          4868
+        ],
+        [
+          4,
+          4897
+        ],
+        [
+          4,
+          4947
+        ],
+        [
+          4,
+          4977
+        ],
+        [
+          4,
+          4984
+        ],
+        [
+          4,
+          4993
+        ],
+        [
+          4,
+          5002
+        ],
+        [
+          4,
+          5007
+        ],
+        [
+          4,
+          5016
+        ],
+        [
+          4,
+          5025
+        ],
+        [
+          4,
+          5030
+        ],
+        [
+          4,
+          5039
+        ],
+        [
+          4,
+          5048
+        ],
+        [
+          4,
+          5053
+        ],
+        [
+          4,
+          5062
+        ],
+        [
+          4,
+          5071
+        ],
+        [
+          4,
+          5078
+        ],
+        [
+          4,
+          5085
+        ],
+        [
+          4,
+          5094
+        ],
+        [
+          4,
+          5103
+        ],
+        [
+          4,
+          5110
+        ],
+        [
+          4,
+          5117
+        ],
+        [
+          4,
+          5126
+        ],
+        [
+          4,
+          5135
+        ],
+        [
+          4,
+          5142
+        ],
+        [
+          4,
+          5149
+        ],
+        [
+          4,
+          5158
+        ],
+        [
+          4,
+          5167
+        ],
+        [
+          4,
+          5182
+        ],
+        [
+          4,
+          5189
+        ],
+        [
+          2,
+          5202
+        ],
+        [
+          4,
+          5223
+        ],
+        [
+          4,
+          5238
+        ],
+        [
+          4,
+          5259
+        ],
+        [
+          4,
+          5280
+        ],
+        [
+          4,
+          5301
+        ],
+        [
+          4,
+          5316
+        ],
+        [
+          4,
+          5326
+        ],
+        [
+          3,
+          5335
+        ],
+        [
+          4,
+          5342
+        ],
+        [
+          4,
+          5353
+        ],
+        [
+          4,
+          5363
+        ],
+        [
+          4,
+          5378
+        ],
+        [
+          2,
+          5386
+        ],
+        [
+          3,
+          5396
+        ],
+        [
+          4,
+          5403
+        ],
+        [
+          4,
+          5414
+        ],
+        [
+          4,
+          5424
+        ],
+        [
+          4,
+          5439
+        ],
+        [
+          2,
+          5447
+        ],
+        [
+          3,
+          5457
+        ],
+        [
+          4,
+          5464
+        ],
+        [
+          4,
+          5475
+        ],
+        [
+          4,
+          5485
+        ],
+        [
+          4,
+          5500
+        ],
+        [
+          2,
+          5508
+        ],
+        [
+          3,
+          5518
+        ],
+        [
+          4,
+          5525
+        ],
+        [
+          4,
+          5536
+        ],
+        [
+          4,
+          5546
+        ],
+        [
+          3,
+          5557
+        ],
+        [
+          4,
+          5564
+        ],
+        [
+          4,
+          5575
+        ],
+        [
+          4,
+          5585
+        ],
+        [
+          3,
+          5596
+        ],
+        [
+          4,
+          5603
+        ],
+        [
+          4,
+          5614
+        ],
+        [
+          4,
+          5624
+        ],
+        [
+          4,
+          5639
+        ],
+        [
+          2,
+          5647
+        ],
+        [
+          3,
+          5657
+        ],
+        [
+          4,
+          5664
+        ],
+        [
+          4,
+          5675
+        ],
+        [
+          4,
+          5685
+        ],
+        [
+          3,
+          5696
+        ],
+        [
+          4,
+          5703
+        ],
+        [
+          4,
+          5714
+        ],
+        [
+          4,
+          5724
+        ],
+        [
+          3,
+          5735
+        ],
+        [
+          4,
+          5742
+        ],
+        [
+          4,
+          5753
+        ],
+        [
+          4,
+          5763
+        ]
+      ],
+      "wrapping": "UTF-8 codepoints, actual font-0 width <=260px, explicit [ line breaks",
+      "english_path": "original code without an active translation"
+    },
+    "added_text_references": [
+      {
+        "source": "FROM:",
+        "asset": "game28.dta",
+        "kind": "module-script",
+        "index": 5335,
+        "script": "Scrollers.asc"
+      },
+      {
+        "source": "RECEIVED:",
+        "asset": "game28.dta",
+        "kind": "module-script",
+        "index": 5396,
+        "script": "Scrollers.asc"
+      },
+      {
+        "source": "SUBJECT:",
+        "asset": "game28.dta",
+        "kind": "module-script",
+        "index": 5457,
+        "script": "Scrollers.asc"
+      },
+      {
+        "source": "--------------------",
+        "asset": "game28.dta",
+        "kind": "module-script",
+        "index": 5518,
+        "script": "Scrollers.asc"
+      }
+    ]
+  },
+  "patched_size": 5642475
+}

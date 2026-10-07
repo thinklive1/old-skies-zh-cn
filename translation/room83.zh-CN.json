@@ -1,0 +1,162 @@
+[
+  {
+    "id": "7547061c00b198f8",
+    "source": "&2077 Lao, I...",
+    "target": "&2077 劳，我……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "62744d88c86f4fa4",
+    "source": "&2078 ...MAX!",
+    "target": "&2078 ……麦克斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1199e4494e57489e",
+    "source": "&1532 Wha...buh...huh?",
+    "target": "&1532 什……唔……嗯？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f0a25e0cc8640809",
+    "source": "&2079 Were you SLEEPING on-duty?",
+    "target": "&2079 你值班时在睡觉？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f07c3a37a8e0cae",
+    "source": "&1533 Sleep...? No, I was Trancing.",
+    "target": "&1533 睡觉……？没有，我在迷境里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f912562e0760cdce",
+    "source": "&1534 ...for work, of course.",
+    "target": "&1534 ……当然，是为了工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "edb2a8efa728e556",
+    "source": "&298 Dr Lao was submitting her case report.",
+    "target": "&298 劳博士正在提交案件报告。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dd01ef02845e05e1",
+    "source": "&2080 We were so close...",
+    "target": "&2080 明明就差一点……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d9d70e72451c37b",
+    "source": "&2081 Have you found the aerostat he escaped to?",
+    "target": "&2081 找到他逃走时乘坐的浮空艇了吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0eb2e4f7c77443c",
+    "source": "&299 No records have been found of such a vehicle.",
+    "target": "&299 未找到该载具的任何记录。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c09fc720661ccf00",
+    "source": "&300 Radar and air-traffic records show no aerostat present at that time,",
+    "target": "&300 雷达和空中交通记录显示，当时并无浮空艇在场，",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16cfe5c21c7c3291",
+    "source": "&301 and no communications traffic has been identified regarding the aerostat.",
+    "target": "&301 也未发现任何涉及该浮空艇的通信。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "87d39e2658e7ea40",
+    "source": "&1535 Maybe he deleted them? Covered his tracks?",
+    "target": "&1535 会不会是他删掉了？抹掉了行踪？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a14ffd7b95cad48",
+    "source": "&302 That would require access to an improbable number of systems, including my own.",
+    "target": "&302 那需要访问多得难以置信的系统，其中包括我的系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9f51ede1201ef27f",
+    "source": "&303 Such an undetected intrusion into Central systems is implausible.",
+    "target": "&303 很难相信有人能这样入侵中枢系统，却不被发现。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46db04af0cbf09ed",
+    "source": "&2082 Are you saying we're LYING?!",
+    "target": "&2082 你是说，我们在撒谎？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "336bd0ccacf7fa33",
+    "source": "&304 It is possible that you were mistaken. Human error.",
+    "target": "&304 也可能是你们弄错了。人为失误。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8e1f9f36e310a97e",
+    "source": "&305 For the moment, you are advised to pursue other lines of inquiry.",
+    "target": "&305 目前建议你们沿其他方向继续调查。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5660f4819528d3fa",
+    "source": "&2083 If you say so...",
+    "target": "&2083 既然你这么说……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6395c51dcc8b549f",
+    "source": "&2084 Something's going on, here...",
+    "target": "&2084 这里头肯定有问题……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

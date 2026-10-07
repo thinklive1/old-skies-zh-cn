@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a03b221c6c6eae71",
+    "source": "???",
+    "target": "???",
+    "status": "preserve",
+    "reason": "未知对象符号/纯分隔线，不含可译词语，保留标点及原换行控制符。",
+    "review_notes": ""
+  },
+  {
+    "id": "aaf9e09b534998b0",
+    "source": "&485 Uh-oh! We're still going to the wrong room.",
+    "target": "&485 糟了！我们还是在往错误的房间走。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "97750f7f75f755fd",
+    "source": "&1548 It recognizes me, so at least I can leave whenever I want to.",
+    "target": "&1548 它认得我，至少我随时都能出去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dcfb749d84bcc533",
+    "source": "&1549 The last idiot we had in here broke it when he tried to reach the skylights.",
+    "target": "&1549 上次关在这里的那个蠢货，想爬上天窗，把它弄坏了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4a920383379d9e55",
+    "source": "&1550 They picked this guy up last night. He's got something in his wiring that might be contagious.",
+    "target": "&1550 这家伙昨晚被带回来。他的神经接口里有某种东西，可能会传染。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d7226fc565e1eb96",
+    "source": "&1551 I guess that means I'm safe, but still...poor kid.",
+    "target": "&1551 我应该不会有事，可还是……可怜的孩子。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8353e701792fdb4c",
+    "source": "&1552 Hey kid, you alright?",
+    "target": "&1552 嘿，孩子，你没事吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "361a85a9fb10d6bc",
+    "source": "&496 You've been accused of misusing your stunner with suspects, but even you reckon this'd be going too far.",
+    "target": "&496 有人指责你对嫌疑人滥用电击枪，可就连你也觉得，这样实在太过分了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "624670472a00c8be",
+    "source": "&497 He looks pretty out of it - threatening him won't help you at all.",
+    "target": "&497 他看着神志不清，威胁他对你毫无帮助。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "33af9ca79eb5cccb",
+    "source": "&499 You may be old-fashioned, but forcing confessions out of suspects with dripping hot liquids is archaic even by your standards.",
+    "target": "&499 你也许老派，但用滚烫的液体滴在人身上逼供，就连你也觉得太古老了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2dd9c955517d9a3a",
+    "source": "&1553 What do I look like, a maintenance drone?",
+    "target": "&1553 我看着像维修无人机吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "86df47cf129cb218",
+    "source": "&500 While you question the need for so many cameras within CEL HQ, the waiting room is one of the few places you would never sabotage them.",
+    "target": "&500 你不明白，CEL总部为什么需要这么多摄像头。不过，等候室是少数几个你绝不会破坏监控的地方之一。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

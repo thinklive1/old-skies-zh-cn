@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3112421befe3ce39",
+    "source": "Connection to Visual Systems",
+    "target": "连接至视觉系统",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0151fe4f372bfabf",
+    "source": "// CONNECTION: Int - Optic Feed Systems",
+    "target": "// 连接：内部 - 光学信号系统",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e2eec9d4db470a26",
+    "source": "&783 What is this?",
+    "target": "&783 这是什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "033c62ce679a94e4",
+    "source": "Connection to: CORTEX/Access.env",
+    "target": "连接至：CORTEX/Access.env",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

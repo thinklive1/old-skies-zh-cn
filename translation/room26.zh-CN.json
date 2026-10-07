@@ -1,0 +1,210 @@
+[
+  {
+    "id": "8baccb275efb6d78",
+    "source": "Dome",
+    "target": "穹顶",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d25ae82416fc69c7",
+    "source": "Seed Bank",
+    "target": "种子库",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9acdf54f26ade423",
+    "source": "Red Plants",
+    "target": "红色植物",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "33c8bbc1d712b795",
+    "source": "Blue Vines",
+    "target": "蓝色藤蔓",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3731ee9c24e9d0d3",
+    "source": "Yellow Blooms",
+    "target": "黄色花朵",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "685afe344181ce71",
+    "source": "Pipes",
+    "target": "管道",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dacedd398bbfe878",
+    "source": "Production Line",
+    "target": "生产线",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95ddf8e9a1b838e1",
+    "source": "Toolbox",
+    "target": "工具箱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aae169562b459db8",
+    "source": "&1123 I didn't realize that gengineering was done with so much tape and wrenches.",
+    "target": "&1123 真没想到，基因工程要用这么多胶带和扳手。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6387602ac667e71",
+    "source": "&1124 I can't put that in there, it's just data in my head's wiring.",
+    "target": "&1124 不能把那个放进去，那只是存在我神经接口里的数据。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "097379b5c4ab30a3",
+    "source": "&1125 He's going to notice if I try to make him carry all my stuff.",
+    "target": "&1125 想让他替我搬所有东西，他会注意到的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea98038df8742d0a",
+    "source": "&1126 He'd better not lose it.",
+    "target": "&1126 他最好别弄丢了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5fed905364c713c2",
+    "source": "&1127 I can't figure out what any of these tools are for.",
+    "target": "&1127 这些工具都有什么用，我完全看不明白。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "501bbd6653a15654",
+    "source": "Picked up: Stunner",
+    "target": "已拾取：电击枪",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8c94f6f81633c4ff",
+    "source": "Picked up: A. Braziliera",
+    "target": "已拾取：A. Braziliera",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fad69019061c9d8e",
+    "source": "Picked up: Growth Matrix",
+    "target": "已拾取：培养基质",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "690433bba004f358",
+    "source": "Picked up: Injector",
+    "target": "已拾取：注射器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "be2bed92c4970e2b",
+    "source": "&1128 They look important.",
+    "target": "&1128 看着很重要。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66f0e642c7bec005",
+    "source": "&1129 Alright, alright, I won't touch them.",
+    "target": "&1129 好，好，我不碰。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7d0d7dc09b20757a",
+    "source": "&109 Hey, don't touch the valve!",
+    "target": "&109 嘿，别碰那个阀门！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e801fbb0ba449c31",
+    "source": "&110 Who do you think Doc Chigwa makes fix them when they burst?",
+    "target": "&110 管道爆了，奇格瓦博士让谁来修，你以为呢？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9c348b6bdffcaf6c",
+    "source": "&1130 I guess these pipes aren't broken.",
+    "target": "&1130 看来，这些管道没坏。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ab21ca07bebb1fa",
+    "source": "&142 Hey!",
+    "target": "&142 嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8553285158eb938",
+    "source": "&1470 According to the labels, these shouldn't be handled without protective gear.",
+    "target": "&1470 标签上说，没有防护装备，不该接触这些东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0dfc37eeb2a92f97",
+    "source": "&1471 I never thought gengineering would be so...industrial. It's like a factory line!",
+    "target": "&1471 真没想到，基因工程会这么……工业化。简直是工厂流水线！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1de85787cde29e1d",
+    "source": "&1227 I don't need to breach it, it's already unlocked.",
+    "target": "&1227 不用入侵，它已经解锁了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

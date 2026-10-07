@@ -1,0 +1,194 @@
+[
+  {
+    "id": "03d088bb06c08a3b",
+    "source": "Plaque",
+    "target": "纪念牌",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b85f5fabf97d3b18",
+    "source": "Tree",
+    "target": "树",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "76fcbabe4c7d500a",
+    "source": "The View",
+    "target": "远景",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d37d431109d86e6",
+    "source": "Locker",
+    "target": "储物柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52656e8104eef3fd",
+    "source": "Branch",
+    "target": "树枝",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b053c961f2acb0b9",
+    "source": "Bag",
+    "target": "包",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc30e3b8ba20f441",
+    "source": "Pile of Leaves",
+    "target": "落叶堆",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f08097e932cfdc11",
+    "source": "&1360 When people worry, there's always something they find to help them.",
+    "target": "&1360 人有了烦心事，总会找点什么来排解。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "db0762c4f5341810",
+    "source": "&1361 Drinking, the Trance, even God sometimes.",
+    "target": "&1361 喝酒，泡迷境，有时甚至求助于上帝。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6b2ab2612ea0699c",
+    "source": "&1362 Me, I've got a place I like to go to. It's helped me when I've been troubled in the past.",
+    "target": "&1362 而我，有个喜欢去的地方。以前心烦的时候，它帮了我不少。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5399db2e6bf629e5",
+    "source": "&377 The tree's unusual constitution causes it to shed its leaves more often than a natural specimen. You diligently tend to the mess it makes as often as work allows.",
+    "target": "&377 这棵树的体质特殊，落叶比天然树木更频繁。只要工作允许，你就会尽心清理这些落叶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d7b9c0f4e185ad1",
+    "source": "&293 You're not in the mood for gardening.",
+    "target": "&293 你现在没心情打理花园。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "acac350b2174d025",
+    "source": "&379 The storage locker for your gardening tools.",
+    "target": "&379 存放园艺工具的储物柜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cd05f40d5f5de195",
+    "source": "&2087 It's empty.",
+    "target": "&2087 是空的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20ea2cf58868440d",
+    "source": "&1368 I'd better not put it away, I might need it!",
+    "target": "&1368 还是别收起来了，说不定用得上！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "845ff2e81eb00b1c",
+    "source": "&383 Not even having to glance for a moment, those words are etched in a memory deeper than anything else:",
+    "target": "&383 不必再看一眼。那些字，比任何记忆都刻得更深：",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9e038299d5fcb1a",
+    "source": "&384 Viksha Regis - beloved wife, friend to all that lives.[[11 August 2034 - 2 January 2067[['Think of us not as engineers, but as artists.'",
+    "target": "&384 维克莎·里吉斯——挚爱的妻子，所有生灵的朋友。[[2034年8月11日—2067年1月2日[[“请把我们看作艺术家，而非工程师。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a0af6164ec09130",
+    "source": "&2000 The way out.",
+    "target": "&2000 出口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "89bffa8b72dc8fe7",
+    "source": "Better not move it. It's where it ought to be.",
+    "target": "最好别动它。它就该待在这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "828433e69aaae99a",
+    "source": "&2001 I'm not climbing that. It's sickly enough as it is.",
+    "target": "&2001 我可不爬。它已经够虚弱了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06a4320bfed1961b",
+    "source": "&2002 It took a lot of work to make, but it was worth it.",
+    "target": "&2002 培育它费了不少工夫，不过值得。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55a20ef2ccc349d2",
+    "source": "&2003 This gengineered tree is the kind of memorial I think she'd appreciate.",
+    "target": "&2003 这棵经过基因改造的树，我想，她会喜欢这样的纪念。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "918b757adbf3c357",
+    "source": "You're fortunate to have gotten a garden this high up. The view just about clears the city's forest of skyscrapers, and on a good day the Indian Ocean is visible from your bench.",
+    "target": "能在这么高的地方拥有一座花园，是你的幸运。这里刚好能越过城市的高楼丛林，天气好时，坐在长椅上就能看见印度洋。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03b7e5e682b31c7d",
+    "source": "You aren't in the mood for a visit to that neighboorhood. Down in that part of town, it's all restaurants and corporate headquarters.",
+    "target": "你现在没心情去那一片城区。下面那片地方，到处都是餐厅和公司总部。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

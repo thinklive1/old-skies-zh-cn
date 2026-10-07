@@ -1,0 +1,17 @@
+{
+  "id": "TB-L10N-002",
+  "status": "resolved",
+  "release_blocking": false,
+  "problem": "Five player list controls have translation disabled; custom Scrollers module wraps email/news English before GUI rendering. Existing TRA translations alone cannot localize all visible list/body text.",
+  "evidence": [
+    "review/qa/listbox-translation-check.json",
+    "review/qa/scrollers-probe.json",
+    "review/qa/runtime-structure-check.json",
+    "review/qa/context-extraction-check.json",
+    "review/qa/engine-smoke.json"
+  ],
+  "planned_resolution": "Enable draw translation on relevant lists while retaining original Items for script matching. Add carefully verified GetTranslation calls before Scrollers wraps email/news strings. Use source-hash-checked external game data, original code preserved except explicit entry detours. Independently parse/probe execution and rollback.",
+  "visual_verification": "not performed",
+  "resolution": "Five list controls now enable draw-only translation (84→212). Scrollers adds GetTranslation before wrapping four news paragraphs and the four local email parameters. Original string pool/globals/exports and original code except two source-line detours retained. Verified by actual engine execution inspecting news/mail/subject output, independently re-extracted all20207 text references, compared GUI flags, and byte-exact private-copy rollback.",
+  "limitations": "No onscreen walkthrough; positive probes exercise custom wrap processing and startup, not all interactive click paths."
+}

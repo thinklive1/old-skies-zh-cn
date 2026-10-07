@@ -1,0 +1,86 @@
+{
+  "game_uid": 1186933,
+  "game_name": "Technobabylon",
+  "format_version": 3060114,
+  "engine": "3.6.1.35",
+  "game_encoding": 1252,
+  "fonts": [
+    {
+      "Flags": 12,
+      "Outline": -1,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 16
+    },
+    {
+      "Flags": 12,
+      "Outline": 2,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 32
+    },
+    {
+      "Flags": 12,
+      "Outline": -1,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 32
+    },
+    {
+      "Flags": 13,
+      "Outline": -1,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 2
+    },
+    {
+      "Flags": 12,
+      "Outline": -1,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 16
+    },
+    {
+      "Flags": 12,
+      "Outline": -1,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 16
+    },
+    {
+      "Flags": 12,
+      "Outline": -1,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 16
+    },
+    {
+      "Flags": 12,
+      "Outline": -10,
+      "OffsetY": 0,
+      "LineSpacing": 0,
+      "SizePt": 24
+    }
+  ],
+  "font_outline_thickness": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "font_outline_style": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "room_names": []
+}

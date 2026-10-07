@@ -1,0 +1,458 @@
+[
+  {
+    "id": "4dc932017dcd12c2",
+    "source": "Seedbank Console",
+    "target": "种子库控制台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4f1f8971008f7c6b",
+    "source": "Rail drone",
+    "target": "轨道无人机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "37a54b616e415f71",
+    "source": "Railbots",
+    "target": "轨道机器人",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2b83ea71b831c8af",
+    "source": "&1160 Oh, God...what a mess...",
+    "target": "&1160 天哪……太惨了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9439804ad5a9b482",
+    "source": "[[Select stored seed samples for retrieval",
+    "target": "[[选择要取出的库存种子样本",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9d07c9bb4d49071",
+    "source": "Aphloia Theiformis:[[Undergoing weaponization, specifically targeting pollinating insects.[[Client: Greater Han Republic",
+    "target": "Aphloia Theiformis：[[正在武器化，专门针对传粉昆虫。[[客户：大汉共和国",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0e7c70313d0382eb",
+    "source": "Annonaceae Reticulata:[[Attempts being made to isolate useful genome sections, and reduce incidence of fatal consumption side effects.",
+    "target": "Annonaceae Reticulata：[[正在尝试分离有用的基因组片段，并降低食用后出现致命副作用的概率。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2947a07971cbf78f",
+    "source": "Avena Sativa:[[The common oat, new strains are currently in development to cope with rapidly-changing European climate.",
+    "target": "Avena Sativa：[[普通燕麦。正在培育新品系，以适应欧洲迅速变化的气候。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f311fe7be905213",
+    "source": "Acoraceae Braziliera:[[Discovered recently in the Amazon conservation zone, A. Braziliera is being tested for any marketable traits.",
+    "target": "Acoraceae Braziliera：[[最近在亚马孙保护区发现。正在检测A. Braziliera是否具备可供商业开发的性状。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9de6bd97066d70a",
+    "source": "Apiaceae Silphium:[[Formerly extinct branch of apiaceae, being tested for use as contraceptive/ abortifacient additive to food.",
+    "target": "Apiaceae Silphium：[[此前已灭绝的伞形科分支。正在测试能否作为食品添加剂，用于避孕或终止妊娠。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9de1c7c01d80ec20",
+    "source": "Araliaceae Paleopanax:[[Formerly extinct genus in ginseng family, being brought out of extinction.[[Client: USA (Concord).",
+    "target": "Araliaceae Paleopanax：[[五加科中曾已灭绝的一个属，正在使其重新出现。[[客户：美国（康科德）。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9612f4ceb9ccbbe",
+    "source": "Begonia Coccinea:[[Edible member of Begonia genus being developed as convenience food. Modification to increase sugar content.",
+    "target": "Begonia Coccinea：[[秋海棠属的一种可食用品种，正在开发为方便食品。改造目标为提高含糖量。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65896fe35546e893",
+    "source": "Brassica Oleracea:[[Cabbage. Undergoing testing to increase volume through water content.",
+    "target": "Brassica Oleracea：[[卷心菜。正在测试通过增加含水量来扩大体积。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e62bea9386402a5",
+    "source": "Heliconia Sanmarcosa:[[Custom-made heliconia plant, tailored as vanity project for current Ecuadorean president Miguel San Marcos.",
+    "target": "Heliconia Sanmarcosa：[[定制的蝎尾蕉属植物，是为现任厄瓜多尔总统米格尔·圣马科斯量身打造的形象工程。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cdc78442e722256",
+    "source": "Krameria Bicolor:[[Parasitic and extremophilic adaptations of specimen are being targeted for use in other projects.",
+    "target": "Krameria Bicolor：[[正在研究样本的寄生性和极端环境适应能力，以供其他项目使用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b1a0fc23838bf80d",
+    "source": "Liliaceae Sparkis:[[Gengineered producer and delivery vector of recreational hallucinogen 'Spark' (i.e. 'Sparkfruit')",
+    "target": "Liliaceae Sparkis：[[经过基因工程改造，用于生产和输送娱乐性致幻剂“火花”的植物，即“火花果”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a44a189bab952f0e",
+    "source": "Linum Extremis:[[Testbed for artificial enhancements in climate survivability",
+    "target": "Linum Extremis：[[用于测试人工增强的气候适应能力。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9a07fb6be73ce82",
+    "source": "Melia Azedarach:[[High-quality timber. Gengineering underway for more uniform, cuboid shape.",
+    "target": "Melia Azedarach：[[优质木材。正在通过基因工程，使其形状更均一，更接近长方体。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ac2d2c242ab12e9",
+    "source": "Mollugo Verticillata:[[Carpetweed, fruiting mechanism under modification for use as robust crop.",
+    "target": "Mollugo Verticillata：[[粟米草。正在改造其结果机制，以培育耐性强的作物。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1023a220bda367e",
+    "source": "Nitraria Panaceae:[[Salt-tolerant shrub, fruit being modified as production/delivery mechanism for COX2 inhibitor analgesic.",
+    "target": "Nitraria Panaceae：[[耐盐灌木。正在改造果实，使其能够生产和输送COX2抑制剂类止痛药。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12018618cc8644a4",
+    "source": "Pisum Sativum:[[Garden pea. Addition of extra nutritional components sourced from other organisms, esp. raised protein content.",
+    "target": "Pisum Sativum：[[豌豆。正在引入来自其他生物的营养成分，尤其着重提高蛋白质含量。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "833e45f43305cd57",
+    "source": "Triuridaceae Kupea:[[Lacks chlorophyll. Genes controlling non-photosynthetic properties being tested in other specimens.",
+    "target": "Triuridaceae Kupea：[[不含叶绿素。正在将控制非光合特性的基因用于其他样本的测试。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f38268b6f129737",
+    "source": "&1162 It looks like it's controlling the sorting-drones on the racks.",
+    "target": "&1162 看起来，它控制着货架上的分拣无人机。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "64313254a023c401",
+    "source": "&1163 It's a drone that runs back and forth on rails.",
+    "target": "&1163 一架沿着轨道来回移动的无人机。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ee8c1f2ab1fd1cff",
+    "source": "&1164 Must be what they use to store and retrieve samples in here.",
+    "target": "&1164 他们肯定用它来存取这里的样本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "391c537fb98c3c7d",
+    "source": "&1165 There's nothing in here to sample!",
+    "target": "&1165 这里没东西能采样！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c415c315e5485418",
+    "source": "&492 // Error - Unable to sample from seeds or growth matrices[//[Please use active specimens for DNA sources.",
+    "target": "&492 //错误——无法从种子或培养基质中采样[//[请使用活体样本作为DNA来源。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6283f07cdc75cce3",
+    "source": "&1166 Huh...it won't let me take a sample from this one.",
+    "target": "&1166 嗯……这个不让采样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9d99cec3444d4c69",
+    "source": "&1167 I guess it needs to have grown a bit, first.",
+    "target": "&1167 应该得先长起来一点。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a78b499850cc86f6",
+    "source": "Picked up: Xenospore Growth Matrix",
+    "target": "已拾取：异生孢子培养基质",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "308f9bd24b1c9dfb",
+    "source": "&1168 I'd better not. It'd only take it away and store it somewhere.",
+    "target": "&1168 最好别碰。它只会把东西拿走，存到别处。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f6367594bad2d755",
+    "source": "Picked up:[Acoraceae Braziliera",
+    "target": "已拾取：[Acoraceae Braziliera",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eaa0b63339adc716",
+    "source": "&1169 The 'biohazard' trefoil on these isn't encouraging.",
+    "target": "&1169 上面的“生物危害”三叶标志，可不让人放心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95a3834ef8e8b708",
+    "source": "&509 The rail drone is empty - no samples have been taken from storage.",
+    "target": "&509 轨道无人机里是空的，尚未从库存中取出样本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d0c113397d3f1764",
+    "source": "&1170 It's some kind of slime. Maybe I should just sample that.",
+    "target": "&1170 某种黏液。也许我该采一点这个。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f15bd2b7ac2ad0b4",
+    "source": "&1171 Update, Central.",
+    "target": "&1171 汇报最新情况，中枢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2fc4beebb43b4dba",
+    "source": "&128 What is the situation, Dr Lao?",
+    "target": "&128 情况如何，劳博士？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "337e581931d49086",
+    "source": "&1172 Dr Baxter is certainly...dead...",
+    "target": "&1172 巴克斯特博士确实……死了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d639d257a12e444",
+    "source": "&1173 He's been decapitated...and not cleanly, either.",
+    "target": "&1173 他的头没了……而且，手法并不干净。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a08f313cb287d2cf",
+    "source": "&129 His head has been removed?",
+    "target": "&129 他的头被移除了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d0bcd58004067a8",
+    "source": "&1174 More like DESTROYED.",
+    "target": "&1174 更像是被打烂了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf0f8893a88ada13",
+    "source": "&1175 At a glance, this would be the most likely cause of death.",
+    "target": "&1175 乍看之下，这应该最有可能是死因。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "67c62d757874320f",
+    "source": "&132 What is your estimation of the incident, Dr Lao?",
+    "target": "&132 你对这起事件有何判断，劳博士？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "41d92df66f0cdf72",
+    "source": "&1178 There's too much we can't say for sure.",
+    "target": "&1178 还有太多事，无法确定。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b6fd4634487bf11e",
+    "source": "&1179 We don't know precisely when Baxter was murdered.",
+    "target": "&1179 我们不知道巴克斯特被杀的确切时间。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f41f42bfea120a30",
+    "source": "&1180 We can't even be sure that this was the cause of death.",
+    "target": "&1180 甚至无法确定，这就是死因。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8edcb40e7797b8e0",
+    "source": "&133 That is a fair assessment. A clearer picture will no doubt follow the autopsy.",
+    "target": "&133 合理的判断。尸检之后，无疑会有更清楚的结果。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "003059732cdffa54",
+    "source": "&1181 Don't send in anyone yet. I still need to carry out a preliminary.",
+    "target": "&1181 先别派人来。我还需要做初步检查。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea2c80e1db0de793",
+    "source": "&134 I understand. Continue your investigation of events surrounding the incident.",
+    "target": "&134 我理解。请继续调查事件发生时的相关情况。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1b56eece0a19a7b2",
+    "source": "&1182 Understood. Lao out.",
+    "target": "&1182 收到。劳，通话结束。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc1d46c16e7c90b6",
+    "source": "&1183 I hope I can find SOMETHING to get Regis off the hook...",
+    "target": "&1183 希望能找到点什么，帮里吉斯洗脱嫌疑……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "843d36def6e18743",
+    "source": "&1176 Nothing unusual found on the body, Central.",
+    "target": "&1176 尸体上没发现异常，中枢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fb2a0054d6126323",
+    "source": "&1177 Estimation on time of death?",
+    "target": "&1177 能估算死亡时间吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c51d82fe56c3398e",
+    "source": "&130 The climate control in the specimen lab is compromising your sensors.",
+    "target": "&130 样本实验室的温控系统，正在影响你的传感器读数。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "273cd29f55120974",
+    "source": "&131 Ambient temperature is just above freezing.",
+    "target": "&131 环境温度略高于冰点。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3364751cac2c8141",
+    "source": "&512 Drones on rails slide between storage areas, tirelessly sorting samples in the frigid warehouse.",
+    "target": "&512 轨道无人机穿梭于各个存储区，在寒冷的仓库中不知疲倦地分拣样本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e235499686aac8ad",
+    "source": "&1161 I haven't examined the body properly, yet!",
+    "target": "&1161 我还没仔细检查尸体呢！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

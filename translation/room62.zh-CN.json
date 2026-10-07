@@ -1,0 +1,458 @@
+[
+  {
+    "id": "dacf15163a11c489",
+    "source": "Outside",
+    "target": "外面",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "54777cb880d7ba98",
+    "source": "Gas Tap",
+    "target": "供气阀",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7e345470de240d11",
+    "source": "Patch",
+    "target": "补片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7989480e41e35444",
+    "source": "Doors",
+    "target": "门",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26e10201e20a3190",
+    "source": "&1711 You're not going to shoot me, that's how I -",
+    "target": "&1711 你不会朝我开枪，我就是这么——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23ae9b03eb5127a8",
+    "source": "&1712 -fzzzt-",
+    "target": "&1712 ——滋滋——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4443d88eef3763a0",
+    "source": "&1242 ...Regis? You still there?",
+    "target": "&1242 ……里吉斯？还在吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8bb1870a2b24f0ca",
+    "source": "&70 Stop! Stop! Just...stop shooting at us!",
+    "target": "&70 住手！住手！别……别再朝我们开枪了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "625361c290b1a30f",
+    "source": "&71 You'll blow the whole damned aerostat up!",
+    "target": "&71 你会把整艘浮空艇炸掉的！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d2d7613fc1d4223",
+    "source": "&1243 I'm about to come in, place your hands above your heads and remain where you are.",
+    "target": "&1243 我马上进去。双手举过头顶，待在原地。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8cb0f090fe2aa97a",
+    "source": "&1244 Regis, I've got the suspects holed up.",
+    "target": "&1244 里吉斯，我把嫌疑人堵在里面了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f0daa37c94fb9675",
+    "source": "&1245 What's your status?",
+    "target": "&1245 你那边怎么样？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1be28aa5a25f5a6a",
+    "source": "&29 VERIFY IDENTITY - VOICEPRINT REQUIRED",
+    "target": "&29 验证身份——需要声纹",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "810df49d77b8ff5a",
+    "source": "&13 Cobalt, one, eight, sigma.",
+    "target": "&13 钴蓝，一，八，西格玛。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "88c551565ec5217e",
+    "source": "&30 VOICEPRINT CONFIRMED. PLEASE EXIT TARGETING ZONE.",
+    "target": "&30 声纹已确认。请离开瞄准区域。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "75c3457b03367d31",
+    "source": "&14 Cobalt, one, eight...hey, what's happened?",
+    "target": "&14 钴蓝，一，八……嘿，怎么回事？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "db27d9061ea57e11",
+    "source": "&31 VOICEPRINT NOT IDENTIFIED",
+    "target": "&31 未识别声纹",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0ad015f7a68b6ace",
+    "source": "&15 No, wait, it's cobalt, one, eight, sigma!",
+    "target": "&15 不，等等，是钴蓝，一，八，西格玛！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2faff398fe5d3356",
+    "source": "&32 TERMINATING SECURITY THREAT",
+    "target": "&32 正在消除安全威胁",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77ae902bee7cd17a",
+    "source": "&16 Wait, stop!",
+    "target": "&16 等等，住手！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d5ac2f39e7f3344",
+    "source": "&33 WARNING - AMMUNITION DEPLETED",
+    "target": "&33 警告——弹药耗尽",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4ba8f029988322a3",
+    "source": "&34 TARGET ACQUIRED",
+    "target": "&34 已锁定目标",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4d9b08a5e426c8e7",
+    "source": "&35 ENTERING POWERSAVE MODE",
+    "target": "&35 进入省电模式",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a939fdf4fa61c45",
+    "source": "&36 TARGET LOST",
+    "target": "&36 目标丢失",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f62c6e7a6e6a39cf",
+    "source": "&6246 That was close...",
+    "target": "&6246 好险……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae9aae620ca20f95",
+    "source": "&1246 That was close...",
+    "target": "&1246 好险……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "964d52b847e4e1f3",
+    "source": "&1247 I...uh...",
+    "target": "&1247 我……呃……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4fe001524965b742",
+    "source": "&6247 I...uh...",
+    "target": "&6247 我……呃……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a50e146b0241cf82",
+    "source": "&37 PASSWORD INCORRECT",
+    "target": "&37 密码错误",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d714ec7c55c51cab",
+    "source": "&1248 It's still a long way down...",
+    "target": "&1248 下面还是好深……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "97ef071445078590",
+    "source": "&6248 It's still a long way down...",
+    "target": "&6248 下面还是好深……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e892653af7a1bf4",
+    "source": "&1249 I'm not goi...hey, what happened?",
+    "target": "&1249 我不打算……嘿，怎么回事？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d3d08003926bb6c",
+    "source": "&1250 Oh, right, helium.",
+    "target": "&1250 哦，对，氦气。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a05f8a47b8916396",
+    "source": "&1251 I'm not going back out there again! I'd rather take my chances in here.",
+    "target": "&1251 我才不再出去了！宁愿在这里冒险。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "32d689c40c1a63d4",
+    "source": "&1252 Anyone comes through that door, Chantelle - you make them regret that decision.",
+    "target": "&1252 谁敢穿过那扇门，尚特尔，就让他后悔。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ff5be0cfab2db52",
+    "source": "&38 Got it!",
+    "target": "&38 明白！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "113952f6143290ef",
+    "source": "&623 A lockable hatch, connected to a ladder. Based on your position, you reckon that it leads to the hallway on the lower deck.",
+    "target": "&623 一扇可上锁的舱口，连着梯子。根据你所在的位置，应该通往下层甲板的走廊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e39f99476836983",
+    "source": "&624 A ferocious-looking automated turret has been set up on the catwalk, likely to stop you getting at the aerostat's control center.",
+    "target": "&624 一座凶狠的自动炮塔被架在通道上，很可能是为了拦住你，不让你接近浮空艇的控制中心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ec7e95af165e682",
+    "source": "&1253 I'm not sure I should be resupplying it in its current state.",
+    "target": "&1253 它现在这样，还是别给它补弹药了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7056c4c085a05d02",
+    "source": "&1254 All the thanks I'll get is it turning round and pasting me.",
+    "target": "&1254 它回头把我轰成肉泥，就是对我的感谢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9b87047849f0f1a6",
+    "source": "&1255 Here you go.",
+    "target": "&1255 给你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2d27adaeb9e49bf",
+    "source": "&39 Nom nom nom",
+    "target": "&39 啊呜啊呜啊呜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55ccf004f8c361b8",
+    "source": "&625 A gas-release valve on the side of the enormous steel cylinder. This is likely to be where hoses are connected for lifting gas to be pumped elsewhere.",
+    "target": "&625 巨大钢筒侧面的排气阀。软管应该接在这里，把升力气体输往别处。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e3f508196a6a5139",
+    "source": "&1259 Yep, they keep helium in here as well.",
+    "target": "&1259 没错，氦气也存在这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1525fd70e1c34ad0",
+    "source": "&626 Though it appears to have been broken in the past, the staples holding the 'temporary' patch in place are too strong to be removed by hand.",
+    "target": "&626 这里以前似乎坏过。固定“临时”补片的钉扣太牢，没法徒手取下。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "790b6870435a6776",
+    "source": "&628 The pressure inside and out of the gas bag has reached a balance - nothing more's going to come rushing out of it.",
+    "target": "&628 气囊内外的压力已经平衡，不会再有气体猛地喷出来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a1c3fbe9c798b48",
+    "source": "&689 A ragged patch on the side of one of the gas-bags. These stitches are probably a temporary measure until a more durable repair can be made, but given the age of this bucket you're unsure how likely that is to happen.",
+    "target": "&689 一个气囊侧面破烂的补片。这些缝补应该只是临时措施，之后再作更牢靠的修复。不过，这艘破船这么老，你不确定还有没有那一天。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5be7b6b1f817e3c",
+    "source": "&690 A ragged patch on the side of one of the gas-bags. No more gas is escaping, suggesting that the pressure's reached equilibrium in this node.",
+    "target": "&690 一个气囊侧面破烂的补片。已经没有气体逸出，说明这一段的压力达到了平衡。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "736d4ea33b7d65ac",
+    "source": "&691 A ragged patch on the side of one of the gas-bags, rippling as helium gas escapes from its high-pressure container.",
+    "target": "&691 一个气囊侧面破烂的补片，随着氦气从高压容器中逸出而抖动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bc8ba1bda2b58cd",
+    "source": "&709 The tear's already been reopened - helium gas billows from the rupture.",
+    "target": "&709 裂口已经重新打开，氦气正从破口不断喷出。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a47bce3faba93912",
+    "source": "&710 The tear can't be widened, and you've certainly no desire to repair it.",
+    "target": "&710 裂口没法再扩大了，而你也完全不想修它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a2a8b4913bfd6b20",
+    "source": "&630 For all the thickness of the door, those AP rounds have made a terrifying mess of it. You wonder if anyone was standing behind it.",
+    "target": "&630 门虽然厚，可那些AP穿甲弹已经把它打得惨不忍睹。不知道，有没有人站在后面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "58e1c516f4955c2c",
+    "source": "&1256 You still in there?",
+    "target": "&1256 你们还在里面吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "426041018702c134",
+    "source": "&72 Yes! Just...don't shoot! Please!",
+    "target": "&72 在！别……别开枪！求你了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66efee9df95f4da8",
+    "source": "&728 The doors to the command section have been sealed, and are well-guarded.",
+    "target": "&728 通往指挥区的门已经封闭，守卫严密。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "18ad687922104912",
+    "source": "&1492 Blast-resistant steel. I'm going to need something stronger to get through.",
+    "target": "&1492 抗爆钢板。想过去，得找更厉害的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "71993564f0f652f1",
+    "source": "&729 He got what was coming to him.",
+    "target": "&729 他得到了应有的报应。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "0af74f4a1d07eae1",
+    "source": "Trance Den",
+    "target": "迷境馆",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8cb1ec80b58ae86f",
+    "source": "Manhole",
+    "target": "窨井",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9cb5654b55401601",
+    "source": "Signs",
+    "target": "标牌",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a7a10aa981a61ad",
+    "source": "&541 This is the place Jinsil said to meet up at.",
+    "target": "&541 金希尔说，要在这里碰面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f4b6c73c163caa26",
+    "source": "&542 What a dump...this city just gets worse and worse every time I leave the Trance.",
+    "target": "&542 真是个破地方……每次离开迷境，这座城市都比上次更糟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "80877050fd479ed3",
+    "source": "&77 Hey! How'd you get in?!",
+    "target": "&77 嘿！你怎么进来的？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bfba9cc6e8434626",
+    "source": "&543 I...uhh...",
+    "target": "&543 我……呃……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12f4681609abc5f2",
+    "source": "&78 Go on, shove off.",
+    "target": "&78 快滚吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b2c857cfb803a1a",
+    "source": "&79 Lousy thralls.",
+    "target": "&79 没用的迷奴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1fad4c9382e66017",
+    "source": "&80 Hello? Is anyone there?",
+    "target": "&80 喂？有人吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46e0b21308b2d65c",
+    "source": "&81 Lousy city...damn power...",
+    "target": "&81 破城市……该死的供电……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4df2b5182cb07660",
+    "source": "&82 ...when I find that girl...",
+    "target": "&82 ……等我找到那女孩……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dba783d6751cbff2",
+    "source": "%d km/h",
+    "target": "%d公里/小时",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d1776c4ed6808cf",
+    "source": "871 Cyrus Street[NW Tenth",
+    "target": "赛勒斯街871号[西北第十区",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2a49c1efd7266217",
+    "source": "&687 An underground Trance den. People come here if they can't get online at home.",
+    "target": "&687 一家地下迷境馆。在家上不了网的人，就来这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8c96d43fafe7dad1",
+    "source": "&688 Kinda thought it'd look...slicker. Guess they're playing up the whole \"underground\" thing.",
+    "target": "&688 还以为会更……光鲜一点。看来，他们是想把“地下”这点做足。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b3d4d69cdb45299",
+    "source": "&689 ...or maybe it's just as grimy as everywhere else in this part of town.",
+    "target": "&689 ……也许，这片城区到处都一样脏。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ff78aeddf56403b",
+    "source": "NINJA",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "556728f7f45600ac",
+    "source": "WATER",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "99d79ecea6e042d5",
+    "source": "&690 These manholes are the way into the city's sewer and utility tunnels.",
+    "target": "&690 这些窨井，通往城市的下水道和公用设施隧道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7c3f79a501864c4e",
+    "source": "&544 If all it would take to fix was a little recoding, then maybe I could help.",
+    "target": "&544 如果重新写点代码就能修好，也许我还能帮忙。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66b9fb62654d75ea",
+    "source": "&545 This...is a little more serious.",
+    "target": "&545 可这个……严重多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "321266fb3fb9f83c",
+    "source": "&502 The coil is twisted and the antenna snapped. You're no troubleshooter, but you're pretty sure it won't work anymore all the same.",
+    "target": "&502 线圈扭曲，天线折断。你不是维修专家，可也能确定，这东西没法再用了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "270a641e5fd9f173",
+    "source": "&546 What's this aerial for?",
+    "target": "&546 这根天线是做什么的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc542470894f7815",
+    "source": "&83 Visitors from outta town.",
+    "target": "&83 接待外地客人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "519e8a2d2c7dcd5c",
+    "source": "&547 Users connecting from other countries to the Trance den's network?",
+    "target": "&547 外国用户，通过这家迷境馆的网络接入？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7a94cc96f2b6c7b",
+    "source": "&84 Newton's a bit funny about who gets to log on, sometimes.",
+    "target": "&84 牛顿市有时候，对谁能上网管得挺怪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6a140691f3115cfd",
+    "source": "&548 So you figured you'd give them a hand by connecting them from abroad?",
+    "target": "&548 所以，你就从国外把他们接进来，帮他们一把？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c990231adeb3a92c",
+    "source": "&85 Exactly. Foreigners pay better.",
+    "target": "&85 正是。外国人付的钱更多。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7f1be831f5b27068",
+    "source": "&503 Though the coil and antenna are now smashed out of shape, it doesn't seem to be any more removable than before.",
+    "target": "&503 虽然线圈和天线已经撞得变了形，但似乎并没有比之前更容易拆下来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cd5e22406dd553ba",
+    "source": "&504 The antenna juts from the wall, sufficiently high to enhance its signal gain, though low enough to hide if CEL should make a patrol of the neighborhood. Unfortunately, this still places it just outside your reach.",
+    "target": "&504 天线从墙上伸出，高度足以增强信号，又足够低，能在CEL巡查附近时藏起来。可惜，这个高度也刚好让你够不着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38a059cb987c0c60",
+    "source": "&86 Hey, knock it off!",
+    "target": "&86 嘿，住手！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc33dfcc1dcc694c",
+    "source": "&87 You already broke it.",
+    "target": "&87 你已经把它弄坏了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f5258f5548526e21",
+    "source": "&88 What the Hell?! You just cost me my overseas business.",
+    "target": "&88 什么鬼？！你让我没法做海外生意了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ee9cbdcbd0cc041",
+    "source": "&89 You're barred, thrall.",
+    "target": "&89 你被禁入了，迷奴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6fddcec91463d03c",
+    "source": "&549 But I've got to get in there!",
+    "target": "&549 可我必须进去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d518ab79acd5bbfc",
+    "source": "&90 Go nuke yourself.",
+    "target": "&90 去把自己炸了吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6dea82c940bc152d",
+    "source": "&691 Ads for everything from sleazy bars, to sex, to cosmetics. Nothing I'd want, though.",
+    "target": "&691 从下流酒吧、性服务，到化妆品，什么广告都有。不过，没一样是我想要的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9b054598ef424cc4",
+    "source": "&692 I feel like the whole neighborhood was designed to alienate me.",
+    "target": "&692 整个街区，简直像是专门设计来排斥我的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "efaea41796afa868",
+    "source": "&474 I can't reach it from here!",
+    "target": "&474 从这里够不着！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

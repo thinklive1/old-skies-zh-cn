@@ -1,0 +1,114 @@
+[
+  {
+    "id": "4e699d1cb60f80dc",
+    "source": "PART1",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "ed9b16f8cbc620f0",
+    "source": "&1 Looks like you found the place.",
+    "target": "&1 看来你找对地方了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae0d30873c878033",
+    "source": "&99 You're sure this is the one?",
+    "target": "&99 你确定就是她？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c460c7bfa7813ae9",
+    "source": "&2 I'm positive. Latha Sesame. Goes by 'Mandala' in the Trance.",
+    "target": "&2 确定。拉塔·塞萨米。她在迷境里叫“曼荼罗”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "026835b9aa288796",
+    "source": "&5 There's a big gap in the records, and it's shaped exactly like her.",
+    "target": "&5 记录里有一大块空白，正好把她的痕迹抹得干干净净。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "82255bf946a09d04",
+    "source": "&101 I thought you said he put a lot of effort into it?",
+    "target": "&101 你不是说，他为这事费了不少心思吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "51594f4907d5f01e",
+    "source": "&7 They've been hiding her activity, but weren't covering up their own work very well.",
+    "target": "&7 他们把她的活动藏起来了，可自己的手脚却没掩饰好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "63a4875b40f87085",
+    "source": "&102 If they did, then I -",
+    "target": "&102 要是他们真这么干了，那我——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "903a504fe25e3510",
+    "source": "&103 ARGH!",
+    "target": "&103 啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "48252784fc736981",
+    "source": "&8 How are the headaches?",
+    "target": "&8 头疼得怎么样了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "00e205f7a27b4e20",
+    "source": "&104 Won't be a problem for much longer.",
+    "target": "&104 再过不久就不会是问题了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06e5aa20cebaf1e4",
+    "source": "&9 You understand the plan?",
+    "target": "&9 计划都清楚了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "198bff50775f3196",
+    "source": "&106 Don't worry, I know exactly what I'm doing.",
+    "target": "&106 放心，我知道自己在做什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2413193cf2e2bf3e",
+    "source": "&107 After all, I've been planning this for years...",
+    "target": "&107 毕竟，我为这件事筹划了好多年……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

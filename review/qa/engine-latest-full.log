@@ -1,0 +1,142 @@
+Adventure Game Studio v3.6 Interpreter
+Copyright (c) 1999-2011 Chris Jones and 2011-2026 others
+Engine version 3.6.1.35, 32-bit LE
+
+Installing exception handler
+Initializing backend libs
+SDL Version: 2.28.5
+Initializing game data
+Looking for the game data.
+ Cwd: C:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot
+ Path arg: 
+Found game data embedded in executable
+Located game data pak: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/Technobabylon.exe
+Opened game data file: game28.dta
+Game data version: 3060114
+Compiled with: 3.6.1.35
+Startup directory: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/
+Data directory: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/
+Setting up game configuration
+User config directory: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/.
+User data directory: C:\Users\46963\Documents\Codex\2026-10-02\new-chat\work\technobabylon\pilot\test-run-5191e814\userdata
+Shared data directory: C:\Users\46963\Documents\Codex\2026-10-02\new-chat\work\technobabylon\pilot\test-run-5191e814\shared
+Voice pack found: speech.vox
+audio.vox found and initialized.
+Initializing TTF renderer
+Initializing mouse: number of buttons reported is 3
+Initializing audio
+Requested audio driver: dummy
+Audio driver: dummy
+AudioCore: opened device "Default OpenAL playback device"
+Supported sound decoders:
+ - Play modules through ModPlug : 669,AMF,AMS,DBM,DMF,DSM,FAR,GDM,IT,MDL,MED,MOD,MT2,MTM,OKT,PTM,PSM,S3M,STM,ULT,UMX,XM,
+ - MPEG-1 Audio Layer I-III : MP3,MP2,MP1,
+ - Microsoft WAVE audio format : WAV,
+ - Audio Interchange File Format : AIFF,AIF,
+ - Sun/NeXT audio file format : AU,
+ - Ogg Vorbis audio : OGG,
+ - Creative Labs Voice format : VOC,
+ - Raw audio : RAW,
+ - Shorten-compressed audio data : SHN,
+ - Free Lossless Audio Codec : FLAC,FLA,
+Sound cache set: 32768 KB
+Install exit handler
+Initialize path finder library
+Load game data
+Game title: 'Technobabylon'
+Game uid (old format): `1186933`
+Game guid: '{3d676a17-f50f-467f-bc87-f79ddcb63550}'
+Game GUI version: 119
+Requested script API: v3.5.1 (8), compat level: v3.5.1 (8)
+Loaded font 0: agsfnt0.ttf, req size: 16; nominal h: 16, real h: 20, extent: 0,20
+Loaded font 1: agsfnt1.ttf, req size: 32; nominal h: 32, real h: 36, extent: 0,36
+Loaded font 2: agsfnt2.ttf, req size: 32; nominal h: 32, real h: 38, extent: 0,38
+Loaded font 3: agsfnt3.ttf, req size: 0; nominal h: 16, real h: 20, extent: -1,20
+Loaded font 4: agsfnt4.ttf, req size: 16; nominal h: 16, real h: 18, extent: 0,18
+Loaded font 5: agsfnt5.ttf, req size: 16; nominal h: 16, real h: 18, extent: 0,18
+Loaded font 6: agsfnt6.ttf, req size: 16; nominal h: 16, real h: 20, extent: 0,20
+Loaded font 7: agsfnt7.ttf, req size: 24; nominal h: 24, real h: 27, extent: 0,27
+Initializing resolution settings
+Game native resolution: 640 x 400 (32 bit)
+Mouse cursor graphic area: (0,0)-(639,399) (640x400)
+Try library path: agsteam-unified.dll
+Plugin 'agsteam-unified' loaded from 'agsteam-unified.dll', resolving imports...
+Checking for disk space
+Device display resolution: 1024 x 768
+Graphic settings: driver: Software, windowed: yes, screen size: 0 x 0, game scale: round
+Graphic settings: refresh rate (optional): 0, vsync: 0
+Using graphics factory: Software
+Created graphics driver: SDL 2D Software renderer
+Supported gfx modes (32-bit): 
+	1024x768;
+Attempt to find nearest supported resolution for screen size 640 x 400 (32-bit) windowed, on display 0
+Maximal allowed window size: 1006 x 721
+Attempt to switch gfx mode to 640 x 400 (32-bit) windowed, on display 0
+SDLRenderer: failed to query renderer info: Parameter 'renderer' is invalid
+Graphics driver set: SDL 2D Software renderer
+Graphics mode set: 640 x 400 (32-bit) windowed, on display 0
+Graphics mode set: refresh rate (optional): 0, vsync: 0
+Render frame set, render dest (0, 0, 639, 399 : 640 x 400)
+Requested gfx filter: StdScale
+Graphics filter set: 'StdScale', filter dest (0, 0, 639, 399 : 640 x 400)
+Using gfx filter: StdScale
+Mouse speed control: enabled, unit: 1.000000, user value: 1.000000
+Touch-to-mouse motion mode: absolute
+Mouse cursor graphic area: (0,0)-(639,399) (640x400)
+Multitasking mode set: 0
+Setting up window
+Multitasking mode set: 0
+Initialize sprites
+Sprite cache set: 131072 KB
+Initialize game settings
+Precache view 2 (loops 0-3) with 36 frames, total = 0 ms, average file->mem = 0 ms, bm->tx = 0 ms,
+		loaded 0 sounds = 0 ms
+	Sprite cache: 1 -> 493 KB, texture cache: 0 -> 0 KB
+Translation loaded: Technobabylon_zh_CN.tra
+Translation's encoding: UTF-8
+Game's source encoding hint: own: 1252, from TRA: .1252
+Converting UTF-8 TRA keys to the game's encoding (.1252)
+Translation initialized: Technobabylon_zh_CN (format: UTF-8)
+Prepare to start game
+Game : (room:-10) Cursor mode set to 0
+Engine initialization complete
+Starting game
+Game : (room:-10) Cursor mode set to 0
+Game : (room:-10) Playing music 0
+Game : (room:-10) Transition-out in room -10
+Game : (room:-10) Loading room 2
+Game : (room:2) Mouse bounds constrained to (0,0)-(639,399)
+Game : (room:2) Cursor mode set to 1
+Game : (room:2) Room camera released back to engine control
+Game : (room:2) Now in room 2
+Game.SetAudioTypeVolume: type: 3, volume: 100, change: all
+Game.SetAudioTypeVolume: type: 2, volume: 50, change: all
+Game : (room:2)[G 477] FileOpen: request: $SAVEGAMEDIR$/dsettings.ini, mode: rb
+Game : (room:2)[G 477] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/dsettings.ini
+	tried: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/test-run-5191e814/userdata/./dsettings.ini
+	alt try: 
+Game : (room:2)[G 524] FileOpen: request: $SAVEGAMEDIR$/dspeech.ini, mode: rb
+Game : (room:2)[G 524] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/dspeech.ini
+	tried: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/test-run-5191e814/userdata/./dspeech.ini
+	alt try: 
+Game : (room:2)[G 533] FileOpen: request: $SAVEGAMEDIR$/dspeed.ini, mode: rb
+Game : (room:2)[G 533] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/dspeed.ini
+	tried: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/test-run-5191e814/userdata/./dspeed.ini
+	alt try: 
+Game : (room:2)[G 542] FileOpen: request: $SAVEGAMEDIR$/sldsound.ini, mode: rb
+Game : (room:2)[G 542] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/sldsound.ini
+	tried: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/test-run-5191e814/userdata/./sldsound.ini
+	alt try: 
+Game : (room:2)[G 552] FileOpen: request: $SAVEGAMEDIR$/sldmusic.ini, mode: rb
+Game : (room:2)[G 552] ResolveScriptPath: failed to find a match for: $SAVEGAMEDIR$/sldmusic.ini
+	tried: c:/Users/46963/Documents/Codex/2026-10-02/new-chat/work/technobabylon/pilot/test-run-5191e814/userdata/./sldmusic.ini
+	alt try: 
+Game : (room:2)[R 72] Cursor mode set to 6
+Game : (room:2) Transition-in in room 2
+Game : (room:2)[? 161] Object 11 turned on
+Game : (room:2)[? 167] Object 11 turned off
+Game : (room:2)[? 167] Object 11 stop moving
+Game : (room:2)[R 17] Obj 12 start anim view 10 loop 2, speed 1, repeat 1, frame 0
+Game : (room:2)[? 161] Object 12 turned on
+Game : (room:2)[? 167] Object 12 turned off
+Game : (room:2)[? 167] Object 12 stop moving

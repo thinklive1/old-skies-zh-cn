@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-10-06T06:04:23.677685+00:00",
+  "all_checks_passed_from_git_export": true,
+  "payload_byte_identical": true,
+  "archive_sha256": "b02e3bea675e0190182673dbaad4bd55570790a15417bcf9bbe601d39002764a",
+  "english_catalog_sha256": "2e34cd71fca6112e061289cfa9dfe4a294058f8b17690b572d230f2bf03c109c",
+  "build_files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "size": 364816,
+      "sha256": "32ced35fa0713c4d8c03b892912019fe30c880b2e1ccf37eb3198ba3b79c37f5"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "sha256": "fc1579044164217f96cb9692661fb5b3a4c38a49b1d570fe8cc397dd405d5d76",
+      "size": 294200
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "sha256": "ab48066834c36f4a3c066d13dfb8ad934362f576b18031e406efdcee736b1961",
+      "size": 281308
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "sha256": "d5382c15bd6f241a878969674303ff4fa3ea95846599280f73adfa863fe74f82",
+      "size": 104548
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "sha256": "17b297dda43ee8d258a255837616bcd6ea88812b52d749732ac2dc4a715d008d",
+      "size": 288108
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "sha256": "f9d01e116f88023888b24e12aacfb8e5ec146038036a20aa0f637e54a7020a8f",
+      "size": 288108
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "sha256": "19b038caeeaedbad0afbec16db91a7b689bc4fbfeb9608d069978a7098f9666c",
+      "size": 294456
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "sha256": "47baaa5cc2e6d83508ba14f54925fc789a6c278b6d39f3045a2634f3d090fb57",
+      "size": 281260
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "sha256": "223cb1ae650d90b9370dd23f36b137b61f811b8eccdb87d048d7dcad2053cef6",
+      "size": 320456
+    }
+  ]
+}

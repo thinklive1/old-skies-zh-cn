@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1805fd723a265d6d",
+    "source": "Elevator Controls",
+    "target": "电梯控制装置",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a03d4885df1399c6",
+    "source": "CEL Officer",
+    "target": "CEL警员",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d00f62ddfce0fa6c",
+    "source": "&1504 This is it - Animus Organics.",
+    "target": "&1504 就是这里，阿尼姆斯有机公司。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "304311b922f0494f",
+    "source": "&1505 You think Central's right on this one?",
+    "target": "&1505 你觉得中枢这次说对了吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83ebd34703476fbe",
+    "source": "&2037 I still don't think an AI, however powerful, could predict a crime like this.",
+    "target": "&2037 我还是不认为人工智能能预测这种犯罪，哪怕它再强大。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7fdea42f7aada9de",
+    "source": "&1506 However, if it DOES help us catch the Mindjacker...",
+    "target": "&1506 不过，如果它真能帮我们抓到意识劫持者……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bca074b3775290ee",
+    "source": "&2038 Central hasn't exactly been generous with the details.",
+    "target": "&2038 中枢也没给我们多少具体信息。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c4de72a40b375f89",
+    "source": "&2039 I don't really think we're going to find anything here.",
+    "target": "&2039 我真不觉得能在这儿查到什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dea513747b8e2c2f",
+    "source": "&2040 There are other, stronger leads we ought to be chasing.",
+    "target": "&2040 我们应该去查别的线索，那些更靠谱。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "050a6b5991f2e963",
+    "source": "&2041 What the hell?!",
+    "target": "&2041 搞什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1426be1f2b8d222d",
+    "source": "EuroFed Adopts Metric Time",
+    "target": "欧洲联邦采用公制时间",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0a8b03aa976aaf5f",
+    "source": "Continuing a long-standing process of standardisation, the Parliament of the European Federation (EF) has today ratified the uptake of metric time across the 64-member union. The measure, signed into law by EF Prime Minister Jacqueline Santini at 06:52:80 (15:40pm), is planned to be rolled out over the course of the next four years. Under the scheme, measure of the time of day is to be divided into ten hours, each with 100 minutes, made up of 100 seconds. [ ",
+    "target": "欧洲联邦（EF）议会今日批准在其64个成员国全面采用公制时间，延续了联邦长期以来推行的标准化进程。欧洲联邦总理雅克琳·桑蒂尼于06:52:80（下午15:40）签署该法案，预计将在未来四年内逐步实施。新制将一天划分为十小时，每小时100分钟，每分钟100秒。 [ ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14745eaf6c816a8f",
+    "source": "Santini, whose Federalist Party have been one of the keenest supporters of the new policy, greeted the change enthusiastically. 'Computing and commercial time measurement has long been carried out in a metric scale with atomic timing, and the division into 24 hours has itself merely been an arbitrary convention of history.' [  ",
+    "target": "桑蒂尼所在的联邦党一直是这项新政策最积极的支持者之一，她也热情欢迎这一变革。“计算机和商业计时早已采用以原子计时为基础的十进制尺度，把一天分成24小时，本身也只是历史上人为规定的惯例。” [  ",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06e5806a14f5b05e",
+    "source": "While commonly referred to as 'metric' time, the measurement of a day into periods of ten should more accurately be known as 'decimal' time. Internationally the EF's policy has gained little traction, if not outright criticism, with some leaders condemning the changes as 'unnatural'.",
+    "target": "这种时间制通常被称作“公制时间”，但将一天划分为十等份，更准确的叫法应该是“十进制时间”。在国际上，欧洲联邦的这项政策即使未遭公开批评，也少有支持；一些国家领导人斥其为“不自然”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "875eb8e63c63c018",
+    "source": "The Oceania Cooperative's government was less emotive, issuing a statement that though the change was 'one demanded by the European voter, which we will respect as a democratic institution', they made clear that the OC has no plans to adopt any similar measures.",
+    "target": "大洋洲合作体政府的反应较为平静。其声明表示，这项变革“体现了欧洲选民的诉求，作为民主机构，我们对此予以尊重”，但也明确指出，大洋洲合作体并无采用类似措施的计划。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e20cc199a02d7e8",
+    "source": "Wednesday 09 July 2087",
+    "target": "2087年7月9日，星期三",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1c6a2f62fc3fef43",
+    "source": "&756 The controls for summoning the elevator. A keycard slot sits below the panel.",
+    "target": "&756 用来呼叫电梯的控制面板。面板下方有一个钥匙卡插槽。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "218d7e00c5eecf20",
+    "source": "&1507 It's unlocked floor 26 for us.",
+    "target": "&1507 它给我们解锁了26层。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b487865de7080763",
+    "source": "&2042 Must be where its owner was working.",
+    "target": "&2042 卡的主人应该是在那层工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49f9f4ccc1b17814",
+    "source": "&2043 The elevator's locked. Panel says 'authorized personnel only'.",
+    "target": "&2043 电梯锁着。面板上写着“仅限授权人员”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b320a245cc920fbd",
+    "source": "&1508 I guess we need to find someone who counts as authorized, then.",
+    "target": "&1508 那看来，得先找个有权限的人了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "95889a1ec0222ec9",
+    "source": "&758 The body lies here, unmoved since your earlier visit to the office. Central must want someone more skilled than the corpsmen to handle it.",
+    "target": "&758 尸体还躺在这里，从你上次来办公室到现在，一直没动过。中枢大概想找个比医务员更专业的人来处理。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14d172c28b069122",
+    "source": "Picked up: Keycard",
+    "target": "获得：钥匙卡",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6e1a02984e468ed",
+    "source": "&1509 What'd you find?",
+    "target": "&1509 找到什么了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c33a7c8be9558055",
+    "source": "&2044 A security card. This man was custodial staff - a janitor.",
+    "target": "&2044 一张门禁卡。这个人是后勤人员，做清洁的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "906c377f21edaac0",
+    "source": "&1510 Probably not our Mindjacker's target, then.",
+    "target": "&1510 那他大概不是意识劫持者的目标。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2c6de93e34ec2f70",
+    "source": "&2045 Still...I don't think this was an accident.",
+    "target": "&2045 不过……我不觉得这是意外。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "067f68fdf8a13615",
+    "source": "&2046 We need to find out what's going on here.",
+    "target": "&2046 得查清这里发生了什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "46c0b3557ea1ab32",
+    "source": "&2047 I can't find anything else useful on him. Lao, your opinion?",
+    "target": "&2047 他身上没别的有用东西了。劳，你怎么看？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e4cab8282330c0b7",
+    "source": "&2048 Max! Knock that off.",
+    "target": "&2048 麦克斯！别闹了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "80023b0dc1b6b5dd",
+    "source": "&1511 Well, he was definitely killed by the fall.",
+    "target": "&1511 嗯，他肯定是摔死的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6ae9e25a78203a62",
+    "source": "&2049 Thanks. Real helpful.",
+    "target": "&2049 多谢。真有帮助。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "44f15aa39bd352c7",
+    "source": "&1512 No, I mean he wasn't mindjacked.",
+    "target": "&1512 不是，我是说他没遭到意识劫持。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "746e97e39e9235e5",
+    "source": "&1513 He doesn't have the same neuropathy associated with it.",
+    "target": "&1513 他没有那种意识劫持造成的神经损伤。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b4eedfc6e7587f2",
+    "source": "&2050 Hm...so maybe Central was wrong?",
+    "target": "&2050 唔……这么说，中枢可能错了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16ef4469f2b0751a",
+    "source": "&1514 There's still a body though - we need to find out what's going on.",
+    "target": "&1514 但这里确实死了人。得查清发生了什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a93bc9ee85139d2b",
+    "source": "&759 You wonder when the coroners are going to get here to clean up.",
+    "target": "&759 不知道验尸官什么时候才会来收拾现场。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fefd40f47a583340",
+    "source": "&760 This man is the victim of a long drop - but from where? And why?",
+    "target": "&760 这个人从高处坠落而死。但他是从哪里掉下来的？又为什么会掉下来？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ed96b714764c3c7",
+    "source": "&2051 I think he's a little beyond that.",
+    "target": "&2051 我看他已经用不上这个了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0db372f5c234b6b6",
+    "source": "&761 An expensive-looking car sits on the road. If you were in a worse mood, you might be inclined to ticket it.",
+    "target": "&761 路边停着一辆看起来很贵的车。要是心情再差一点，你可能就给它开罚单了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "13dea07f74aa6b46",
+    "source": "&762 Fortunately, nobody was inside the car when the fall happened. You're pretty sure, at least.",
+    "target": "&762 幸好出事的时候，车里没人。至少，你觉得应该没人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8df1347f1a219ee",
+    "source": "&763 While you *technically* have the authority to commandeer vehicles for CEL business, Central would need a very good reason to override the car's systems.",
+    "target": "&763 严格说来，你有权为CEL公务征用车辆，但要让中枢接管车载系统，得有个足够充分的理由。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9a3691d4e16923e",
+    "source": "&764 Without the right tools, it'd be too dangerous to go digging through the wreckage.",
+    "target": "&764 没有合适的工具，翻动这些残骸太危险了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "279b7affcd3ee5be",
+    "source": "&2052 Hey, anyone there?",
+    "target": "&2052 喂，有人吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e93f1ff6a0093813",
+    "source": "&1515 Doesn't look like anyone's around.",
+    "target": "&1515 好像没人在。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7fc29924cf2b2ca7",
+    "source": "&2053 Hey! Service?",
+    "target": "&2053 喂！有人接待吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b81703d1df271e60",
+    "source": "&1516 Animus must be one of those places that doesn't keep staff working nights. Very strange.",
+    "target": "&1516 阿尼姆斯居然不让员工上夜班。真奇怪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3a6d85a6b886ab26",
+    "source": "&2054 CEL agents! We want to talk to someone!",
+    "target": "&2054 CEL探员！我们要找人谈谈！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7729705e4e13e06f",
+    "source": "&1517 Looks like we'll just have to help ourselves.",
+    "target": "&1517 看来只能自己来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0682187e80ae0377",
+    "source": "&765 The company's front desk. In a big firm like this, you'd expect it to be manned 24/7, but the staff have disappeared.",
+    "target": "&765 公司的前台。这么大的公司，按说应该全天都有人值班，员工却全都不见了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ebc3a657ea6ee2ed",
+    "source": "&766 The elevator appears to be the only route to the higher floors. Security must be a concern here.",
+    "target": "&766 电梯似乎是通往楼上的唯一途径。这里应该很重视安保。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "19bdc9fc093f7682",
+    "source": "&2088 Carry on, corpsman.",
+    "target": "&2088 继续吧，医务员。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "40b33f4b95be097c",
+    "source": "&767 Though you don't give Central's predictions much credibility, you'd still better investigate. It'll make proving it wrong that much easier.",
+    "target": "&767 虽然你不太相信中枢的预测，最好还是调查一下。这样，要证明它错了就容易多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ceaf07a2661d1415",
+    "source": "&768 The car may be electric, but it's not compatible with the business-end of a stunner.",
+    "target": "&768 这车虽然是电动的，也用不上电击枪的枪口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

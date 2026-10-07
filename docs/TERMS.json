@@ -1,0 +1,928 @@
+[
+  {
+    "source": "Trance",
+    "target": "迷境",
+    "status": "locked",
+    "note": "共享意识网络；需结合完整剧情锁定，区别于普通恍惚状态",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Wetware",
+    "target": "湿件",
+    "status": "locked",
+    "note": "有机纳米技术产品，也用于连接意识与系统",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Mindjacker",
+    "target": "意识劫持者",
+    "status": "locked",
+    "note": "通过意识链接窃取或侵入目标思维",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Central",
+    "target": "中枢",
+    "status": "locked",
+    "note": "管理牛顿市的人工智能，作为专名使用",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Newton",
+    "target": "牛顿市",
+    "status": "locked",
+    "note": "非人物牛顿",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "CEL",
+    "target": "CEL",
+    "status": "locked",
+    "note": "保留组织缩写，按具体语境加探员/总部等"
+  },
+  {
+    "source": "Latha Sesame",
+    "target": "拉塔·塞萨米",
+    "status": "locked",
+    "note": "Latha 单独出现为拉塔",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Charlie Regis",
+    "target": "查理·里吉斯",
+    "status": "locked",
+    "note": "Regis 单独出现为里吉斯",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Max Lao",
+    "target": "麦克斯·劳",
+    "status": "locked",
+    "note": "Lao采用项目音译劳；原作未提供中文汉字，不推定具体汉姓。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Mandala",
+    "target": "曼荼罗",
+    "status": "locked",
+    "note": "拉塔的迷境网名",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Cheffie",
+    "target": "小厨",
+    "status": "locked",
+    "note": "食品处理器的厨师人格，语气亲切而程式化",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "gengineer",
+    "target": "基因工程师",
+    "status": "locked",
+    "note": "原文造词 gene + engineer；留意对爱好者的用法",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Fulcrum Tower",
+    "target": "支点大厦",
+    "status": "locked",
+    "note": "地点专名",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Epinephrine",
+    "target": "肾上腺素",
+    "status": "locked",
+    "note": "物品/化学名"
+  },
+  {
+    "source": "AP Ammunition",
+    "target": "穿甲弹",
+    "status": "locked",
+    "note": "armor piercing ammunition"
+  },
+  {
+    "source": "Cartridge",
+    "target": "药剂筒",
+    "status": "locked",
+    "note": "全局物品描述已确认用于注射器与液体药剂；memory cartridge 另译记忆卡匣"
+  },
+  {
+    "source": "Bolts",
+    "target": "铆钉",
+    "status": "locked",
+    "note": "工业气动铆钉枪弹药"
+  },
+  {
+    "source": "Bolt Gun",
+    "target": "铆钉枪",
+    "status": "locked",
+    "note": "global description identifies industrial rivet-gun"
+  },
+  {
+    "source": "Jinsil",
+    "target": "金希尔",
+    "status": "locked",
+    "note": "先音译，不能仅凭韩文含义译成真实",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Ran Shou-Man",
+    "target": "冉·寿曼",
+    "status": "locked",
+    "note": "音译；原文中文汉字未提供",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Traveller",
+    "target": "旅人终端",
+    "status": "locked",
+    "note": "随身通讯与扫描设备；短物品名可用旅人，但说明文本使用全名",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Grey Goo",
+    "target": "灰蛊",
+    "status": "locked",
+    "note": "对白解释为湿件制造单元的灾难性指数增殖"
+  },
+  {
+    "source": "mind-state",
+    "target": "意识状态",
+    "status": "locked",
+    "note": "统一为意识状态；可拆分为人格、职责与机体记忆，贯穿设备模块和被盗意识。"
+  },
+  {
+    "source": "platform memory",
+    "target": "机体记忆",
+    "status": "locked",
+    "note": "单个设备自身保存的经历，非通用性格或职责模块"
+  },
+  {
+    "source": "role",
+    "target": "职责",
+    "status": "locked",
+    "note": "合成人意识模块的功能认知与工作知识，不能译成演员角色",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Floordrobe",
+    "target": "地柜",
+    "status": "locked",
+    "note": "藏在卧室地板下的升降衣柜，描述必须说明位置",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Chantelle",
+    "target": "尚特尔",
+    "status": "locked",
+    "note": "合成人女仆名字，三种性格共用同一机体",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Liam Stepford",
+    "target": "利亚姆·斯特普福德",
+    "status": "locked",
+    "note": "S&S 制造商联络人",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "FSAS",
+    "target": "FSAS",
+    "status": "locked",
+    "note": "原作 Alleviation 世界观记录展开为 Federation of Southern African States；简称保持 FSAS，完整名称译南部非洲联邦。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Guy",
+    "target": "盖伊",
+    "status": "locked",
+    "note": "Dialog 15与17明确为联络员姓名；修正早期男子暂译。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "psychophage",
+    "target": "噬心病毒",
+    "status": "locked",
+    "note": "侵染意识/神经系统的恶意程序；trojan psychophage作噬心木马。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "human-resources trojan",
+    "target": "人力资源木马",
+    "status": "locked",
+    "note": "盖伊支线恶意程序专名，正文加引号。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Jahiliyyah",
+    "target": "贾希利亚",
+    "status": "locked",
+    "note": "组织名称；原文明确解释为无知，与Chishiki的知识含义形成讽刺。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Chishiki",
+    "target": "Chishiki",
+    "status": "locked",
+    "note": "媒体集团品牌保留原拼写；对白保留知识释义。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Greater Han Republic",
+    "target": "大汉共和国",
+    "status": "locked",
+    "note": "虚构政治实体，简称Greater Han/Han为大汉。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Quince",
+    "target": "昆斯",
+    "status": "locked",
+    "note": "医务员姓氏；自然名笑话解释为榅桲，与Sesame芝麻对应。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Amadi",
+    "target": "阿马迪",
+    "status": "locked",
+    "note": "昆斯名字。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Corpsman",
+    "target": "警员／医务员",
+    "status": "locked",
+    "note": "交通站的CEL现场执行人员译警员；昆斯的医护工作语境译医务员，依角色职责区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Niester",
+    "target": "尼斯特",
+    "status": "locked",
+    "note": "马丁·尼斯特，实验室实习生。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Vickerman",
+    "target": "维克曼",
+    "status": "locked",
+    "note": "实验室所属公司，暂用音译。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Vicky",
+    "target": "维琪",
+    "status": "locked",
+    "note": "实验室同事对维克莎的昵称，参照Dialog 21前后杀妻叙述。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "telepresence",
+    "target": "远程临场",
+    "status": "locked",
+    "note": "TP保持缩写；相关代工实验室为远程临场代工实验室。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Maladism",
+    "target": "病症主义",
+    "status": "locked",
+    "note": "借湿件短期体验旧疾病的虚构风潮。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "governor",
+    "target": "限制器",
+    "status": "locked",
+    "note": "假释条件下植入脑内的控制装置。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Hydroxypyruvate Isomerase",
+    "target": "羟基丙酮酸异构酶",
+    "status": "locked",
+    "note": "游戏内湿件分解酶名称；对应注射器选项。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "siege mode",
+    "target": "围城模式",
+    "status": "locked",
+    "note": "中枢受攻击时的防御状态；终端明确暂停双向通信。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "thrall",
+    "target": "迷奴",
+    "status": "locked",
+    "note": "沉迷迷境的贬称；Dialog 13紧接net-addict释义。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "sconto",
+    "target": "救济",
+    "status": "locked",
+    "note": "生活救济制度；sconto apartments沿用廉价公寓，on sconto译领救济。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "T-Mail",
+    "target": "迷境邮件",
+    "status": "locked",
+    "note": "迷境中的邮件服务。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Coordination Intelligence",
+    "target": "统筹智能",
+    "status": "locked",
+    "note": "简称CI，Dialog 24给出全称。中枢是城市治理CI；普通设施CI仍保留缩写。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Aurora",
+    "target": "极光事件",
+    "status": "locked",
+    "note": "虚构历史事件名称；工厂对白说明发生于十一年前，不当作普通自然极光。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Crisis Team",
+    "target": "危机小组",
+    "status": "locked",
+    "note": "CEL战术单位；strike team依据语境译突击队。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "adaptive camouflage",
+    "target": "自适应迷彩",
+    "status": "locked",
+    "note": "解谜机制：只改变表面图案，需干燥环境。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Xenofungus",
+    "target": "异生菌（Xenofungus）",
+    "status": "locked",
+    "note": "菌类标本专名，涉及首字母采样谜题，保留拉丁拼写。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Sparkfruit",
+    "target": "火花果",
+    "status": "locked",
+    "note": "工程化果实；世界观含义待后续描述核对。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Tiphal",
+    "target": "蒂法尔",
+    "status": "locked",
+    "note": "受版权保护植物所属企业，暂用音译。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Sheet",
+    "target": "塑料布",
+    "status": "locked",
+    "note": "room20拾取物及全局橡胶般塑料布描述；不是凭初始孤立名词认定的床单。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Viksha Perera",
+    "target": "维克莎·佩雷拉",
+    "status": "locked",
+    "note": "维克莎婚前姓名，昵称Vicky为维琪。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Nina Jeong",
+    "target": "妮娜·郑",
+    "status": "locked",
+    "note": "研究团队成员，Jeong暂按常见姓氏译郑；原文未提供汉字。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Zvidzai Chigwa",
+    "target": "兹维扎伊·奇格瓦",
+    "status": "locked",
+    "note": "奇格瓦完整姓名，朋友昵称Gwen为格温。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Quanta",
+    "target": "量子币",
+    "status": "locked",
+    "note": "虚构货币，Dialog 31赌债和Dialog 32实体盗窃明确为钱。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Concord",
+    "target": "康科德",
+    "status": "locked",
+    "note": "其他国家/政体名称；暂用音译，不擅自补充政府组织类型。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Trugging",
+    "target": "迷劫",
+    "status": "locked",
+    "note": "Trance-mugging的合成词，趁人沉入迷境时抢劫其现实财物。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "idealist",
+    "target": "理想派",
+    "status": "locked",
+    "note": "迷境化身风格：按心目中完美的自己设计，不按政治哲学语境翻译。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Black-ICE Tea",
+    "target": "黑冰茶",
+    "status": "locked",
+    "note": "ICE安全系统与iced tea双关，保留黑冰和黑客对白。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Cuba Libre",
+    "target": "自由古巴",
+    "status": "locked",
+    "note": "鸡尾酒名称。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Gravball",
+    "target": "重力球",
+    "status": "locked",
+    "note": "迷境游戏名，规则明确是无重力的第一人称回球，勿改规则迁就名字。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Xanadu Air Freight",
+    "target": "上都航空货运",
+    "status": "locked",
+    "note": "旧飞艇航站/组织据点；Xanadu暂译上都，避免凭空补充公司全称。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "interceptor",
+    "target": "窃听程序",
+    "status": "locked",
+    "note": "Lao被植入的恶意窃听/跟踪程序，隔离后停止广播。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "sync ratio",
+    "target": "同步率",
+    "status": "locked",
+    "note": "迷境连接适配指标，不译为网速，保持与Latha误解连接太快的对白区别。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "insha'allah",
+    "target": "愿真主成全",
+    "status": "locked",
+    "note": "Jinsil的阿拉伯语表达，保留其神意措辞，与普通祝你顺利区别。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "avatar",
+    "target": "化身",
+    "status": "locked",
+    "note": "迷境可视身份/外观。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Get Nuked!",
+    "target": "挨核弹去！",
+    "status": "locked",
+    "note": "核爆模拟名称，与直接骂人的命令语气形成误会；本轮修正初始孤立界面译名。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Timuhani War",
+    "target": "蒂穆哈尼战争",
+    "status": "locked",
+    "note": "世界观原文解释为Three-Way War，涉及印度、中国和巴基斯坦；保留专名并在完整记录中译出三方释义。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Pheerless Phil",
+    "target": "无畏菲尔",
+    "status": "locked",
+    "note": "模拟管理员昵称，Pheerless为Fearless的网络拼写。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Vomitor",
+    "target": "呕吐者",
+    "status": "locked",
+    "note": "另一模拟玩家昵称。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Realist",
+    "target": "写实派",
+    "status": "locked",
+    "note": "迷境化身风格，不按政治现实主义解释；与理想派对照。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Inspectors",
+    "target": "核查团",
+    "status": "locked",
+    "note": "Viksha过去职业的人员群体，先前明确在联合国体系的强辐射区工作；不擅自补充机构全称。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "charge pistol",
+    "target": "充能手枪",
+    "status": "locked",
+    "note": "CEL制式武器；不擅自说明其充能技术细节。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Archimedes",
+    "target": "阿基米德",
+    "status": "locked",
+    "note": "用于欧洲联邦城市的商用AI型号。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Sons of Stepford",
+    "target": "斯特普福德之子",
+    "status": "locked",
+    "note": "同一人格运行在26个机体上的系列；不是公司名称Stepford & Son的替代。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Arthur Stepford",
+    "target": "亚瑟·斯特普福德",
+    "status": "locked",
+    "note": "Liam外层有机皮肤所模仿的创造者。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "platform",
+    "target": "机体",
+    "status": "locked",
+    "note": "合成人硬件身体的语境；不全局替换地理站台或软件平台含义。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Imogen Natalia Revilla-Quintanilla de Florez",
+    "target": "伊莫金·娜塔莉娅·雷维利亚-金塔尼利亚·德·弗洛雷斯",
+    "status": "locked",
+    "note": "完整姓名；Imogen与Florez单独称呼分别为伊莫金/弗洛雷斯。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Cosmopolitan Party",
+    "target": "世界主义党",
+    "status": "locked",
+    "note": "虚构政党，与另一党Metro区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Metro",
+    "target": "都市党",
+    "status": "locked",
+    "note": "Regis一直投票支持的政党简称，不译为地铁。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Mr Incorruptable",
+    "target": "廉洁先生",
+    "status": "locked",
+    "note": "Deane公众称号；与神经限制器禁止欺骗的声明相关，不当作译者对其行为的评价。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "medipatch",
+    "target": "医疗贴片",
+    "status": "locked",
+    "note": "游戏内十分钟修复可见伤口的物品。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Dame",
+    "target": "女爵士",
+    "status": "locked",
+    "note": "Imogen的女性爵士头衔，不译成男性爵士的夫人。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "aneural clone",
+    "target": "无神经克隆体",
+    "status": "locked",
+    "note": "原对话紧接解释：培育时不形成脑组织；不替原作另写生命伦理结论。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "luciferin/luciferase",
+    "target": "萤光素/萤光素酶",
+    "status": "locked",
+    "note": "生物发光语境；Promega中文材料同时使用萤光/荧光名称，本项目采用萤光以区别荧光染料。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "red snapper",
+    "target": "红鲷",
+    "status": "locked",
+    "note": "不擅自为原文泛称指定拉丁种名。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Jayam Kreisel",
+    "target": "贾亚姆·克赖塞尔",
+    "status": "locked",
+    "note": "意识劫持者姓名；短称克赖塞尔，与其暂存的巴克斯特意识区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "aerostat",
+    "target": "浮空艇",
+    "status": "locked",
+    "note": "可起锚离开船坞、带多层甲板的浮空载具；不按现实定义强改为系留气球。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "gestalt personality",
+    "target": "集成人格",
+    "status": "locked",
+    "note": "融合多位意识劫持受害者的心智状态而成；用于中枢计划。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "cortex matrices",
+    "target": "皮层矩阵",
+    "status": "locked",
+    "note": "塔顶上传集成人格所用装置。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "mem-capsule",
+    "target": "记忆胶囊",
+    "status": "locked",
+    "note": "脑信息的存储载体；不与记忆模块/记忆卡匣混用。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "PERSONALITY SPLITTER",
+    "target": "人格分离器",
+    "status": "locked",
+    "note": "下载至劳的女仆管理工具。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "THERMAL GOGGLES",
+    "target": "热成像眼镜",
+    "status": "locked",
+    "note": "浮空艇拾取物，与已有热成像目镜区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "STEEL CABLE",
+    "target": "钢缆",
+    "status": "locked",
+    "note": "浮空艇拾取物。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Al-Rasis",
+    "target": "阿尔拉西斯",
+    "status": "locked",
+    "note": "保存夫妻胚胎的地点/机构；名称暂译，类型不扩写。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "gynoid / android (Dialog 71)",
+    "target": "女型合成人 / 男型合成人",
+    "status": "locked",
+    "note": "仅用于劳在此对话中纠正字源性别的双关；不全局套用 android 的男型含义。一般 synthetic 仍译合成人。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "neutralize",
+    "target": "消除威胁",
+    "status": "locked",
+    "note": "剧情反复讨论的中枢用语，保留可捕获/杀死的含糊性，不能直接等同击杀。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "case specialist",
+    "target": "案件专员",
+    "status": "locked",
+    "note": "CEL办案角色职称；不从CSO擅自补全原文未展开的缩写。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Hanford",
+    "target": "汉福德",
+    "status": "locked",
+    "note": "虚构大型主机名称暂译；不补写现实品牌或地点背景。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Governor (Central governance)",
+    "target": "管理者",
+    "status": "locked",
+    "note": "Dialog 65 指改造后的城市管理者；此处不是脑内神经限制器。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "flash-clone",
+    "target": "速成克隆体",
+    "status": "locked",
+    "note": "研究回忆中因法律与伦理约束，不发育神经组织的快速培养克隆体；不擅自补写培养方式。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "engram",
+    "target": "记忆印迹",
+    "status": "locked",
+    "note": "妮娜提取中枢的存储信息语境，与人格/心智状态区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "cataloging station",
+    "target": "编目站",
+    "status": "locked",
+    "note": "巴克斯特残留意识所管理的记忆编目系统。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Barrel",
+    "target": "筒楼区",
+    "status": "locked",
+    "note": "拉塔住所所在区域；不译桶区，与已有筒楼/筒楼区保持一致。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Elysium Towers",
+    "target": "极乐大厦",
+    "status": "locked",
+    "note": "范德瓦尔公寓所在楼宇；源场景标题用Tower单数，对话用Towers复数，不改楼层/28-A编号。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Eurofed",
+    "target": "欧洲联邦",
+    "status": "locked",
+    "note": "既有剧情译名；Western Eurofed为欧洲联邦西部。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Southern African Federation",
+    "target": "南部非洲联邦",
+    "status": "locked",
+    "note": "Dialog 82完整国名，不擅自将未展开FSAS缩写关联为同一名称。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Centralized Emergency Logistics",
+    "target": "中枢应急后勤",
+    "status": "locked",
+    "note": "CEL在Dialog 84展开的机构名称；简称继续保留CEL。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Mr Atwood",
+    "target": "阿特伍德先生",
+    "status": "locked",
+    "note": "屋顶密码对话联系人；保留四位代码6167。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Quadralitic Formalone",
+    "target": "夸德拉利特·福尔马隆",
+    "status": "locked",
+    "note": "原游戏化学清单中的名称，采用音译，不补写结构或作用。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Draculin",
+    "target": "德拉库林",
+    "status": "locked",
+    "note": "原清单名称音译，不擅自补写成分或操作说明。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Anhydride Iron (III) Chloride",
+    "target": "无水氯化铁（III）",
+    "status": "locked",
+    "note": "原文Anhydride用法异常；按清单中无水氯化铁语境处理，英文基线保留原拼写，配方成分编号不变。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "El Mustardo",
+    "target": "埃尔·穆斯塔多",
+    "status": "locked",
+    "note": "迷境角色名称音译；不把西语冠词El擅自当作先生头衔。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "growth matrix",
+    "target": "培养基质",
+    "status": "locked",
+    "note": "可在培养筒种植的样本初始材料，和供上传的有机矩阵区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Xenospore Growth Matrix",
+    "target": "异生孢子培养基质",
+    "status": "locked",
+    "note": "拾取物名；与Xenofungus异生菌区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Cobalt (radio callsign)",
+    "target": "钴蓝",
+    "status": "locked",
+    "note": "无线电呼号；Actual指指挥官，3为三号。COBALT系统名/账号标识沿用英文。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "four gross",
+    "target": "四罗",
+    "status": "locked",
+    "note": "四个gross计量单位，不擅自改成四打；里吉斯原文表示不知其意。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Packing Material",
+    "target": "包装填料",
+    "status": "locked",
+    "note": "工厂取得的填充物；不在未核对材质时写成泡沫。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "reconditioning",
+    "target": "行为矫正",
+    "status": "locked",
+    "note": "公共设施警告中的刑罚，不采用带其他联想的再调教。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "cavity magnetron",
+    "target": "腔体磁控管",
+    "status": "locked",
+    "note": "餐厅培养阵列部件；保留作者磁场损坏合成人的剧情因果，不补写现实技术指导。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "carousel (freezer)",
+    "target": "旋转架",
+    "status": "locked",
+    "note": "冷冻库的挂尸旋转架，与游乐设施旋转木马区分。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "FLESH",
+    "target": "FLESH餐厅",
+    "status": "locked",
+    "note": "保留店名，不在入口标题提前补写人肉特色。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Bathroom",
+    "target": "卫生间",
+    "status": "locked",
+    "note": "通用热点名在餐厅/个人居所等多个场景共享，采用可覆盖卫浴用途的卫生间，不误将餐厅厕所叫浴室。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Tatsumoto Heavy Engineering",
+    "target": "辰本重型工程",
+    "status": "locked",
+    "note": "日本企业名暂译，原文没有提供汉字；THE/T.H.E.缩写保持原形。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "pseudoderm spray",
+    "target": "人造皮肤喷剂",
+    "status": "locked",
+    "note": "急救柜中用完的耗材；不等同一般清洁喷雾。",
+    "lock_basis": "本项目全文对照及二轮校对后的统一译法；姓名汉字、虚构专名不宣称官方中文。"
+  },
+  {
+    "source": "Food machine / Automeal",
+    "target": "食品机／自动食品机",
+    "status": "locked",
+    "note": "与物品提示、剧情对白和系统界面统一。"
+  },
+  {
+    "source": "Narquine",
+    "target": "纳奎因",
+    "status": "locked",
+    "note": "虚构镇静药物的项目译名，与拾取提示一致。"
+  },
+  {
+    "source": "Grimoire Investigations",
+    "target": "魔典调查事务所",
+    "status": "locked",
+    "note": "联系人名称与电话应答一致。"
+  }
+]

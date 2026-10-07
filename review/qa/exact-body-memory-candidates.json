@@ -1,0 +1,729 @@
+{
+  "method": "Only exact English body matches to a single reviewed Chinese body; no fuzzy matching or word replacement. Voice prefix retained from destination.",
+  "applied": true,
+  "entries": [
+    {
+      "id": "19450fe55ca18d38",
+      "source": "&331 It's the .mol file representing epinephrine.",
+      "target": "&331 这是表示肾上腺素分子结构的.mol文件。",
+      "memory_source_ids": [
+        "cbfc6840c0aa24b6"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 26679,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 86477,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "ffa2747e786e0cb8",
+      "source": "&1428 Let's go!",
+      "target": "&1428 走吧！",
+      "memory_source_ids": [
+        "7b3fd5de3f137cf2"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 44255,
+          "script": "GlobalScript.asc"
+        }
+      ],
+      "context_decision": "SCOM显示cLao在room63发话，为离开/动身语境，不沿用游戏开局的开始吧。"
+    },
+    {
+      "id": "8043d41306d1d6aa",
+      "source": "&172 Oh!",
+      "target": "&172 哦！",
+      "memory_source_ids": [
+        "f8e24d2747d8b3ce",
+        "47c4998d8fbc03ad"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 62343,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "37e3333621dc86a5",
+      "source": "&935 Go on...",
+      "target": "&935 接着说……",
+      "memory_source_ids": [
+        "089e359f1cb52aee"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 62449,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "dce34e319c74997b",
+      "source": "&181 Okie dokie!",
+      "target": "&181 好嘞！",
+      "memory_source_ids": [
+        "4964c654137164a6"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 73216,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8a68b1d091ce6db4",
+      "source": "&571 Feeling better?",
+      "target": "&571 好些了吗？",
+      "memory_source_ids": [
+        "7b91dbf751477da6",
+        "939b5047cb3d65c0"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 90827,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 91364,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8b40f765b90e7e45",
+      "source": "&1186 Hey! Charlie!",
+      "target": "&1186 嘿！查理！",
+      "memory_source_ids": [
+        "604dd881919420da"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 94362,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 7606,
+          "script": "room58.asc"
+        }
+      ]
+    },
+    {
+      "id": "fc225941ac4b075a",
+      "source": "&357 Hello.",
+      "target": "&357 你好。",
+      "memory_source_ids": [
+        "a0fd1eea469b2637"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 120204,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "28d0e8e8370c7491",
+      "source": "&363 I don't think he'd want that.",
+      "target": "&363 他应该不想要那个。",
+      "memory_source_ids": [
+        "93350a0cc38c29e5"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 137569,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "e295707c2b5c5466",
+      "source": "&1309 Hm...",
+      "target": "&1309 嗯……",
+      "memory_source_ids": [
+        "db1e4f48afa8458e"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 174950,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "ba65c32552edbe3a",
+      "source": "&1329 Uh...",
+      "target": "&1329 呃……",
+      "memory_source_ids": [
+        "b3b60c0aad13db8e",
+        "047fabbcde80ecba"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 184152,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "5e1a9b52853551c7",
+      "source": "&628 Uh...maybe?",
+      "target": "&628 呃……也许？",
+      "memory_source_ids": [
+        "316f9ee91ca7487c"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 231186,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8e0b683c71dee34e",
+      "source": "&144 Doctor Regis.",
+      "target": "&144 里吉斯博士。",
+      "memory_source_ids": [
+        "da151b84ca16b31f"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 264351,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "ff4e95ff4d73a421",
+      "source": "&159 What's your name?",
+      "target": "&159 你叫什么名字？",
+      "memory_source_ids": [
+        "bc78b2009f9b3a6e"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 295588,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 83831,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "46537879a9926cf8",
+      "source": "&6381 Lao, if you're listening to this...",
+      "target": "&6381 劳，如果你听到了这段录音……",
+      "memory_source_ids": [
+        "60e22db4c2f6737e"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 70176,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "2ffa720eeb1e2f92",
+      "source": "&6382 Well, it means they've caught me.",
+      "target": "&6382 那就说明，他们已经抓到我了。",
+      "memory_source_ids": [
+        "c59afd26dbf7bcc4"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 70204,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "67cc8ac3e00e8647",
+      "source": "&70 Good evening, Dr Regis.",
+      "target": "&70 晚上好，里吉斯博士。",
+      "memory_source_ids": [
+        "7056b8bec578c6cf",
+        "4aa402a1e4f61b27"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 75319,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "95dfff595e9ba7e8",
+      "source": "&5003 Who are you?",
+      "target": "&5003 你是谁？",
+      "memory_source_ids": [
+        "d05b482be2266562",
+        "ae842ad0ddd952fc"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 415,
+          "script": "Alleviation.asc"
+        }
+      ]
+    },
+    {
+      "id": "32b983ff45198bb1",
+      "source": "&15 Oh...yeah...",
+      "target": "&15 哦……是啊……",
+      "memory_source_ids": [
+        "e1848dc545154474"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 12781,
+          "script": "Alleviation.asc"
+        }
+      ]
+    },
+    {
+      "id": "2b6f538641dd344b",
+      "source": "&17 What?!",
+      "target": "&17 什么？！",
+      "memory_source_ids": [
+        "d558f7e660099cda",
+        "af452dc39fb11d36",
+        "a2e414840bc9b695",
+        "ff41edef4c3070b6",
+        "cc885c631fa42a44",
+        "ce0a47bd72922f27"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 13065,
+          "script": "Alleviation.asc"
+        }
+      ]
+    },
+    {
+      "id": "a6b338a160925e0c",
+      "source": "&525 Do you know Dr Regis?",
+      "target": "&525 你认识里吉斯博士吗？",
+      "memory_source_ids": [
+        "a425bda7c66c97a1"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 29334,
+          "script": "Alleviation.asc"
+        }
+      ]
+    },
+    {
+      "id": "97d6918882fbf374",
+      "source": "&2 ...",
+      "target": "&2 ……",
+      "memory_source_ids": [
+        "c21747a603ebf93b",
+        "a4aef235e17dd0d6"
+      ],
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 33367,
+          "script": "Alleviation.asc"
+        }
+      ]
+    },
+    {
+      "id": "11a3fe3ca8b3c3a0",
+      "source": "&2090 I can't reach it from here.",
+      "target": "&2090 从这里够不着。",
+      "memory_source_ids": [
+        "0d2773aa7669f95f"
+      ],
+      "occurrences": [
+        {
+          "asset": "room54.crm",
+          "kind": "room-script",
+          "index": 8240,
+          "script": "room54.asc"
+        },
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 17074,
+          "script": "room68.asc"
+        },
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 17567,
+          "script": "room68.asc"
+        },
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 19356,
+          "script": "room68.asc"
+        }
+      ]
+    },
+    {
+      "id": "7bf9bf7f191e0083",
+      "source": "&722 The way out.",
+      "target": "&722 出口。",
+      "memory_source_ids": [
+        "73b1e2fc58dbe263",
+        "1a0af6164ec09130"
+      ],
+      "occurrences": [
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 13905,
+          "script": "room55.asc"
+        },
+        {
+          "asset": "room55.crm",
+          "kind": "room-script",
+          "index": 14120,
+          "script": "room55.asc"
+        },
+        {
+          "asset": "room66.crm",
+          "kind": "room-script",
+          "index": 8975,
+          "script": "room66.asc"
+        },
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 14318,
+          "script": "room68.asc"
+        }
+      ]
+    },
+    {
+      "id": "bf34edf0de079e52",
+      "source": "&12 What?!",
+      "target": "&12 什么？！",
+      "memory_source_ids": [
+        "d558f7e660099cda",
+        "af452dc39fb11d36",
+        "a2e414840bc9b695",
+        "ff41edef4c3070b6",
+        "cc885c631fa42a44",
+        "ce0a47bd72922f27"
+      ],
+      "occurrences": [
+        {
+          "asset": "room57.crm",
+          "kind": "room-script",
+          "index": 904,
+          "script": "room57.asc"
+        }
+      ]
+    },
+    {
+      "id": "ff16f1c5d2455bbf",
+      "source": "&133 Hmph.",
+      "target": "&133 哼。",
+      "memory_source_ids": [
+        "2ab3383a1dac3872",
+        "a85b412807be125f"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 3694,
+          "script": "room58.asc"
+        },
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 18842,
+          "script": "room68.asc"
+        }
+      ]
+    },
+    {
+      "id": "77f803be3f0b7ce7",
+      "source": "&3577 Who are you?",
+      "target": "&3577 你是谁？",
+      "memory_source_ids": [
+        "d05b482be2266562",
+        "ae842ad0ddd952fc"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 4550,
+          "script": "room58.asc"
+        }
+      ]
+    },
+    {
+      "id": "8f97d99fcef9b160",
+      "source": "&594 Freeze!",
+      "target": "&594 别动！",
+      "memory_source_ids": [
+        "639ccd9de74f0217"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 8560,
+          "script": "room58.asc"
+        }
+      ]
+    },
+    {
+      "id": "ce89d8b05f2b0a81",
+      "source": "&7102 Regis!",
+      "target": "&7102 里吉斯！",
+      "memory_source_ids": [
+        "3b86f6cd8201bff3",
+        "17d55e94bde91191"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 8894,
+          "script": "room58.asc"
+        }
+      ]
+    },
+    {
+      "id": "70f9be6fdb1dc6f6",
+      "source": "&1191 You alright?",
+      "target": "&1191 你还好吗？",
+      "memory_source_ids": [
+        "c81b7bdb48a2a57b"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 9745,
+          "script": "room58.asc"
+        }
+      ]
+    },
+    {
+      "id": "11c78588e1652e96",
+      "source": "&597 I don't know what you're talking about!",
+      "target": "&597 我不知道你在说什么！",
+      "memory_source_ids": [
+        "3864abe9ae855259"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 10532,
+          "script": "room58.asc"
+        }
+      ]
+    },
+    {
+      "id": "82e5dbfaff94cdff",
+      "source": "&1199 Uh-oh...",
+      "target": "&1199 糟了……",
+      "memory_source_ids": [
+        "4b6555ad1d0acee2",
+        "c2854acc51f1c8cd"
+      ],
+      "occurrences": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 12301,
+          "script": "room58.asc"
+        },
+        {
+          "asset": "room62.crm",
+          "kind": "room-script",
+          "index": 807,
+          "script": "room62.asc"
+        }
+      ]
+    },
+    {
+      "id": "77ae902bee7cd17a",
+      "source": "&16 Wait, stop!",
+      "target": "&16 等等，住手！",
+      "memory_source_ids": [
+        "296ce5305d8a7083"
+      ],
+      "occurrences": [
+        {
+          "asset": "room62.crm",
+          "kind": "room-script",
+          "index": 2567,
+          "script": "room62.asc"
+        }
+      ]
+    },
+    {
+      "id": "964d52b847e4e1f3",
+      "source": "&1247 I...uh...",
+      "target": "&1247 我……呃……",
+      "memory_source_ids": [
+        "df823eab36f4a0cb"
+      ],
+      "occurrences": [
+        {
+          "asset": "room62.crm",
+          "kind": "room-script",
+          "index": 4701,
+          "script": "room62.asc"
+        }
+      ]
+    },
+    {
+      "id": "4fe001524965b742",
+      "source": "&6247 I...uh...",
+      "target": "&6247 我……呃……",
+      "memory_source_ids": [
+        "df823eab36f4a0cb"
+      ],
+      "occurrences": [
+        {
+          "asset": "room62.crm",
+          "kind": "room-script",
+          "index": 4771,
+          "script": "room62.asc"
+        }
+      ]
+    },
+    {
+      "id": "60c784177e55da88",
+      "source": "&248 . . .",
+      "target": "&248 ……",
+      "memory_source_ids": [
+        "c5afa2d7bfb7001c",
+        "635b0208713562eb",
+        "4651b331e8863b55",
+        "fb998d9af50219e4",
+        "09ea338402931d37",
+        "26b1fdbbc887083e",
+        "6b728f98edb6f6b3",
+        "c0549161819b4283",
+        "d372c8b8e8e7ad86",
+        "9ca290fc4805a7e4"
+      ],
+      "occurrences": [
+        {
+          "asset": "room64.crm",
+          "kind": "room-script",
+          "index": 2885,
+          "script": "room64.asc"
+        }
+      ]
+    },
+    {
+      "id": "df387300119644f9",
+      "source": "&5319 Regis!",
+      "target": "&5319 里吉斯！",
+      "memory_source_ids": [
+        "3b86f6cd8201bff3",
+        "17d55e94bde91191"
+      ],
+      "occurrences": [
+        {
+          "asset": "room71.crm",
+          "kind": "room-script",
+          "index": 2507,
+          "script": "room71.asc"
+        }
+      ]
+    },
+    {
+      "id": "6a20019678a0eae9",
+      "source": "&55 What?!",
+      "target": "&55 什么？！",
+      "memory_source_ids": [
+        "d558f7e660099cda",
+        "af452dc39fb11d36",
+        "a2e414840bc9b695",
+        "ff41edef4c3070b6",
+        "cc885c631fa42a44",
+        "ce0a47bd72922f27"
+      ],
+      "occurrences": [
+        {
+          "asset": "room73.crm",
+          "kind": "room-script",
+          "index": 1611,
+          "script": "room73.asc"
+        },
+        {
+          "asset": "room73.crm",
+          "kind": "room-script",
+          "index": 2212,
+          "script": "room73.asc"
+        }
+      ]
+    }
+  ]
+}

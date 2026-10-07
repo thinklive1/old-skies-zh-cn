@@ -1,0 +1,946 @@
+[
+  {
+    "id": "d4ea34140de69dea",
+    "source": "Door Panel",
+    "target": "门锁面板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f42f81fc2835141d",
+    "source": "Recycler",
+    "target": "回收槽",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e49ac277ce79d44",
+    "source": "Toilet",
+    "target": "马桶",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7d97d378b6298c58",
+    "source": "Grate",
+    "target": "排水格栅",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2cf13c49af047c7a",
+    "source": "Left Locker",
+    "target": "左边的储物柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf9a3196fe967977",
+    "source": "Middle Locker",
+    "target": "中间的储物柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "18be3f3e4ee3e97e",
+    "source": "Right Locker",
+    "target": "右边的储物柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f75d2e1c15cf7ea",
+    "source": "Cables",
+    "target": "电缆",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65659145569b894b",
+    "source": "Notice",
+    "target": "告示",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "19734a1b58cabc22",
+    "source": "Window",
+    "target": "窗户",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fbf247e43d3745e5",
+    "source": "Door",
+    "target": "门",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3bc8c12dda5e8d43",
+    "source": "Pile of Clothes",
+    "target": "衣服堆",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e84b8359beaed1f",
+    "source": "Shirt",
+    "target": "上衣",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0b8576f6f397f680",
+    "source": "Food Tray",
+    "target": "餐盘",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dfc0c15480ad6d58",
+    "source": "Vent",
+    "target": "通风口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7f7cfe4bdf25b4ac",
+    "source": "Shower Curtain",
+    "target": "浴帘",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "586f007624196116",
+    "source": "Wetware Still",
+    "target": "湿件培养器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f27bc01ddde7bdfd",
+    "source": "&387 Better go and talk to the building manager...",
+    "target": "&387 还是去找楼管谈谈吧……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "636a6f084f606f41",
+    "source": "&553 ...ouch.",
+    "target": "&553 ……哎哟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6563c2f20f335118",
+    "source": "ACCESS ERROR",
+    "target": "访问错误",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "62157f818d29cb82",
+    "source": "Password error",
+    "target": "密码错误",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eee62abf5c753572",
+    "source": "&388 'Password error', huh? I guess the door's broken, too...",
+    "target": "&388 “密码错误”？看来门也坏了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "10f250b85693079d",
+    "source": "&389 Contact - manager.",
+    "target": "&389 联系——楼管。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7569837d32731e39",
+    "source": "Calling...",
+    "target": "呼叫中……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c175170425c71ccd",
+    "source": "Error - unable to connect",
+    "target": "错误——无法连接",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "892abc6a58c30072",
+    "source": "&390 I'm...trapped?",
+    "target": "&390 我……被困住了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "77ce2de1855eed4e",
+    "source": "&304 For the first time that you can remember, the prospect of staying inside your apartment is frightening to you.",
+    "target": "&304 在你的记忆里，这是你第一次因为待在公寓里而感到害怕。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9b99916bc5ad2d5f",
+    "source": "// LEFT CLICK - Interact[// RIGHT CLICK - LOOK AT",
+    "target": "// 左键——互动[// 右键——查看",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9690928ea741783a",
+    "source": "&305 Your plastic food tray from...well, whenever it was, the yellow-brown mash still in it looks like it now has residents all of its own.",
+    "target": "&305 这是你……不知什么时候用过的塑料餐盘。里面还剩着黄褐色的糊糊，看样子已经有东西在上面安家了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "07c6aa87dd79f086",
+    "source": "&306 The stainless-steel shower hose supplies all of the water for the apartment.",
+    "target": "&306 公寓里所有的用水，都由这根不锈钢淋浴软管提供。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0f9c68fb1e15a11b",
+    "source": "Picked up: Plastic tray and Fork",
+    "target": "获得：塑料餐盘和叉子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6494ca722934a3eb",
+    "source": "&663 The panel by the door also controls the apartment's net connection, call-system and thermostat, as well as the door's locking.",
+    "target": "&663 门边的面板不光控制门锁，还管着公寓的网络、通讯系统和温控器。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "60acc30fda60123b",
+    "source": "&664 If you could get inside it, you might be able to set off an emergency unlock.",
+    "target": "&664 要是能打开面板，也许就能触发紧急开锁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7c9b644c5ac07b3d",
+    "source": "&391 Still not working.",
+    "target": "&391 还是不行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c4eb35974f2ba9c6",
+    "source": "&665 Apparently I can't just wait for the problem to fix itself. Can't rely on anyone else...",
+    "target": "&665 看来光等着，问题是不会自己消失的。也指望不上别人……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e5249e62a0d702c",
+    "source": "&309 The apartment's centralized systems speak to you more clearly than ever as your wetware joins with its systems.",
+    "target": "&309 湿件接入公寓的集中控制系统后，你与系统之间的交流变得前所未有地清晰。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4753b4f30b0edeee",
+    "source": "&310 You've already successfully made a connection with the door's panel. Better check your Trance hub to see if it can give you any answers.",
+    "target": "&310 你已经成功连上了门锁面板。去迷境中转站看看，或许能找到答案。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e910d128e265bf7",
+    "source": "&392 Huh...it broke...",
+    "target": "&392 啊……断了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ca5990fc60de87a",
+    "source": "&311 The flimsy plastic that the fork was made of wasn't up to the task of prising the panel from the wall. With better-quality tools, though...",
+    "target": "&311 塑料叉子太脆弱，撬不开墙上的面板。不过，要是换件结实点的工具……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "320420a9c4595d88",
+    "source": "&393 Got it!",
+    "target": "&393 成了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a496f18c00d461f0",
+    "source": "&315 While certainly sharp and strong, the tool's shape would prevent you from using it to pry the panel from the wall.",
+    "target": "&315 这工具虽然锋利又结实，但形状不合适，没法用来撬开墙上的面板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26879d4e50eca233",
+    "source": "&316 The %s won't help you get inside the panel.",
+    "target": "&316 用%s打开不了面板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "334273337038bd67",
+    "source": "&317 The gaping black chute dominating the food machine's top half is where used trays and cutlery are deposited for recycling.",
+    "target": "&317 食品机上半部那张黑洞洞的大口，是回收用过的餐盘和餐具的地方。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f32a6e7a9d035c6d",
+    "source": "&318 The materials are melted down, and vacuum-formed into new utensils every time you order a meal. Some places use metal utensils, but down here in the poorblocks, it's all just plastic.",
+    "target": "&318 每次点餐，机器都会熔化回收材料，再用真空成型做出新餐具。有些地方用金属餐具，但在底下的贫民区，只有塑料的份。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06866a7d8dfd999a",
+    "source": "&319 The apartment's 'food' machine, which pipes your infrequent meals straight into your home in semisolid form.",
+    "target": "&319 公寓里的“食品”机。你偶尔吃上一顿时，它就会把半固体的食物直接输送到家里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "72417ffb9e1ddf5b",
+    "source": "&320 Your machine's been broken for a while, but you haven't noticed - you've been too busy trancing.",
+    "target": "&320 机器已经坏了一阵子，可你一直没发现——你光顾着泡在迷境里了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "940377312cf4d1e5",
+    "source": "&321 Reaching your arm into the recycling slot can only end in tears.",
+    "target": "&321 把胳膊伸进回收槽，准没好下场。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ad975d4d699f23a3",
+    "source": "&330 You've gone to enough trouble to make it - putting it back into the machine would be a waste!",
+    "target": "&330 费了那么大工夫才弄出来，再塞回机器里就白忙活了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e564090176042192",
+    "source": "&322 With the way those monomolecular-carbon blades are made, they'd probably do a great deal of damage to the machine if you tried to recycle them.",
+    "target": "&322 这种单分子碳刃实在太锋利，塞进去回收，多半会把机器弄得一团糟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "abe15e2cad9cb3c9",
+    "source": "&323 The cable's made of silicon fiber-optic cable - nothing that the machine could recycle in its vacuum-press.",
+    "target": "&323 这是硅质光纤电缆，机器的真空压机回收不了这种材料。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4c46013b29b8c14a",
+    "source": "&324 You wonder briefly if it would count the soap as a flavouring, rather than something to make utensils from.",
+    "target": "&324 你不由得想，机器会不会把肥皂当成调味料，而不是做餐具的材料。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a886a83588093f2b",
+    "source": "&327 You load the memory module into the machine. After a few moments it begins to glow, indicating a successful connection.",
+    "target": "&327 你把记忆模块插进机器。过了一会儿，模块亮了起来，说明连接成功。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12f4d3c2fcde612f",
+    "source": "// Plastics: RECYCLED",
+    "target": "// 塑料：已回收",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cf212795cbd307a5",
+    "source": "&331 The machine thinks for a moment, then displays a message:",
+    "target": "&331 机器思考片刻，显示出一条消息：",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06eb2cdcb9465872",
+    "source": "&282 // !ERROR![[// user safety settings enabled[// unable to produce metal utensils due to danger of harm[// To change this, please seek administrator permission[[Thank you for your cooperation![<T.H.E. Foods - your future, on a plate>",
+    "target": "&282 // ！错误！[[// 用户安全设置已启用[// 金属餐具可能造成人身伤害，无法生产[// 如需更改，请获取管理员授权[[感谢您的配合！[<T.H.E.食品——把未来端上餐桌>",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b9f050a8f5a663c",
+    "source": "// Metal: RECYCLED",
+    "target": "// 金属：已回收",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ddfa455c3c54c61",
+    "source": "&333 The lower slot is where the food comes out. Anything being recycled needs to be thrown into the top of the unit.",
+    "target": "&333 下面的槽口是出餐口。要回收东西，得从机器上面投进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d42148a86351930",
+    "source": "&341 A bottle of 'soap' sits on the shelf in the bathroom.",
+    "target": "&341 浴室的架子上放着一瓶“肥皂”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2344b55e6682eef1",
+    "source": "&395 Eeww...slimy...",
+    "target": "&395 呕……黏糊糊的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c07b28a2524d4fac",
+    "source": "Picked up: Bottle of 'Soap'",
+    "target": "获得：一瓶“肥皂”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b7186d2f8778717",
+    "source": "&396 HNNNnnngh...",
+    "target": "&396 呃啊啊……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f682f5dbf1fe84c7",
+    "source": "&666 Guess I'm not as strong as I thought. I'm not getting out this way...",
+    "target": "&666 看来我没自己想的那么有力气。这条路是出不去了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14863dae29aebe0d",
+    "source": "&343 The large drain in the floor means that cleaning the room can involve as little as hosing everything down. 'Cheap' is the way it's done in here.",
+    "target": "&343 地上有这么大的排水口，打扫房间时用水管冲一遍就行。这地方的一切，讲究的都是“省钱”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "624a5d6de7d2ef1f",
+    "source": "&344 Maybe if you had a couple of days, you'd be able to cut through it. Unfortunately, neither your patience nor your physical strength stretches quite that far.",
+    "target": "&344 花上几天工夫，也许真能剪开。可惜你的耐心和体力都撑不了那么久。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c257e60be5a04d03",
+    "source": "&345 Careful, anything you drop down there could be lost forever.",
+    "target": "&345 小心，东西掉下去，可能就再也拿不回来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a128eda78d74f4cb",
+    "source": "&667 One of the lockers where I keep the few things I've got in meatspace.",
+    "target": "&667 我在肉身世界就那么几件家当，都放在这些柜子里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ecf91a50b26613ee",
+    "source": "&668 Nothing in here...",
+    "target": "&668 里面什么都没有……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c401ed1c4b117465",
+    "source": "&268 I've never been one to tidy things away, and it's not a habit I'm about to take up now.",
+    "target": "&268 我从来不爱收拾东西，现在也不打算改。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1de5825382912de3",
+    "source": "&669 I usually keep clothes in here. Looks like I need to go to the support office to get more printed.",
+    "target": "&669 这里平时放衣服。看来得去救济处再打印几件了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "011dead539e4e4ba",
+    "source": "&354 A tangle of exposed fiber-optic cables runs from floor to ceiling. You suspect they have them like this to make it more unpleasant to live here.",
+    "target": "&354 裸露的光纤电缆乱糟糟地从地板一直通到天花板。你怀疑，他们故意弄成这样，就是为了让人住得不舒服。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6cf936557506c8fa",
+    "source": "&355 Unfortunately, wetware like this needs conductive or metal wiring to connect through. These are just fiber-optics.",
+    "target": "&355 可惜，这种湿件得接上能导电的线路，比如金属线。这些只是光纤。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2c82efd1b3c6b67",
+    "source": "&356 You're not sure how this would work with the cable.",
+    "target": "&356 你不知道这东西能怎么用在电缆上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20672abdc57a2b20",
+    "source": "&400 Mm...nah. I already washed this week.",
+    "target": "&400 嗯……算了。这星期已经洗过澡了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dcfcbaa87d3f1c9e",
+    "source": "&357 Thus, your long-standing enmity with the shower is resolved.",
+    "target": "&357 就这样，你与淋浴之间的宿怨总算了结了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b1207f3eee2a2d0c",
+    "source": "&358 Rinsing it won't help.",
+    "target": "&358 用水冲也没用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7f0d82980fcd26cc",
+    "source": "&670 The vent cover above the door. It lets the air in and keeps the vermin out.",
+    "target": "&670 门上方的通风口盖板。放空气进来，把害虫挡在外面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "036771320d2fb3d0",
+    "source": "&671 I can't get a grip to open it. Not like I could fit through there, anyway...",
+    "target": "&671 没地方下手，打不开。反正我也钻不过去……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3a511765950f0108",
+    "source": "&361 With the cutters, you'd probably only succeed in ruining the grate, rather than removing it from the wall.",
+    "target": "&361 用剪线钳只会把格栅剪坏，拆不下墙上的盖板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ab06913f0acf80d",
+    "source": "Picked up: Steel Grille",
+    "target": "获得：钢制格栅",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "321838ddbc548f0c",
+    "source": "&401 If I keep randomly cutting cables, I'm going to end up electrocuted eventually.",
+    "target": "&401 再这么乱剪电缆，迟早把自己电死。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23016ff090e07a5a",
+    "source": "&672 Exposed fiber-optics everywhere. I think they deliberately do this to make it less pleasant to live here.",
+    "target": "&672 到处都是裸露的光纤。我看他们就是故意弄成这样，让人住得不舒服。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c85c76dab31ba293",
+    "source": "&673 Even if I cared that much about the apartment's rules, the sign's fixed to the wall.",
+    "target": "&673 就算我真那么在乎这些公寓规定，告示也是钉在墙上的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d80b9bdf17b0a21",
+    "source": "&403 'Tenancy Rules: City Housing Support.'",
+    "target": "&403 “租住规定：市住房救济处。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d356d34145892b1",
+    "source": "&404 'This housing is provided as is by the City Department of Social Welfare,'",
+    "target": "&404 “本住房由市社会福利局按现状提供，”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "22eb1c5b586bb9c9",
+    "source": "&405 'until such time as you are able to secure employment.'",
+    "target": "&405 “供您居住至找到工作为止。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2e37d92145f49c36",
+    "source": "&406 'Basic facilities are provided within.'",
+    "target": "&406 “室内配有基本生活设施。”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16bdbd63fa331e4d",
+    "source": "&407 'Since your stay is temporary, please do not damage...'",
+    "target": "&407 “鉴于您只是暂住，请勿损坏……”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b1b9bd2323023b3f",
+    "source": "&408 Temporary, hah. I've been here for two years now.",
+    "target": "&408 暂住，呵。我都在这儿住了两年了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "39a677e36bcd353c",
+    "source": "&674 Even if I could see out, it's not a nice view - hundreds of other sconto apartments in the barrel.",
+    "target": "&674 就算能看出去，也没什么好风景——筒楼里还有几百间同样的廉价公寓。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "beb10bf65e8740ab",
+    "source": "&675 The darkness is supposed to encourage people to move out. Not me, it just makes Trancing easier.",
+    "target": "&675 他们想让人嫌太暗，早点搬走。对我可没用，这样更方便泡迷境。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2c83ff7f3737763f",
+    "source": "&368 It doesn't matter what tools you use - your years of trancing have left you too weak to stand any chance of removing the shutters from the window.",
+    "target": "&368 用什么工具都没用。多年沉迷迷境，你的身体已经虚弱得不可能拆下窗上的遮板了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "368b8fcccbf3a335",
+    "source": "&676 The window frame is welded-in. Even if I could open it, it'd be a 150 metre drop to the bottom.",
+    "target": "&676 窗框是焊死的。就算能打开，下面也是足足150米。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "440483ee317c4405",
+    "source": "&677 The way out - still standing in my way.",
+    "target": "&677 出口——还是牢牢挡着我的路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "08109e7bc83120e3",
+    "source": "&678 Normally, staying in the apartment would be ideal, but now that I have no choice about it...",
+    "target": "&678 平时能一直待在公寓里就再好不过了，可现在没得选……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3c8c6a257ca15947",
+    "source": "&372 It's full of blue overalls, the kind provided by the city to the unemployed. Made out of a cotton-paper blend, they are mulched and recycled into new clothing rather than cleaned.",
+    "target": "&372 里面全是蓝色连体服，就是市里发给失业者的那种。这种棉纸混纺衣服不用清洗，弄脏后打成浆，再回收做成新衣服。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ad5de15687ebe67",
+    "source": "&409 Euch, no!",
+    "target": "&409 呕，才不要！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8ff1dd85e65aaf89",
+    "source": "&410 Last time I reached into the pile, there was stuff growing in it.",
+    "target": "&410 上次把手伸进去的时候，里面都长东西了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cff6402b07f810ce",
+    "source": "&373 It won't benefit from being served up in a tray.",
+    "target": "&373 把它端在餐盘里也没什么用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "440b734180942216",
+    "source": "&374 Making things clean is not a habit you've acquired.",
+    "target": "&374 你可没养成爱干净的习惯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ecab6a5db755b044",
+    "source": "&411 I don't think I can open it by myself.",
+    "target": "&411 靠我自己恐怕打不开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7091c6bc823a0552",
+    "source": "&412 It's not just stuck, it's locked.",
+    "target": "&412 不只是卡住了，是锁上了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "242890fe9bc741b5",
+    "source": "&413 Making it slippery isn't going to work.",
+    "target": "&413 弄滑一点也打不开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2416a72f389a84bf",
+    "source": "&414 Realistically, I'm not going to get the whole door open with a fork.",
+    "target": "&414 说实在的，一把叉子怎么可能撬开整扇门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "be16ddd26ed8f331",
+    "source": "&415 I need to aim smaller.",
+    "target": "&415 得找个小点的地方下手。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab3f3a6cca92d499",
+    "source": "&416 Maybe if I had a couple of years to cut little holes out of it...",
+    "target": "&416 要是花上几年，一点点剪出小洞，也许……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0923a3583993c519",
+    "source": "&417 How's that gonna get it open?",
+    "target": "&417 这样怎么可能打开？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e2384d76ffd13445",
+    "source": "&418 There are bigger things to worry about than laundry at the moment.",
+    "target": "&418 现在有比洗衣服更要紧的事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a663fbe13db7628d",
+    "source": "&419 I'm likely to lose anything that goes in there.",
+    "target": "&419 东西放进去，多半就拿不回来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5e53da60a2a9e46c",
+    "source": "&679 I'm not sure *when* I got this out of the machine. It's still soggy, though.",
+    "target": "&679 我都不记得是什么时候从机器里拿出来的了。不过还是湿乎乎的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5dccc77dae86b52a",
+    "source": "&420 Mm...nah. I'm not that hungry.",
+    "target": "&420 嗯……算了。我还没饿到那个地步。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "84324b62b0aa4bc0",
+    "source": "Picked up: Trophy",
+    "target": "获得：奖杯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b74cbd2e00cd699",
+    "source": "&269 The shower curtain glows an eerie, yet somehow soothing blue. Your project must have finished its final stages...",
+    "target": "&269 浴帘泛着幽蓝的光，诡异，却又莫名让人安心。你的培养计划应该已经完成最后阶段了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e24e688a4470dacb",
+    "source": "&682 It may take up the entire bathroom, but the still is totally worth it.",
+    "target": "&682 虽然占了整个浴室，但这台培养器绝对值了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3cb1100072d1375b",
+    "source": "&683 By growing my own wetware at home, I'll never need to leave the apartment again...unless something like this happens.",
+    "target": "&683 在家自己培养湿件，就再也不用出门了……除非碰上今天这种事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "87bda98016938b89",
+    "source": "&337 You remove the gelatinous clump of semiorganic wetware you've been cultivating in the still. It looks like it's grown enough to be usable by now.",
+    "target": "&337 你取出培养器里那团胶状的半有机湿件。看起来已经长到能用了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52fb3138e44b33a7",
+    "source": "Picked up: Wetware",
+    "target": "获得：湿件",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8a19044ca5c2df3",
+    "source": "&684 The still is empty - it'll take at least a few hours to grow another batch of wetware.",
+    "target": "&684 培养器空了。至少还得等几个小时，才能长出下一批湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e259dc8cb1a0622d",
+    "source": "&685 The seed colony of wetware already in the still will start to grow soon - it doesn't need any help.",
+    "target": "&685 培养器里的湿件种群很快就会开始生长，不用我帮忙。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

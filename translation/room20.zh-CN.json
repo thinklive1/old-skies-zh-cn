@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "ec01465f942567a1",
+    "source": "Broken Light",
+    "target": "坏掉的灯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e20cf12e0623169e",
+    "source": "Water Dispenser",
+    "target": "饮水机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6e56137e21d3222a",
+    "source": "Screen",
+    "target": "屏幕",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f054f43804cf8a8",
+    "source": "Trashcan",
+    "target": "垃圾桶",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a46acf0368e3d95c",
+    "source": "Blue Cup",
+    "target": "蓝色杯子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "99df1dc671c6a405",
+    "source": "Plastic Sheet",
+    "target": "塑料布",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17ce6eabc39fe64d",
+    "source": "Infowall",
+    "target": "信息墙",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1e88a00413a4420a",
+    "source": "Air Vent",
+    "target": "通风口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68f7af7ad7279a2d",
+    "source": "Opened Camera",
+    "target": "拆开的摄像头",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d0ac55c06fc52c37",
+    "source": "Splat",
+    "target": "污渍",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16d1c9050a0b32e8",
+    "source": "Table",
+    "target": "桌子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1b46ff7aeca838fc",
+    "source": "Table Base",
+    "target": "桌子底座",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e36efb846aae171f",
+    "source": "Pull Table",
+    "target": "拉动桌子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "acef6e6a23b1cca2",
+    "source": "// CEL Operations - Waiting Room",
+    "target": "// CEL行动部门：等候室",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ac097b6081dcbf2c",
+    "source": "&421 Eurgh, why is this taking so long?",
+    "target": "&421 唉，怎么要等这么久？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "447a13957a02c58b",
+    "source": "&422 Can I get back in the Trance, yet?",
+    "target": "&422 我现在能回迷境了吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "afd1ce66a4a9fd33",
+    "source": "&423 It's the same kind of thing they'd issue in the sconto apartments.",
+    "target": "&423 跟廉价公寓里发的是同一种。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "beedde110fbf3e12",
+    "source": "Picked up: Blue Cup",
+    "target": "获得：蓝色杯子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "911c8232f82ffff9",
+    "source": "&424 What, drink straight from it?",
+    "target": "&424 什么，直接对着它喝？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ade5758d8da76b5",
+    "source": "&425 This must be where people in here get water when they want it.",
+    "target": "&425 在这里的人想喝水，应该就到这儿来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d2773aa7669f95f",
+    "source": "&474 I can't reach it from here.",
+    "target": "&474 从这里够不着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d3e18fdd936d5894",
+    "source": "&427 It's already full.",
+    "target": "&427 已经装满了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2516c173c689a9f6",
+    "source": "&426 It was awkward to do, but now it's full of water.",
+    "target": "&426 挺费劲，不过现在装满水了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ffa9b19af6f47670",
+    "source": "&428 I don't think I can fill that up.",
+    "target": "&428 那个大概没法装满。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f0b9007e5d0ccd47",
+    "source": "&429 Old-fashioned holo-hardware for everyone who comes in here not-wired.",
+    "target": "&429 老式全息设备，给那些没装神经接口的人用的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fbb8b513760c5921",
+    "source": "&430 It may only show the news, but it must be connected to the net at large.",
+    "target": "&430 虽然只能看新闻，但它肯定接着外面的网络。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3200f6b6eef57cc",
+    "source": "&431 Hnnngh...",
+    "target": "&431 嗯唔……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b4ea1b29a91aa4ac",
+    "source": "&432 All my wetware's dried up...there isn't enough to form a connection.",
+    "target": "&432 我的湿件全干了……不够建立连接。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7e7033ca8b75e259",
+    "source": "&433 Aw, nuke it. I just grew this batch.",
+    "target": "&433 啊，该死。这一批我才刚培育出来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "624a632b100ea97a",
+    "source": "&434 I've already linked with it. It's in my Trance hub.",
+    "target": "&434 已经连上了。它就在我的迷境枢纽里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae8475cc20c3462b",
+    "source": "&435 Ahhh, I can FEEL the net on the other side.",
+    "target": "&435 啊，我能感觉到另一边的网络。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8ffa2f981d89abd3",
+    "source": "Picked up: Sheet",
+    "target": "获得：塑料布",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "544d2933adc40fc1",
+    "source": "&436 It isn't really that cold in here. It's probably just a formality.",
+    "target": "&436 这里其实也没那么冷。大概就是走个形式。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26c70b856aaac3f5",
+    "source": "&437 I knew they weren't flex-screens...really...",
+    "target": "&437 我知道那不是柔性屏……真的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "faee08b96e005d8d",
+    "source": "Picked up: Paperwork",
+    "target": "获得：文件",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bc79d5c125ad6d5",
+    "source": "&438 I've already removed what I can.",
+    "target": "&438 能拆的，我已经都拆下来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69ebaf4c574e9ee4",
+    "source": "&439 It won't bring up the menu. The 'insert coin' message on the screen is in the way.",
+    "target": "&439 菜单打不开。屏幕上的“请投币”提示挡住了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0b2dc6c9d2508352",
+    "source": "&686 Now I know what the inside of an automeal looks like.",
+    "target": "&686 现在我知道自动食品机里面长什么样了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "56610afaa09b1cb5",
+    "source": "&440 It's different from mine, a whole lot older.",
+    "target": "&440 跟我那台不一样，老旧多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc258bf9402a4161",
+    "source": "&441 There's a message on the panel - 'insert coin', whatever that means.",
+    "target": "&441 面板上有个提示：“请投币”。谁知道那是什么意思。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "96ef0a9b8c2a0360",
+    "source": "&442 I can't just upload it on to the machine, I can't make a connection with it.",
+    "target": "&442 我没法直接上传到机器里，根本连不上它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "af997c6aa539a726",
+    "source": "&443 I need to get inside it to get to its memory.",
+    "target": "&443 得先拆开它，才能碰到它的记忆模块。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "91ea29c2ac7268dc",
+    "source": "&444 The fork won't fit in the seams round the edges.",
+    "target": "&444 叉子插不进边缘的缝里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2bf5f5d6f2bf4b5",
+    "source": "&445 If I could find something more precise, though...",
+    "target": "&445 要是能找到更精细的东西……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a04c7e76a8b9b10f",
+    "source": "&446 Either it's got some pretty tough shielding, or it's too old to be compatible.",
+    "target": "&446 要么是屏蔽得特别严，要么是老得已经不兼容了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6754f3694e127f04",
+    "source": "&447 From the look of it, I'd say the second one.",
+    "target": "&447 看这模样，我觉得是后者。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bafb5c9382b15c7",
+    "source": "&448 I don't have enough wetware to form a connection with anything!",
+    "target": "&448 湿件不够，我什么都连不上！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8847a8f582bfa9f3",
+    "source": "&449 It's already been opened up.",
+    "target": "&449 已经拆开了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3a177c691ab7fe3",
+    "source": "&450 I've already done enough surgery on it.",
+    "target": "&450 给它做的手术已经够多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65c55bfc293b2dcf",
+    "source": "Picked up:[Memory Module[Optical Module",
+    "target": "获得：[记忆模块[光学模块",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fcffe31b6ce5b24b",
+    "source": "&451 Wow, this is some REALLY old hardware.",
+    "target": "&451 哇，这硬件真够古老的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7a9e1d85673d0c99",
+    "source": "&452 It's going to need upgrading if I want to make it produce anything complex.",
+    "target": "&452 想让它做出复杂的东西，就得先升级。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52e2d715d3346cca",
+    "source": "&453 Eurgh, how much of this slop do I want in my pockets?",
+    "target": "&453 呃，我到底要往口袋里塞多少这种烂糊糊？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "075716589a456685",
+    "source": "Picked up:[Food[Metal Fork",
+    "target": "获得：[食物[金属叉子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7db660a921a04ef5",
+    "source": "&454 Doesn't look like it wants to barter.",
+    "target": "&454 看起来它不想以物易物。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ab247a1d4406755",
+    "source": "&455 I can't just force the lens in, it doesn't connect to the system.",
+    "target": "&455 不能硬把镜片塞进去，这样接不上系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4d2236b99ef909fc",
+    "source": "&456 I can't put it back, I haven't done anything to it yet!",
+    "target": "&456 不能放回去，还没改过呢！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a08da310f4238bc8",
+    "source": "&457 It'd still just make the brown stuff.",
+    "target": "&457 那样做出来的，还是那种棕色糊糊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dd5c8cfa250d6a61",
+    "source": "&458 I hope it understands its new orders.",
+    "target": "&458 希望它能理解新指令。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dc9e315481dc97a2",
+    "source": "&459 Let's see what it can do now!",
+    "target": "&459 看看它现在能做什么！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "45ea9f58e9d74d5c",
+    "source": "&460 I can't just put it back, I haven't done anything to it yet!",
+    "target": "&460 不能就这么放回去，还没改过呢！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ca3eb6d711e1900a",
+    "source": "&461 The optics aren't sensitive enough to construct molecules like that.",
+    "target": "&461 光学系统不够灵敏，构建不出那样的分子。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f224caefd5db93cd",
+    "source": "&462 There, it should be a lot more sensitive with that now.",
+    "target": "&462 好了，加上这个，灵敏度应该高多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a55c8db6331e87c",
+    "source": "&463 Unless it's a component, I don't think it wants anything in there.",
+    "target": "&463 除非是零件，否则我觉得它不需要往里面放什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bfeb570fd977b9a7",
+    "source": "Picked up:[Epinephrine Cartridge",
+    "target": "获得：[肾上腺素药剂筒",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4c8ec4b7d201b109",
+    "source": "&464 It didn't sound like the machine enjoyed that.",
+    "target": "&464 听声音，机器好像不太喜欢这么做。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc72b870bf8697a4",
+    "source": "&465 At least it managed to make me a cartridge of epinephrine!",
+    "target": "&465 至少，它给我做出了一筒肾上腺素！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e91616308d33944c",
+    "source": "&466 I don't think the machine takes that.",
+    "target": "&466 机器好像不收这个。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "59202c2da2670aa1",
+    "source": "&87 Hey!",
+    "target": "&87 嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc255c9fbed7ae00",
+    "source": "&467 What?",
+    "target": "&467 什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0af01cf02801a4bd",
+    "source": "&88 Would you mind not doing that?",
+    "target": "&88 能不能别那么做？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6c2a06f7c533ce25",
+    "source": "&987 Hey!",
+    "target": "&987 嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b93941b972d2d798",
+    "source": "&988 Would you mind not doing that?",
+    "target": "&988 能不能别那么做？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1ef6a5af16b5bf0",
+    "source": "&468 Doing what? I wasn't doing anything.",
+    "target": "&468 做什么？我什么都没做。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e83d6536feba442c",
+    "source": "&89 I CAN see you, you know.",
+    "target": "&89 我可是看得见你的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e4d9eedf9d0d7f92",
+    "source": "&90 The camera's there for your own safety.",
+    "target": "&90 摄像头是为了你自己的安全。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4d54bf72a5811cfd",
+    "source": "&469 Eurgh, fine.",
+    "target": "&469 唉，好吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "11f51d87b1c8e6cc",
+    "source": "&470 I'd better find a way to fix that.",
+    "target": "&470 最好想个办法，解决这个问题。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e3f4cfe237b9cc1",
+    "source": "&989 I CAN see you, you know.",
+    "target": "&989 我可是看得见你的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "74c2166cf34726e2",
+    "source": "&471 Hey! Let me out! I didn't do anything!",
+    "target": "&471 嘿！放我出去！我什么都没干！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "86c86be8bda931b2",
+    "source": "&472 Doing my bit to fight the power! He probably can't see through that.",
+    "target": "&472 为反抗强权出一份力！他应该看不穿这个了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b65e6af2b588a940",
+    "source": "&473 I can't reach it properly from down here.",
+    "target": "&473 从这下面，没法好好够到它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f917d6b833eb4764",
+    "source": "&475 I can reach it, but I'm going to need something to get it open with.",
+    "target": "&475 能够到，不过还得找东西把它打开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed73bf8c5dd5dfb3",
+    "source": "&476 I could probably pop it open, if I could reach it properly.",
+    "target": "&476 要是能够得更稳些，大概就能把它撬开了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2ae4cc89c792a54",
+    "source": "&477 I think I've probably wasted enough food on that wall.",
+    "target": "&477 我往那面墙上浪费的食物，大概已经够多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8345ba0add116366",
+    "source": "&478 Guess I lost it.",
+    "target": "&478 看来是弄丢了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ba3fb980d78fdd5",
+    "source": "&479 Huh...I guess I got lucky the first time.",
+    "target": "&479 嗯……第一次大概只是运气好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c717b61a1e53163e",
+    "source": "&91 Hey! What did you do?!",
+    "target": "&91 嘿！你干什么了？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f0bdd0a26e65317",
+    "source": "&92 I've lost the feed from the camera!",
+    "target": "&92 摄像头画面断了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7f63cc4fca4acca",
+    "source": "&93 Oh geez, Charlie's gonna kill me...",
+    "target": "&93 天啊，查理非杀了我不可……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "15bcbb2348dba5c4",
+    "source": "&94 Why did you do that?",
+    "target": "&94 你为什么要这么做？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7d9001b3a3ebbba",
+    "source": "&480 I like my privacy.",
+    "target": "&480 我喜欢有点隐私。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab5ea269a6d91b47",
+    "source": "&95 Agh...just...just don't do anything stupid, okay?",
+    "target": "&95 唉……你……别干傻事，好吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ade1125556c9b138",
+    "source": "&96 Please?",
+    "target": "&96 求你了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "47b7639d1dda5576",
+    "source": "Picked up: High-Grade Lens",
+    "target": "获得：高级镜片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2c95e923b6738b30",
+    "source": "&481 I'm going to need something more precise to get it open.",
+    "target": "&481 得找个更精细的工具，才能把它打开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba8bcefd151fe189",
+    "source": "&482 Otherwise I might as well just smash the whole thing.",
+    "target": "&482 不然还不如把整个东西砸了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b6e4c3499335c3c0",
+    "source": "&483 The table's just like the rest of CEL.",
+    "target": "&483 这桌子跟CEL其他东西一个样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "875aeace97051429",
+    "source": "&484 Gray, functional, probably stronger than it ought to be.",
+    "target": "&484 灰扑扑的，讲究实用，大概还结实过头了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a5bd64ee368fc346",
+    "source": "&485 There! The table has been freed.",
+    "target": "&485 好了！桌子松开了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "63c85cb480dd6563",
+    "source": "&486 That didn't get the screws out.",
+    "target": "&486 那样弄不出螺丝。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4125a6b14b3c19dd",
+    "source": "&488 I've already gotten it open.",
+    "target": "&488 已经打开了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ca9d8b70b8b56db",
+    "source": "&489 Anything else and I'll probably burn down the building.",
+    "target": "&489 再加别的，大概就要把整栋楼烧了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "392b934ca809a423",
+    "source": "&490 It's already burning pretty quick. If I do any more, I'll run out.",
+    "target": "&490 烧得已经很快了。再弄下去，就要烧光了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e3487ea67d1140ff",
+    "source": "&491 This kinda sums up my feelings about paperwork.",
+    "target": "&491 这大概就能说明，我对文书工作是什么态度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fbbf500c4626f7de",
+    "source": "&492 It's broken, but I can't pull it off by hand.",
+    "target": "&492 是坏了，可光用手掰不下来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "483ea84d7e1c0db6",
+    "source": "&493 It looks like a fire hazard, it's spitting sparks everywhere.",
+    "target": "&493 看起来会引发火灾，到处都在溅火花。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc5e9689edaa97e6",
+    "source": "&494 The lighting fixture's broken.",
+    "target": "&494 灯具坏了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31c3c09a17c43057",
+    "source": "&495 Maybe someone went nuts in here and took it out on the light.",
+    "target": "&495 也许有人在这里发疯，拿灯撒气。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "13cea717212e6b7f",
+    "source": "&496 I wonder how long it'll burn for...that's gotta be some kinda hazard.",
+    "target": "&496 不知道会烧多久……这肯定有点危险吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03f8d003e2d1817a",
+    "source": "&497 A stainless-steel trashcan.",
+    "target": "&497 一个不锈钢垃圾桶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c7fea7ad4757c2e8",
+    "source": "&498 They probably go through everything guests throw out.",
+    "target": "&498 客人扔掉的东西，他们大概都会检查一遍。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a88ad8c209c19de2",
+    "source": "&499 It's not MY job to put it out.",
+    "target": "&499 灭火又不是我的工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2de98f482db966ef",
+    "source": "&500 Huh, fixed to the floor.",
+    "target": "&500 嗯，固定在地上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "22e99b8ae194fd8f",
+    "source": "&501 I guess that's...sorta...safer...",
+    "target": "&501 这样大概……算是……更安全吧……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1612bc5aae0c0c3f",
+    "source": "&502 As much as I'd like to, there must be something worse I can do to it.",
+    "target": "&502 虽然很想这么做，可肯定还有更狠的办法对付它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "795e8ace918d54c8",
+    "source": "&503 The cup's made of pretty tough plastic. It probably wouldn't melt.",
+    "target": "&503 杯子的塑料挺结实，大概不会熔化。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "df509e78e56f66ba",
+    "source": "&504 That'd be a really roundabout way to get some hot water.",
+    "target": "&504 就为了弄点热水，这也太绕了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c3b9b5f5c25206fa",
+    "source": "&505 Cooking it's not going to make it any better to eat.",
+    "target": "&505 煮一煮也不会变好吃。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "da69b181ccce3449",
+    "source": "&506 What am I making, soup?",
+    "target": "&506 我这是要做什么，煮汤？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d359ff8c9b570fa4",
+    "source": "&507 That mix is gonna dry out pretty quick.",
+    "target": "&507 这混合物很快就会干掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6262ae8e902850a9",
+    "source": "&508 Then I'm left with no wetware at all.",
+    "target": "&508 那我可就一点湿件都没了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "42635ab80826cf65",
+    "source": "&509 It's just gonna sit there and boil like that, it needs nutrients.",
+    "target": "&509 这样只会一直煮着，它需要营养。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8374ee0d3991b133",
+    "source": "&510 I made that mistake the first time I tried to grow wetware.",
+    "target": "&510 第一次培育湿件时，我就犯过这个错。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f00430fca516907e",
+    "source": "&511 Let's see if this works...",
+    "target": "&511 看看这样行不行……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "679030b2c3680460",
+    "source": "Eighty minutes later...",
+    "target": "八十分钟后……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "838e99771cc0a7d7",
+    "source": "&512 Easy! Nothing stands between me and my Trance.",
+    "target": "&512 简单！谁也别想挡在我和迷境之间。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "161eb1dfe983f3d3",
+    "source": "&513 There's a peak temperature wetware works best at.",
+    "target": "&513 有个最佳温度，湿件在那个温度下效果最好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e299fb2bf834e518",
+    "source": "&514 There's just not enough here for it to do anything, though.",
+    "target": "&514 可这里的量太少，起不了什么作用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4c61591187162479",
+    "source": "&515 I'm pretty sure cooking it's not going to make it any better.",
+    "target": "&515 我很确定，煮一煮也不会让它变好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "87e603dfa56276c1",
+    "source": "&516 Better not. I might need it.",
+    "target": "&516 还是别了。说不定还用得着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5cc29b7192f6ad24",
+    "source": "&517 Hello?",
+    "target": "&517 喂？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1714b385bdb7bc5b",
+    "source": "&518 Huh...guess he doesn't feel like talking.",
+    "target": "&518 嗯……看来他不想说话。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4fd605ff77ea9e4a",
+    "source": "&519 He looks sick...I hope I don't catch anything off him.",
+    "target": "&519 他看起来病了……希望别传染给我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ff851217b03c96fd",
+    "source": "&520 I don't think it's doing anything.",
+    "target": "&520 好像没什么作用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "edc2780f96ff4ba0",
+    "source": "&521 I guess that shouldn't be a surprise, since it was empty...",
+    "target": "&521 也不奇怪，毕竟本来就是空的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "91d3e57587388041",
+    "source": "GUYGOOD",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "59ec74c6565c6cb9",
+    "source": "&522 Now let's see if he holds up his end of the bargain.",
+    "target": "&522 现在看看，他会不会履行约定。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20f7e024cc447ea6",
+    "source": "GUYBAD",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "c47250fefdec9f7c",
+    "source": "&523 He won't know the difference...",
+    "target": "&523 他分辨不出来的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "acf8beee3567d6da",
+    "source": "&524 It feels like he's wired. I could probably make a connection with more wetware.",
+    "target": "&524 感觉他装了神经接口。湿件再多一点，应该就能连上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "babf270ce984516c",
+    "source": "//ERROR: Connection to USR.Guy already established.",
+    "target": "// 错误：已与USR.Guy建立连接。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e5f02759d5358ecf",
+    "source": "&525 Got it! I've made a connection with his neural hub.",
+    "target": "&525 成了！我连上了他的神经枢纽。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa1d5d44ae69c85d",
+    "source": "&526 I'm not giving it back!",
+    "target": "&526 我才不还回去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "004e046d62bce793",
+    "source": "&527 You want this?",
+    "target": "&527 你想要这个？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a16e925e9b7fd765",
+    "source": "&528 The table's screwed into the ground.",
+    "target": "&528 桌子用螺丝固定在地上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4d86dda40a76f9d1",
+    "source": "&529 The table's only got one leg, but it looks pretty strong.",
+    "target": "&529 桌子只有一条腿，不过看起来挺结实。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "36821cc05c267c65",
+    "source": "&530 I think it looks better without the screws.",
+    "target": "&530 我觉得，没了螺丝更好看。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12489ba21f0f4031",
+    "source": "&531 I can't get the screws out with my bare hands. My nails aren't strong enough for that.",
+    "target": "&531 光用手，弄不出螺丝。我的指甲可没那么硬。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "450213fb1b8173b5",
+    "source": "&532 I guess I could pull the table by the sides.",
+    "target": "&532 大概可以抓着两边，把桌子拉过来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "513a68a21ed3a06e",
+    "source": "&533 Not from up here, I can't!",
+    "target": "&533 站在这上面可不行！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d679eea1f4c5b9f6",
+    "source": "&97 Hey! Knock it off!",
+    "target": "&97 嘿！别闹了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b8ad28672be3f0b4",
+    "source": "&534 Geez, sorry...",
+    "target": "&534 唉，抱歉……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "301fd1456ee01950",
+    "source": "&535 There's no more room to pull it that way.",
+    "target": "&535 那个方向已经没地方再拉了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9b59f249b5414e54",
+    "source": "Picked up:[Optical Module[Memory Cartridge",
+    "target": "获得：[光学模块[记忆卡匣",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7b88828e2161be61",
+    "source": "&536 They must have HUGE vents in this building.",
+    "target": "&536 这栋楼的通风道肯定特别大。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5c4d1ba6a5a52b4a",
+    "source": "&537 It's, like, built into the wall.",
+    "target": "&537 好像整个嵌在墙里了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9876c2ab5a06a37",
+    "source": "&538 If I wanted to get through, I'd need to cut it out!",
+    "target": "&538 想从这里过去，就得把它切下来！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b69c78960f5d6e93",
+    "source": "PART4",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "677e5bced2748e45",
+    "source": "&539 That's not going to help me get through.",
+    "target": "&539 那可帮不了我穿过去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "329401cf9b8224fb",
+    "source": "&488 I've already got it open.",
+    "target": "&488 已经打开了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "afa671bb43a0194b",
+    "source": "&741 It's locked.",
+    "target": "&741 锁着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a6a6fe418a00723",
+    "source": "The cell's doors appear to have no controls from this side.",
+    "target": "牢房的门在这一侧似乎没有控制装置。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

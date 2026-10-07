@@ -1,0 +1,50 @@
+[
+  {
+    "id": "799c269135742a36",
+    "source": "Controls",
+    "target": "控制装置",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "639ccd9de74f0217",
+    "source": "&1 Freeze!",
+    "target": "&1 别动！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e796bd7762c497a8",
+    "source": "&1644 There ain't much cover between me and him...",
+    "target": "&1644 我和他之间没多少掩体……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2e3a37904e4edc5f",
+    "source": "&1645 Looks like an override console for the machinery.",
+    "target": "&1645 看起来是机器的强制接管控制台。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a52248714987b1e2",
+    "source": "&1646 The way back out onto the factory line.",
+    "target": "&1646 这边回到工厂流水线。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17e5abf20ca8d3e7",
+    "source": "SHOOTING",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  }
+]

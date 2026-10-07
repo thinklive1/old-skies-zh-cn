@@ -1,0 +1,6 @@
+{
+  "before": "56873b45cdf08d0345775caf85b3cb402b89de13a0edf96274d8392ed851dd03",
+  "after": "9ed67f68ded12851851d60d7b3c519e14f606fb32f363238e6ea94a83c579dbd",
+  "reason": "Map each SCOM reference to its actual source section using code offsets; English keys and translation IDs unchanged",
+  "entries": 13118
+}

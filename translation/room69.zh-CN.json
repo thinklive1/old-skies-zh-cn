@@ -1,0 +1,706 @@
+[
+  {
+    "id": "aeb11001d7769761",
+    "source": "Tower",
+    "target": "塔楼",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68d7beb6df59ee85",
+    "source": "Servers",
+    "target": "服务器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1ed09803a1fca64c",
+    "source": "Power Switch",
+    "target": "电源开关",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b6081bba5098e7bf",
+    "source": "&1767 Galatea! Step away from the console!",
+    "target": "&1767 伽拉忒亚！离开控制台！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9e7ddaf576f8a35",
+    "source": "&80 No need for violence. I surrender.",
+    "target": "&80 不必动武。我投降。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eb15e7553d104fcd",
+    "source": "&81 You're just slightly too late to stop me, though.",
+    "target": "&81 不过，你们还是晚了一点，已经阻止不了我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8700fd6f2684d81e",
+    "source": "&634 Hello? Can anyone hear me?",
+    "target": "&634 喂？有人能听见吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d602566e10f2e78",
+    "source": "&1768 Latha? Where are you?",
+    "target": "&1768 拉塔？你在哪儿？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc012070e63ae3c0",
+    "source": "&635 I'm stuck in a Trance sim. It's full of...ghosts...",
+    "target": "&635 我被困在迷境模拟里，到处都是……幽灵……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "50e7f9624ad1a48b",
+    "source": "&1283 A sim? Oh no...",
+    "target": "&1283 模拟？糟了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2760a8db2fc3fb15",
+    "source": "&1284 The lock was a ruse, to get you to connect to the cortex system.",
+    "target": "&1284 那个锁是个骗局，就是为了让你接入皮层系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b80bc149db537b19",
+    "source": "&1769 What did you do?!",
+    "target": "&1769 你干了什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2cfb08dd683df066",
+    "source": "&82 I've just added the final component for Central's new personality.",
+    "target": "&82 我刚刚为中枢的新人格，加入了最后一个组成部分。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7c810325f777d87",
+    "source": "&83 I'd already acquired the expertise, the minds, from all over the world.",
+    "target": "&83 我早已从全世界取得了专业知识和心智。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65fcaa864baada9d",
+    "source": "&1285 Then you needed a way to make them...compatible...",
+    "target": "&1285 然后，你需要让它们……相互兼容……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "878e207f3e8fcc11",
+    "source": "&84 Precisely. But, there are only three examples in the world of the neural architecture used in Central.",
+    "target": "&84 正是。不过，全世界只有三个实例，拥有中枢所用的神经结构。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49bf35c7480ca84a",
+    "source": "&85 The matter already in use, my own brain tissue of course...",
+    "target": "&85 已经投入使用的组织，还有我自己的脑组织，当然……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f1387d893ec3120",
+    "source": "&1770 ...and your SISTER.",
+    "target": "&1770 ……还有你的姐妹。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3c0e5e290f191253",
+    "source": "&86 In a few minutes, the organic memory module will have finished imprinting over Latha's mind.",
+    "target": "&86 再过几分钟，有机记忆模块就会完成对拉塔心智的覆盖写入。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ff1e2fb2e1d6ed61",
+    "source": "&87 Central will have received the upgrade it deserves, dozens of lifetimes of expertise!",
+    "target": "&87 中枢将得到它应有的升级，数十个人生积累的专业知识！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3fb88f44145d2e8c",
+    "source": "&1771 You're killing her!",
+    "target": "&1771 你在杀她！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b180bf8b86e147b9",
+    "source": "&88 In only the most technical sense.",
+    "target": "&88 也只是严格按技术定义，才算如此。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31cb7410510c873c",
+    "source": "&89 Don't worry, father - you'll still have me.",
+    "target": "&89 别担心，父亲，你还有我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9538219f409a03b",
+    "source": "&1286 Corpsman, remove her.",
+    "target": "&1286 医务员，把她带走。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52494a0889225b9e",
+    "source": "&636 Uh...hello?",
+    "target": "&636 呃……有人吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "964b92e77915fe3c",
+    "source": "&1772 We've got to get her out of this.",
+    "target": "&1772 得把她救出来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e8d56a219663fc06",
+    "source": "&1773 Get her out of that damned chair!",
+    "target": "&1773 把她从那张该死的椅子上弄出来！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fa14e310309b10c1",
+    "source": "&1287 There's too much neural activity - the interrupt would leave her braindead.",
+    "target": "&1287 神经活动太强，中断连接会让她脑死亡。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "06df51bdce529d8d",
+    "source": "&1288 We'll have to find something we can do at this end...",
+    "target": "&1288 得看看我们这边还能做些什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c232af5d53dedc9d",
+    "source": "&1289 REGIS!! Hang on!",
+    "target": "&1289 里吉斯！等等！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "94a342fd798e99ec",
+    "source": "&1774 There are a few things I regret.",
+    "target": "&1774 有些事，我一直后悔。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a68c6f630fc73c23",
+    "source": "&1775 No matter what I do, there's nothing that can change most of them.",
+    "target": "&1775 无论做什么，大部分都没法改变。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f79714ac9b3b4fe1",
+    "source": "&1290 She's safe, Regis! You got her out!",
+    "target": "&1290 她安全了，里吉斯！你救出她了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0b7385ba91f80d58",
+    "source": "&1776 That's good.",
+    "target": "&1776 那就好。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d271615a128dd889",
+    "source": "&1777 Maybe, with what I've done now, I can fix the most important ones.",
+    "target": "&1777 也许，今天做的事，能让我弥补其中最重要的那些。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "166b7154c5e52b18",
+    "source": "&1291 Hang on, Regis! We're almost in!",
+    "target": "&1291 坚持住，里吉斯！我们快进来了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d29e06718f463886",
+    "source": "&1778 I've wasted so many years...out of shame...out of fear...",
+    "target": "&1778 因为羞愧，因为恐惧，我浪费了这么多年……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "96d2683a9b71a590",
+    "source": "&1779 If I had...one more chance...one...more...",
+    "target": "&1779 要是还能……有一次机会……再……一次……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6932f254923e9974",
+    "source": "&1292 Regis? Regis?!",
+    "target": "&1292 里吉斯？里吉斯？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "de9da837b2406dc7",
+    "source": "&1293 I can't feel anything...get the medic!",
+    "target": "&1293 感觉不到任何动静……叫医务员！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "07215d221f42e9ec",
+    "source": "&1294 Don't do this...don't do this, Charlie...",
+    "target": "&1294 别这样……别这样，查理……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef0df6a59f0ee444",
+    "source": "&1780 It's the memory module we pulled from Van der Waal's refrigerator.",
+    "target": "&1780 这是我们从范德瓦尔冰箱里拿到的记忆模块。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a40976c27e6049a8",
+    "source": "&1781 Now it's hooked into the system, and uploading God knows what into Latha...",
+    "target": "&1781 现在它接进了系统，鬼知道正往拉塔脑子里上传什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4c67a805c7252167",
+    "source": "&1295 The wetware inside is glowing. It must be active.",
+    "target": "&1295 里面的湿件在发光，肯定正在运行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "df72bf793c6c3a6f",
+    "source": "&1782 Can we just pull the module?",
+    "target": "&1782 不能直接拔掉模块吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "687f6781fb4d5a8c",
+    "source": "&1296 I don't think so - the interrupt in the dataflow will probably leave her brain-damaged.",
+    "target": "&1296 应该不行。数据流一中断，她很可能会受到脑损伤。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eeed3ed2c932fbcf",
+    "source": "&1297 Maybe if we could get it to stop the transfer, though...",
+    "target": "&1297 不过，要是能让它自己停止传输……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fcfdf44139f3217a",
+    "source": "&1783 I can't risk just pulling it out.",
+    "target": "&1783 不能冒险直接拔掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "383066eac079fafd",
+    "source": "&1784 Interrupting the connection like that might harm Latha.",
+    "target": "&1784 那样切断连接，可能伤到拉塔。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6db8ddfffc46791e",
+    "source": "&1785 What's with all the water?",
+    "target": "&1785 这么多水是怎么回事？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "be9bc71eb64306bf",
+    "source": "&1298 It's a coolant. The systems work at their peak around negative-forty celsius.",
+    "target": "&1298 冷却剂。系统在零下四十摄氏度左右，运作效率最高。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a10a8aa031f8f412",
+    "source": "&1786 She must have cut the power to the coolant systems to work in here.",
+    "target": "&1786 她一定切断了冷却系统的电源，才好在这里工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e4d9c260864fde2",
+    "source": "&1299 I don't think the wetware in the module would like it either.",
+    "target": "&1299 模块里的湿件，应该也受不了这种温度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8e535dc84127f05e",
+    "source": "&1787 It's like a giant freezer for the electronic systems.",
+    "target": "&1787 就像个巨大的电子系统冷冻库。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e06c412f8a389dfa",
+    "source": "&1788 I guess Galatea had to raise the temperature for herself, and the organic wetware in the memory module.",
+    "target": "&1788 伽拉忒亚肯定是为自己，还有记忆模块里的有机湿件，把温度调高了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "954930ea8131ffe0",
+    "source": "&1789 Can we do anything to the cortex servers themselves?",
+    "target": "&1789 能对皮层服务器本身做点什么吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bcc1668c68b632ee",
+    "source": "&1300 If we had more time, I could hook my own wetware up to it.",
+    "target": "&1300 如果有更多时间，我可以把自己的湿件接进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1d37ad034df14a9a",
+    "source": "&1301 It'd take hours to sort through the normal operational garbage, though.",
+    "target": "&1301 可光是筛过日常运作的杂乱数据，就得好几个小时。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4f7ce24613978a8f",
+    "source": "&1790 I wouldn't know where to begin - that's Lao's field...",
+    "target": "&1790 根本不知道从哪里下手，这是劳的领域……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4105fbdd2e72d170",
+    "source": "&1791 Lao, do you think we could...?",
+    "target": "&1791 劳，你觉得我们能不能……？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8bad03baddc40be6",
+    "source": "&1302 I know what you're thinking, and the answer's 'no'.",
+    "target": "&1302 我知道你在想什么，答案是“不行”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "021d3fa5eb3a33ed",
+    "source": "&1303 The systems are well-shielded against charge surges.",
+    "target": "&1303 系统对电荷浪涌有完善的防护。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8140675569e682df",
+    "source": "&1304 Sorry...unlike at Van der Waal's, the 'shoot it' approach won't help.",
+    "target": "&1304 抱歉……这里跟范德瓦尔家不一样，“朝它开枪”没用。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6bf7f92eb2db8bd1",
+    "source": "&678 A door at the end of the walkway, hiding another panel.",
+    "target": "&678 走道尽头的一扇门，里面藏着另一块面板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f63f3ee2dd4fb850",
+    "source": "&1792 A power switch? It's been turned off.",
+    "target": "&1792 电源开关？被关掉了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c1ff52e019a3325d",
+    "source": "&1793 Lao, why was the memory module in Van der Waal's refrigerator?",
+    "target": "&1793 劳，范德瓦尔为什么把记忆模块放在冰箱里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6252a43367c797e2",
+    "source": "&1305 I don't know for sure, but I think because of its wetware.",
+    "target": "&1305 不确定，不过我想，是因为里面的湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "75ffe394268fa56c",
+    "source": "&1306 Like any organic system, it has a peak temperature at which it operates, about fifteen celsius.",
+    "target": "&1306 跟所有有机系统一样，它有一个最佳运作温度，大约十五摄氏度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0706d3473698a9b8",
+    "source": "&1794 So, he might have been trying to get it to stop, by lowering its temperature?",
+    "target": "&1794 所以，他可能是想降温，让它停下来？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d8df648abeadd8a",
+    "source": "&1307 Unsuccessfully, since it managed to overwrite his wetware.",
+    "target": "&1307 没成功。它还是覆盖了他的湿件。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a5a226e5cc59ccc1",
+    "source": "&1795 But the theory's sound, right?",
+    "target": "&1795 可理论上，行得通，对吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f834ac6b7a5c642f",
+    "source": "&1308 Hey! Stop!",
+    "target": "&1308 嘿！住手！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "81d6129ed505bc8c",
+    "source": "&1796 His kitchen refrigerator wasn't enough.",
+    "target": "&1796 他厨房的冰箱，温度还不够低。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "540a10399aeb55b0",
+    "source": "&1797 If we power up the freezer in here, we can bring it down to negative-forty.",
+    "target": "&1797 启动这里的冷冻系统，就能降到零下四十。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a227dc38536fcc7e",
+    "source": "&1309 If you power it up now, the door will lock as the system cycles.",
+    "target": "&1309 你现在启动它，系统循环时，门就会锁上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1efd58d434a7a176",
+    "source": "&1310 Yeah, but we'd be trapped in here for at least four hours, in lethal cold.",
+    "target": "&1310 可我们会在致命的低温里，困上至少四个小时。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3bfd84607961268c",
+    "source": "&1311 I want to save Latha, but I'm not gonna let you freeze us to death doing it.",
+    "target": "&1311 我也想救拉塔，但不能让你把我们都冻死。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a10428a614cb1e03",
+    "source": "&1798 That's fine - get outside before I throw the switch!",
+    "target": "&1798 那就没问题，我拉开关之前，你先出去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "49fb8e487aaf0dbd",
+    "source": "&1312 I can't let you do this, Regis!",
+    "target": "&1312 不能让你这么做，里吉斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93859fe612164ef7",
+    "source": "&1799 What are you going to do, stun me?",
+    "target": "&1799 你打算怎么办？电晕我？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "03db2f4695cc8ee3",
+    "source": "&1313 If I have to.",
+    "target": "&1313 必要的话，会。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "175a7a68955db1e1",
+    "source": "&1314 But I don't think you're going to risk killing me in here. If I stay, you live.",
+    "target": "&1314 可我不认为，你会冒险把我害死在这里。我留下，你就能活。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f6b397eb77b7717",
+    "source": "&141 Warning - coolant systems active. Target value: NEGATIVE FORTY celsius.",
+    "target": "&141 警告——冷却系统已启用。目标值：零下四十摄氏度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a4bae5b34695d00c",
+    "source": "&142 Beginning maintenance cycle. Estimated completion: SIX HOURS.",
+    "target": "&142 开始维护周期。预计完成时间：六小时。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1843b424e5b2e242",
+    "source": "&37 Warning - cooling systems active. Target value: NEGATIVE FORTY celsius.",
+    "target": "&37 警告——冷却系统已启用。目标值：零下四十摄氏度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52e4aff2586d0fe8",
+    "source": "&38 Beginning maintenance cycle. Estimated completion: SIX HOURS.",
+    "target": "&38 开始维护周期。预计完成时间：六小时。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dc88ac3ca22978c3",
+    "source": "&1800 Nothing else I can do, now.",
+    "target": "&1800 现在，我再也做不了别的了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "72fa1c815d817a9d",
+    "source": "&748 The power cut-off for the server's refrigeration. Apparently deactivated by Galatea to give her a chance to do her work.",
+    "target": "&748 服务器冷却系统的断电开关。显然，是伽拉忒亚为了能在里面工作，把它关掉了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

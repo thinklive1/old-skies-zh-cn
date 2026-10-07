@@ -1,0 +1,14 @@
+{
+  "name": "Technobabylon 简体中文汉化",
+  "version": "1.0.0-rc.1",
+  "release_state": "ready",
+  "translation_name": "Technobabylon_zh_CN",
+  "encoding": "utf-8",
+  "game_encoding": ".1252",
+  "scope": "玩家可见的主线对白、选项、界面、物品、场景热点及世界观文本",
+  "commentary": "preserve-original",
+  "review_required": true,
+  "requires": "Steam build 24559207 / AGS 3.6.1.35",
+  "release_kind": "local validation candidate",
+  "visual_acceptance": "pending-user"
+}

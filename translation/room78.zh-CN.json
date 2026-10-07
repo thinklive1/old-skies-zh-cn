@@ -1,0 +1,90 @@
+[
+  {
+    "id": "66ada4d485d7c413",
+    "source": "Hangar",
+    "target": "机库",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "70d1189dce7e0d35",
+    "source": "&730 Whoa!",
+    "target": "&730 哇！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3068340c3e3aa249",
+    "source": "&731 Those goons'll see me before I even get close!",
+    "target": "&731 还没走近，那些打手就会看到我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "217c6d2273609e65",
+    "source": "&732 There must be another way on-board...",
+    "target": "&732 肯定还有别的路能上去……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb4312bfa7231cd1",
+    "source": "&752 The cargo hangar, though rickety, is probably the safest place on this airfield.",
+    "target": "&752 货运机库虽然破破烂烂，却可能是整个机场最安全的地方。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed5d9db5be0e8ada",
+    "source": "&753 The way the containers are spread out between the hangar and the aerostat, you guess they're in the middle of loading.",
+    "target": "&753 集装箱散布在机库和浮空艇之间，看样子他们正在装货。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1165944699847fb",
+    "source": "&754 The aerostat hangs a metre from the ground, ready to break free from the Earth once its cables are released. This is apparently where they're hiding...",
+    "target": "&754 浮空艇悬在离地一米的地方，只要解开缆绳，就能升空。他们显然就藏在那里……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f16a814e82b2bcc2",
+    "source": "&588 I can't just walk out there, the goons on the pad'll see me for sure!",
+    "target": "&588 不能直接走出去。停机坪上的打手肯定会看见我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cac28cc55a1d789e",
+    "source": "&589 I need to find a way to get on-board undetected...",
+    "target": "&589 得想办法悄悄上艇……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc6b269d3929c87e",
+    "source": "&755 After being moved from the hangar, it looks like the crates are sealed for transit - you can't find a way into these ones.",
+    "target": "&755 箱子从机库运出来后，似乎已经封好，准备运输。你找不到能钻进去的地方。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8df1911672e56bf",
+    "source": "&735 It looks like they're expecting trouble.",
+    "target": "&735 看来他们早有防备。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

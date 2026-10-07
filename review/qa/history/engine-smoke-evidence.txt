@@ -1,0 +1,19 @@
+Engine version 3.6.1.35, 32-bit LE
+Game title: 'Technobabylon'
+Game uid (old format): `1186933`
+Loaded font 0: agsfnt0.ttf, req size: 16; nominal h: 16, real h: 20, extent: 0,20
+Loaded font 1: agsfnt1.ttf, req size: 32; nominal h: 32, real h: 36, extent: 0,36
+Loaded font 2: agsfnt2.ttf, req size: 32; nominal h: 32, real h: 38, extent: 0,38
+Loaded font 3: agsfnt3.ttf, req size: 0; nominal h: 16, real h: 20, extent: -1,20
+Loaded font 4: agsfnt4.ttf, req size: 16; nominal h: 16, real h: 18, extent: 0,18
+Loaded font 5: agsfnt5.ttf, req size: 16; nominal h: 16, real h: 18, extent: 0,18
+Loaded font 6: agsfnt6.ttf, req size: 16; nominal h: 16, real h: 20, extent: 0,20
+Loaded font 7: agsfnt7.ttf, req size: 24; nominal h: 24, real h: 27, extent: 0,27
+Translation loaded: Technobabylon_zh_CN.tra
+Translation's encoding: UTF-8
+Game's source encoding hint: own: 1252, from TRA: .1252
+Converting UTF-8 TRA keys to the game's encoding (.1252)
+Translation initialized: Technobabylon_zh_CN (format: UTF-8)
+Engine initialization complete
+Starting game
+Game : (room:2) Now in room 2

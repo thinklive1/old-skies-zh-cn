@@ -1,0 +1,170 @@
+[
+  {
+    "id": "9ab31dcb2ffd3b36",
+    "source": "Darkness",
+    "target": "黑暗",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ec5ba0abb717da87",
+    "source": "Access",
+    "target": "入口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc0aeff1d05095f1",
+    "source": "&569 A frayed cloth rucksack is bundled against the wall. It's covered in sewn-on patches of Christian iconography.",
+    "target": "&569 一个磨损的布背包堆在墙边。上面缝满了带有基督教图像的布章。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed3fd0d0818136e6",
+    "source": "&1672 The bomber's bag?",
+    "target": "&1672 炸弹袭击者的包？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "12a26271320d72e9",
+    "source": "&570 Likely, this used to contain supplies to aid the bomber in remaining undercover in this city of heathens. Now, the only thing remaining is a hand-written note.",
+    "target": "&570 里面以前可能装着补给，帮助炸弹袭击者在这座“异教徒”城市里隐匿身份。如今只剩一张手写字条。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66edef9c1cd292c2",
+    "source": "Picked up: Note to Bomber",
+    "target": "已拾取：给炸弹袭击者的字条",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "56311a2bd1f0ad31",
+    "source": "&1673 There's nothing else in it.",
+    "target": "&1673 里面没别的了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6a709397a38938e8",
+    "source": "&1674 It *feels* like the cover to the outside vent, but I can't see a thing.",
+    "target": "&1674 *摸着*像外部通风口的盖子，可什么也看不见。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f365d9be73a7237",
+    "source": "&2020 The vent cover's been unlatched - from the inside. The bomber must have gained entry through here.",
+    "target": "&2020 通风口盖被从里面打开了。炸弹袭击者肯定就是从这里进入的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "058d37c0dbaf1d3f",
+    "source": "&2021 Whoever their accomplice on the inside was did a number on their hand.",
+    "target": "&2021 不管内部帮凶是谁，手都被伤得不轻。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8fa1ff0e420d8889",
+    "source": "&2022 The vent cover's got a sharp edge, and is still wet with blood.",
+    "target": "&2022 通风口盖边缘锋利，上面还沾着湿血。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ddc8a2002d81775c",
+    "source": "&1675 I can't see a damned thing in here.",
+    "target": "&1675 这里什么鬼东西都看不见。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43a2756d6f7eb312",
+    "source": "&573 Contaminating it with other blood samples won't help.",
+    "target": "&573 用别的血液样本污染它，不会有帮助。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab59e18a09fda8fb",
+    "source": "&574 You run the tissue along the bloodied edge of the grate, taking as much still-moist blood as possible.",
+    "target": "&574 你用纸巾擦过格栅沾血的边缘，尽可能采集尚未干透的血迹。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae88a21061cc4102",
+    "source": "&680 You are unable to find anything to soak up.",
+    "target": "&680 没找到可以吸取的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43ded52ca3a1ec33",
+    "source": "&2023 Ow! Hey, that's sharp.",
+    "target": "&2023 啊！这东西真锋利。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a3ab996b485450cf",
+    "source": "&2024 Ow! Whatever it is, it's got sharp edges.",
+    "target": "&2024 啊！不管是什么，边缘都很锋利。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "55a9eb80508b4afd",
+    "source": "&681 You feel around in the musty blackness, but can't identify anything helpful.",
+    "target": "&681 你在带着霉味的黑暗里摸索，却没找到能派上用场的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5a94bb8199bc14dc",
+    "source": "&693 Someone's popped the vent open. Maybe this is how the bomber entered?",
+    "target": "&693 有人把通风口打开了。炸弹袭击者也许就是从这里进来的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f12dcecee4a85f8c",
+    "source": "&714 Someone's popped the vent open. Judging by the blood on the cover, it looks like it did a number on their hand.",
+    "target": "&714 有人把通风口打开了。从盖上的血来看，那个人的手伤得不轻。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc96956715248d98",
+    "source": "&716 You briefly contemplate making an escape through the roof access, but then you'd lose your best lead.",
+    "target": "&716 你一度想从屋顶出口逃走，可那样就会丢掉最好的线索。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

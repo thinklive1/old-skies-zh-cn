@@ -1,0 +1,154 @@
+[
+  {
+    "id": "fa8340eaebe8ae13",
+    "source": "&38 Yeah, I...uh...what was I saying?",
+    "target": "&38 是啊，我……呃……刚才说什么来着？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "25bff96ee9d80a2e",
+    "source": "&39 Oh yeah! Another win for Team Awesome!",
+    "target": "&39 哦，对！超棒队又赢了一场！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ec5b278d20f17795",
+    "source": "&40 I...uh...you gotta...uh...",
+    "target": "&40 我……呃……你得……呃……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "28edd6b8c6d69e9c",
+    "source": "&618 Come on, you remember the deal.",
+    "target": "&618 得了，你记得我们的约定。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bce81265e4d51096",
+    "source": "&41 Yeah, I'll...I'd better...just...",
+    "target": "&41 是啊，我会……最好……只是……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d7abfed292e2049b",
+    "source": "GRAVBALL",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "3cbb1463a6a1a5c1",
+    "source": "&42 I don't feel so good...",
+    "target": "&42 我不太舒服……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "05027a064bef6c73",
+    "source": "// USER DISCONNECTED: Domino",
+    "target": "//用户已断开连接：Domino",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1e87d0bdb226e74d",
+    "source": "&35 I don't know what you did, but that was worth sticking around to see.",
+    "target": "&35 不知道你做了什么，不过留下来看这一出，真值了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c327021d2558f960",
+    "source": "&36 A deal's a deal. I'll log off.",
+    "target": "&36 说话算话。我会下线。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ea852b5646846de",
+    "source": "&37 Maybe we'll spar sometime!",
+    "target": "&37 也许，改天我们可以切磋一下！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1408da419bf77915",
+    "source": "// USER DISCONNECTED: El Mustardo",
+    "target": "//用户已断开连接：El Mustardo",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68b653c015a1ae70",
+    "source": "&780 Damn...",
+    "target": "&780 该死……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d09cac07aaf2dba4",
+    "source": "&781 Woohoo!",
+    "target": "&781 呜呼！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "101d59304368ee83",
+    "source": "Deploying new ball...",
+    "target": "正在投放新球……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a51d5134b7a77d06",
+    "source": "&43 Nice game, *loser*.",
+    "target": "&43 打得不错啊，*手下败将*。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b49e74d1323ad9a2",
+    "source": "&44 Hey, how about best sixteen out of thirty?",
+    "target": "&44 嘿，要不要三十局十六胜？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0e305a20f4548570",
+    "source": "&45 Haha...",
+    "target": "&45 哈哈……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f2ece4eeff29157",
+    "source": "&38 Jerk.",
+    "target": "&38 混蛋。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "35d866910e259e39",
+    "source": "Sink",
+    "target": "水槽",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "90fade6fb78eaa0e",
+    "source": "Mirror",
+    "target": "镜子",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "173d9569bcc4d3c2",
+    "source": "&1671 Hmm...it's already been opened...",
+    "target": "&1671 嗯……已经被打开过了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b96ba1d004614dbe",
+    "source": "&562 The vent covering the air ducts. Its crooked placement is uniquely jarring amongst the otherwise-ordered bathroom.",
+    "target": "&562 风道上的通风口盖。它歪歪斜斜，与整洁有序的卫生间格格不入。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c261e4a393949778",
+    "source": "&563 The vent leads into the air circulation systems for this floor.",
+    "target": "&563 通风口连着这一层的空气循环系统。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d23cca52a33bc3bb",
+    "source": "Picked up: Tissue Paper",
+    "target": "已拾取：纸巾",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "093c2f1f816e1e37",
+    "source": "&565 You pour the contents into the sink. Though you're an active consumer, you're no connoisseur - for all you know, that wine may have been worth thousands of quanta.",
+    "target": "&565 你把里面的东西倒进水槽。虽然没少喝酒，却算不上行家。这瓶葡萄酒，说不定值好几千量子币。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cfcc26106902a14f",
+    "source": "&566 You pour the contents into the toilet. Though you're an active consumer, you're no connoisseur - for all you know, that wine may have been worth thousands of quanta.",
+    "target": "&566 你把里面的东西倒进马桶。虽然没少喝酒，却算不上行家。这瓶葡萄酒，说不定值好几千量子币。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26c4ebd23abeb315",
+    "source": "&567 A small cabinet, no doubt for storing cleaning supplies when not in use. This is probably the sort of place that does it by hand.",
+    "target": "&567 一个小柜子，肯定是用来存放闲置的清洁用品。这里大概还会雇人手工打扫。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "578f54ead27292e0",
+    "source": "&2015 There's the remains of a first-aid kit in here.",
+    "target": "&2015 里面还有急救箱的残留物。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d5076d8e3062ec26",
+    "source": "&2016 Someone's used all of the med-patches and pseudoderm spray. Must have had an injury.",
+    "target": "&2016 医疗贴片和人造皮肤喷剂全被用掉了。肯定有人受了伤。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1d3ece7ad6372846",
+    "source": "&2017 The only item left is a bottle of harsh-smelling toilet cleaner.",
+    "target": "&2017 只剩一瓶气味刺鼻的洁厕剂。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "75ff9f8494a02739",
+    "source": "Picked up: Toilet Cleaner",
+    "target": "已拾取：洁厕剂",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "98b49ae53d3bc933",
+    "source": "&672 Hygiene is important, especially around food.",
+    "target": "&672 卫生很重要，尤其是在食物附近。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "31c6a772026a4f82",
+    "source": "&676 The toilet stalls are equipped with 'smart' privacy screens. The lack of doors still bothers you somehow, though.",
+    "target": "&676 厕所隔间装着“智能”隐私屏。不过，没有门这件事，还是让你有些别扭。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ff87e8dbd876296",
+    "source": "&2018 Apparently, this mirror is having a software error.",
+    "target": "&2018 看来，这面镜子出了软件故障。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c1f00ed0ee6ab263",
+    "source": "&2019 Huh...before I came to Newton, that sentence wouldn't have made any sense to me.",
+    "target": "&2019 哦……没来牛顿市之前，这句话对我来说根本不可能有意义。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

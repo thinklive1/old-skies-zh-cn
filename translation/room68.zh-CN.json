@@ -1,0 +1,298 @@
+[
+  {
+    "id": "c561ba8a1304d3c9",
+    "source": "Spinning Machinery",
+    "target": "旋转机械",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "36e231ad7acc5bda",
+    "source": "Trunk Chamber",
+    "target": "主干舱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83d748271771ad0f",
+    "source": "Control Systems",
+    "target": "控制系统",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab9bd7584a6270cd",
+    "source": "Platforms",
+    "target": "平台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b5db61f72142597",
+    "source": "Power Supply",
+    "target": "电源",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2555de1248f3779f",
+    "source": "Turbines",
+    "target": "涡轮",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23a6faac23aaaad6",
+    "source": "Turbine",
+    "target": "涡轮",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0c874f581a4534f1",
+    "source": "Damage",
+    "target": "损坏处",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9ee3947c845c457",
+    "source": "Gears",
+    "target": "齿轮",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d8878bb2231a8153",
+    "source": "Board Platform",
+    "target": "登上平台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d02fb5cf2940b79",
+    "source": "&143 Hnnghh --- AAAAGGGHH!",
+    "target": "&143 唔呃——啊啊啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d29fd4d4d3ab8e8f",
+    "source": "MJ1",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "74ab3040f1f8b58f",
+    "source": "&622 Huh...guess it just got eaten up by the machinery.",
+    "target": "&622 嗯……看来被机器吞进去了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c49e4d8e60e348f9",
+    "source": "&142 Regis?!",
+    "target": "&142 里吉斯？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c4e3fbc94e1f6bf9",
+    "source": "&1722 You...are under arrest.",
+    "target": "&1722 你……被捕了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e87a61032723e07c",
+    "source": "MJ2",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "d33d4fab04e3926c",
+    "source": "&668 The rotor in this mechanism spins so quickly as to blur before your vision.",
+    "target": "&668 这套机构中的转子转得太快，眼前只剩一片模糊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "677b8706d8c70564",
+    "source": "&669 You realize that you'd be unable to stop the machinery with your bare hands. Anything moving that fast would cause serious damage to whatever it touches.",
+    "target": "&669 你知道，徒手不可能让机器停下。任何东西以这种速度移动，碰到什么都会造成严重损害。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d127bda897925618",
+    "source": "&673 Central has already been given access to the security system, and broken the scrambler on the door.",
+    "target": "&673 中枢已经接入安保系统，并攻破了门上的加扰器。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "083e485bb3318e93",
+    "source": "&674 Nina's contacts have already been given access, removing Central from office and breaching the scrambler on the door.",
+    "target": "&674 妮娜的联系人已经接入，移除了中枢的管理职能，并攻破了门上的加扰器。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "45b6fb998a7e9e66",
+    "source": "&738 The systems for controlling the allocation of power and security, guarded by the Mindjacker until Galatea can finish her mission.",
+    "target": "&738 这里的系统控制电力和安保分配。意识劫持者一直守着，直到伽拉忒亚完成任务。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "792902f1783e81a8",
+    "source": "&2032 I don't want to risk damaging it...",
+    "target": "&2032 我不想冒险把它弄坏……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "389a90efb78354f0",
+    "source": "&1501 Better not risk damaging it.",
+    "target": "&1501 最好别冒险弄坏它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83f44fab8227cbe7",
+    "source": "&739 The platforms aren't manually-controlled.",
+    "target": "&739 平台不是手动控制的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "836e34852cdeba50",
+    "source": "&740 A system of moving platforms, apparently for shifting drones into the different levels of conduits running through the building.",
+    "target": "&740 一套移动平台系统，显然用于把无人机送往大楼中不同层次的管线。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e1872cea918ff8ab",
+    "source": "&742 The power junction for this area. It's probably got backups, but even a momentary disruption might help you get the drop on the Mindjacker.",
+    "target": "&742 这片区域的电力接点。可能有备用电源，但哪怕只是短暂断电，也许就能帮你打意识劫持者一个措手不及。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ffd0a048dad93f39",
+    "source": "&743 The power systems were apparently able to reroute themselves, though that brief moment helped you stop the Mindjacker.",
+    "target": "&743 电力系统显然成功改换了供电路径，不过那短暂的一刻，已经帮你阻止了意识劫持者。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f105f8c3797b9469",
+    "source": "&744 The power junction for this area.",
+    "target": "&744 这片区域的电力接点。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9c1efeb8fb4e2209",
+    "source": "&746 An array of hazardous-looking machinery that makes up part of Central's power systems.",
+    "target": "&746 一组看起来危险的机器，构成了中枢供电系统的一部分。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5e60ccab2febb63",
+    "source": "&747 You can't trust your aim to get a grenade close enough, but if you could get a grenade into the machinery somehow...",
+    "target": "&747 你没把握，将手榴弹扔得足够近。不过，如果能想办法把它送进机器里……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba544d98e4782297",
+    "source": "&2033 He's not Baxter...and despite what he's done, he needs help...",
+    "target": "&2033 他不是巴克斯特……尽管做了这些事，他还是需要帮助……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c3359d5b93415879",
+    "source": "&1502 Now all he gets out of this is one hell of an identity crisis.",
+    "target": "&1502 现在，他从这件事里得到的，只有一场严重的身份危机。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "940aa24f448dce6a",
+    "source": "&729 They should have just finished him off...",
+    "target": "&729 他们应该直接了结他……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5bd44267be7d813",
+    "source": "&2034 Better not...he might end up having an \"accident\" if I have to spend much longer with him.",
+    "target": "&2034 最好别……再跟他待下去，可能就要出点“意外”了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0a179e650b6816f1",
+    "source": "&111 Nnngh!",
+    "target": "&111 唔！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b00375d7dd87ad00",
+    "source": "&2035 Not that I wouldn't love to, but he's just not worth the energy.",
+    "target": "&2035 倒不是不想动手，只是他不值得浪费这份力气。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bdc4366b6800d85a",
+    "source": "&1503 Nah. We'll have plenty of time for that in the compliance suite at CEL.",
+    "target": "&1503 不了。到了CEL的服从性矫正室，有的是时间。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

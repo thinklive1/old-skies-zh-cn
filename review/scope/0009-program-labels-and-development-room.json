@@ -1,0 +1,922 @@
+{
+  "audit": "Explicit reviewed original values; preserved identity/gear/protocol/placeholder symbols, excluded isolated developer demonstration room and two global scroll-text defaults with code evidence. All shared real newspaper text was translated instead of excluded.",
+  "entries": [
+    {
+      "id": "99b3bcf690e653a1",
+      "source": "ASDF",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 6,
+          "script": "dialog28"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog29"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog67"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog68"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog69"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog70"
+        }
+      ]
+    },
+    {
+      "id": "63b8a61b21ed849e",
+      "source": "GHJKL",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 1,
+          "script": "dialog29"
+        }
+      ]
+    },
+    {
+      "id": "f91deffa32422efb",
+      "source": "QWERT",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog30"
+        }
+      ]
+    },
+    {
+      "id": "b63d8bdb4e169cab",
+      "source": "YUIOP",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 1,
+          "script": "dialog30"
+        }
+      ]
+    },
+    {
+      "id": "4e3749912679fd2e",
+      "source": "STP",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 3,
+          "script": "dialog59"
+        }
+      ]
+    },
+    {
+      "id": "a563fcc5623e8378",
+      "source": "JKL;",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 1,
+          "script": "dialog70"
+        }
+      ]
+    },
+    {
+      "id": "435c554a2e9cd54d",
+      "source": "QWERTY",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 0,
+          "script": "dialog71"
+        }
+      ]
+    },
+    {
+      "id": "be7d4b5e0b8ef732",
+      "source": "UIOP{}",
+      "status": "preserve",
+      "reason": "对话中的键盘占位/程序节点标识，无明确可翻译语义；保留原值对应原始节点，不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-option",
+          "index": 1,
+          "script": "dialog71"
+        }
+      ]
+    },
+    {
+      "id": "a5c7342a2aa2881f",
+      "source": "XR:/>",
+      "status": "preserve",
+      "reason": "终端编码、散列标识或诊断协议片段，保留字母/数值序列，避免改变技术标识和隐藏线索；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 704,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "195fdc688db1fc78",
+      "source": "GARDA ",
+      "status": "preserve",
+      "reason": "终端编码、散列标识或诊断协议片段，保留字母/数值序列，避免改变技术标识和隐藏线索；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 1019,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "da6fcbbf1c4a0dcf",
+      "source": "IN/EGL ",
+      "status": "preserve",
+      "reason": "终端编码、散列标识或诊断协议片段，保留字母/数值序列，避免改变技术标识和隐藏线索；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 1299,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "eee1d968b253b532",
+      "source": "ES/141/22C",
+      "status": "preserve",
+      "reason": "终端编码、散列标识或诊断协议片段，保留字母/数值序列，避免改变技术标识和隐藏线索；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 1789,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "f892c9335c0a21a5",
+      "source": "8547f9bacd0849c64624004de2ab8d8f9b933670307f264b35519c2004ca3029",
+      "status": "preserve",
+      "reason": "终端编码、散列标识或诊断协议片段，保留字母/数值序列，避免改变技术标识和隐藏线索；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 23,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "3c82021f6397f76a",
+      "source": "E271537604[R054473934[R109537438[O653374602[R330759743[080661608L[530528421A[517390821T[239615952H[005919063A",
+      "status": "preserve",
+      "reason": "终端编码、散列标识或诊断协议片段，保留字母/数值序列，避免改变技术标识和隐藏线索；不计作中文译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 30421,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8ce86a6ae65d3692",
+      "source": "N",
+      "status": "preserve",
+      "reason": "车辆换挡位置的标准字母标识，保留以对应实际挡位，不计作译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 145856,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146334,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146395,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 58,
+          "script": ""
+        },
+        {
+          "asset": "room43.crm",
+          "kind": "room-script",
+          "index": 5198,
+          "script": "room43.asc"
+        }
+      ]
+    },
+    {
+      "id": "33a123e5d474e8f3",
+      "source": "D1",
+      "status": "preserve",
+      "reason": "车辆换挡位置的标准字母标识，保留以对应实际挡位，不计作译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 145869,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 145930,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146260,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146321,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "2265f5336d7b6037",
+      "source": "D2",
+      "status": "preserve",
+      "reason": "车辆换挡位置的标准字母标识，保留以对应实际挡位，不计作译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 145943,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146004,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146186,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146247,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "8c2574892063f995",
+      "source": "R",
+      "status": "preserve",
+      "reason": "车辆换挡位置的标准字母标识，保留以对应实际挡位，不计作译文。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146017,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146078,
+          "script": "GlobalScript.asc"
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 146173,
+          "script": "GlobalScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "0dc852c60b43ae9f",
+      "source": "99 ASDF 9?99",
+      "status": "preserve",
+      "reason": "匿名勒索邮件中的故障式日期字段，MakeEmail参数中原样传入；保留故意混乱的符号值。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 17164,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "14b23b6e64fd1344",
+      "source": "DNC",
+      "status": "preserve",
+      "reason": "通讯录短名兼TechnoScript呼叫分派比较值，保留原缩写；已核对streq比较及ListBox添加调用。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 80889,
+          "script": "TechnoScript.asc"
+        }
+      ]
+    },
+    {
+      "id": "5f071f7a3eddd670",
+      "source": "B-R-U",
+      "status": "preserve",
+      "reason": "通讯录短名兼TechnoScript呼叫分派比较值，保留原缩写；已核对streq比较及ListBox添加调用。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 87053,
+          "script": "TechnoScript.asc"
+        },
+        {
+          "asset": "room12.crm",
+          "kind": "room-script",
+          "index": 5008,
+          "script": "room12.asc"
+        }
+      ]
+    },
+    {
+      "id": "a367a1874082cf5a",
+      "source": "Orez EZI - 1.4",
+      "status": "preserve",
+      "reason": "终端软件的产品名称及版本号，保留原名。",
+      "occurrences": [
+        {
+          "asset": "game28.dta",
+          "kind": "gui-label",
+          "index": 32,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "a03b221c6c6eae71",
+      "source": "???",
+      "status": "preserve",
+      "reason": "未知对象符号/纯分隔线，不含可译词语，保留标点及原换行控制符。",
+      "occurrences": [
+        {
+          "asset": "room24.crm",
+          "kind": "object",
+          "index": 7,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "id": "728138d2c3e41500",
+      "source": "=====[    ",
+      "status": "preserve",
+      "reason": "未知对象符号/纯分隔线，不含可译词语，保留标点及原换行控制符。",
+      "occurrences": [
+        {
+          "asset": "room4.crm",
+          "kind": "room-script",
+          "index": 6449,
+          "script": "room4.asc"
+        },
+        {
+          "asset": "room4.crm",
+          "kind": "room-script",
+          "index": 6465,
+          "script": "room4.asc"
+        },
+        {
+          "asset": "room4.crm",
+          "kind": "room-script",
+          "index": 6481,
+          "script": "room4.asc"
+        }
+      ]
+    },
+    {
+      "id": "5e62bc4202ed627e",
+      "source": "Scrolly Text Example",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 1,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "13790a0ffd9ef161",
+      "source": "Test AA Speech",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 2,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "c731c925f9b96e56",
+      "source": "Hacking3",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 3,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "4663ba1bbb7b8c8a",
+      "source": "Hacking2",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 4,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "6109aa184654a9af",
+      "source": "zdfgbsdbhdfbhdfdunuifgm",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 5,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "7fdc36dffb694aae",
+      "source": "Cheater hacking",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 6,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "03e6379cee3c2481",
+      "source": "Test Credits",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 7,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "0c0bcc03a8b48384",
+      "source": "News 2",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 8,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "2da09e1fac71f125",
+      "source": "N3",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 9,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "b9cca56a720f2bee",
+      "source": "Test4",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 10,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "cfde65e6d8b6b0ac",
+      "source": "Test 5",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 11,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce4b6f624d54ea09",
+      "source": "Testy test 6",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 12,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "e8c1fe5a65f8fdff",
+      "source": "Zmorble 7",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 13,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef80ac60d0d49dea",
+      "source": "FFFFfffff8",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 14,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba545b33072ffcae",
+      "source": "Aroojit 9",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 15,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "6cb10a3c6a3484ff",
+      "source": "Blar 10",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 16,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "308019dfa9e33958",
+      "source": "Open Newspaper",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 17,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "e7613136111d599d",
+      "source": "Nooooz11",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "hotspot",
+            "index": 18,
+            "script": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "478aff45309e9c05",
+      "source": "&94 THis is a test of the antialiased portrait thingy.",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "room-script",
+            "index": 519,
+            "script": "room1.asc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c191f04f7527e35f",
+      "source": "&95 If this has worked, then the AA'd versions of Ilyich's portraits should appear.",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "room-script",
+            "index": 547,
+            "script": "room1.asc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1f540d7e0e85966",
+      "source": "&96 This is going to be a really long box, to determine just how much of a challenge these things can handle. After all, I need to know how much characters can say.",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "room-script",
+            "index": 575,
+            "script": "room1.asc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6cf2e9bd0792a439",
+      "source": "&97 If not, well, I've no idea what's going to happen.",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "room-script",
+            "index": 603,
+            "script": "room1.asc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "27fe49b2f29a07d3",
+      "source": "&98 Peace out, y'all!",
+      "status": "excluded",
+      "reason": "开发测试room1中的滚动文本、抗锯齿肖像、网络及制作名单演示控件/测试对白；gDebuggery的ButtonTestThinkbox事件调用TechnoChangeRoom(1,285,310,1,1)。不属于正式主线房间。",
+      "evidence": {
+        "entry_handler": "ButtonTestThinkbox_OnClick$2",
+        "call_pc": 38901,
+        "debug_gui": "gDebuggery",
+        "occurrences": [
+          {
+            "asset": "room1.crm",
+            "kind": "room-script",
+            "index": 631,
+            "script": "room1.asc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f81a895124d1e54b",
+      "source": "This is a piece of text in English, because it's going to be easier to recognise. The appellation \"self-made man\" or \"self-made woman\" describes a person who was born poor or otherwise disadvantaged, but who achieved great economic success thanks to their own hard work and ingenuity rather than to any inherited fortune, family connections or other privilege.",
+      "status": "excluded",
+      "reason": "滚动显示模块的全局默认测试填充文字，并非剧情/新闻正文。前者明说这是便于识别的测试英语文本，后者是标准Lorem ipsum排版填充。",
+      "evidence": {
+        "module": "_GlobalVariables.asc",
+        "exported_variable": "ScrollText1",
+        "global_offset": 100,
+        "assignment": "newstr -> GLOBAL@offset -> memwriteptr"
+      }
+    },
+    {
+      "id": "43e8701f2de1980b",
+      "source": "\"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "status": "excluded",
+      "reason": "滚动显示模块的全局默认测试填充文字，并非剧情/新闻正文。前者明说这是便于识别的测试英语文本，后者是标准Lorem ipsum排版填充。",
+      "evidence": {
+        "module": "_GlobalVariables.asc",
+        "exported_variable": "ScrollText2",
+        "global_offset": 108,
+        "assignment": "newstr -> GLOBAL@offset -> memwriteptr"
+      }
+    }
+  ]
+}

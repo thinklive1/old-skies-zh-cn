@@ -1,0 +1,362 @@
+[
+  {
+    "opcode": 1,
+    "name": "add",
+    "arguments": 2
+  },
+  {
+    "opcode": 2,
+    "name": "sub",
+    "arguments": 2
+  },
+  {
+    "opcode": 32,
+    "name": "mul",
+    "arguments": 2
+  },
+  {
+    "opcode": 53,
+    "name": "fadd",
+    "arguments": 2
+  },
+  {
+    "opcode": 54,
+    "name": "fsub",
+    "arguments": 2
+  },
+  {
+    "opcode": 11,
+    "name": "addreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 12,
+    "name": "subreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 9,
+    "name": "mulreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 10,
+    "name": "divreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 57,
+    "name": "faddreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 58,
+    "name": "fsubreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 55,
+    "name": "fmulreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 56,
+    "name": "fdivreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 3,
+    "name": "movreg",
+    "arguments": 2
+  },
+  {
+    "opcode": 6,
+    "name": "movlit",
+    "arguments": 2
+  },
+  {
+    "opcode": 4,
+    "name": "memwritelit",
+    "arguments": 2
+  },
+  {
+    "opcode": 8,
+    "name": "memwrite",
+    "arguments": 1
+  },
+  {
+    "opcode": 26,
+    "name": "memwriteb",
+    "arguments": 1
+  },
+  {
+    "opcode": 27,
+    "name": "memwritew",
+    "arguments": 1
+  },
+  {
+    "opcode": 7,
+    "name": "memread",
+    "arguments": 1
+  },
+  {
+    "opcode": 24,
+    "name": "memreadb",
+    "arguments": 1
+  },
+  {
+    "opcode": 25,
+    "name": "memreadw",
+    "arguments": 1
+  },
+  {
+    "opcode": 63,
+    "name": "zeromem",
+    "arguments": 1
+  },
+  {
+    "opcode": 47,
+    "name": "memwriteptr",
+    "arguments": 1
+  },
+  {
+    "opcode": 48,
+    "name": "memreadptr",
+    "arguments": 1
+  },
+  {
+    "opcode": 49,
+    "name": "memzeroptr",
+    "arguments": 0
+  },
+  {
+    "opcode": 50,
+    "name": "meminitptr",
+    "arguments": 1
+  },
+  {
+    "opcode": 69,
+    "name": "memzeroptrnd",
+    "arguments": 0
+  },
+  {
+    "opcode": 23,
+    "name": "call",
+    "arguments": 1
+  },
+  {
+    "opcode": 33,
+    "name": "callext",
+    "arguments": 1
+  },
+  {
+    "opcode": 37,
+    "name": "callas",
+    "arguments": 1
+  },
+  {
+    "opcode": 5,
+    "name": "ret",
+    "arguments": 0
+  },
+  {
+    "opcode": 29,
+    "name": "push",
+    "arguments": 1
+  },
+  {
+    "opcode": 30,
+    "name": "pop",
+    "arguments": 1
+  },
+  {
+    "opcode": 34,
+    "name": "pushreal",
+    "arguments": 1
+  },
+  {
+    "opcode": 35,
+    "name": "subreal",
+    "arguments": 1
+  },
+  {
+    "opcode": 51,
+    "name": "loadspoffs",
+    "arguments": 1
+  },
+  {
+    "opcode": 40,
+    "name": "mod",
+    "arguments": 2
+  },
+  {
+    "opcode": 41,
+    "name": "xor",
+    "arguments": 2
+  },
+  {
+    "opcode": 42,
+    "name": "not",
+    "arguments": 1
+  },
+  {
+    "opcode": 43,
+    "name": "sal",
+    "arguments": 2
+  },
+  {
+    "opcode": 44,
+    "name": "sar",
+    "arguments": 2
+  },
+  {
+    "opcode": 13,
+    "name": "and",
+    "arguments": 2
+  },
+  {
+    "opcode": 14,
+    "name": "or",
+    "arguments": 2
+  },
+  {
+    "opcode": 21,
+    "name": "land",
+    "arguments": 2
+  },
+  {
+    "opcode": 22,
+    "name": "lor",
+    "arguments": 2
+  },
+  {
+    "opcode": 15,
+    "name": "eq",
+    "arguments": 2
+  },
+  {
+    "opcode": 16,
+    "name": "neq",
+    "arguments": 2
+  },
+  {
+    "opcode": 17,
+    "name": "gr",
+    "arguments": 2
+  },
+  {
+    "opcode": 18,
+    "name": "le",
+    "arguments": 2
+  },
+  {
+    "opcode": 19,
+    "name": "geq",
+    "arguments": 2
+  },
+  {
+    "opcode": 20,
+    "name": "leq",
+    "arguments": 2
+  },
+  {
+    "opcode": 59,
+    "name": "fgr",
+    "arguments": 2
+  },
+  {
+    "opcode": 60,
+    "name": "fle",
+    "arguments": 2
+  },
+  {
+    "opcode": 61,
+    "name": "fgeq",
+    "arguments": 2
+  },
+  {
+    "opcode": 62,
+    "name": "fleq",
+    "arguments": 2
+  },
+  {
+    "opcode": 28,
+    "name": "jz",
+    "arguments": 1
+  },
+  {
+    "opcode": 70,
+    "name": "jnz",
+    "arguments": 1
+  },
+  {
+    "opcode": 31,
+    "name": "jmp",
+    "arguments": 1
+  },
+  {
+    "opcode": 36,
+    "name": "sourceline",
+    "arguments": 1
+  },
+  {
+    "opcode": 39,
+    "name": "setfuncargs",
+    "arguments": 1
+  },
+  {
+    "opcode": 68,
+    "name": "noloopcheck",
+    "arguments": 0
+  },
+  {
+    "opcode": 72,
+    "name": "newarray",
+    "arguments": 3
+  },
+  {
+    "opcode": 52,
+    "name": "checknull",
+    "arguments": 0
+  },
+  {
+    "opcode": 67,
+    "name": "checknullreg",
+    "arguments": 1
+  },
+  {
+    "opcode": 46,
+    "name": "checkbounds",
+    "arguments": 2
+  },
+  {
+    "opcode": 71,
+    "name": "checkboundsdyn",
+    "arguments": 1
+  },
+  {
+    "opcode": 38,
+    "name": "baseptr",
+    "arguments": 1
+  },
+  {
+    "opcode": 45,
+    "name": "thisptr",
+    "arguments": 1
+  },
+  {
+    "opcode": 64,
+    "name": "newstr",
+    "arguments": 1
+  },
+  {
+    "opcode": 65,
+    "name": "streq",
+    "arguments": 2
+  },
+  {
+    "opcode": 66,
+    "name": "strneq",
+    "arguments": 2
+  }
+]

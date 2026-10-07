@@ -1,0 +1,58 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "逐条二读 Dialog 71 十二句英中，核对劳与克赖塞尔对峙、合成人代劳的讥讽以及女型/男型纠正的衔接。两句共享原文的语义 ID 不变；剧情别名与解说恒等映射由独立构建层处理，不增加翻译条目。该句的 android 男型译法仅用于角色字源纠正语境，不全局替换。",
+  "source_batches": [
+    "0084-lao-kreisel-stand-off.json"
+  ],
+  "entries": [
+    {
+      "id": "18d2dd483519b516",
+      "sha256": "4c36dbb909fbf05ce248eaddd3986f63da8f0c26d2ce177489064104b9359fd0"
+    },
+    {
+      "id": "209de6b84e15fd15",
+      "sha256": "537310257ab483148028f125b0ab6022c9459a4f2769fea905c616bc4ce9c2f7"
+    },
+    {
+      "id": "2c0d018d5b882385",
+      "sha256": "ac987e6d607a6f5287ce4ff2fc9e34b947e6f97bac9c6bd3f0d8b3cacc3fd66a"
+    },
+    {
+      "id": "3debb6f15c0f4f17",
+      "sha256": "84932da3312d4649a34a136054324d52e6a7d02a8cadafe1ad8cc101e5c07eb7"
+    },
+    {
+      "id": "3f69af2cbdeaa3dd",
+      "sha256": "26ea08cab40a5bb7898a2297139f796aef188ff36a036c337d402e73b5035fff"
+    },
+    {
+      "id": "46bdea6efd1df1ed",
+      "sha256": "8b19f96a7d6d9917ab9a2a7cb3f348d37ba57397e40878b3760bfa4166b9f985"
+    },
+    {
+      "id": "7558897119a4c534",
+      "sha256": "f8623f8dc7859d3af216f248aa5106883d41855105424847e9c50b922367a7c9"
+    },
+    {
+      "id": "860a73eb85e7422a",
+      "sha256": "b56280bbb0772a44d6cf8772a3c08a5458cea5a6880c905c079e4c0d6ab44aa0"
+    },
+    {
+      "id": "a3f53b8db6c0ce83",
+      "sha256": "e5194e6353f3237df9764337b58a91f5e06fa2a33b07ac01b67f10e3e273aae0"
+    },
+    {
+      "id": "cd36ba7f3b5e13b4",
+      "sha256": "fca27e2ebdd1a8ecb96773cef9d2640a9e2ab6d576cd93052b65f21e10d22bdc"
+    },
+    {
+      "id": "e3a0da9711dae2f7",
+      "sha256": "233b0fa75df969963813af00d39dd95d82bc33b43942e283a27c3b5b464e7e85"
+    },
+    {
+      "id": "e44670238e1074ea",
+      "sha256": "334640fb56dba070f404fd224657eaa1e07045358f77d65c476e914126382dac"
+    }
+  ]
+}

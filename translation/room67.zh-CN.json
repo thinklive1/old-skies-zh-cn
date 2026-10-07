@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6b2bc597191ec256",
+    "source": "Data Shunt",
+    "target": "数据分流器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0400453d873bedf1",
+    "source": "Turbine Room Camera",
+    "target": "涡轮室摄像头",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "abc25eeb2698e2d1",
+    "source": "Connection Barrier",
+    "target": "连接屏障",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b402b8f08e658a7e",
+    "source": "FIX BEFORE LAUNCH THIS IS CRAZY",
+    "target": "",
+    "status": "excluded",
+    "reason": "room67中的Game::DoOnceOnly一次性事件键；开发备注式内容不是玩家文本。",
+    "review_notes": ""
+  },
+  {
+    "id": "d777477e86233f9e",
+    "source": "A hastily-assembled security barrier prevents connections to the higher cortex server. It's likely to be linked to the non-Trance security, as well.",
+    "target": "仓促架设的安保屏障，阻止接入更高层的皮层服务器。很可能，也与迷境之外的安保相连。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

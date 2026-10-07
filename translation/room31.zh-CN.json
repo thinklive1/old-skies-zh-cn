@@ -1,0 +1,146 @@
+[
+  {
+    "id": "0c6f50840ad30281",
+    "source": "Regis' Desk",
+    "target": "里吉斯的办公桌",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a2fcb695f005f894",
+    "source": "Opened Floor Panel",
+    "target": "打开的地板检修口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "725f2742e3e7e9cb",
+    "source": "//Eight hours later...",
+    "target": "//八小时后……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0ba2a8791a44f4fe",
+    "source": "&1540 I don't even know where I'm going!",
+    "target": "&1540 我连该去哪儿都不知道！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a1d1e553ddfee4b",
+    "source": "&1541 I'd better download the case file Dr Vargas' assistant sent me.",
+    "target": "&1541 最好先下载瓦尔加斯博士的助手发来的案件档案。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7a61b2eeb90b78ba",
+    "source": "&493 While you know full well that you could accomplish all of the work you need to in a Trance suite in your head, CEL insists that most official business be carried out on its terminals and travellers for security. Regis seems to think it's just to make it easier for Central to spy on everything you do.",
+    "target": "&493 你很清楚，在自己脑中的迷境空间就能完成所有工作。不过，CEL出于安全考虑，坚持要求大部分公务在它的终端和旅人终端上处理。里吉斯觉得，这只是为了方便中枢监视你的一举一动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d5f4f35499830d3c",
+    "source": "&1474 Better not pull the tape off the camera. It would upset Regis.",
+    "target": "&1474 最好别把摄像头上的胶带撕下来。里吉斯会不高兴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a5a36b2b48678594",
+    "source": "&513 Regis keeps covering the camera with tape. You're not sure if he's aware that the terminals on the desks have two-way cameras as well.",
+    "target": "&513 里吉斯老用胶带遮住摄像头。你不确定，他是否知道办公桌上的终端也有双向摄像头。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c7a35140d9c70d0f",
+    "source": "&1474 Better not pull the tape off the camera. It'd upset Regis.",
+    "target": "&1474 最好别把摄像头上的胶带撕下来。里吉斯会不高兴。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "153f84905bdd7508",
+    "source": "&514 You can access any data that might be on the screens more quickly through your own wiring.",
+    "target": "&514 屏幕上有什么数据，你都能通过自己的神经接口更快取得。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8827df80fecd62d",
+    "source": "&515 As if hinting to you, Central has swapped out the data on the Mindjacker case for information on the Baxter murder.",
+    "target": "&515 中枢把意识劫持者案件的数据，换成了巴克斯特谋杀案的信息，像是在暗示你什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "651b306fb502fa39",
+    "source": "&1475 The desk terminals don't have enough bandwidth, so I made a few modifications.",
+    "target": "&1475 桌面终端带宽不够，所以我作了些改装。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bede4ba7ac4987e1",
+    "source": "&1476 All strictly professional, of course.",
+    "target": "&1476 当然，都是为了工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "84fd404a64713957",
+    "source": "&1477 Nah. I've already got it set up *just* right.",
+    "target": "&1477 不了。我已经把它调得*恰到好处*了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bee8eb154acf3c38",
+    "source": "It's rare to see Regis working at his desk on a normal night - to him, it feels like he's not getting anything done if he's not out on patrol.",
+    "target": "平常的晚上，很少见到里吉斯坐在办公桌前干活。对他来说，不出门巡逻，就像什么也没干。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae36a25091e184e8",
+    "source": "&1600 Sorry, Regis...",
+    "target": "&1600 抱歉，里吉斯……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "57d94432cd7ca149",
+    "source": "&8080 She's expensive - I wonder if I can persuade Regis to let us keep her.",
+    "target": "&8080 她很贵。不知道能不能说服里吉斯，让我们留下她。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "92fa599fad24d8b9",
+    "source": "&8081 Got to wait until the AI lab have had their turn analysing her - then she's all mine.",
+    "target": "&8081 得等人工智能实验室先分析完她，然后她就全归我了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

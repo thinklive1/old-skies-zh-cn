@@ -1,0 +1,570 @@
+[
+  {
+    "id": "72f6bff4b0091a68",
+    "source": "Jacuzzi",
+    "target": "按摩浴池",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d26a5d00aa96d78",
+    "source": "Control Pad",
+    "target": "控制面板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52126bad92389fcd",
+    "source": "Body Parts",
+    "target": "人体残骸",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "75df3579c73089e3",
+    "source": "Art",
+    "target": "艺术品",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "124b031bedcca5bc",
+    "source": "Coat-Hanger",
+    "target": "衣架",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d84eebada93efee1",
+    "source": "Photo",
+    "target": "照片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a2740b7e26ee5b3a",
+    "source": "&1069 Jesus Christ...",
+    "target": "&1069 我的天哪……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d25e4e2dd8a0b89f",
+    "source": "&1446 What the Hell happened in here?",
+    "target": "&1446 这里到底发生了什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bd83948fbe87616f",
+    "source": "&1447 Did someone get to Van der Waal before he could talk?",
+    "target": "&1447 有人在范德瓦尔开口之前，对他下手了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "933a2623854e2923",
+    "source": "&1070 Maybe it's a domestic gone bad...",
+    "target": "&1070 也许是家庭纠纷失控了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26c17aa460b5208c",
+    "source": "&409 The blackmailer said nothing about this - possibly  didn't even expect this themselves.",
+    "target": "&409 勒索者可没提过这件事，也许连对方都没料到。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c659973cbd3f3b97",
+    "source": "&410 Still, you need to find what they demanded, before the whole apartment is picked apart by forensic drones.",
+    "target": "&410 不过，你还是得赶在鉴证无人机把整套公寓翻个底朝天之前，找到对方要的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "36333e7bb9215c8e",
+    "source": "&411 The body of Giel's husband lies in the jacuzzi, face up. He appears to have been shot several times.",
+    "target": "&411 吉尔丈夫的尸体仰面躺在按摩浴池里，看起来中了好几枪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e5b981cd43405034",
+    "source": "&1071 This is Dakarai Van der Waal, Giel's husband.",
+    "target": "&1071 这是达卡莱·范德瓦尔，吉尔的丈夫。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2ae6c8cc78595139",
+    "source": "&1072 I can see four gunshot wounds in his chest. It was either these, or he drowned, but that's kind of academic at this stage.",
+    "target": "&1072 胸口能看见四处枪伤。不是中枪死的，就是淹死的，不过眼下争这个也没什么意义。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d58f8e2a2cfbcdcf",
+    "source": "&412 A jacuzzi sits in the corner of the room. You wonder what kind of man needs to have a pool quite so readily available at all times.",
+    "target": "&412 房间角落里有个按摩浴池。你不禁想，究竟什么人需要随时随地都能泡进池子里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e5ae6d2eb7e33bcc",
+    "source": "&1448 There's something at the bottom of the pool...a pistol?",
+    "target": "&1448 池底好像有东西……一把手枪？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb1b5fe6b2c59c27",
+    "source": "&1073 Our murder weapon?",
+    "target": "&1073 我们的凶器？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f5985a586300bf82",
+    "source": "&8449 One of them, maybe. It's too deep to reach.",
+    "target": "&8449 也许是其中一件。太深了，够不着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2a947b1da4d5cad2",
+    "source": "&1463 Not without severely contaminating the crimescene, anyway.",
+    "target": "&1463 除非严重污染现场，否则够不着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "54668ea43ae773f9",
+    "source": "&1450 I can just about make out a pistol at the bottom through the mess.",
+    "target": "&1450 隔着这些污物，我勉强能看见池底有把手枪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bd89c07e990fa5be",
+    "source": "&1464 Careful how you get it out, though.",
+    "target": "&1464 不过，取出来的时候得小心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f34c917be563cb13",
+    "source": "&1465 You're the one who's always lecturing me about contaminating scenes with DNA, after all.",
+    "target": "&1465 毕竟，老教训我别把自己的 DNA 留在现场的，可就是你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "079c9de247a09938",
+    "source": "&1451 If there's anything else in there, it'll be the forensic team's job to find it.",
+    "target": "&1451 要是里面还有别的东西，就让鉴证小组去找吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f669b03383a672d9",
+    "source": "&413 After a couple of tugs, the hanger comes loose.",
+    "target": "&413 拉扯几下，衣架就松脱了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "393162020c653bc8",
+    "source": "Picked up: Hanger",
+    "target": "已拾取：衣架",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c537b9757bb89a22",
+    "source": "&414 The wire coathanger seems to be stuck in the join between the floor and the floordrobe.",
+    "target": "&414 铁丝衣架好像卡在地板和地柜的接缝里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8921d2a15ab10b4c",
+    "source": "&415 This pad appears to control the floor-mounted wardrobe. The panel seems to be showing an error message.",
+    "target": "&415 这块面板似乎控制着嵌入地板的衣柜，上面好像显示着错误信息。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "134ae463cfda52ee",
+    "source": "&416 From a diagram on the panel, it looks like it's linked to the floordrobe.",
+    "target": "&416 看面板上的示意图，它应该连接着地柜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d01211172b78dfaa",
+    "source": "&417 T.H.E. Systems FLOORDROBE - STORAGE CONTROL[[General Error 151: Mechanical Error[Please ensure there are no obstructions to opening your T.H.E. Systems FLOORDROBE, and try again.",
+    "target": "&417 T.H.E. 系统地柜——储物控制[[常规错误 151：机械故障[请确认没有物品阻碍 T.H.E. 系统地柜开启，然后重试。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "74d96460540083d5",
+    "source": "&1074 See anything interesting?",
+    "target": "&1074 有什么有意思的东西吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dbdd4c56498f1bf2",
+    "source": "&1452 There's an empty gun rack in here.",
+    "target": "&1452 里面有个空枪架。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2e65666b4cdd4e0",
+    "source": "&1453 Ammunition, maintenance tools, cleaning spray...but no gun.",
+    "target": "&1453 弹药、保养工具、清洁喷剂……就是没枪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e4082f0ab95a80e1",
+    "source": "&1075 In their closet?",
+    "target": "&1075 放在衣柜里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d5f5d7861c3fa875",
+    "source": "&1454 Maybe it's their 'outdoor' gear. There's fishing equipment in here as well.",
+    "target": "&1454 也许是他们的‘户外’装备，里面还有钓鱼用具。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2cfaab4c2f19a060",
+    "source": "Picked up: Fishing Rod",
+    "target": "已拾取：钓竿",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2ed520d30276b09",
+    "source": "&1076 Are you taking stuff again?",
+    "target": "&1076 你又在拿东西？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7fde8133673279c1",
+    "source": "&1455 It might be useful. Call it a hunch.",
+    "target": "&1455 也许用得着。就当是直觉吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7edb43eb8f4cf7b7",
+    "source": "&418 There's nothing worth taking from here, except the fact that one of the pistols is missing.",
+    "target": "&418 这里没什么值得拿的东西，但有一把手枪不见了，这点值得记住。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "383bb4f2eb53d49c",
+    "source": "&419 As pleasing as it would be to make a start at bringing some order to the chaos of this room, this small act of tidying would be ultimately futile.",
+    "target": "&419 能把这间乱七八糟的屋子收拾出点头绪，固然令人欣慰，可这点小小的整理终究无济于事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0c3e22516056d8b5",
+    "source": "&420 An expensive-looking fishing rod sits in the closet. It doesn't appear that it's been used in a while.",
+    "target": "&420 衣柜里放着一根看起来很贵的钓竿，似乎有段时间没用过了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cc9c96b59299f7a",
+    "source": "&1456 I think I'll leave anything else in there to the forensic team.",
+    "target": "&1456 里面其他的东西，还是留给鉴证小组吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6b10b10f3366d859",
+    "source": "&421 What on earth do you expect to fish for? You don't even know what's in the pool.",
+    "target": "&421 你到底想钓什么？你连池子里有什么都不知道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d3cf3f0aaab40a84",
+    "source": "&1077 Nothing biting?",
+    "target": "&1077 没鱼咬钩？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "33e1767dca61649d",
+    "source": "&1457 There's nothing on the end of the line. No way I can hook that pistol.",
+    "target": "&1457 鱼线末端什么都没装，没法钩住那把手枪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "90cd25d58ab91a7d",
+    "source": "&1458 The hook sinks, but I can't catch that pistol at the bottom.",
+    "target": "&1458 鱼钩沉下去了，可还是钩不到池底的手枪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f22e17a6bec16017",
+    "source": "&1459 Got it!",
+    "target": "&1459 拿到了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cf5bba0a72c07dfc",
+    "source": "&1078 The murder weapon?",
+    "target": "&1078 凶器？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc2f7205ca29c626",
+    "source": "&1460 One of them, anyway. Why is it in the jacuzzi, though?",
+    "target": "&1460 至少是其中一件。不过，怎么会在按摩浴池里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "750dc3b6f16d9676",
+    "source": "&1079 What we really need is a witness.",
+    "target": "&1079 我们真正需要的是个证人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9d1e832d229f5a46",
+    "source": "&1461 I'd better not drop anything in there.",
+    "target": "&1461 还是别往里面扔东西了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9d467e71f06cdb8",
+    "source": "&1462 I think that I'd lose anything that goes in there, like that pistol.",
+    "target": "&1462 这把手枪就是例子，什么东西掉进去，我大概都拿不回来了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dba5bc67ca825c62",
+    "source": "&422 An old-fashioned chemical photograph in a silver portrait sits by the bed.",
+    "target": "&422 床边放着一个银色相框，里面是一张老式的胶片照片。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "05564395ed30ceee",
+    "source": "Picked up: Photograph",
+    "target": "已拾取：照片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "15d6d920a24b5703",
+    "source": "&423 Standing out from the festival of gore is a human hand. It appears to be fairly intact.",
+    "target": "&423 血肉狼藉之中，有一只人手格外显眼，看起来还算完整。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "43bafaa7eae9ca60",
+    "source": "Picked up: Hand",
+    "target": "已拾取：人手",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5779d6747afb5c1",
+    "source": "&1463 How do you open one of these things?",
+    "target": "&1463 这东西怎么打开？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c597d9b5f8f8fffd",
+    "source": "&1080 App, remote, trance, control panel...could be anywhere.",
+    "target": "&1080 应用程序、遥控器、迷境、控制面板……哪种都有可能。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0bb53593114a6f61",
+    "source": "&1464 Yeah, real helpful, Max.",
+    "target": "&1464 嗯，可真有帮助啊，麦克斯。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f8b9ae78fbc4904d",
+    "source": "&424 A floor-mounted wardrobe - or 'floordrobe' - lies in wait beneath the bedroom.",
+    "target": "&424 卧室的地板下藏着一座嵌入式衣柜，也就是所谓的‘地柜’。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d2a891b4b433d7a",
+    "source": "&425 Much as you'd love to bring some order to this chaos, putting things away in the floordrobe won't make a significant enough difference.",
+    "target": "&425 虽然你很想把这片混乱收拾出点头绪，但把东西放进地柜，并不会改善多少。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "589f114ad09fa710",
+    "source": "Picked up: Pistol",
+    "target": "已拾取：手枪",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5eddac00018df2ca",
+    "source": "&1465 It's like they had an industrial accident...",
+    "target": "&1465 跟出了工业事故似的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7eda1a6a43c64120",
+    "source": "&1081 ...in the bedroom?",
+    "target": "&1081 ……在卧室里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3243ad718d87bf9e",
+    "source": "&1466 I don't think so, it'd just contaminate the evidence.",
+    "target": "&1466 还是算了，只会污染证据。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cfd1bceb819ebf92",
+    "source": "&1467 I think I'm carrying as much of Van der Waal around as I want to.",
+    "target": "&1467 我身上带着的范德瓦尔的零件，已经够多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3883fee86f6ec8bd",
+    "source": "&1468 I don't think I can justify taking that.",
+    "target": "&1468 拿走那个，我可找不出理由。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0fc547b17e6d8ba4",
+    "source": "&1469 I have no idea who that's supposed to be.",
+    "target": "&1469 完全看不出这画的是谁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "611a3fa393ce4d3c",
+    "source": "&1082 Shall I trance it for you?",
+    "target": "&1082 要我去迷境查一下吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "07af2ccea0752315",
+    "source": "&1470 There's no such thing as comfortable ignorance anymore, is there?",
+    "target": "&1470 现在连什么都不知道、图个清静的权利都没有了，是吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a36610d40d2c80f3",
+    "source": "&1083 Huh? You old people are weird.",
+    "target": "&1083 啊？你们老年人真奇怪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

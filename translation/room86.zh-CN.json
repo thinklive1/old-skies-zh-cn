@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a9b675db7c20dfbd",
+    "source": "Cameras",
+    "target": "摄像头",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7965280801dfbbdb",
+    "source": "The optical feeds from cameras all over the city - and yet, this one appears to be the most prominently displayed. Perhaps this is where Central's attention is focused?",
+    "target": "来自全城摄像头的光学信号都汇集在这里，而这一幅却摆在最显眼的位置。难道这就是中枢关注的地方？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4e313d83052181d7",
+    "source": "Connection: CENTRAL/Interface.sim",
+    "target": "连接：CENTRAL/Interface.sim",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

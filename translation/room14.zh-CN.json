@@ -1,0 +1,298 @@
+[
+  {
+    "id": "cdcaff354fa73b2f",
+    "source": "&188 We were all up in the bedroom earlier this evening...",
+    "target": "&188 今晚早些时候，我们都在楼上的卧室里……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "272d80db9ed776e8",
+    "source": "&1 You're worrying too much!",
+    "target": "&1 你想得太多了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dad26d81394b5939",
+    "source": "&1 You promised me that you'd gotten out of it!",
+    "target": "&1 你答应过我，已经不再掺和了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea325e2e26e13690",
+    "source": "&2 I have, this was merely a...favor. For an old friend.",
+    "target": "&2 是不再掺和了，这只是……帮个忙。帮一位老朋友。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b016f7946c93c68d",
+    "source": "&2 And look where it's gotten you!",
+    "target": "&2 你看看，结果弄成了什么样！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c7c94f3071a7c656",
+    "source": "&189 They were arguing about something. It sounded big!",
+    "target": "&189 他们在争论什么。听起来是件大事！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1767a4b643d4ab72",
+    "source": "&3 Don't you think I know what this could mean?",
+    "target": "&3 你以为我不知道这意味着什么吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc5d235d93da1356",
+    "source": "&4 You asked me to talk to that damned CEL agent, and I agreed.",
+    "target": "&4 你让我跟那个该死的CEL探员谈谈，我也答应了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "594b82d324034829",
+    "source": "&5 You see what I do for you?",
+    "target": "&5 看看我为你做了些什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d07d20a34310186",
+    "source": "&3 I know, and I knew you'd do the right thing eventually.",
+    "target": "&3 我知道。我也知道，你最终会做对的事。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "116d3e8fb3c432a2",
+    "source": "&6 It's not just because it's the right thing, or because you asked.",
+    "target": "&6 不只是因为这是对的，或是因为你开了口。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f19ff943bbd62d9",
+    "source": "&7 It's because of what it would mean to the whole city...",
+    "target": "&7 更因为它对整座城市意味着什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5ef737ecb795d312",
+    "source": "&190 Mr Giel was grumpy, but not at Mr Dakarai so much.",
+    "target": "&190 吉尔先生脾气不好，可并不怎么针对达卡莱先生。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0f46ab337998322",
+    "source": "&191 Then he asked for some of his special wine.",
+    "target": "&191 然后，他就要喝那种特制的酒。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "beb6fad5ee9523f1",
+    "source": "&192 Chantelle! Be a dear, bring me my wine.",
+    "target": "&192 尚特尔！亲爱的，把我的酒拿来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fb81121833ac2605",
+    "source": "&1472 This was the lousy stuff they've got in the wine rack?",
+    "target": "&1472 就是酒架上那些劣质酒？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cbc35b0900a6d00b",
+    "source": "&8 To law and order!",
+    "target": "&8 为法律与秩序干杯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38f2c7bbcf3a15dc",
+    "source": "&193 Yeah, but he puts extra things in his wine as well.",
+    "target": "&193 是的，不过他还会往酒里加些别的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "994506be55502ff0",
+    "source": "&9 Agh!",
+    "target": "&9 啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "68ec478e9216be57",
+    "source": "&4 Giel, what's wrong?",
+    "target": "&4 吉尔，你怎么了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ad4fb37b98d3dabc",
+    "source": "&10 I...uh...it...",
+    "target": "&10 我……呃……这……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a34c2f30c6f6e493",
+    "source": "&11 Must have been my...",
+    "target": "&11 肯定是我的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83753931736effc1",
+    "source": "&12 What...what is this?!",
+    "target": "&12 这……这是什么？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b98721222be8e746",
+    "source": "&5 What's what?",
+    "target": "&5 什么是什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f69ee2da9f13b139",
+    "source": "&194 Mr Giel seemed to be real worried about something.",
+    "target": "&194 吉尔先生好像在为什么事特别担心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "58c15c9b0476b6e4",
+    "source": "&13 Who are you?!",
+    "target": "&13 你是谁？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dd363d4dc4d1fe15",
+    "source": "&6 Giel, what are you doing with that gun?",
+    "target": "&6 吉尔，你拿枪干什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "787adc5ced09be22",
+    "source": "&14 Stay away! Don't come any closer!",
+    "target": "&14 离我远点！别过来！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f7e3e4dac23a8c56",
+    "source": "&15 Agh! NO! Get off me!",
+    "target": "&15 啊！不！放开我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "22f27281d4c3d20d",
+    "source": "&16 Chantelle!",
+    "target": "&16 尚特尔！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "372c496a4465ddba",
+    "source": "&195 He sounded like he was in trouble.",
+    "target": "&195 听起来，他遇到了麻烦。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2ce6651a7c28251",
+    "source": "&17 Get it out of me!",
+    "target": "&17 把它从我身体里弄出去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d066f4e843540586",
+    "source": "&196 He kept telling me there was something in him. I asked what he meant.",
+    "target": "&196 他一直说，身体里有什么东西。我就问他是什么意思。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2cb37b16514d548f",
+    "source": "&18 It's inside me! Get in there, and get it out!",
+    "target": "&18 它在我里面！进去，把它弄出来！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eae5fe6a3daefdd7",
+    "source": "&1473 ...and the maid's personality...",
+    "target": "&1473 ……而女仆的人格……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0b2116fa2a870317",
+    "source": "&1474 She'd have done anything he asked...",
+    "target": "&1474 他无论叫她做什么，她都会照做……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9f5cef77c7836e3d",
+    "source": "&197 I didn't find anything, though.",
+    "target": "&197 可是，我什么也没找到。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

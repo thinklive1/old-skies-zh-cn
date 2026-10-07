@@ -1,0 +1,58 @@
+[
+  {
+    "id": "792f0f2dbeece501",
+    "source": "Dancefloor",
+    "target": "舞池",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3d3c4a8117c978e4",
+    "source": "Do the thing",
+    "target": "执行操作",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "160c0535e5c3c137",
+    "source": "Scenes",
+    "target": "场景",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eddbaad2a943fc66",
+    "source": "&699 Sounds like the dancefloor is thumping away upstairs.",
+    "target": "&699 听起来，楼上的舞池正震天响。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5d22742dd9b59027",
+    "source": "&700 Images of scenes and vistas other people have constructed within the Trance.",
+    "target": "&700 其他人在迷境里搭建的场景与风景图像。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e2e4fca2d84fa20",
+    "source": "&701 Nowhere near as good as mine, of course.",
+    "target": "&701 当然，跟我的作品差远了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b03836e1f48f8085",
+    "source": "&702 Looks like they're just for decoration, not download.",
+    "target": "&702 看来只是装饰，不能下载。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

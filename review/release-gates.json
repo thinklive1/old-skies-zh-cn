@@ -1,0 +1,9 @@
+{
+  "source_scope_review_complete": true,
+  "terminology_locked": true,
+  "all_main_text_reviewed": true,
+  "fonts_and_control_codes_verified": true,
+  "latest_build_engine_smoke_passed": true,
+  "install_and_rollback_verified": true,
+  "font3_usage_and_metrics_verified": true
+}

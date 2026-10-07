@@ -1,0 +1,106 @@
+[
+  {
+    "id": "913f317108e471cf",
+    "source": "Bookshelf",
+    "target": "书架",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "455cf4a869f95a10",
+    "source": "Lockers",
+    "target": "储物柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e845e30f09d8a45b",
+    "source": "&467 The food machine has been removed from the wall for maintenance. In a place like this, it's probably the kind that jams up frequently.",
+    "target": "&467 食品机已经从墙上拆下来检修。在这种地方，机器多半动不动就卡住。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "20c9167a00f5b90b",
+    "source": "&468 This could be a good place to put the bomb...",
+    "target": "&468 这里倒是个放炸弹的好地方……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9a1b141a71b0976",
+    "source": "&469 As it is, the bone's not going to detonate by itself. You're going to have to find some way of making it unstable.",
+    "target": "&469 这根骨头不会自己爆炸。你得想办法让它变得不稳定。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8541e1fdde899aa1",
+    "source": "PART3",
+    "target": "",
+    "status": "excluded",
+    "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+    "review_notes": ""
+  },
+  {
+    "id": "759f2ace9130f4e6",
+    "source": "&1547 I can't leave that here - someone might link it back to me.",
+    "target": "&1547 不能把这个留在这里，不然有人可能顺藤摸瓜找到我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2e6ce67749b69a67",
+    "source": "&471 You don't need to use it, but it could be a good place to plant the bomb...",
+    "target": "&471 虽然不需要用它，可这里倒是个放炸弹的好地方……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "517245cc93e89e02",
+    "source": "&472 A combination toilet/sink. Well, at least YOUR place doesn't stoop to that.",
+    "target": "&472 马桶和洗手池合二为一。嗯，至少你家还没寒酸到这个地步。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "83ef20446151fcd3",
+    "source": "&474 Whoever lives here has a collection of old manga, yellowed with age. Apparently they appreciate classical media as much as yourself.",
+    "target": "&474 不管谁住在这里，都收藏了一些已经泛黄的旧漫画。看来，他和你一样喜欢传统媒介。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a5ab327b8770082",
+    "source": "&475 Despite the fact that you're about to destroy their apartment, you feel that it would somehow compound your crimes to steal from the bookshelf as well. Still, this could be a good place to plant the explosive as well.",
+    "target": "&475 虽然你马上就要炸掉他的公寓，可要是再偷书架上的东西，总觉得罪孽又重了一层。不过，这里也是个安放爆炸物的好地方。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "58cbf2dcf9538ad2",
+    "source": "&477 This apartment's occupant keeps their clothes in the lockers beneath the bed. Blue printed-overalls, the kind they issue to the jobless sconto kids filling this part of the city.",
+    "target": "&477 这间公寓的住户把衣服放在床底下的储物柜里。蓝色印制连体服，正是发给这一带那些失业、领救济的年轻人的那种。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "febe40a754bd794b",
+    "source": "&478 Lockers like these would make an ideal place to plant the explosives needed to destroy this apartment.",
+    "target": "&478 要安放炸毁这间公寓所需的爆炸物，这样的储物柜再合适不过。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

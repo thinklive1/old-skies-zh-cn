@@ -1,0 +1,218 @@
+[
+  {
+    "id": "3725dbfedcd5114e",
+    "source": "Pipe",
+    "target": "管道",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ecdeaf4048285a19",
+    "source": "Cargo Bay",
+    "target": "货舱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8e75ebbdb21505d2",
+    "source": "Engine",
+    "target": "引擎",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "02d25a07ab8db584",
+    "source": "Aileron",
+    "target": "副翼",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5f1d7151e371f69",
+    "source": "&616 A thick pipe runs along the hull of the aerostat, within arm's reach.",
+    "target": "&616 一根粗管道沿着浮空艇外壳延伸，伸手就能碰到。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e568ffee277d6104",
+    "source": "&617 You can always go back inside. Nobody would blame you.",
+    "target": "&617 随时可以回去，没人会怪你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5edde21be1aeeed0",
+    "source": "&1231 Whoa!",
+    "target": "&1231 哇！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7e7386df185ce8a9",
+    "source": "&1232 That guard by the window almost saw me!",
+    "target": "&1232 窗边的守卫差点看见我！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cb2c719f2cc770b3",
+    "source": "&1233 I've got to get rid of him...",
+    "target": "&1233 得想办法除掉他……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "53aa87d9bc6b1561",
+    "source": "&1234 It's dangerous out there...",
+    "target": "&1234 外面很危险……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "674dac3465bb825c",
+    "source": "&618 The intake for the aerostat's turbofan engine. You can feel the powerful air current it's creating from where you stand.",
+    "target": "&618 浮空艇涡扇引擎的进气口。站在这里，都能感觉到它产生的强大气流。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a705ec1bd702d047",
+    "source": "&619 Now non-functional, the turbine no longer creates the powerful force of suction.[[That the aerostat continues to move suggests at least one more engine somewhere else on the hull.",
+    "target": "&619 涡轮已经失效，不再产生强大的吸力。[[浮空艇还在前进，说明外壳其他地方，至少还有一台引擎。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66a12b70a5d8e2a6",
+    "source": "&1235 That's not going to stop it.",
+    "target": "&1235 那样停不了它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69e7b5c70618915f",
+    "source": "&620 It's already plenty broken enough for your purposes - it's no longer a threat to your safety out here.",
+    "target": "&620 就你的目的而言，它已经坏得够彻底了。现在，你待在外面，也不再受它威胁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8c0d22af0ff7980f",
+    "source": "&1236 I only just made it up here, I don't want to risk any more acrobatics!",
+    "target": "&1236 好不容易才爬上来，我可不想再冒险表演杂技！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "781e7ea7c0cf26c7",
+    "source": "&1237 If I lean out any further, the engine'll pull me in!",
+    "target": "&1237 再往外探，引擎就会把我吸进去！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6b593efcc4bd13f8",
+    "source": "&1238 That should be safer.",
+    "target": "&1238 这样应该安全些。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2edf63a80da72367",
+    "source": "&1239 How's that going to help me hold on?",
+    "target": "&1239 那怎么能帮我抓牢？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "99d51a4a5957b977",
+    "source": "&1240 Nnnngh...",
+    "target": "&1240 唔……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "242e378ff4ee0dba",
+    "source": "&1241 It's too high, I can't reach it from down here.",
+    "target": "&1241 太高了，从这里够不到。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e8d92b8f4864e7b5",
+    "source": "&621 Looks like the way on to the upper deck.",
+    "target": "&621 看来，这边能上到上层甲板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dd1b88b26757f67b",
+    "source": "&1487 I am NOT reaching into that.",
+    "target": "&1487 我绝不把手伸进去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "407428a1ab7d0f2a",
+    "source": "&1488 It sure won't open from this side!",
+    "target": "&1488 从这一侧，肯定打不开！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a5fd2ce275df996",
+    "source": "&727 Through the window, you can make out Regis exploring the lab. He doesn't appear to have seen you.",
+    "target": "&727 透过窗子，你看到里吉斯在查看实验室。他好像没发现你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ae5602664ccfdd0",
+    "source": "&1489 It's a LONG way down...",
+    "target": "&1489 下面可真够深的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "08a6d78b4e148b98",
+    "source": "&1490 Sorry, I forgot to bring a parachute.",
+    "target": "&1490 抱歉，忘带降落伞了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a93ea9fa73298a35",
+    "source": "&1491 No way - one bad drop, and I might kill someone at street level!",
+    "target": "&1491 不行，掉下去，一个不巧，可能砸死街上的人！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "d17d84a604994b72",
+    "source": "Exit",
+    "target": "出口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa8f3790a6a1e56b",
+    "source": "Stairs",
+    "target": "楼梯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4295f6e42f3f27d5",
+    "source": "Cabinet",
+    "target": "橱柜",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23956d5cb936964d",
+    "source": "Drinks Machine",
+    "target": "酒水机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "08da4dede881067e",
+    "source": "Wine Rack",
+    "target": "酒架",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "02112463d34729d6",
+    "source": "'Art'",
+    "target": "‘艺术品’",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "37a6655bdd8f3b42",
+    "source": "\"Art\"",
+    "target": "“艺术品”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f4c2267101569b33",
+    "source": "&1426 So Van der Waal had a hallucinatory freakout?",
+    "target": "&1426 所以，范德瓦尔产生幻觉，发了狂？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3125bbd5398e08eb",
+    "source": "&1046 Sounds like it was whatever he was putting in the wine.",
+    "target": "&1046 听起来是他往酒里加的东西闹的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "50665bfcbc94c771",
+    "source": "&1047 We'd better find out what it was.",
+    "target": "&1047 得查清楚他加了什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "127f2a4af9b6c1d8",
+    "source": "&182 Ooh, I know! I know everything about drinks!",
+    "target": "&182 哦，我知道！酒水的事我全知道！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cbaf48c5937ff2a9",
+    "source": "&183 Mr Giel was buying up cheap wine, and using wetware to artificially age it!",
+    "target": "&183 吉尔先生买了一大堆便宜酒，再用湿件让酒快速陈化！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3cf1951b92c77c24",
+    "source": "&1048 Wetware?",
+    "target": "&1048 湿件？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e06bb6a0502a1ce",
+    "source": "&184 Yeah, he kept it in the refrigerator!",
+    "target": "&184 对呀，就放在冰箱里！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8623a44e995ce1f8",
+    "source": "&1049 Ow, geez, what is that? Can't you hear it?",
+    "target": "&1049 啊，天哪，那是什么？你听不见吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3f651fbae0eec018",
+    "source": "&394 What sits in the fridge is a memory module, with a strange configuration. Based on what you were told, you're certain this is what the blackmailer was after.",
+    "target": "&394 冰箱里放着一个配置奇怪的记忆模块。根据勒索者告诉你的情况，你确信这就是对方想要的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "445277682ac37781",
+    "source": "&185 There, the wetware on the middle shelf. It rapidly ages the wine to how it's wanted.",
+    "target": "&185 就在那儿，中间那层架子上的湿件。它能让酒迅速陈化到想要的程度。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "beed755114d4bd5a",
+    "source": "&1050 Not anymore it doesn't. It's been reprogrammed.",
+    "target": "&1050 现在已经不能了。它的程序被改写了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0a42bcc6e98c699",
+    "source": "&1051 That memory module's broadcasting a signal.",
+    "target": "&1051 那个记忆模块在发射信号。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a5b89d4f8abae2b2",
+    "source": "&1052 The wetware in the refrigerator's interpreting it as an order to reformat itself...",
+    "target": "&1052 冰箱里的湿件把信号当成了重新格式化自己的指令……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9874cf60291a6ed",
+    "source": "&1427 So, it stopped being a wine-aid, and ended up a powerful hallucinogen?",
+    "target": "&1427 所以，它不再是酿酒助手，而变成了强效致幻剂？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "61dccffa8569f22d",
+    "source": "&1053 Looks that way.",
+    "target": "&1053 看来是这样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9a419a86f26fc6a8",
+    "source": "&1428 You want me to carry it? You look uncomfortable.",
+    "target": "&1428 要我拿着吗？你看着不太舒服。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f685436e74195049",
+    "source": "&1054 Yeah, something about it...hurts...",
+    "target": "&1054 嗯，不知道为什么，这东西……让我头疼……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c791e7efe4f6b208",
+    "source": "&186 Hey!",
+    "target": "&186 嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c1f3384fdc0f0b26",
+    "source": "&1429 We're heading back to CEL. A forensics team will be here in a while.",
+    "target": "&1429 我们回 CEL 了。鉴证小组过一会儿会来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b7f8afc6a9cdafb1",
+    "source": "&1430 Just don't try to make, cook or clean anything while we're gone, okay?",
+    "target": "&1430 我们不在的时候，别制造、烹调或者清洁任何东西，好吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b2db4dceb2330fbb",
+    "source": "&187 I got it!",
+    "target": "&187 明白啦！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "461250d1941079dd",
+    "source": "&1431 Giel? You in here?",
+    "target": "&1431 吉尔？你在里面吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5349254b66764f09",
+    "source": "&1432 Oh, excuse us, Miss.",
+    "target": "&1432 哦，打扰了，小姐。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e923fcc18f156ff5",
+    "source": "&1433 I'm Dr Regis, this is Dr Lao. We're CEL agents.",
+    "target": "&1433 我是里吉斯博士，这位是劳博士。我们是 CEL 探员。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14f5bf18a5c95b64",
+    "source": "&1434 ...Miss? Are you alright?",
+    "target": "&1434 ……小姐？你还好吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0fd92c7a74e8b647",
+    "source": "&1055 Regis, this is a synth.",
+    "target": "&1055 里吉斯，这是个合成人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3bc057681b9f7dd6",
+    "source": "&1056 Hah, the look on your face is priceless.",
+    "target": "&1056 哈，你刚才那表情，太精彩了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d6002b61b1f4a03c",
+    "source": "&1057 It's a VERY expensive one, but it's still a synth...and apparently out of charge.",
+    "target": "&1057 她是很贵，但也还是合成人……而且看来已经没电了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a99866e5920421c4",
+    "source": "&1435 Something else about it bothers me more...",
+    "target": "&1435 我更担心的是另一件事……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "56783ef27cce2a15",
+    "source": "&1058 I know...I sure hope that isn't blood...",
+    "target": "&1058 我知道……我也希望那不是血……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b70c4a945c22337f",
+    "source": "&395 The now-breached door leads back out into the hallway.",
+    "target": "&395 那扇已经打开的门通往外面的走廊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "52ddd50d3198a421",
+    "source": "&396 The darkened stone staircase leads to the upper floor of this apartment.",
+    "target": "&396 深色的石阶通往这套公寓的上层。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7656812766c344fa",
+    "source": "&397 The cupboards containing the kitchen's various tools.[[You wonder for a moment whether the Van der Waals are extravagant enough to have paid for real, organic wood on the doors.",
+    "target": "&397 橱柜里放着各种厨房用具。[[你不禁想，范德瓦尔夫夫会不会奢侈到用真正的天然木材做柜门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "178b5d80c4415d72",
+    "source": "&398 Much as you'd like to bring some order to the chaos, tidying up won't help anyone in this regard.",
+    "target": "&398 你很想把这片混乱收拾得有条理些，可眼下整理东西帮不上忙。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dc8fb0890331584d",
+    "source": "&399 The rest of the cupboard is full of pipes connected to the food machine. Nothing useful remains.",
+    "target": "&399 橱柜剩余的空间里，全是通往食品机的管道，已经没有能用的东西了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea1877779ee51e69",
+    "source": "&400 Aside from the pipes running to the food machine, the cabinet contains a set of knives, and a tube of cooking gel.",
+    "target": "&400 除了通往食品机的管道，橱柜里还有一套刀具和一管烹饪凝胶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "436169f66c63dea8",
+    "source": "Picked up:[Knife[Cooking Gel",
+    "target": "已拾取：[刀[烹饪凝胶",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b451f8da8d4999b4",
+    "source": "&401 The kitchen is furnished with a top-of-the-line food machine.",
+    "target": "&401 厨房里装着一台顶级食品机。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ee5b3e1b315940ea",
+    "source": "&1436 Hey, this one makes its plates out of porcelain.",
+    "target": "&1436 嘿，这台连盘子都是瓷的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fa8741cfa4753612",
+    "source": "&1059 And in a place like this, I'll bet it doesn't even HAVE protein mash on its menu.",
+    "target": "&1059 这种地方，我敢说菜单上连蛋白糊都不会有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2131c5dc566c2ede",
+    "source": "&402 There's no time to fix yourself a snack, unfortunately.",
+    "target": "&402 可惜，现在没时间给自己做点吃的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f3987d4c9e7ecde8",
+    "source": "&403 Nothing happens. Apparently, taking its mind out has made it less talkative.",
+    "target": "&403 毫无反应。看来，取走意识之后，它就没那么健谈了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8c45e298152d26a2",
+    "source": "&404 The kitchen has a machine for preparing and serving drinks sitting in a nest of wine bottles.",
+    "target": "&404 厨房里有一台制作、供应饮品的机器，周围摆满了酒瓶。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f2e4db5eed430a11",
+    "source": "&405 There'd be nothing left to take, you've already cleared out its mind.",
+    "target": "&405 没什么可拿的了，你已经把它的意识清空了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0d92dd3198c27a3",
+    "source": "Splitting: \"//VICK/BARMAN.MST\"",
+    "target": "正在拆分：\"//VICK/BARMAN.MST\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93939be55207f2e1",
+    "source": "Downloading: \"//VICK/BARMAN.pers\"",
+    "target": "正在下载：\"//VICK/BARMAN.pers\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "51e5a2cd52f8d925",
+    "source": "Downloading: \"//VICK/BARMAN.role\"",
+    "target": "正在下载：\"//VICK/BARMAN.role\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "789d8154d4a1e22b",
+    "source": "Downloading: \"//VICK/BARMAN.localmem\"",
+    "target": "正在下载：\"//VICK/BARMAN.localmem\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4dc26636c38274db",
+    "source": "Mind-State Acquired: DRINKS MACHINE",
+    "target": "已获取意识状态：酒水机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ab073ce1e54c2ab1",
+    "source": "Splitting: \"//T.H.E./FOODMACHINE.MST\"",
+    "target": "正在拆分：\"//T.H.E./FOODMACHINE.MST\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "256e7d4fbd36bdde",
+    "source": "Downloading: \"//T.H.E./Cheffie.pers\"",
+    "target": "正在下载：\"//T.H.E./Cheffie.pers\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d80c5bd9bbba5cb",
+    "source": "Downloading: \"//T.H.E./Cheffie.role\"",
+    "target": "正在下载：\"//T.H.E./Cheffie.role\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d55d7da38b4a8d2",
+    "source": "Downloading: \"//T.H.E./Cheffie.localmem\"",
+    "target": "正在下载：\"//T.H.E./Cheffie.localmem\"",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "39299b45270bbcb5",
+    "source": "Mind-State Acquired: T.H.E. FOODS MACHINE",
+    "target": "已获取意识状态：T.H.E. 食品机",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2303057976cb59d2",
+    "source": "&406 An antiquated PC terminal, built into an even older musical instrument.",
+    "target": "&406 一台老式电脑终端，嵌在一件更老的乐器里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d615dfc72c1f19f4",
+    "source": "&1060 Talk about anachronisms! I bet this thing still uses magnetic memory.",
+    "target": "&1060 真是老古董！这东西该不会还用磁存储吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a07f13b688834776",
+    "source": "&1437 Can you breach it?",
+    "target": "&1437 你能破解它吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "21f8591155a99000",
+    "source": "&1061 Sorry, no can do. Anything before wetware isn't compatible with my wiring.",
+    "target": "&1061 抱歉，办不到。湿件出现以前的东西，跟我的植入系统不兼容。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ea29150cb209258",
+    "source": "&1438 I guess that's one way of making it more secure...",
+    "target": "&1438 这也算是提高安全性的一种办法吧……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a563a1da10fef0d7",
+    "source": "&1439 Is this refrigerator...locked?",
+    "target": "&1439 这个冰箱……上锁了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "72276a20831aba37",
+    "source": "&1440 Who the Hell locks a refrigerator?",
+    "target": "&1440 谁会给冰箱上锁啊？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0cd85481f2ac5f8d",
+    "source": "&1062 Maybe they've got really expensive tastes?",
+    "target": "&1062 也许他们吃的东西特别贵？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9bf5891c4baa3bf4",
+    "source": "The large refrigerator has a combination lock built into the door.",
+    "target": "这台大冰箱的门上装着密码锁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f25bffe0912d0006",
+    "source": "&1441 That's not going to get it open.",
+    "target": "&1441 这样打不开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b78ab8771d365c5c",
+    "source": "//ERROR: User Biometrics not recognized",
+    "target": "//错误：无法识别用户生物特征",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "19e9f6f73d102c94",
+    "source": "&1442 I don't think they're compatible.",
+    "target": "&1442 我觉得它们不兼容。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "48782cbf01edbbf4",
+    "source": "&1443 It'd take a long time to get through all of that.",
+    "target": "&1443 全查一遍，得花很长时间。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a9ac0de284ff07b",
+    "source": "&1063 They've got a refined taste in wines, I imagine?",
+    "target": "&1063 看来他们喝葡萄酒的品味很讲究？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d77fe65e8026b5a3",
+    "source": "&1444 Actually...no.",
+    "target": "&1444 其实……不是。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ebc86409bb2e8a71",
+    "source": "&1445 They're all either a couple of years old, or fabricated.",
+    "target": "&1445 全都是才放了几年的酒，或者人工合成的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "367d1656ec00516c",
+    "source": "&1064 Weird. Maybe they're doing something to the wine.",
+    "target": "&1064 奇怪。也许他们往酒里加了什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9f3c9549f07e028d",
+    "source": "&1065 Well, say they were also adding amphetamines to it, for example.",
+    "target": "&1065 比如说，他们还往里面加安非他命。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ac60287a4a5cd536",
+    "source": "&1066 If they accidentally ruined it, it'd be better if it was a cheaper wine.",
+    "target": "&1066 万一不小心把酒糟蹋了，用便宜酒就没那么心疼。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7138ddb8d4f8516c",
+    "source": "&1068 Although, they've got the food machine as well...perhaps they've got something else in there?",
+    "target": "&1068 不过他们也有食品机……冰箱里也许还放了别的东西？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "16e9206177bf8fb1",
+    "source": "&407 The large refrigerator has a combination lock built into the door.",
+    "target": "&407 这台大冰箱的门上装着密码锁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1203a779dca87d0c",
+    "source": "&336 Another example of questionable art hangs from the ceiling.",
+    "target": "&336 天花板上还挂着一件品味可疑的艺术品。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5638d07a75b8febd",
+    "source": "&338 This one doesn't look like it has any useful components you can remove.",
+    "target": "&338 这件东西看着没什么有用的零件能拆下来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

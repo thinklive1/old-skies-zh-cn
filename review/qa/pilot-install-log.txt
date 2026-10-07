@@ -1,0 +1,73 @@
+{
+  "game": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\work\\technobabylon\\pilot",
+  "development": false,
+  "files": [
+    {
+      "name": "Technobabylon_zh_CN.tra",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\Technobabylon_zh_CN.tra",
+      "before": "3c1e13253e1a742ba41ecf7528ae3f6380f6e0a852d7b6a34922715bdb95ca2a",
+      "after": "324943068e1a4bced8f9abf97322047e5f983e4edd72dc69824886109cf19f81"
+    },
+    {
+      "name": "game28.dta",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\game28.dta",
+      "before": null,
+      "after": "f07d1f948efb2796d3a427fa0fe2ce062cb2d9d40513650f85b3fc9f52f5609a"
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt0.ttf",
+      "before": "e4df5a375e8ab2f1c74f1ddf2cc6f743b3eab76ca7bc999c0017f2acace2d63e",
+      "after": "97f2f2bf79dc6c8b1996050db8780aac594f30cc2706249615b022495810662a"
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt1.ttf",
+      "before": "c875a38c468813f3e4f0146ea95e71fc5884aec0ab367a4ea7aa99cbd6058c0b",
+      "after": "d689898ac7808c3d5c092cdfb563e9ba7752da26b9acfb81e39174597eeff85f"
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt2.ttf",
+      "before": "3d693ed8463b8501e05cbf996e0c29e1574aad2787e808316647f939539f1b13",
+      "after": "76c671ea9d3abee13237bc24ca914203417db4a12503a18f97c317ecdd7e8352"
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt4.ttf",
+      "before": "0e72874aa2622812dde618cc9d4a9192b73b7c64aef7a8259cf385606bc8f987",
+      "after": "e26ab0bc53fde02e0f8728bf7535069fb923a8c66329ddc11638c27cefb25d48"
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt5.ttf",
+      "before": "d999f73cc0beb1b409db0a7d1c22ea49fce8e147ec665f9091df09f24fbf4c08",
+      "after": "21ef6327699b46e9244afff5ae087578c79efde389be072bd5bdea931440b110"
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt6.ttf",
+      "before": "0aae8ab15d00f866ec4373291a1a1f162c1523d8d596f8803bada11686b68d52",
+      "after": "ec8beb3093730f1be6c8aeec1fdadd56bf75f89752258b75751d2ecc369f7908"
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt7.ttf",
+      "before": "a057faff5fba1b7db2e4cfcda2181574e7d9cad0b537de3f67d55cbf7e6e291d",
+      "after": "1124f8aff1b40a2d7955e35d2f35f032880565e5fdc049ccdc20fca41fe2916c"
+    },
+    {
+      "name": "agsfnt3.ttf",
+      "source": "<user-profile>\\Documents\\Codex\\2026-10-02\\new-chat\\outputs\\technobabylon-zh-cn\\build\\release\\agsfnt3.ttf",
+      "before": "b2ee68647dc257fa697e4d0c78f9b59461bc504a023b9a3b5ad66f358bbb1613",
+      "after": "a32c775cdd8b73c482de95642e85c45c2527be666d3e929ee2cedda33c2d804b"
+    },
+    {
+      "name": "acsetup.cfg",
+      "source": null,
+      "before": "4a8f33a83c132646d7a2310cfad2183890554e94c77f738188ea2e66c4261639",
+      "after": "af88cf13fb27590d686278b8691211625d6184936fbbeb769cdc824060b1d53f"
+    }
+  ]
+}
+Installed and verified. Backup: <user-profile>\Documents\Codex\2026-10-02\new-chat\work\technobabylon\pilot\_Technobabylon_zh_CN_backup\20261007-145156-beb847f3

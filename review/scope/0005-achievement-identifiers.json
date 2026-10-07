@@ -1,0 +1,2808 @@
+{
+  "audit": "逐条核对SCOM字符串引用和其后实际导入调用；仅纳入全部来源都传递给unlockAch的精确键。没有按大写或长度判断。",
+  "entries": [
+    {
+      "id": "9c00995dc4a814a6",
+      "source": "CHANTELLE",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 2831,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 2829,
+              "name": "movlit",
+              "args": [
+                3,
+                "'CHANTELLE'"
+              ]
+            },
+            {
+              "pc": 2832,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2834,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2836,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 2838,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 2841,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96d0da026ad20de2",
+      "source": "CHIGWA",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 102143,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 102141,
+              "name": "movlit",
+              "args": [
+                3,
+                "'CHIGWA'"
+              ]
+            },
+            {
+              "pc": 102144,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 102146,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 102148,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 102150,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 102153,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8217b9393ae753c0",
+      "source": "NIESTER",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 107486,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 107484,
+              "name": "movlit",
+              "args": [
+                3,
+                "'NIESTER'"
+              ]
+            },
+            {
+              "pc": 107487,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 107489,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 107491,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 107493,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 107496,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1fa17ac322bd995",
+      "source": "WHISKEY",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 113447,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 113445,
+              "name": "movlit",
+              "args": [
+                3,
+                "'WHISKEY'"
+              ]
+            },
+            {
+              "pc": 113448,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 113450,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 113452,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 113454,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 113457,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "967ea11e4d297539",
+      "source": "ENDNINA",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 223555,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 223553,
+              "name": "movlit",
+              "args": [
+                3,
+                "'ENDNINA'"
+              ]
+            },
+            {
+              "pc": 223556,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 223558,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 223560,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 223562,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 223565,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d176d1ea096e8a6",
+      "source": "ENDCENTRAL",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 223849,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 223847,
+              "name": "movlit",
+              "args": [
+                3,
+                "'ENDCENTRAL'"
+              ]
+            },
+            {
+              "pc": 223850,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 223852,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 223854,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 223856,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 223859,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09607f7dcc5f63d3",
+      "source": "PHONECALL",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "global-script",
+          "index": 268109,
+          "script": "GlobalScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 268107,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PHONECALL'"
+              ]
+            },
+            {
+              "pc": 268110,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 268112,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 268114,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 268116,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 268119,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e9afc88b442f62f",
+      "source": "DOORCODE",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 69880,
+          "script": "Dialog 86",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 69878,
+              "name": "movlit",
+              "args": [
+                3,
+                "'DOORCODE'"
+              ]
+            },
+            {
+              "pc": 69881,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 69883,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 69885,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 69887,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 69890,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 70564,
+          "script": "Dialog 86",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 70562,
+              "name": "movlit",
+              "args": [
+                3,
+                "'DOORCODE'"
+              ]
+            },
+            {
+              "pc": 70565,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 70567,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 70569,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 70571,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 70574,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 71368,
+          "script": "Dialog 86",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 71366,
+              "name": "movlit",
+              "args": [
+                3,
+                "'DOORCODE'"
+              ]
+            },
+            {
+              "pc": 71369,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 71371,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 71373,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 71375,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 71378,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a173069c97088e6f",
+      "source": "VDWLAO",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 73705,
+          "script": "Dialog 6",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 73703,
+              "name": "movlit",
+              "args": [
+                3,
+                "'VDWLAO'"
+              ]
+            },
+            {
+              "pc": 73706,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 73708,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 73710,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 73712,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 73715,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e6da2ae03470080",
+      "source": "PART7",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 234266,
+          "script": "Dialog 36",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 234264,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART7'"
+              ]
+            },
+            {
+              "pc": 234267,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 234269,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 234271,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 234273,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 234276,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 235219,
+          "script": "Dialog 36",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 235217,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART7'"
+              ]
+            },
+            {
+              "pc": 235220,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 235222,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 235224,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 235226,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 235229,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0b3d06cacfe42a4",
+      "source": "GOLDFARB",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "dialog-script",
+          "index": 291149,
+          "script": "Dialog 51",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 291147,
+              "name": "movlit",
+              "args": [
+                3,
+                "'GOLDFARB'"
+              ]
+            },
+            {
+              "pc": 291150,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 291152,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 291154,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 291156,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 291159,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b39b3f87384f25c9",
+      "source": "GENES",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 70156,
+          "script": "TechnoScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 70154,
+              "name": "movlit",
+              "args": [
+                3,
+                "'GENES'"
+              ]
+            },
+            {
+              "pc": 70157,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 70159,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 70161,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 70163,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 70166,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c235cec0c1b5529",
+      "source": "PART5",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 70902,
+          "script": "TechnoScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 70900,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART5'"
+              ]
+            },
+            {
+              "pc": 70903,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 70905,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 70907,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 70909,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 70912,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "750284357d37e8a3",
+      "source": "COMMENTARY",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 102545,
+          "script": "TechnoScript.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 102543,
+              "name": "movlit",
+              "args": [
+                3,
+                "'COMMENTARY'"
+              ]
+            },
+            {
+              "pc": 102546,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 102548,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 102550,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 102552,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 102555,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1aafa98da821163d",
+      "source": "VDWCENTRAL",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "game28.dta",
+          "kind": "module-script",
+          "index": 6818,
+          "script": "Alleviation.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 6816,
+              "name": "movlit",
+              "args": [
+                3,
+                "'VDWCENTRAL'"
+              ]
+            },
+            {
+              "pc": 6819,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 6821,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 6823,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 6825,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 6828,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e699d1cb60f80dc",
+      "source": "PART1",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room3.crm",
+          "kind": "room-script",
+          "index": 1195,
+          "script": "room3.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 1193,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART1'"
+              ]
+            },
+            {
+              "pc": 1196,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1198,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1200,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 1202,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 1205,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf8edbe315f06609",
+      "source": "BOMBER3",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room8.crm",
+          "kind": "room-script",
+          "index": 2732,
+          "script": "room8.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 2730,
+              "name": "movlit",
+              "args": [
+                3,
+                "'BOMBER3'"
+              ]
+            },
+            {
+              "pc": 2733,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2735,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2737,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 2739,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 2742,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c42268cb2bafa968",
+      "source": "PART2",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room8.crm",
+          "kind": "room-script",
+          "index": 2750,
+          "script": "room8.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 2748,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART2'"
+              ]
+            },
+            {
+              "pc": 2751,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2753,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2755,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 2757,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 2760,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "room8.crm",
+          "kind": "room-script",
+          "index": 3647,
+          "script": "room8.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 3645,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART2'"
+              ]
+            },
+            {
+              "pc": 3648,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3650,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3652,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 3654,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 3657,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "room8.crm",
+          "kind": "room-script",
+          "index": 4685,
+          "script": "room8.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 4683,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART2'"
+              ]
+            },
+            {
+              "pc": 4686,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4688,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4690,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 4692,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 4695,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e775fc6b80fe503b",
+      "source": "BOMBER2",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room8.crm",
+          "kind": "room-script",
+          "index": 3629,
+          "script": "room8.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 3627,
+              "name": "movlit",
+              "args": [
+                3,
+                "'BOMBER2'"
+              ]
+            },
+            {
+              "pc": 3630,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3632,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3634,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 3636,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 3639,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66ecabd4ea167f59",
+      "source": "BOMBER1",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room8.crm",
+          "kind": "room-script",
+          "index": 4703,
+          "script": "room8.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 4701,
+              "name": "movlit",
+              "args": [
+                3,
+                "'BOMBER1'"
+              ]
+            },
+            {
+              "pc": 4704,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4706,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4708,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 4710,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 4713,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56cf530bba26abab",
+      "source": "VDWELLIOTNESS",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room11.crm",
+          "kind": "room-script",
+          "index": 12405,
+          "script": "room11.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 12403,
+              "name": "movlit",
+              "args": [
+                3,
+                "'VDWELLIOTNESS'"
+              ]
+            },
+            {
+              "pc": 12406,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 12408,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 12410,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 12412,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 12415,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8541e1fdde899aa1",
+      "source": "PART3",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room19.crm",
+          "kind": "room-script",
+          "index": 1897,
+          "script": "room19.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 1895,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART3'"
+              ]
+            },
+            {
+              "pc": 1898,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1900,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1902,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 1904,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 1907,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "room19.crm",
+          "kind": "room-script",
+          "index": 4780,
+          "script": "room19.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 4778,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART3'"
+              ]
+            },
+            {
+              "pc": 4781,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4783,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4785,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 4787,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 4790,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "room19.crm",
+          "kind": "room-script",
+          "index": 6734,
+          "script": "room19.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 6732,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART3'"
+              ]
+            },
+            {
+              "pc": 6735,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 6737,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 6739,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 6741,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 6744,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "asset": "room19.crm",
+          "kind": "room-script",
+          "index": 8994,
+          "script": "room19.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 8992,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART3'"
+              ]
+            },
+            {
+              "pc": 8995,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 8997,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 8999,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 9001,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 9004,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91d3e57587388041",
+      "source": "GUYGOOD",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room20.crm",
+          "kind": "room-script",
+          "index": 35619,
+          "script": "room20.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 35617,
+              "name": "movlit",
+              "args": [
+                3,
+                "'GUYGOOD'"
+              ]
+            },
+            {
+              "pc": 35620,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 35622,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 35624,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 35626,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 35629,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20f7e024cc447ea6",
+      "source": "GUYBAD",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room20.crm",
+          "kind": "room-script",
+          "index": 35781,
+          "script": "room20.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 35779,
+              "name": "movlit",
+              "args": [
+                3,
+                "'GUYBAD'"
+              ]
+            },
+            {
+              "pc": 35782,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 35784,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 35786,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 35788,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 35791,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b69c78960f5d6e93",
+      "source": "PART4",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room20.crm",
+          "kind": "room-script",
+          "index": 50040,
+          "script": "room20.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 50038,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART4'"
+              ]
+            },
+            {
+              "pc": 50041,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 50043,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 50045,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 50047,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 50050,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17e5abf20ca8d3e7",
+      "source": "SHOOTING",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room39.crm",
+          "kind": "room-script",
+          "index": 3624,
+          "script": "room39.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 3622,
+              "name": "movlit",
+              "args": [
+                3,
+                "'SHOOTING'"
+              ]
+            },
+            {
+              "pc": 3625,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3627,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3629,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 3631,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 3634,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3b29c5909d4619f",
+      "source": "PART6",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room40.crm",
+          "kind": "room-script",
+          "index": 779,
+          "script": "room40.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 777,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART6'"
+              ]
+            },
+            {
+              "pc": 780,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 782,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 784,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 786,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 789,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ff78aeddf56403b",
+      "source": "NINJA",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room43.crm",
+          "kind": "room-script",
+          "index": 8144,
+          "script": "room43.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 8142,
+              "name": "movlit",
+              "args": [
+                3,
+                "'NINJA'"
+              ]
+            },
+            {
+              "pc": 8145,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 8147,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 8149,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 8151,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 8154,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "556728f7f45600ac",
+      "source": "WATER",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room43.crm",
+          "kind": "room-script",
+          "index": 8836,
+          "script": "room43.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 8834,
+              "name": "movlit",
+              "args": [
+                3,
+                "'WATER'"
+              ]
+            },
+            {
+              "pc": 8837,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 8839,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 8841,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 8843,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 8846,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a4cb1e29b3b6600",
+      "source": "VENT",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room44.crm",
+          "kind": "room-script",
+          "index": 3445,
+          "script": "room44.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 3443,
+              "name": "movlit",
+              "args": [
+                3,
+                "'VENT'"
+              ]
+            },
+            {
+              "pc": 3446,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3448,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3450,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 3452,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 3455,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79764c0fc999ee99",
+      "source": "BANNED",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room46.crm",
+          "kind": "room-script",
+          "index": 2333,
+          "script": "room46.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 2331,
+              "name": "movlit",
+              "args": [
+                3,
+                "'BANNED'"
+              ]
+            },
+            {
+              "pc": 2334,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2336,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 2338,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 2340,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 2343,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7abfed292e2049b",
+      "source": "GRAVBALL",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room48.crm",
+          "kind": "room-script",
+          "index": 1216,
+          "script": "room48.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 1214,
+              "name": "movlit",
+              "args": [
+                3,
+                "'GRAVBALL'"
+              ]
+            },
+            {
+              "pc": 1217,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1219,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1221,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 1223,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 1226,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3ad0ae57a19dd6b",
+      "source": "PART8",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room51.crm",
+          "kind": "room-script",
+          "index": 4110,
+          "script": "room51.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 4108,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART8'"
+              ]
+            },
+            {
+              "pc": 4111,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4113,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 4115,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 4117,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 4120,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2efe04cf289c4eac",
+      "source": "CRATE",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room57.crm",
+          "kind": "room-script",
+          "index": 1401,
+          "script": "room57.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 1399,
+              "name": "movlit",
+              "args": [
+                3,
+                "'CRATE'"
+              ]
+            },
+            {
+              "pc": 1402,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1404,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1406,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 1408,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 1411,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "484c7dc0d57c7074",
+      "source": "PART9",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room58.crm",
+          "kind": "room-script",
+          "index": 12343,
+          "script": "room58.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 12341,
+              "name": "movlit",
+              "args": [
+                3,
+                "'PART9'"
+              ]
+            },
+            {
+              "pc": 12344,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 12346,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 12348,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 12350,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 12353,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b33a5f5b4bfb7891",
+      "source": "BOXDROP",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room59.crm",
+          "kind": "room-script",
+          "index": 3187,
+          "script": "room59.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 3185,
+              "name": "movlit",
+              "args": [
+                3,
+                "'BOXDROP'"
+              ]
+            },
+            {
+              "pc": 3188,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3190,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 3192,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 3194,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 3197,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5bb4f850d451ea9",
+      "source": "SURVIVE",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room63.crm",
+          "kind": "room-script",
+          "index": 1500,
+          "script": "room63.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 1498,
+              "name": "movlit",
+              "args": [
+                3,
+                "'SURVIVE'"
+              ]
+            },
+            {
+              "pc": 1501,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1503,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 1505,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 1507,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 1510,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d29fd4d4d3ab8e8f",
+      "source": "MJ1",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 10221,
+          "script": "room68.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 10219,
+              "name": "movlit",
+              "args": [
+                3,
+                "'MJ1'"
+              ]
+            },
+            {
+              "pc": 10222,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 10224,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 10226,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 10228,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 10231,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e87a61032723e07c",
+      "source": "MJ2",
+      "status": "excluded",
+      "reason": "内部成就标识；全部脚本引用作为unlockAch参数，沿用原键以保持成就匹配",
+      "evidence": [
+        {
+          "asset": "room68.crm",
+          "kind": "room-script",
+          "index": 13496,
+          "script": "room68.asc",
+          "callee": "unlockAch",
+          "instructions": [
+            {
+              "pc": 13494,
+              "name": "movlit",
+              "args": [
+                3,
+                "'MJ2'"
+              ]
+            },
+            {
+              "pc": 13497,
+              "name": "newstr",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 13499,
+              "name": "pushreal",
+              "args": [
+                3
+              ]
+            },
+            {
+              "pc": 13501,
+              "name": "setfuncargs",
+              "args": [
+                1
+              ]
+            },
+            {
+              "pc": 13503,
+              "name": "movlit",
+              "args": [
+                3,
+                "IMPORT:unlockAch"
+              ]
+            },
+            {
+              "pc": 13506,
+              "name": "callext",
+              "args": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

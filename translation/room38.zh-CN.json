@@ -1,0 +1,282 @@
+[
+  {
+    "id": "659ab86423dba75f",
+    "source": "Hotspot 0",
+    "target": "",
+    "status": "excluded",
+    "reason": "编辑器默认占位名称",
+    "review_notes": ""
+  },
+  {
+    "id": "192ae6aabb846e48",
+    "source": "Large Doors",
+    "target": "大门",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c36fa4876da1f97c",
+    "source": "Sewers",
+    "target": "下水道",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8828d3f277bb96e7",
+    "source": "Robot Arm",
+    "target": "机械臂",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "db44b8db4f05d720",
+    "source": "Lock",
+    "target": "锁",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d63ec96f5bf0eb62",
+    "source": "&132 Okay, you're on the factory floor.",
+    "target": "&132 好，你到工厂车间了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d5f6138726e3f9c1",
+    "source": "&133 There's an emergency access route to the sewers in a corner of the North wall.",
+    "target": "&133 北墙角落里有一条紧急通道，通往下水道。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "eae5777bad3df95f",
+    "source": "&1625 Sure, except it's locked.",
+    "target": "&1625 是啊，可它锁着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a81275c524e3efd5",
+    "source": "&134 What?! This can't be right.",
+    "target": "&134 什么？！不应该啊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf7ce33d4c3a934f",
+    "source": "&1626 Yep. Big padlock and everything. Any other ideas?",
+    "target": "&1626 没错，好大一把挂锁。还有别的主意吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7035441790b7eac",
+    "source": "&135 I'm afraid not. The crisis team's got the factory surrounded.",
+    "target": "&135 恐怕没有。危机小组已经把工厂包围了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e549d52cc4bfbfe3",
+    "source": "&136 That's your only route out.",
+    "target": "&136 那是你唯一的出路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "67e9825985fb7668",
+    "source": "&1627 Guess I need to find a way to get the lock off.",
+    "target": "&1627 看来，得想办法把锁弄掉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "11156e84ef61e7b6",
+    "source": "&1628 That's the way back to the optics lab.",
+    "target": "&1628 这边通往光学实验室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "212abae6bb522d95",
+    "source": "&1629 Looks like the manual controls for the manipulator arm.",
+    "target": "&1629 应该是机械臂的手动控制装置。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dba41362162e776f",
+    "source": "&1630 This is where synthetics are born.",
+    "target": "&1630 合成人就在这里诞生。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9c60729fd17e0c07",
+    "source": "&1631 How many metal...circles...do I need?",
+    "target": "&1631 我需要多少个这种金属……圆片……？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2b9853969c8512f0",
+    "source": "Picked up: Metal Disk",
+    "target": "已拾取：金属圆盘",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f6b69c17d79aff53",
+    "source": "&1632 Whatever this is, building a synth apparently takes a lot of them.",
+    "target": "&1632 不管是什么，造一个合成人显然需要很多这种东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "10c02df36b5440e7",
+    "source": "&1633 It's nothing like the drones and synths of today.",
+    "target": "&1633 跟现在的无人机和合成人完全不同。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6487fe241943dc7f",
+    "source": "&1634 Less personality, nothing to argue with. My kind of 'bot.",
+    "target": "&1634 没多少个性，也不会顶嘴。我就喜欢这种机器人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "97ceec138ff65db5",
+    "source": "&1635 Are you kidding? If anything, that arm'd pick ME up.",
+    "target": "&1635 开玩笑吧？那只机械臂说不定会把我拎起来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "05fb50bf7b29d7c7",
+    "source": "&1636 It's already got one.",
+    "target": "&1636 它已经有一个了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b23e8ef893e95815",
+    "source": "&1637 The claws are jammed too close together to hold it.",
+    "target": "&1637 爪子卡得太近，夹不住它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5ce07597261b4f6d",
+    "source": "&560 Though recognisably a padlock in certain parts, most of what remains is melted.",
+    "target": "&560 部分地方还看得出原来是把挂锁，但剩下的大多已经熔化了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2cb29d5f82d966ff",
+    "source": "&1638 This is a pretty heavy-duty padlock.",
+    "target": "&1638 这挂锁可真结实。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "63f6e2279f121f54",
+    "source": "&1639 Maybe it was an attempt to stop vandals getting in.",
+    "target": "&1639 可能是想拦住闯进来搞破坏的人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bf4e5e6e09e36db9",
+    "source": "&564 The padlock's molten remains still glow from the laser's brilliant heat. Better not touch it.",
+    "target": "&564 激光的高热熔化了挂锁，残骸还在发光。最好别碰。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3afdf5c5c3308799",
+    "source": "&1640 Even if it wasn't a heavy-duty lock, the mechanisms have rusted shut.",
+    "target": "&1640 就算不是这么结实的锁，内部也已经锈死了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6652106ae8072af8",
+    "source": "&1641 It's going to need something stronger than that.",
+    "target": "&1641 得用更厉害的东西才行。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "14de27f04c2f09be",
+    "source": "&1642 My escape route, apparently.",
+    "target": "&1642 看来，这就是我的逃生路。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "137e7cd05d760309",
+    "source": "&1643 I'd better not be walking into an ambush.",
+    "target": "&1643 最好别是让我走进埋伏。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fcb31922b5de4386",
+    "source": "&137 I haven't let you down yet, have I?",
+    "target": "&137 我还没让你失望过，对吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b0d3e1cf89b4e952",
+    "source": "&568 The door to another part of the factory.",
+    "target": "&568 通往工厂另一部分的门。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea03778197762915",
+    "source": "The staircase leads back up to the laser lab, and the offices.",
+    "target": "楼梯通往上面的激光实验室和办公室。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

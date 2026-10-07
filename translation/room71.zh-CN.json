@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ca05373c19603c92",
+    "source": "Cortex Processor",
+    "target": "皮层处理器",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3864e840dd662b4b",
+    "source": "&1315 Eurgh...what...?",
+    "target": "&1315 唔……怎么……？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2527bc8c3d67bebf",
+    "source": "&1316 Oh no, Regis! Corpsman, how long have I been out?!",
+    "target": "&1316 糟了，里吉斯！医务员，我昏过去多久了？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dc6c7a7113945d2b",
+    "source": "&28 Um...a couple of hours, ma'am.",
+    "target": "&28 呃……两三个小时，长官。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "23350a166418f6ef",
+    "source": "&29 Dr Regis asked me to make sure you were okay before he went back in there...",
+    "target": "&29 里吉斯博士让我确认你没事。他又进去了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef623fdaacb85c48",
+    "source": "&1317 Into the cortex server?!",
+    "target": "&1317 进皮层服务器了？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bba754f703d82126",
+    "source": "&1318 Oh no...he didn't...",
+    "target": "&1318 糟了……他不会真的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "df387300119644f9",
+    "source": "&5319 Regis!",
+    "target": "&5319 里吉斯！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "78f178d286221084",
+    "source": "The server room is now open to you, but it's unclear what can be done without jeopardising Latha.",
+    "target": "服务器机房已经可以进入了，但要怎么做才不会危及拉塔，你还没有头绪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

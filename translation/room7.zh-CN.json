@@ -1,0 +1,218 @@
+[
+  {
+    "id": "b72804afefc37b62",
+    "source": "Sky",
+    "target": "天空",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a284df55828b12ac",
+    "source": "&1460 So, despite the incident at Animus, I may have some good news.",
+    "target": "&1460 虽说阿尼姆斯那边出了事，不过我这儿可能有个好消息。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9804749f4a0e52b1",
+    "source": "&1010 We might have a break in that string of Mindjackings.",
+    "target": "&1010 那一连串意识劫持案，可能有突破了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c9b645ad2ce77de4",
+    "source": "&1374 Van der Waal agreed to talk?",
+    "target": "&1374 范德瓦尔肯开口了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0ad142e32fe25766",
+    "source": "&1011 I...uh...yeah. How'd you guess?",
+    "target": "&1011 我……呃……对。你怎么猜到的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d9f5c93c1decae82",
+    "source": "&1375 He couldn't hold out forever.",
+    "target": "&1375 他撑不了一辈子。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4bdcfc12bd30ee7b",
+    "source": "&1461 I managed to get Giel Van der Waal, the 'legitimate businessman', to cooperate.",
+    "target": "&1461 我总算让吉尔·范德瓦尔这位“正经商人”肯配合了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e4a19ff4e186dd3a",
+    "source": "&1462 Says he has information on the Mindjacker.",
+    "target": "&1462 他说有意识劫持者的线索。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e2f5b8e2bab09ad7",
+    "source": "&1376 What did he say?",
+    "target": "&1376 他说了什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dcb1808df804e98b",
+    "source": "&1012 Didn't want to talk over the...",
+    "target": "&1012 他不想通过……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b23a54e1fde50951",
+    "source": "&1377 Lao?",
+    "target": "&1377 劳？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ba8f5223a1afb2df",
+    "source": "&1013 Central wants a word.",
+    "target": "&1013 中枢要跟我们谈谈。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aefe67ed3419b0b1",
+    "source": "&82 Dr Regis. Dr Lao.",
+    "target": "&82 里吉斯博士。劳博士。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f6d5132855a4c4d4",
+    "source": "&1378 This isn't just a social call for an update, is it Central?",
+    "target": "&1378 中枢，你不会只是来闲聊，问问进展吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f94cdc4be81a4b4d",
+    "source": "&87 Dr Regis, lately you have spent a great deal of your time off-network.",
+    "target": "&87 里吉斯博士，你最近有很长一段时间没有接入网络。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aa575c96795ecff4",
+    "source": "&88 It is for your safety, and that of the citizens that we...",
+    "target": "&88 为了你以及市民的安全，我们……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a4aef235e17dd0d6",
+    "source": "&89 ...",
+    "target": "&89 ……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9720b63f45e61b61",
+    "source": "&90 All points bulletin, evacuation in progress at Barber's Gate transit station.",
+    "target": "&90 全体通报：巴伯门交通站正在疏散人员。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "716edf434eb62f12",
+    "source": "&91 Case Officers Regis and Lao assigned to crisis management.",
+    "target": "&91 指派办案探员里吉斯与劳负责危机处置。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "71c3221d0c02c116",
+    "source": "&1379 What's happening at the -",
+    "target": "&1379 那边到底出了什么——",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8f74034483a6eb3d",
+    "source": "&92 All case data has been transferred to Dr Lao. Your vehicle has been rerouted.",
+    "target": "&92 所有案件资料已传送给劳博士。车辆路线已重新规划。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5b8b2223bb045299",
+    "source": "&93 Please seek an expedient resolution to the situation. Central out.",
+    "target": "&93 请尽快解决现场状况。中枢通讯结束。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "26fb73638ce2388c",
+    "source": "&1014 Businesslike as ever. Let's go see what this is about.",
+    "target": "&1014 还是一如既往地公事公办。去看看怎么回事吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f67b57e501909cc2",
+    "source": "&1380 Traveller - Begin Recording.",
+    "target": "&1380 旅人——开始录音。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "60e22db4c2f6737e",
+    "source": "&1381 Lao, if you're listening to this...",
+    "target": "&1381 劳，如果你听到了这段录音……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c59afd26dbf7bcc4",
+    "source": "&1382 Well, it means they've caught me.",
+    "target": "&1382 那就说明，他们已经抓到我了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "47fabd0b91edef20",
+    "source": "&1383 It wouldn't be right if I couldn't explain things to you, though.",
+    "target": "&1383 但要是不把事情向你解释清楚，我实在过意不去。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

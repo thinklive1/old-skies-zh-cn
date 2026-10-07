@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "method": "independent pinned C# AGSUnpacker read, original versus candidate",
+  "changed_gui_controls": [
+    "ListBoxMessages",
+    "ListBoxEmailMessage1",
+    "ListBoxS3Contacts",
+    "ListNewsArticle",
+    "ListBoxS7User"
+  ],
+  "control_flags_before": 84,
+  "control_flags_after": 212,
+  "scroller_original_code_changes": [
+    10,
+    11,
+    2221,
+    2222
+  ],
+  "original_scroller_strings_and_exports_unchanged": true,
+  "all_other_gui_metadata_unchanged": true,
+  "all_20207_text_references_retained": true,
+  "candidate_data_sha256": "c6656e9adbad800c86eb36525df18a73ba147ba2389d36ed1c448c0de8585644",
+  "visual_test": false
+}

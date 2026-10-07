@@ -1,0 +1,402 @@
+[
+  {
+    "id": "176b5cd144a55b64",
+    "source": "OpenViewNear",
+    "target": "近景视图",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e477f85233d518da",
+    "source": "&1322 I can't believe you turned it down!",
+    "target": "&1322 真不敢相信，你竟然拒绝了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e7922523509090bc",
+    "source": "&1323 The City Council was practically *begging* to give you the job!",
+    "target": "&1323 市议会简直是在求你接下这个职位！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e1f71fac39a840be",
+    "source": "&1815 It didn't feel right. I didn't deserve it.",
+    "target": "&1815 我觉得不合适。我还不配。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "70bcff00ad5fd2aa",
+    "source": "&1324 Well, since they had to 'retire' Dr Vargas, and you refused it, they had to give the job to Chigwa!",
+    "target": "&1324 好吧，既然他们不得不让瓦尔加斯博士“退休”，你又拒绝了，那就只好让奇格瓦接任了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8200b0e0484ca792",
+    "source": "&1816 And I'm sure she'll make a fine Central Coordinator.",
+    "target": "&1816 我相信她会是个出色的中枢协调员。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d6633b2d1449f1f",
+    "source": "&1817 After all, she's one of the only people left alive and not incarcerated who knows how it works.",
+    "target": "&1817 毕竟，既了解中枢的运作方式，又还活着、也没进监狱的人，已经没剩几个了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9ef3fcc42dc3c17f",
+    "source": "&1325 You could've been the most powerful man in the city!",
+    "target": "&1325 你本可以成为全城最有权势的人！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "da6f2cc88735443a",
+    "source": "&1326 I could've been best pals with the most powerful man in the city!",
+    "target": "&1326 我本可以跟全城最有权势的人成为铁哥们！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "800f6eb76436493f",
+    "source": "&1818 Sorry, you'll just have to butter up to Dr Chigwa.",
+    "target": "&1818 抱歉了，你只能去讨好奇格瓦博士了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cf036036c27ef379",
+    "source": "&1327 Should've figured you wouldn't take it.",
+    "target": "&1327 我早该想到你不会接受。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b29c31f644e61a98",
+    "source": "&1328 You'd need more adversity before earning something like that.",
+    "target": "&1328 你得再吃点苦头，才会觉得自己配得上这种职位。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c19b75c64b3b75d5",
+    "source": "&1329 Otherwise you wouldn't have anything to complain about.",
+    "target": "&1329 不然，你都没什么可抱怨的了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "854e3d9fb402ea71",
+    "source": "&1819 Speaking of complaining, how's the new recruit doing?",
+    "target": "&1819 说到抱怨，新人怎么样？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8d7142f41600800b",
+    "source": "&1330 She's unconventional, and everyone's noticing it.",
+    "target": "&1330 她不按常理出牌，大家都注意到了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e1b3d37203f26e7d",
+    "source": "&1331 Not quite getting along with everyone, but that's not what she's here for.",
+    "target": "&1331 跟大家还不太合得来。不过，她来这儿也不是为了这个。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a00891ec3f411a3b",
+    "source": "&1332 Got quite a brain on her though, hasn't she?",
+    "target": "&1332 但她脑子是真好使，对吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6ed74ba626a47d2",
+    "source": "&1820 Takes after her mother.",
+    "target": "&1820 随她母亲。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b8a3a0c6ec6fc548",
+    "source": "&647 How do I look?",
+    "target": "&647 我这身怎么样？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d2c9dca67f6a24a",
+    "source": "&1333 That's 'how do I look, SIR?' to you.",
+    "target": "&1333 你该说：“我这身怎么样，长官？”",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a0a8f8c66d699199",
+    "source": "&648 Pfft. Whatever.",
+    "target": "&648 嘁。随便吧。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "520ef9235079d45b",
+    "source": "&1821 Better note 'problems with authority' on the conduct report.",
+    "target": "&1821 最好在行为报告上记一条：“不服管教”。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5da2efaec4ade58",
+    "source": "&1334 Takes after her father.",
+    "target": "&1334 随她父亲。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5f6762e963ee6803",
+    "source": "&1822 Hah. Central, any update on Nina?",
+    "target": "&1822 哈。中枢，妮娜有什么新消息吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4b568ee8382fd91c",
+    "source": "&151 Dr Nina Jeong is under special observation.",
+    "target": "&151 妮娜·郑博士正接受特别观察。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f6d231f81a42dad8",
+    "source": "&649 Like, witness protection?",
+    "target": "&649 比如，证人保护？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "62a7300d3e3d77b2",
+    "source": "&1823 Probably something like that.",
+    "target": "&1823 大概是类似的安排。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f92c9f19dbb16185",
+    "source": "&1824 But still, I wish Central would tell us what she was up to...",
+    "target": "&1824 不过，我还是希望中枢能告诉我们，她在做什么……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ac6f319be16d42e2",
+    "source": "&1335 What do you mean, you can't see the difference?",
+    "target": "&1335 什么叫你看不出区别？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f76ed6e28383e32",
+    "source": "&1825 Well no, I can't!",
+    "target": "&1825 就是看不出来啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b748ded910e22cd4",
+    "source": "&1826 It looks like Central, it sounds like Central...feels like Central.",
+    "target": "&1826 看起来像中枢，听起来像中枢……感觉也像中枢。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "07d0d4f1ed8f39cb",
+    "source": "&1336 I'm amazed nobody in the city's noticed, either.",
+    "target": "&1336 全城竟然也没人发现，我真没想到。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "59cfcf3b88b455c0",
+    "source": "&1827 That was kind of the point of replacing it with a commercial AI, wasn't it?",
+    "target": "&1827 用商用人工智能来替换它，不就是想要这种效果吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc92282d3f9e834a",
+    "source": "&1337 Yeah, you're right. Maybe it's only because I know that, really, it's not the same Central.",
+    "target": "&1337 嗯，你说得对。也许只是因为我知道，它其实已经不是原来的中枢了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b91bc6464671e7ee",
+    "source": "&1338 Still, you don't look very torn up about it.",
+    "target": "&1338 不过，你看起来倒没怎么伤心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "09af61a82778bb4b",
+    "source": "&1828 I've got more important things to worry about, now.",
+    "target": "&1828 现在我有更重要的事要操心。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7ca226d21d2edb9e",
+    "source": "&1339 Yeah, you're suddenly a family man!",
+    "target": "&1339 是啊，你突然就成了有家室的人了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d43d845344af1960",
+    "source": "&1340 If you need any advice on how girls work, you can ask me.",
+    "target": "&1340 要是想知道怎么跟女孩子相处，尽管来问我。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "65ed192d4aace344",
+    "source": "&2036 Speaking of girls, how's the new recruit doing?",
+    "target": "&2036 说到女孩子，新人怎么样？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e3ff3aade7af8dc4",
+    "source": "&1831 Hah. Any update on Galatea, 'Central'?",
+    "target": "&1831 哈。“中枢”，伽拉忒亚有什么新消息吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "002c6fe31718fac4",
+    "source": "&1342 She's a slippery girl.",
+    "target": "&1342 那姑娘可不好抓。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "33718fc048270b42",
+    "source": "&650 Galatea escaped?",
+    "target": "&650 伽拉忒亚逃了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a9765c540a5737a5",
+    "source": "&1343 Hacked the patrol car they were taking her in, and ran for it.",
+    "target": "&1343 她黑进了押送自己的巡逻车，溜了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0d5e398ab622e86d",
+    "source": "&152 It is believed that she may have links with the anti-civil group 'Jahiliyyah'.",
+    "target": "&152 据判断，她可能与危害公共秩序的组织“贾希利亚”有关联。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ad18549a1d554d01",
+    "source": "&153 Please begin research into its organizational structure within Newton. Central Out.",
+    "target": "&153 请开始调查该组织在牛顿市的内部结构。中枢通话完毕。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d07d7d4705087702",
+    "source": "&1344 Meet the new Central, same as the old Central.",
+    "target": "&1344 新中枢上任，还是老中枢那一套。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c80683a1a56b9259",
+    "source": "&1345 Well...it sounds the same, at least.",
+    "target": "&1345 嗯……至少听起来一样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9265f36e4a03a30b",
+    "source": "&1832 Huh...well, hacker orgs like Jahiliyyah are a bit out of my field.",
+    "target": "&1832 唔……贾希利亚这样的黑客组织，可不在我的专长范围内。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6796f0355cfb2782",
+    "source": "&1346 Don't worry, we've got an expert on staff now, don't we?",
+    "target": "&1346 别担心，咱们现在不是有这方面的专家了吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8dc7e53c29ba9a03",
+    "source": "&651 Well, actually...I know somewhere that they've got a connection...",
+    "target": "&651 其实……我知道有个地方，跟他们有联系……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

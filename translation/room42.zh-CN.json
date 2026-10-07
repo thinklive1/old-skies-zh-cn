@@ -1,0 +1,250 @@
+[
+  {
+    "id": "d6bd5d284fe7aed4",
+    "source": "Steel Panel",
+    "target": "钢板",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3a0931580d18a6e0",
+    "source": "EXIT",
+    "target": "出口",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fc33f73246f48295",
+    "source": "City",
+    "target": "城市",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2921f54fe335bb5",
+    "source": "Vomitor",
+    "target": "呕吐者",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea5f6bdc79b884c3",
+    "source": "Skeleton",
+    "target": "骷髅",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1069fce023dcf40",
+    "source": "Return to Hub",
+    "target": "返回迷境中心",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7c471e63c989ec11",
+    "source": "&495 Apparently, the controls for the simulation were kept under the panel to prevent tampering by nosy hackers such as yourself.",
+    "target": "&495 看来，模拟环境的控制装置藏在面板下，防的就是你这种爱多管闲事的黑客。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3361194eba7b2297",
+    "source": "&692 That's odd. This rock has a steel panel bolted on to its side.",
+    "target": "&692 真奇怪。这块石头侧面，居然用螺栓固定着一块钢板。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cc89b7787119f261",
+    "source": "&609 I can't pull it off by hand.",
+    "target": "&609 徒手拉不下来。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae1248153078a496",
+    "source": "&610 I'm going to need a way through if I want to find out what's underneath.",
+    "target": "&610 想知道下面是什么，就得想办法打开它。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2049663d066dc596",
+    "source": "&611 Hey there.",
+    "target": "&611 你好啊。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "72b32755af4673ec",
+    "source": "&65 Hey, you got here just in time!",
+    "target": "&65 嘿，你来得正好！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b5e8801330940d54",
+    "source": "&612 ...for what?",
+    "target": "&612 ……正好干什么？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ed361555376b7834",
+    "source": "&66 The end of the world, baby!",
+    "target": "&66 世界末日啊，宝贝！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4b6555ad1d0acee2",
+    "source": "&613 Uh-oh...",
+    "target": "&613 糟了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "123eba47490e0b40",
+    "source": "&67 Here we go!",
+    "target": "&67 来了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a6678ea8b1453d00",
+    "source": "&68 What a rush, huh?",
+    "target": "&68 真刺激，是吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dfdcee89048ad403",
+    "source": "Players: %d/5",
+    "target": "玩家：%d/5",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "53cb1de3a2b2a9f7",
+    "source": "&540 I'd better not. Don't want to mess it up any more.",
+    "target": "&540 最好别碰。可别把它弄得更糟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "48c995de2dd2f809",
+    "source": "&614 The acid's eaten right through the panel-cover!",
+    "target": "&614 酸把面板盖彻底蚀穿了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b3caa9c610c9329a",
+    "source": "&615 It's made a mess, but it hasn't helped get the panel open.",
+    "target": "&615 弄得一团糟，可还是没把面板打开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7d6e40db15fbc474",
+    "source": "&693 I hope they don't have full-feedback switched on at their end.",
+    "target": "&693 希望他们没打开全感官反馈。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e17240dff56842b6",
+    "source": "&498 Though you like to think you have an appreciation of the macabre, going through their remains seems like a little too far to go.",
+    "target": "&498 你觉得自己还挺能欣赏阴森恐怖的东西，可翻找他们的遗骸，还是有点过头了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8dbdc3b7d276fecb",
+    "source": "&124 Hi there!",
+    "target": "&124 你好啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "35d8d172fd95a8a2",
+    "source": "&6940 I wonder if he's ignoring me, or whether he just doesn't know I'm here.",
+    "target": "&6940 不知道他是不理我，还是根本没意识到我在这里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ea34c292c37f4b38",
+    "source": "&694 Trance does funny things to people's perception, sometimes.",
+    "target": "&694 有时候，迷境会让人的感知变得很奇怪。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "02db65c4e0e0fb57",
+    "source": "&572 The participant stares transfixed into the ruins of the city on the horizon, as though hypnotized by the assault on the senses that is atomic war.",
+    "target": "&572 参与者出神地凝望着地平线上的城市废墟，像是被核战争带来的感官冲击催眠了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7be36c0133c53104",
+    "source": "&695 In a sim like this, you could probably walk all the way into the city for the experience.",
+    "target": "&695 在这种模拟环境里，应该能一路走进城里，亲自体验一下。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aab502964462c0ad",
+    "source": "&696 It'd be a lousy view, though.",
+    "target": "&696 不过，景色肯定很糟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0b1533b22e2dffcc",
+    "source": "&697 It doesn't look that bad. I don't see what all those survivors were complaining about.",
+    "target": "&697 看着也没那么糟。不知道那些幸存者都在抱怨什么。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ae55c4a4327ca94b",
+    "source": "Connection to: DEN.Hub",
+    "target": "连接至：DEN.Hub",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

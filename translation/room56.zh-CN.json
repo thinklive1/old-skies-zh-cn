@@ -1,0 +1,74 @@
+[
+  {
+    "id": "597f5df15fc3f41e",
+    "source": "Connection Strength",
+    "target": "连接强度",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b619d3388b974d0e",
+    "source": "Contact: JAHILIYYA/Jinsil.usr",
+    "target": "联系人：JAHILIYYA/Jinsil.usr",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e4ec35a9ee86898a",
+    "source": "Connection to: COBALT",
+    "target": "连接至：COBALT",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c6c03a87d8d1227e",
+    "source": "&595 It's already been enabled. The hunter-seeker algorithm will do all the hard work finding its way into the network at the airfield.",
+    "target": "&595 已经启用了。猎寻算法会自动完成入侵机场网络的麻烦工作。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7aba649b0c29af48",
+    "source": "&619 I must be getting really close, the connection's almost complete!",
+    "target": "&619 肯定已经很近了，连接快完成了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "87d7b2be1be5b5ea",
+    "source": "&620 The connection's getting stronger. I must be on the right track!",
+    "target": "&620 连接越来越强，肯定找对方向了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "671757b8b58b2161",
+    "source": "&621 The signal's somewhere around here, but I bet it's not out here in the street.",
+    "target": "&621 信号就在附近，可肯定不在街上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2a525eb8ef6cadec",
+    "source": "Connection to: JAHILIYYAH/Jinsil.usr",
+    "target": "连接至：JAHILIYYAH/Jinsil.usr",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a6475f3ed3f90085",
+    "source": "Connection to: COBALT/6.Usr",
+    "target": "连接至：COBALT/6.Usr",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

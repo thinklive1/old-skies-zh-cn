@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "id": "7d8181b7274e9b37",
+      "source": "Chishiki",
+      "status": "preserve",
+      "identity_only_rescope": true,
+      "reason": "明确保留媒体品牌 Chishiki 的拼写或温度格式表达式；原文与目标相同，修正统计，不计中文翻译数量。"
+    },
+    {
+      "id": "978094c687dc9d36",
+      "source": "%d*C[%d*F",
+      "status": "preserve",
+      "identity_only_rescope": true,
+      "reason": "明确保留媒体品牌 Chishiki 的拼写或温度格式表达式；原文与目标相同，修正统计，不计中文翻译数量。"
+    }
+  ]
+}

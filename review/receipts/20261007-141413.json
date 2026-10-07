@@ -1,0 +1,90 @@
+{
+  "reviewer": "Codex",
+  "pass_type": "second editorial pass",
+  "notes": "Paired reread20 exact option/default-control labels. Conservatively translated meaningful English even when probably internal, because flags4/5 alone do not prove invisibility. Kept opaque keyboard node labels separately in scope0009. Verified source has no direct literal-script comparisons for translated option labels; wetware Display actually exists so translated it.",
+  "source_batches": [
+    "0170-option-and-default-ui-labels.json"
+  ],
+  "entries": [
+    {
+      "id": "09112eeadb2947b5",
+      "sha256": "b6dbab55aabf6fcc61fb9546d8618485072948ea03e51c351ed29c0224151cc9"
+    },
+    {
+      "id": "262b4ff6afdd7baa",
+      "sha256": "1ce34f92caadafea4fa0f887e3597b3c21b73b9b530574b44dedb0e50ab8b576"
+    },
+    {
+      "id": "2de9bf1cbdd947c4",
+      "sha256": "eb9247d3460f85fbadd7a2693b57fb4d96e972d4b46dea8e233ccf950ef3e667"
+    },
+    {
+      "id": "33fef8045161213a",
+      "sha256": "6fd595c4e73d813c460e7cde30885bdb39b2af623294cd347bfe1e5bbcf25a8f"
+    },
+    {
+      "id": "46e7bee121f14ac0",
+      "sha256": "249c9b72a11a628990f945785516aaebde51258f3a1e7c97788b5c8120b5f5e5"
+    },
+    {
+      "id": "4c2162e6f857ee49",
+      "sha256": "df90930bdb7358338ba99fffa2bf5d142ef788f213965e8162244e45d763c79a"
+    },
+    {
+      "id": "4dc0bf270c0906d6",
+      "sha256": "6bb782e510a2c4166192acfccef690e98db69b68dfd0b84fdc235ab16daad93c"
+    },
+    {
+      "id": "52e0bee481f3633c",
+      "sha256": "c3157cb8f24611b24ddba0fc57d8264dc69d2a340af6b8d5df73c509ab97fe89"
+    },
+    {
+      "id": "5762d367e676463e",
+      "sha256": "29be4d11b572af74f2c1959b59476ad5099290ec6d47d0bdb75035acefc5e709"
+    },
+    {
+      "id": "5a8aa1262bb2fce2",
+      "sha256": "8c01c5b88bd2cb7df6d29d9c1449c13ab4181e61a2151c35ee7a2d0375679e28"
+    },
+    {
+      "id": "6236fa47d1f7cbbf",
+      "sha256": "8f1fea920dc5eb7b71c54c8ddf5b78da1ce4b717fb3a90196c1abb47f3186cd1"
+    },
+    {
+      "id": "6482d139a9e581d6",
+      "sha256": "4c752e9bd791c6901f266195111d95577cbe77cde990abe06458a3688a61f285"
+    },
+    {
+      "id": "7c7ad64a75c1bad0",
+      "sha256": "7556c7a1bd360faa271143c38f32745fc0ce621c71bcbccbd500a32e6c044c9f"
+    },
+    {
+      "id": "85616b194bca0adc",
+      "sha256": "571e1d69918d2ef14db37abb2d8aa8af3ec52ab99b31da8cab23dd0bd356dc14"
+    },
+    {
+      "id": "92616fb86ca9a690",
+      "sha256": "ef913dc88dac98c54d4d18e9911343bc68b82e6a444552fdb384528d357416db"
+    },
+    {
+      "id": "92f8a813ef623ef7",
+      "sha256": "e0bfc3f6ed09ac4c36e62093dd5393f8f5fbcc3d9334b5a8d07d7218c4ae7994"
+    },
+    {
+      "id": "aba7846c73ab9254",
+      "sha256": "7e8f461186f4ad7cf7c9376fde3b2fa0ceafc8a2896615b16415c8a360fbebfb"
+    },
+    {
+      "id": "cefe2e20b6579170",
+      "sha256": "d506c18d38ab9335e78baf7d09be805376d9bcc13a23c4dc59b16f34037547e9"
+    },
+    {
+      "id": "dfe8afcf1335632c",
+      "sha256": "fc545baf5aaa6c3f07e7a01c04b3186b312ba79dc04aaffee8fefe0d40b344c8"
+    },
+    {
+      "id": "f59261e6ac05bcf5",
+      "sha256": "fb4fe226c03cfd1ef2fa07c9527568ac7bfa5f0e77d9bdd8fe6a45865a911671"
+    }
+  ]
+}

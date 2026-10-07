@@ -1,0 +1,42 @@
+[
+  {
+    "id": "e4a01dbb71cf6cb1",
+    "source": "&70 Who's there?",
+    "target": "&70 谁在那儿？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "527c7b13636fa436",
+    "source": "&1403 I just want to talk. I'm unarmed, and I'm opening the doors.",
+    "target": "&1403 我只是想谈谈。我没带武器，现在把门打开。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8b9099dc4b424e7c",
+    "source": "&1026 Regis, I'm in position.",
+    "target": "&1026 里吉斯，我已就位。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "579ec8f19d9cdf74",
+    "source": "&1027 Visibility good, zero crosswind.",
+    "target": "&1027 视野良好，无横风。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6d3722e18d1f247f",
+    "source": "&1028 Standing by.",
+    "target": "&1028 随时待命。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

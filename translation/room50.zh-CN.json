@@ -1,0 +1,242 @@
+[
+  {
+    "id": "5834e3de253061c7",
+    "source": "Bathroom",
+    "target": "卫生间",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d98e82ae3ccb80a7",
+    "source": "Kitchen",
+    "target": "厨房",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "38ef7f02b4745f78",
+    "source": "Fish Tank",
+    "target": "鱼缸",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "6f41a186d70833e4",
+    "source": "FLESH - 1181 Shenley Conduit[16th Floor",
+    "target": "FLESH餐厅——申利通道1181号[16楼",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "213b5d8b0ad6a825",
+    "source": "&1480 You got in?",
+    "target": "&1480 进去了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "766bac359d7d81c4",
+    "source": "&2010 Yeah, now to find out who our mysterious benefactor is.",
+    "target": "&2010 嗯，现在得看看，神秘的恩人到底是谁。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "93dc79fb2986c08d",
+    "source": "&1481 Good luck. I'll keep the car moving.",
+    "target": "&1481 祝你顺利。我会让车一直开着。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "fead01ae59e506b1",
+    "source": "&1482 Hopefully Central won't start asking too many questions.",
+    "target": "&1482 希望中枢别开始问太多问题。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0e8e834a37ed33fb",
+    "source": "&2011 Copy that. Regis out.",
+    "target": "&2011 收到。里吉斯，通话结束。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c59fd1e561ba5453",
+    "source": "&39 Are you Dr Regis?",
+    "target": "&39 你是里吉斯博士？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cd8d359474f9833a",
+    "source": "&1668 Yes. You must be the welcoming committee.",
+    "target": "&1668 是。你一定就是欢迎委员会了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "04768562135284b6",
+    "source": "&40 They're waiting for you upstairs.",
+    "target": "&40 他们在楼上等你。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5dd0b25f91a3d61c",
+    "source": "&41 Hold on. Gotta search you first.",
+    "target": "&41 等等，得先搜身。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1bf4c356d0c77cd7",
+    "source": "&544 Like many places in this city, the restaurant has a unisex bathroom, a concept you've never quite come to terms with.",
+    "target": "&544 和城里许多地方一样，这家餐厅的卫生间男女共用。你一直没能完全接受这种观念。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "657796aca8ed211c",
+    "source": "&545 An aquarium, now cracked open from the blast. Several luminous fish orbit each other, reminding you of one of your training projects when training as a gengineer. A label sits beneath the tank:",
+    "target": "&545 鱼缸被爆炸震裂了。几条发光的鱼围着彼此游动，让你想起学习基因工程时的一项训练项目。鱼缸下面有块牌子：",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a4a2fa93c32b0b67",
+    "source": "- Please do not touch the glass; these specimens are aggressive and startle easily.[[- These fish are NOT a menu item.",
+    "target": "——请勿触碰玻璃。此类样本攻击性强，且容易受惊。[[——这些鱼不在菜单上。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3aeb19d1d4d6bbc5",
+    "source": "&1669 Ow, hey!",
+    "target": "&1669 啊，嘿！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d4ba719013c28b94",
+    "source": "&546 You attempt to grab one of the fish with your bare hands was unsuccessful. [[Apparently, the creatures have a taste for your flesh, and have left tooth-marks to prove it.",
+    "target": "&546 你试着徒手抓鱼，没有成功。[[显然，这些生物挺喜欢你身上的肉，还留下牙印作证。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dcd4aee43ebb7827",
+    "source": "&547 Reaching into the water to grab one of the fish, your skin begins to turn red and blister. Apparently, those cleaning chemicals are more damaging to you than the fish.",
+    "target": "&547 伸手进水里抓鱼时，你的皮肤开始发红、起泡。看来，那些清洁剂对你的伤害，比对鱼更大。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9fec05e1d8ee9cdb",
+    "source": "&548 The now-intoxicated fish appear to retain enough presence of mind to bite you when you get too close.",
+    "target": "&548 鱼虽然已经醉了，但还保留着足够的意识，你一靠近就咬。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "aecb1d54ecf4a9ec",
+    "source": "&549 You dump the contents of the bottle into the aquarium. If the proof on the label was accurate, you're quite sure the fish are intoxicated.",
+    "target": "&549 你把瓶里的东西倒进鱼缸。如果标签上的酒精度没错，你很确定，这些鱼已经醉了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ee21f46bef9921b4",
+    "source": "&550 The fish in the aquarium are too large to fit through the bottle's opening. Plus, there are probably cleaner sources of water available.",
+    "target": "&550 鱼太大，塞不进瓶口。再说，应该还有更干净的水源。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "34d223b7d78c0606",
+    "source": "&551 You try to scoop up the fish in the jar, but their movement is a great deal more swift and graceful than your own.",
+    "target": "&551 你试着用罐子捞鱼，可它们游得比你灵活、优雅多了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3aa321e03be15530",
+    "source": "&1670 Gotcha!",
+    "target": "&1670 抓到了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f5d01c8209418fac",
+    "source": "&552 With them in no state to resist, you carefully scoop one of the fish from the water, making sure not to burn your hand on the now-toxic medium within.",
+    "target": "&552 它们已无力反抗，你小心地从水中捞出一条，避免让如今有毒的水灼伤手。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "69f91b2c8d7cbd25",
+    "source": "&553 With them in no state to resist, you carefully scoop one of the fish from the water.",
+    "target": "&553 它们已无力反抗，你小心地从水中捞出一条。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8a7dd5bbd5bdba91",
+    "source": "&554 With the bait in place, the fish eagerly crowd around the bottle. When one adventurous soul takes the plunge, you hoist him from the water within the jar.",
+    "target": "&554 鱼饵放好后，鱼群兴奋地围在瓶子旁。一条胆大的鱼钻了进去，你便用罐子把它提离水面。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2f39ea2f88ae1ec6",
+    "source": "&555 One glowing fish will do, for now.",
+    "target": "&555 一条发光的鱼，暂时就够了。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "29f49422d4a959c9",
+    "source": "These double-doors lead to the kitchen.",
+    "target": "这扇双开门通往厨房。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f1657a84815aa03e",
+    "source": "The stairs lead up to the restaurant floor.",
+    "target": "楼梯通往餐厅楼层。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

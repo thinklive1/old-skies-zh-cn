@@ -1,0 +1,3322 @@
+{
+  "appid": 307580,
+  "steam_build": 24559207,
+  "exe_sha256": "8ed8f2312aed87cb6f6c520dd83be6afc9c93976f6ab004fca7e772b2411a44d",
+  "exe_size": 420117882,
+  "engine": "3.6.1.35",
+  "game_uid": 1186933,
+  "source_sha256": "2e34cd71fca6112e061289cfa9dfe4a294058f8b17690b572d230f2bf03c109c",
+  "asset_manifest": [
+    {
+      "name": "sprindex.dat",
+      "offset": 3164372,
+      "size": 134592,
+      "sha256": "21438e31395ad7f408052de8e006565c12de445227c37022b6ad120dcab81cfc",
+      "extracted": false
+    },
+    {
+      "name": "au00024C.ogg",
+      "offset": 3298964,
+      "size": 5652,
+      "sha256": "51c3cc826d6476b32b72012a3e761b0ed009818fbe70874e811dec911776be07",
+      "extracted": false
+    },
+    {
+      "name": "au000002.ogg",
+      "offset": 3304616,
+      "size": 39174,
+      "sha256": "99d58dcb1872d30707a483317c758f25268b70d389fd133db25e69c4577dfd31",
+      "extracted": false
+    },
+    {
+      "name": "au000003.ogg",
+      "offset": 3343790,
+      "size": 34320,
+      "sha256": "9b4e5b717c15874be2d5e0dc3af0d3799a13ccc99fc2040a2fc91c23bd3a097e",
+      "extracted": false
+    },
+    {
+      "name": "au000007.ogg",
+      "offset": 3378110,
+      "size": 1112404,
+      "sha256": "57b3b4fd72bd09e29214964a7d28616bd38b598578cc9c63b4ea591b392cdd03",
+      "extracted": false
+    },
+    {
+      "name": "au000008.ogg",
+      "offset": 4490514,
+      "size": 30987,
+      "sha256": "5ba0ce9da05bae14294c87f66ef81242d49e2123df8b7c072bf4249e9bc32612",
+      "extracted": false
+    },
+    {
+      "name": "au000009.ogg",
+      "offset": 4521501,
+      "size": 13150,
+      "sha256": "55625d7f2e163840c447015145f6caea7f78073859f16610a53d75e490e56d5d",
+      "extracted": false
+    },
+    {
+      "name": "au00000A.ogg",
+      "offset": 4534651,
+      "size": 31438,
+      "sha256": "07aea3badf58c45ed684c898d6b4da9b850888ca9d77ae3b4e7574e594e5eab2",
+      "extracted": false
+    },
+    {
+      "name": "au00000B.ogg",
+      "offset": 4566089,
+      "size": 16829,
+      "sha256": "7e955698d0505226b68792e7b1673a39576f60e46e4e1a7fa997f3f793699ecd",
+      "extracted": false
+    },
+    {
+      "name": "au00005B.ogg",
+      "offset": 4582918,
+      "size": 255636,
+      "sha256": "df8f325ca4237455db5ddbba18dca9f32bc860d17d6018aa59f4d8659ba8eb3c",
+      "extracted": false
+    },
+    {
+      "name": "au00005C.ogg",
+      "offset": 4838554,
+      "size": 157516,
+      "sha256": "bbc588ca0e945a4fe9b3249be5588ffc18ff428269b03e61adb06994b6144bb2",
+      "extracted": false
+    },
+    {
+      "name": "au00005D.ogg",
+      "offset": 4996070,
+      "size": 30987,
+      "sha256": "5ba0ce9da05bae14294c87f66ef81242d49e2123df8b7c072bf4249e9bc32612",
+      "extracted": false
+    },
+    {
+      "name": "au00005F.ogg",
+      "offset": 5027057,
+      "size": 16088,
+      "sha256": "737ad968da6a4ffbd239b7d656c2d5ea5735352360e06447ee24033ea3eed784",
+      "extracted": false
+    },
+    {
+      "name": "au000060.ogg",
+      "offset": 5043145,
+      "size": 11106,
+      "sha256": "eabe2a206978af551581f9b1e83ae1c66d271aa1c143cfb12db4edfd7a71c4b5",
+      "extracted": false
+    },
+    {
+      "name": "au000061.ogg",
+      "offset": 5054251,
+      "size": 10230,
+      "sha256": "b55de2e6715c325ec857b47bc6ed3c64333c55e121d74f334d82de2edfdae7ac",
+      "extracted": false
+    },
+    {
+      "name": "au000062.ogg",
+      "offset": 5064481,
+      "size": 13010,
+      "sha256": "37013b49292c33dfd2f9e08bc12f64001578a87d44104a72c7b7643a98246348",
+      "extracted": false
+    },
+    {
+      "name": "au000063.ogg",
+      "offset": 5077491,
+      "size": 12322,
+      "sha256": "8b23c258b90176c64373005523b0c921695483df4472801f44449e33478c9639",
+      "extracted": false
+    },
+    {
+      "name": "au000064.ogg",
+      "offset": 5089813,
+      "size": 13064,
+      "sha256": "12c4943bd8aa626baad572d992bc4d151f7790711a10b3598e3c1880a6f0fb61",
+      "extracted": false
+    },
+    {
+      "name": "au000065.ogg",
+      "offset": 5102877,
+      "size": 9739,
+      "sha256": "16d89dd4907230e978532e676aab5446e980c55820c9b3180d0837e9ffd4b0c9",
+      "extracted": false
+    },
+    {
+      "name": "au000066.ogg",
+      "offset": 5112616,
+      "size": 10583,
+      "sha256": "1a5fa62b66052e916ab1ade8e12fecb34564004b75e7f3ce08440b2ea7f509d2",
+      "extracted": false
+    },
+    {
+      "name": "au000067.ogg",
+      "offset": 5123199,
+      "size": 116044,
+      "sha256": "c1772e7caba2865d1e4913309f0fad0e7a36558793567d72da9744eb77fba9bd",
+      "extracted": false
+    },
+    {
+      "name": "au000069.ogg",
+      "offset": 5239243,
+      "size": 83324,
+      "sha256": "20ffdc50a2aefced1706bf5090bc958a7971a853fd55f88d51f630daf3b5cb4c",
+      "extracted": false
+    },
+    {
+      "name": "au00006A.ogg",
+      "offset": 5322567,
+      "size": 21798,
+      "sha256": "3777a966a496b09d80645840a635016cec99fc01594d8fff2ef6e938afff6080",
+      "extracted": false
+    },
+    {
+      "name": "au00006B.ogg",
+      "offset": 5344365,
+      "size": 90030,
+      "sha256": "cb17f3112b2d833f3909ee0b0cd2416281b7b9a1c96c69dee3d6a310cf92c28a",
+      "extracted": false
+    },
+    {
+      "name": "au00006D.ogg",
+      "offset": 5434395,
+      "size": 13150,
+      "sha256": "55625d7f2e163840c447015145f6caea7f78073859f16610a53d75e490e56d5d",
+      "extracted": false
+    },
+    {
+      "name": "au00006E.ogg",
+      "offset": 5447545,
+      "size": 1774350,
+      "sha256": "5ba67c22d7521a0ba53580695691d69a005512737a1b970a68f67ed3b019fc58",
+      "extracted": false
+    },
+    {
+      "name": "au0000A3.ogg",
+      "offset": 7221895,
+      "size": 17314,
+      "sha256": "5af7c6f06a84b3399ffd29ef2be37d92e3e2a02ec13dbaa3d825e4b05bb63621",
+      "extracted": false
+    },
+    {
+      "name": "au000177.ogg",
+      "offset": 7239209,
+      "size": 56680,
+      "sha256": "2a896c8e26c59705e2188911dde5ce5a8eb90c773434b6584a5237e61ebb04e2",
+      "extracted": false
+    },
+    {
+      "name": "au000184.ogg",
+      "offset": 7295889,
+      "size": 1331244,
+      "sha256": "25fea917172ba25ff985bbab7ff2cb0d6690bdd3feed61118138f317543b8b12",
+      "extracted": false
+    },
+    {
+      "name": "au000185.ogg",
+      "offset": 8627133,
+      "size": 2343968,
+      "sha256": "d8bc749947315b9b0106e727a05173e94b2cda5036b4462f75c2d094c95667c7",
+      "extracted": false
+    },
+    {
+      "name": "au000186.ogg",
+      "offset": 10971101,
+      "size": 2442932,
+      "sha256": "1269e99f9a8098bab5fca2fb7640c6553b696bc4be3bbed1b734faa345933d71",
+      "extracted": false
+    },
+    {
+      "name": "au0001C2.ogg",
+      "offset": 13414033,
+      "size": 285163,
+      "sha256": "b8024f7158fe68f26e4944e4fa279fd1ea0c57aa6eeef46f3dc57814cee3db1b",
+      "extracted": false
+    },
+    {
+      "name": "au000220.ogg",
+      "offset": 13699196,
+      "size": 32299,
+      "sha256": "0cffd8961177f3d8d9340d13b0e131ce117294bceba1e5c3689de819b6681d4a",
+      "extracted": false
+    },
+    {
+      "name": "au000204.ogg",
+      "offset": 13731495,
+      "size": 108715,
+      "sha256": "1c6a35da585ba8fc53f3b78ed92b35c946711513b2088f5ec4d614cf74d9919c",
+      "extracted": false
+    },
+    {
+      "name": "au0002BF.ogg",
+      "offset": 13840210,
+      "size": 26977,
+      "sha256": "6c80e3108fd98ae1945e34f2775a56f25be1c4b7f66f9c98fe1c253d07993008",
+      "extracted": false
+    },
+    {
+      "name": "au0002C0.ogg",
+      "offset": 13867187,
+      "size": 26707,
+      "sha256": "80b7298daf716e6f177de56206560f381cc10dafe897719733a444a4fde2c283",
+      "extracted": false
+    },
+    {
+      "name": "au0002C2.ogg",
+      "offset": 13893894,
+      "size": 628736,
+      "sha256": "3ef22330f9688a8467d3389fba23bb9b6d8b2664d72b023d16809e69377962a7",
+      "extracted": false
+    },
+    {
+      "name": "au0002CF.ogg",
+      "offset": 14522630,
+      "size": 7949,
+      "sha256": "d07e565c44c4a57c1942f687d82de73d4babedfb978eef795f5a14bc8177b026",
+      "extracted": false
+    },
+    {
+      "name": "au00000D.ogg",
+      "offset": 14530579,
+      "size": 32547,
+      "sha256": "d6ed27d0cf4a75a2bb8578fd2cb8d4222f815b4d1dc689f400a430f580abce3b",
+      "extracted": false
+    },
+    {
+      "name": "au00000E.ogg",
+      "offset": 14563126,
+      "size": 36268,
+      "sha256": "eafc4b41d62a5a3a92d2ac7484619b59a287688251b7b64e79566fe299ace98f",
+      "extracted": false
+    },
+    {
+      "name": "au00000F.ogg",
+      "offset": 14599394,
+      "size": 54708,
+      "sha256": "1686403b345695c7c087475b79ffefe842037967bb6acd3a812c7510ac93ab7e",
+      "extracted": false
+    },
+    {
+      "name": "au000010.ogg",
+      "offset": 14654102,
+      "size": 191402,
+      "sha256": "5a833aad9f962f1b71e55a1e0451a0dd79c397302fd3428d21b9cfb2bb3c3d54",
+      "extracted": false
+    },
+    {
+      "name": "au000011.ogg",
+      "offset": 14845504,
+      "size": 204226,
+      "sha256": "2f9f26ec2447a952eb5e3b5b2a3a0f9fc09f00e0b6840c7cbed455a45dad8abd",
+      "extracted": false
+    },
+    {
+      "name": "au000012.ogg",
+      "offset": 15049730,
+      "size": 228001,
+      "sha256": "77f71c5977e3f2b8c9ef40ce5abdbba725576f7e3520fcb9550f040d5f3970e3",
+      "extracted": false
+    },
+    {
+      "name": "au000013.ogg",
+      "offset": 15277731,
+      "size": 33608,
+      "sha256": "93027b7160c2f4dd7839d08a9cd32f5d45f7cb1553e02dec0a080774c14317de",
+      "extracted": false
+    },
+    {
+      "name": "au000014.ogg",
+      "offset": 15311339,
+      "size": 214105,
+      "sha256": "590c89d3c37f93c446220c4f8fda7f8bf116841c7a47f227eaf2b5e1859b67c6",
+      "extracted": false
+    },
+    {
+      "name": "au000015.ogg",
+      "offset": 15525444,
+      "size": 155210,
+      "sha256": "e52d9d86e0f76ebce37aac42cdf682ad560e81f6960fbe30e4c392aa4b9f9f83",
+      "extracted": false
+    },
+    {
+      "name": "au000174.ogg",
+      "offset": 15680654,
+      "size": 274744,
+      "sha256": "124de6657d83a3fa675398e405c750bb00ca1c335d81710f0df7983cf2356e57",
+      "extracted": false
+    },
+    {
+      "name": "au000175.ogg",
+      "offset": 15955398,
+      "size": 395481,
+      "sha256": "7c74d88cb5f0cc3136089f37f77a584576d18038d5b0a3b95386a1a50afdf9d6",
+      "extracted": false
+    },
+    {
+      "name": "au000176.ogg",
+      "offset": 16350879,
+      "size": 197527,
+      "sha256": "6d0c6d9694ea6a119d950a3a9f65b601a8a74a2a68b61ca55b5a90a8bd8f7139",
+      "extracted": false
+    },
+    {
+      "name": "au000200.ogg",
+      "offset": 16548406,
+      "size": 16912,
+      "sha256": "a819388e3ae9c51305435016b57e36b2428db4ae16aacdd6b2bb2b355a43fd75",
+      "extracted": false
+    },
+    {
+      "name": "au000201.ogg",
+      "offset": 16565318,
+      "size": 38674,
+      "sha256": "885f3ccc0cb1967780eaf483c1acc5babb6e0b0a830289d9b577d6419e153fb9",
+      "extracted": false
+    },
+    {
+      "name": "au000202.ogg",
+      "offset": 16603992,
+      "size": 42940,
+      "sha256": "842783bf54e5c3a2c5d734b10662ed53d16d8fe370a27c88eb1a6c3e40fde651",
+      "extracted": false
+    },
+    {
+      "name": "au000203.ogg",
+      "offset": 16646932,
+      "size": 272496,
+      "sha256": "7c3ed59356ec31922d676aed95582c11728acf669a059faad16c2528099d3935",
+      "extracted": false
+    },
+    {
+      "name": "au000205.ogg",
+      "offset": 16919428,
+      "size": 112232,
+      "sha256": "5c46e665abb596156f0f09a01fbe6e083ccaccc97b59244f775bae0176a5efdf",
+      "extracted": false
+    },
+    {
+      "name": "au000206.ogg",
+      "offset": 17031660,
+      "size": 43064,
+      "sha256": "f000a88a46d8ec7275155ae4af1c53e414c243294c876bb627d2d008a297db04",
+      "extracted": false
+    },
+    {
+      "name": "au000207.ogg",
+      "offset": 17074724,
+      "size": 40006,
+      "sha256": "9456882ff9a08827209098772279dba11558a7265ba5f8ffa8427d39655431ab",
+      "extracted": false
+    },
+    {
+      "name": "au0002C3.ogg",
+      "offset": 17114730,
+      "size": 64108,
+      "sha256": "3faf439c6ea471cf077b44e856cac4c2fdf32ffe77d13613ba93331da21ffb04",
+      "extracted": false
+    },
+    {
+      "name": "au00007B.ogg",
+      "offset": 17178838,
+      "size": 37831,
+      "sha256": "233db88b4cdc4d2c7c07c464f4bf80160eeac611a8ec5cb251009c17a1a378ff",
+      "extracted": false
+    },
+    {
+      "name": "au00007C.ogg",
+      "offset": 17216669,
+      "size": 20099,
+      "sha256": "679ca6fdaac44a4fa93d61584a8dc28b4e858b6192936072a31a02719362b7d2",
+      "extracted": false
+    },
+    {
+      "name": "au000068.ogg",
+      "offset": 17236768,
+      "size": 33143,
+      "sha256": "c56b713417cee886217df04725051c4c3cb8400334def98155b6c9e2d8e6090f",
+      "extracted": false
+    },
+    {
+      "name": "au0000A1.ogg",
+      "offset": 17269911,
+      "size": 86218,
+      "sha256": "85dfca3357990996ff4c97b7593331c3ddc079a58323862ea58cd296ba4dd5b5",
+      "extracted": false
+    },
+    {
+      "name": "au000217.ogg",
+      "offset": 17356129,
+      "size": 36806,
+      "sha256": "6cc6546bdf9c0bf5334f02559df9939be766f6d84ca3853eda0b7edeeec00007",
+      "extracted": false
+    },
+    {
+      "name": "au000292.ogg",
+      "offset": 17392935,
+      "size": 39645,
+      "sha256": "f81d5a9880ba8ff1fb5dbd76c2f5cc8652a843573602b443abfd4397f169e062",
+      "extracted": false
+    },
+    {
+      "name": "au0002B9.ogg",
+      "offset": 17432580,
+      "size": 48074,
+      "sha256": "7da29df6fc330f6adfec09ce04d810f81c65346f5ce4f2aeb8329a42eef33913",
+      "extracted": false
+    },
+    {
+      "name": "au0002CE.ogg",
+      "offset": 17480654,
+      "size": 7234,
+      "sha256": "3ee1167980b70330beb603da8b1b0e906866ff7b9a533ba0fe83cc601bc65846",
+      "extracted": false
+    },
+    {
+      "name": "au0001DD.ogg",
+      "offset": 17487888,
+      "size": 12460,
+      "sha256": "2585da7991f93d14bb5b2314406ec8c175805cdc358546391c57d92a5e09a8ed",
+      "extracted": false
+    },
+    {
+      "name": "au0001DE.ogg",
+      "offset": 17500348,
+      "size": 16379,
+      "sha256": "aaa1fc639496216ef67c40376e9ed17b5563f9af9ef8b912fc231795c7ba9771",
+      "extracted": false
+    },
+    {
+      "name": "au0001DF.ogg",
+      "offset": 17516727,
+      "size": 16534,
+      "sha256": "de17ab09ae3762855abff022228665a941f982da160ee06be7ef82068b4e016a",
+      "extracted": false
+    },
+    {
+      "name": "au0001E0.ogg",
+      "offset": 17533261,
+      "size": 22908,
+      "sha256": "52974d0fd77f6b350bce3ba05d153f01057afe8637cdde046b17dc024c98d72d",
+      "extracted": false
+    },
+    {
+      "name": "au0001E1.ogg",
+      "offset": 17556169,
+      "size": 15857,
+      "sha256": "34cf9536ab8472e64aebf95af7c81f83ba73005637fd159307525f6021aefd86",
+      "extracted": false
+    },
+    {
+      "name": "au0001E2.ogg",
+      "offset": 17572026,
+      "size": 21450,
+      "sha256": "1bf5f45bb7ad554190a410f9e80e50f8e4a9ec204ceac042838ba836bca5aa19",
+      "extracted": false
+    },
+    {
+      "name": "au0001E3.ogg",
+      "offset": 17593476,
+      "size": 22023,
+      "sha256": "1fbfafa09115c99de26131143ed5bfeb5b12ea85dadd422b05871587fa21d561",
+      "extracted": false
+    },
+    {
+      "name": "au0001E4.ogg",
+      "offset": 17615499,
+      "size": 200013,
+      "sha256": "5cdefcae54e4f738a71b0d7ae6aa9d2483db8a0ba1bd814cb34617d9fc895fba",
+      "extracted": false
+    },
+    {
+      "name": "au0001E5.ogg",
+      "offset": 17815512,
+      "size": 56044,
+      "sha256": "c916b0c95e626c0d97ee5ecd792261a1cb30b973d1aacac5aa79d9f40839f0a5",
+      "extracted": false
+    },
+    {
+      "name": "au0001E6.ogg",
+      "offset": 17871556,
+      "size": 61573,
+      "sha256": "4681cb19b448fff6d42a2d4832f64ab228644ae7a52ac8397f2ca961bcafd9dd",
+      "extracted": false
+    },
+    {
+      "name": "au0001E7.ogg",
+      "offset": 17933129,
+      "size": 64183,
+      "sha256": "967227447b60be398c19ab3610119551e198d96b203b722c3f50858fef48ab28",
+      "extracted": false
+    },
+    {
+      "name": "au0001E8.ogg",
+      "offset": 17997312,
+      "size": 47752,
+      "sha256": "7501be8c0c26ca9530bf4ecbefc86908465c1a9720547adbc14b33cabdea380c",
+      "extracted": false
+    },
+    {
+      "name": "au0001E9.ogg",
+      "offset": 18045064,
+      "size": 9009,
+      "sha256": "3581a49ab02a2131045b02ea7dd8285c4f733ade774191fcc4a9333d6c718b03",
+      "extracted": false
+    },
+    {
+      "name": "au0001EA.ogg",
+      "offset": 18054073,
+      "size": 19833,
+      "sha256": "caf5f39e21fdd44c9f16a549543219562bfeef47a70ab5109c08a2da94eee80e",
+      "extracted": false
+    },
+    {
+      "name": "au0001EB.ogg",
+      "offset": 18073906,
+      "size": 12701,
+      "sha256": "4f48c61ec3b6ddcf473e47ce42a65ce94a03c28004aba09d0e83f1db482f719a",
+      "extracted": false
+    },
+    {
+      "name": "au000090.ogg",
+      "offset": 18086607,
+      "size": 65877,
+      "sha256": "3ec418752dbd5f94104be4944ea8f58444ddc79b3cda7795dd12bef2cedfaf0b",
+      "extracted": false
+    },
+    {
+      "name": "au000091.ogg",
+      "offset": 18152484,
+      "size": 111785,
+      "sha256": "7f7551329c3b2fb5a336f9984e1527232466e340e594ff4b8212518a37fcdf8d",
+      "extracted": false
+    },
+    {
+      "name": "au000092.ogg",
+      "offset": 18264269,
+      "size": 75698,
+      "sha256": "c9592fc78392aa2e375bc22c284f668d88c38975962ff8a6d644fe50e3b2f5e5",
+      "extracted": false
+    },
+    {
+      "name": "au000093.ogg",
+      "offset": 18339967,
+      "size": 24534,
+      "sha256": "14f45346e6d50b3d18a734c780588316caddde339542b928fca332bc4eeda772",
+      "extracted": false
+    },
+    {
+      "name": "au000094.ogg",
+      "offset": 18364501,
+      "size": 28404,
+      "sha256": "85abdcd943254cc1ddd9cdb0e8b850b20071f9ef78ea8bbb056a47d928a07220",
+      "extracted": false
+    },
+    {
+      "name": "au000095.ogg",
+      "offset": 18392905,
+      "size": 28973,
+      "sha256": "10f4654c0fd04c9a6335be6d398a4d81aa9ca9fdbcb6f26e4fcf04b48e2eada5",
+      "extracted": false
+    },
+    {
+      "name": "au000096.ogg",
+      "offset": 18421878,
+      "size": 24070,
+      "sha256": "dc5b634bf7f5bee2c85f78a60469b8a925fc68a6a0ea6d809a0293c1893480e8",
+      "extracted": false
+    },
+    {
+      "name": "au000097.ogg",
+      "offset": 18445948,
+      "size": 18781,
+      "sha256": "a3d5ab9e4a9fec859050c08805d11863bd81b2cebe696e77d18d961a1f118d1a",
+      "extracted": false
+    },
+    {
+      "name": "au000098.ogg",
+      "offset": 18464729,
+      "size": 702008,
+      "sha256": "c8f1974058792bf89a4c8fc12181647e9a01e2d0520fff6ab78a50df6b0c1bb4",
+      "extracted": false
+    },
+    {
+      "name": "au000099.ogg",
+      "offset": 19166737,
+      "size": 46944,
+      "sha256": "79236a2126a796f91ae916edd9872c5e30359d2b96cb735007c3b97a4401ed4d",
+      "extracted": false
+    },
+    {
+      "name": "au00009A.ogg",
+      "offset": 19213681,
+      "size": 27800,
+      "sha256": "eb72b30f9769e4a9a0f0577f9130fabfb4007529a39a08a394a7ce354bbb353b",
+      "extracted": false
+    },
+    {
+      "name": "au00009B.ogg",
+      "offset": 19241481,
+      "size": 32598,
+      "sha256": "7bbc5b33cf92a008ed2793326e83ee768671c76f69db5220a8f671676d03f0ff",
+      "extracted": false
+    },
+    {
+      "name": "au00009C.ogg",
+      "offset": 19274079,
+      "size": 15612,
+      "sha256": "2b0e8cc15a07173a2b38b95a72683c8a88945cf40f86d1fe618f8cac92015f5f",
+      "extracted": false
+    },
+    {
+      "name": "au00009D.ogg",
+      "offset": 19289691,
+      "size": 15638,
+      "sha256": "c430b9ccef2c11320b74b1cf6685259b53355de3285c124c8301df8985360977",
+      "extracted": false
+    },
+    {
+      "name": "au00009E.ogg",
+      "offset": 19305329,
+      "size": 84338,
+      "sha256": "747174419f3d3b787e47ed978873d07a834fde7c0fdcafb3641e966a6c03298d",
+      "extracted": false
+    },
+    {
+      "name": "au00009F.ogg",
+      "offset": 19389667,
+      "size": 923311,
+      "sha256": "7ba9e6569de297e0483cc94f87333a87b4186fc4b9163727ac0c47f0a3f8e719",
+      "extracted": false
+    },
+    {
+      "name": "au0000A0.ogg",
+      "offset": 20312978,
+      "size": 21419,
+      "sha256": "372a419f504b169fa4d0051691251c4b6d0c46af432d940c82f2a2ee41860e59",
+      "extracted": false
+    },
+    {
+      "name": "au0000AF.ogg",
+      "offset": 20334397,
+      "size": 687417,
+      "sha256": "2829e5ecebbbfb4b274664f31b56d1d9139a496295d01e7de52c3b16ab632e8e",
+      "extracted": false
+    },
+    {
+      "name": "au0000B0.ogg",
+      "offset": 21021814,
+      "size": 104202,
+      "sha256": "58c3b7a66e527f0d58ef9ad30549601bfc81632ffb93acd83953b67a1223a3c2",
+      "extracted": false
+    },
+    {
+      "name": "au0000B1.ogg",
+      "offset": 21126016,
+      "size": 100925,
+      "sha256": "fc12600416e3fa3b16ab73b89d77f70164819c44f10a667eac8528af98f50d86",
+      "extracted": false
+    },
+    {
+      "name": "au0000B9.ogg",
+      "offset": 21226941,
+      "size": 105440,
+      "sha256": "8f37f750e1d6eb332b9ec9713b13c527f44cfa25d5282e1b8b59f190dddac14e",
+      "extracted": false
+    },
+    {
+      "name": "au0000BB.ogg",
+      "offset": 21332381,
+      "size": 169311,
+      "sha256": "6998a6822db0f99ccf17c0b6575f97129d9287aeed8858b76cb085ddd6cc56e6",
+      "extracted": false
+    },
+    {
+      "name": "au000187.ogg",
+      "offset": 21501692,
+      "size": 938585,
+      "sha256": "686e35e5b0d4f52030758a6de04593a0b9b1f92bf0233acb68564eee42e90953",
+      "extracted": false
+    },
+    {
+      "name": "au000188.ogg",
+      "offset": 22440277,
+      "size": 41821,
+      "sha256": "b233d8cd5b333d986c5ed0e14d3aafc972b2df30e77654b163d2536b224d92c0",
+      "extracted": false
+    },
+    {
+      "name": "au0001C0.ogg",
+      "offset": 22482098,
+      "size": 53465,
+      "sha256": "5730b7312e060fddc818071bb6d4dd083e910c8caeef0c905a12ccbeaca3c064",
+      "extracted": false
+    },
+    {
+      "name": "au000293.ogg",
+      "offset": 22535563,
+      "size": 873826,
+      "sha256": "b7f0c15bfd2a67b8a9b54c1259ff4648306eb30a11603d8fdefde9e21a10d05d",
+      "extracted": false
+    },
+    {
+      "name": "au0000B3.ogg",
+      "offset": 23409389,
+      "size": 3294925,
+      "sha256": "09f4a7c7f1006540775faa43766a8549a185f587f5ff8eee66d05a6325016758",
+      "extracted": false
+    },
+    {
+      "name": "au0000B7.ogg",
+      "offset": 26704314,
+      "size": 78176,
+      "sha256": "f0c47f518fe8b8d4ea872b51c97e028be09ba404ccea9a6a62b5ab8826f72d24",
+      "extracted": false
+    },
+    {
+      "name": "au0001A0.ogg",
+      "offset": 26782490,
+      "size": 491650,
+      "sha256": "0c700dd1bdaaf3b56adf9ec4001d08640a321f2e9c7e13c3b517e73091627644",
+      "extracted": false
+    },
+    {
+      "name": "au0001A1.ogg",
+      "offset": 27274140,
+      "size": 535573,
+      "sha256": "35fb6c9e2c72adb1d124459f52a3197bf60bf355eff1b49e540a902f8db5302c",
+      "extracted": false
+    },
+    {
+      "name": "au0001A2.ogg",
+      "offset": 27809713,
+      "size": 496339,
+      "sha256": "0883f033ab4e895c4e9556608429e5a36c43f9a507bdc97dba0b87a35d90f5a6",
+      "extracted": false
+    },
+    {
+      "name": "au0000BD.ogg",
+      "offset": 28306052,
+      "size": 346971,
+      "sha256": "c406bfebf2591daca011ae7210b7045b1b1e7fec5abee7b8762fea3cf93af056",
+      "extracted": false
+    },
+    {
+      "name": "au0000BE.ogg",
+      "offset": 28653023,
+      "size": 44341,
+      "sha256": "8dde395b8eabdceebb4bb5b33e011cfc7fd480cb081ad86542c40395bcd15e69",
+      "extracted": false
+    },
+    {
+      "name": "au0000BF.ogg",
+      "offset": 28697364,
+      "size": 115647,
+      "sha256": "25e514ceb6cddc94bf90741e95cd38771b97ae65047eaee319e914d47738464d",
+      "extracted": false
+    },
+    {
+      "name": "au0000C0.ogg",
+      "offset": 28813011,
+      "size": 382421,
+      "sha256": "6bef9ce0bf783559aa672f26cb86aae634feef988f90be1527d838280c51f0e6",
+      "extracted": false
+    },
+    {
+      "name": "au0000C1.ogg",
+      "offset": 29195432,
+      "size": 93200,
+      "sha256": "d4bbe57bb82ec9e88b3429a40220ef7b9f8b822e628b10136cfba324c5e2fef3",
+      "extracted": false
+    },
+    {
+      "name": "au0000C2.ogg",
+      "offset": 29288632,
+      "size": 167406,
+      "sha256": "57f09216a38582429f017bd75266eb77dfe29c0422d48fd368f4ef578d21d566",
+      "extracted": false
+    },
+    {
+      "name": "au0000C3.ogg",
+      "offset": 29456038,
+      "size": 46448,
+      "sha256": "44d90d71f53cdf7c8067d4528f7be9fdabea739585d6df0445a53b27fe3d5eef",
+      "extracted": false
+    },
+    {
+      "name": "au0000C4.ogg",
+      "offset": 29502486,
+      "size": 200060,
+      "sha256": "7064734a3b7941e5bd24cd4bc0e8059ef798c4c57fa281297caf6ba6724fd418",
+      "extracted": false
+    },
+    {
+      "name": "au0000C5.ogg",
+      "offset": 29702546,
+      "size": 185907,
+      "sha256": "69cfda88ff0432dcc7f1a1b54c035c7112c1f19dbf4e2dad552a46c3b5187a2d",
+      "extracted": false
+    },
+    {
+      "name": "au0000C6.ogg",
+      "offset": 29888453,
+      "size": 221425,
+      "sha256": "29802ed29ce1e0b47ca24deff97d61c544db8a8eecaa1e48b85d3c84aea92cc8",
+      "extracted": false
+    },
+    {
+      "name": "au0000C7.ogg",
+      "offset": 30109878,
+      "size": 170033,
+      "sha256": "02b8ae92179dc3af416ac5768b0eedc1829b1f6f468424b33560e2a846bad14d",
+      "extracted": false
+    },
+    {
+      "name": "au0000C8.ogg",
+      "offset": 30279911,
+      "size": 146501,
+      "sha256": "733fbbf6a9af877da4afacdc473448f2951d87d8b161cbf3aab98107074ea1a1",
+      "extracted": false
+    },
+    {
+      "name": "au0000C9.ogg",
+      "offset": 30426412,
+      "size": 80246,
+      "sha256": "d54cf064141a05d94f06508faea0d8948d4c6082fe7e8caf03d973e1c4ba0290",
+      "extracted": false
+    },
+    {
+      "name": "au0000CA.ogg",
+      "offset": 30506658,
+      "size": 76281,
+      "sha256": "7f10810c8c08552566a1a22fd27df3eabc8b0bf3483e2a5b368659cef7126568",
+      "extracted": false
+    },
+    {
+      "name": "au0000CB.ogg",
+      "offset": 30582939,
+      "size": 75895,
+      "sha256": "5a38df89173fda4cc5b326d4dc70e87276e41fd307d6ef6861280294e39699de",
+      "extracted": false
+    },
+    {
+      "name": "au0000CC.ogg",
+      "offset": 30658834,
+      "size": 81714,
+      "sha256": "a9c354358f297bd80b13d69dcce65846d79c3a1d0fddeb61836f666096069b85",
+      "extracted": false
+    },
+    {
+      "name": "au0000CD.ogg",
+      "offset": 30740548,
+      "size": 49223,
+      "sha256": "d9e59412f6605293e9efe2f4c9baff1f147e3336656f29744bda21fc2fd36152",
+      "extracted": false
+    },
+    {
+      "name": "au0000CE.ogg",
+      "offset": 30789771,
+      "size": 60904,
+      "sha256": "547359582d49daa08363167ed8a7e724b25ee89a21c693d42c06874d8b4492d8",
+      "extracted": false
+    },
+    {
+      "name": "au0000CF.ogg",
+      "offset": 30850675,
+      "size": 86347,
+      "sha256": "f7f2a9517a241243b91553284fa90a37ae2225e915bc848a136c7816dece8639",
+      "extracted": false
+    },
+    {
+      "name": "au0000D0.ogg",
+      "offset": 30937022,
+      "size": 45156,
+      "sha256": "5c32d593fe8aed5218402eb1e78c0ddfff2d6ba47fab919571a076362cd53cfe",
+      "extracted": false
+    },
+    {
+      "name": "au0000D1.ogg",
+      "offset": 30982178,
+      "size": 81982,
+      "sha256": "8ee5e6b71938be0671e236c20443e2f3718baa7e3c53daa7d3007be4c8124b43",
+      "extracted": false
+    },
+    {
+      "name": "au0000D2.ogg",
+      "offset": 31064160,
+      "size": 44345,
+      "sha256": "25f741705ae8bfbfc8e68abb4891f88b3f0ae89f4abec9fc79dc6cd3ae8c0d25",
+      "extracted": false
+    },
+    {
+      "name": "au0000D3.ogg",
+      "offset": 31108505,
+      "size": 23159,
+      "sha256": "e289e7ddc9e566c2327403c65289f032f538f6e1174c6b4bb0f69f811285215c",
+      "extracted": false
+    },
+    {
+      "name": "au0000D4.ogg",
+      "offset": 31131664,
+      "size": 42449,
+      "sha256": "fdc195c6539f708b1c23fb4b6585da7dc8cfc4f93084d101c8a014f525dc5501",
+      "extracted": false
+    },
+    {
+      "name": "au0000D5.ogg",
+      "offset": 31174113,
+      "size": 49525,
+      "sha256": "1d075faf41c9dc55145c47870d6cbd6a6a1c96e13c95124379025e3b1f5f90b4",
+      "extracted": false
+    },
+    {
+      "name": "au0000D6.ogg",
+      "offset": 31223638,
+      "size": 82897,
+      "sha256": "4b196754736f87b99070ee03198218ce3e66e2d3ce6dc3a1f21e40979d7fafd5",
+      "extracted": false
+    },
+    {
+      "name": "au000189.ogg",
+      "offset": 31306535,
+      "size": 401582,
+      "sha256": "c544c449a68a4f9409b17c88f771ee2204782e66992e65ca357be7cfae185381",
+      "extracted": false
+    },
+    {
+      "name": "au0001B1.ogg",
+      "offset": 31708117,
+      "size": 22635,
+      "sha256": "6122e4d02de66d851c04b3e333c5358fabb1684aa4effe4bb2a5d423c82313f6",
+      "extracted": false
+    },
+    {
+      "name": "au0001C3.ogg",
+      "offset": 31730752,
+      "size": 54632,
+      "sha256": "eb2a4139c3e56debb37d1841c4458ba32255e20ce3928a45be1f5ad42de6edc3",
+      "extracted": false
+    },
+    {
+      "name": "au000208.ogg",
+      "offset": 31785384,
+      "size": 27202,
+      "sha256": "c8a66f6b269cc3112de858cb3cc706483b01cad4571fea875cc28ba54be957ec",
+      "extracted": false
+    },
+    {
+      "name": "au000243.ogg",
+      "offset": 31812586,
+      "size": 1452070,
+      "sha256": "7d468213b0f84410442e547bbb7abc616f1d00de3d7ee3c0d84a327a438d61da",
+      "extracted": false
+    },
+    {
+      "name": "au000244.ogg",
+      "offset": 33264656,
+      "size": 37779,
+      "sha256": "530f0e2edcbb832e7ccce29cb9361c0c02593f4a389d9a0e1a8f9623abbb274c",
+      "extracted": false
+    },
+    {
+      "name": "au000245.ogg",
+      "offset": 33302435,
+      "size": 212166,
+      "sha256": "939a980db3cc1264b18f4b31289cf370c70400b73c3f58360346915159bcc2b7",
+      "extracted": false
+    },
+    {
+      "name": "au000246.ogg",
+      "offset": 33514601,
+      "size": 51773,
+      "sha256": "cbf1e5a03bda528384daafa938dba8cbd0c6d62df35cbaff39155aa5f6305d0f",
+      "extracted": false
+    },
+    {
+      "name": "au000247.ogg",
+      "offset": 33566374,
+      "size": 51807,
+      "sha256": "4ca3c3e7c74902fb90cdc4ea9449d938086088cda30989a4cb2785e5f818f24d",
+      "extracted": false
+    },
+    {
+      "name": "au000248.ogg",
+      "offset": 33618181,
+      "size": 52437,
+      "sha256": "b324a827134eb2045369d553502a26121e5debd3b2cbad0da80ffae29ddbaaf0",
+      "extracted": false
+    },
+    {
+      "name": "au0000D7.ogg",
+      "offset": 33670618,
+      "size": 91396,
+      "sha256": "ff8311aa7035f07adbba3938bfd65df200d5f3d3f0af7bc7e1a4a174c8630066",
+      "extracted": false
+    },
+    {
+      "name": "au0000D8.ogg",
+      "offset": 33762014,
+      "size": 69326,
+      "sha256": "f1275725e64b5e1100d859f23f5cdfcc3913c6625856711e40a5cf0d3eacc803",
+      "extracted": false
+    },
+    {
+      "name": "au0000D9.ogg",
+      "offset": 33831340,
+      "size": 52158,
+      "sha256": "173b5578f330083dda603c4e94faecaa5bb022202e1a7538b142dc2476db8e39",
+      "extracted": false
+    },
+    {
+      "name": "au0000DA.ogg",
+      "offset": 33883498,
+      "size": 951020,
+      "sha256": "8251bd6f31bf1ea98d6f66b147c2b19f3baf5c0685a1e0591c68a4dee217d4d7",
+      "extracted": false
+    },
+    {
+      "name": "au0000DB.ogg",
+      "offset": 34834518,
+      "size": 116957,
+      "sha256": "8cc9b11355a73303997e98641573eb9fc46d5f93918d65e6dfd7a7d546d99f15",
+      "extracted": false
+    },
+    {
+      "name": "au0000DC.ogg",
+      "offset": 34951475,
+      "size": 62661,
+      "sha256": "57303e69a60b54232b1ab87307b937494a95e12211f0d65d91087dabf9e6c6bd",
+      "extracted": false
+    },
+    {
+      "name": "au0000DD.ogg",
+      "offset": 35014136,
+      "size": 257322,
+      "sha256": "6bf250fd577ab7c5f2753ba86aba2b1e92643a59e5678f511a366de6b7fe162e",
+      "extracted": false
+    },
+    {
+      "name": "au0000DE.ogg",
+      "offset": 35271458,
+      "size": 305441,
+      "sha256": "118b2a47a2b53837bdc0a4ff6c86dee87c590ac893714477d6ad6a45dd3cdddc",
+      "extracted": false
+    },
+    {
+      "name": "au0000DF.ogg",
+      "offset": 35576899,
+      "size": 1333465,
+      "sha256": "6f57122f2206300484a383dc0471b3294ea89e69939c0a02f1c0f4f5a32fbc1a",
+      "extracted": false
+    },
+    {
+      "name": "au0000E0.ogg",
+      "offset": 36910364,
+      "size": 71929,
+      "sha256": "e2966aa80d371c00949bb886a3c257cedc4a5a70e8614db471a39e62b677d22d",
+      "extracted": false
+    },
+    {
+      "name": "au0000E1.ogg",
+      "offset": 36982293,
+      "size": 420463,
+      "sha256": "ab8ba2819809c73022babde4a12a640db9ca412bdd829940012470ea35d851ef",
+      "extracted": false
+    },
+    {
+      "name": "au0000E2.ogg",
+      "offset": 37402756,
+      "size": 995768,
+      "sha256": "0f08cb1ede37fcd00be08541b0ba7919a4c4f0078f29c16571b571b87b6515b9",
+      "extracted": false
+    },
+    {
+      "name": "au0000E3.ogg",
+      "offset": 38398524,
+      "size": 23235,
+      "sha256": "22e04ea47758453054ee7b4c28cf09e52bdb7baf52f0aa250ed7e3d8b805c97d",
+      "extracted": false
+    },
+    {
+      "name": "au0000E4.ogg",
+      "offset": 38421759,
+      "size": 25960,
+      "sha256": "d453eee95f022ed3e939d2837d92cae137cfeba679b95e07b9f3efad131a5051",
+      "extracted": false
+    },
+    {
+      "name": "au0000E5.ogg",
+      "offset": 38447719,
+      "size": 36076,
+      "sha256": "11ef61fdb01fe0b9d77f4c93e7760ef31412d60ed537c898b1dd984e37b8b69b",
+      "extracted": false
+    },
+    {
+      "name": "au0000E6.ogg",
+      "offset": 38483795,
+      "size": 83216,
+      "sha256": "f11e8f1b14a6730ca54ab0a9af217cffa2976b3f9a67c480d88e17940f95de46",
+      "extracted": false
+    },
+    {
+      "name": "au0000E7.ogg",
+      "offset": 38567011,
+      "size": 27707,
+      "sha256": "e1b7fb5743fc5a6317cc6fcf107cf5168fe9e39066341e6b22cd6977537c7be5",
+      "extracted": false
+    },
+    {
+      "name": "au0000E8.ogg",
+      "offset": 38594718,
+      "size": 55759,
+      "sha256": "2404ca7100edcdf11b7db0ebf9e7ad8dc98ed409a5b62d5d6a064988becd8581",
+      "extracted": false
+    },
+    {
+      "name": "au0000E9.ogg",
+      "offset": 38650477,
+      "size": 14780,
+      "sha256": "2cad7a2514b11cb660b8400ee19b7f3a6ebc9975f491d2f2e648f625ad7dc4d9",
+      "extracted": false
+    },
+    {
+      "name": "au0001A3.ogg",
+      "offset": 38665257,
+      "size": 127849,
+      "sha256": "871ec7971e6cd02f8310944d1cf3a81fcbc2ace7e97d65c501a59247f075df87",
+      "extracted": false
+    },
+    {
+      "name": "au0001A4.ogg",
+      "offset": 38793106,
+      "size": 193751,
+      "sha256": "43c090095a20665292197d48dc16dde501603afb945d0c47c7a42c909750adf5",
+      "extracted": false
+    },
+    {
+      "name": "au0001A5.ogg",
+      "offset": 38986857,
+      "size": 139589,
+      "sha256": "7f48c054911decfb3a170f13ca0781cefc3f711c7085f75fa266a989b027ffb6",
+      "extracted": false
+    },
+    {
+      "name": "au0001A6.ogg",
+      "offset": 39126446,
+      "size": 127585,
+      "sha256": "0eddafa37b7170cfc873b80b5db614e223b22111284b12ea9ba5d3790a47824b",
+      "extracted": false
+    },
+    {
+      "name": "au0001A7.ogg",
+      "offset": 39254031,
+      "size": 55878,
+      "sha256": "ff7e1b8927e9045dd1458e5df632f3aab38fa77146e139967d2c882461de7e24",
+      "extracted": false
+    },
+    {
+      "name": "au0001C4.ogg",
+      "offset": 39309909,
+      "size": 40402,
+      "sha256": "6bd9966a3764f4e09c1d127f60a2e068f276378597314b33f4a4c583fcf9a0a0",
+      "extracted": false
+    },
+    {
+      "name": "au0000EA.ogg",
+      "offset": 39350311,
+      "size": 433161,
+      "sha256": "c9ee61dd05812c3e70bbc25705892de131c3b14a5402a8ec00c7072cedd70d26",
+      "extracted": false
+    },
+    {
+      "name": "au0000EB.ogg",
+      "offset": 39783472,
+      "size": 306918,
+      "sha256": "2c0bcbe8a0d56c7d8ed0250d07da18960090eca679bb96504b8b74af3d033062",
+      "extracted": false
+    },
+    {
+      "name": "au0000EC.ogg",
+      "offset": 40090390,
+      "size": 2354909,
+      "sha256": "54c6004454cd3bebd886485af5cbfc8f8c80ee0ff8d24b2ed8caebe27c6bcdf4",
+      "extracted": false
+    },
+    {
+      "name": "au0000ED.ogg",
+      "offset": 42445299,
+      "size": 366559,
+      "sha256": "de60af185af858619efacfc0c18e579709aed4ee100e7495d3c355598b18394b",
+      "extracted": false
+    },
+    {
+      "name": "au0000EE.ogg",
+      "offset": 42811858,
+      "size": 516307,
+      "sha256": "26eee7bccbda5b5a6103c0e02d92fc846ea70f8bde6c0551dab6d63902afe2c8",
+      "extracted": false
+    },
+    {
+      "name": "au0000EF.ogg",
+      "offset": 43328165,
+      "size": 261944,
+      "sha256": "d87188213b96b708213b6ee89273b8f2075416b1249493b8024db3048e09e0e4",
+      "extracted": false
+    },
+    {
+      "name": "au0000F0.ogg",
+      "offset": 43590109,
+      "size": 2987687,
+      "sha256": "d75714e6f10c2f635dab3fb85f5bc0b8468a42369729502065f945dd570e3774",
+      "extracted": false
+    },
+    {
+      "name": "au0000F3.ogg",
+      "offset": 46577796,
+      "size": 40449,
+      "sha256": "24c613a9d81fa2a2ed4b0e45ed575940bf8c974489439132be166de40f43ba7c",
+      "extracted": false
+    },
+    {
+      "name": "au0000F4.ogg",
+      "offset": 46618245,
+      "size": 39723,
+      "sha256": "334d18f61781d2d46c68ed4ca4aea9631ea7fab3fb0a3f547cec5f23951b8a78",
+      "extracted": false
+    },
+    {
+      "name": "au0000F5.ogg",
+      "offset": 46657968,
+      "size": 304467,
+      "sha256": "540f8e123576bf04aca05e4ba053d636077256bc8ff45d94a558fd345e653c6c",
+      "extracted": false
+    },
+    {
+      "name": "au0000F6.ogg",
+      "offset": 46962435,
+      "size": 7992,
+      "sha256": "ada886443869644594959e74959f6093d93cbdac619535e74b514abed40aa8f9",
+      "extracted": false
+    },
+    {
+      "name": "au0000F7.ogg",
+      "offset": 46970427,
+      "size": 123239,
+      "sha256": "a34a79e6babe22cbb8771da1f439b173e9cdb0e2348ff096180c7510f1c231c1",
+      "extracted": false
+    },
+    {
+      "name": "au0000F8.ogg",
+      "offset": 47093666,
+      "size": 44328,
+      "sha256": "623f19bf17f55c951e0cd2282346dd802311eb1ba85e34b7af00e38c870196fc",
+      "extracted": false
+    },
+    {
+      "name": "au0000FF.ogg",
+      "offset": 47137994,
+      "size": 86752,
+      "sha256": "67dd08274ff1d8705418ccead98974f85679e3645a500de0aa43288bb0edbf0a",
+      "extracted": false
+    },
+    {
+      "name": "au000100.ogg",
+      "offset": 47224746,
+      "size": 75512,
+      "sha256": "2887e4b2ad153ca7a42b51f1f782477747013cbf4b6c7ea799eb024e13aa3a65",
+      "extracted": false
+    },
+    {
+      "name": "au000101.ogg",
+      "offset": 47300258,
+      "size": 205145,
+      "sha256": "7146dcf176ec665611e25087e97ffb933a9ed306361f7a20b551c39ae4fa7ef7",
+      "extracted": false
+    },
+    {
+      "name": "au000102.ogg",
+      "offset": 47505403,
+      "size": 1174433,
+      "sha256": "716f4d0e44bd0965ca96a0d4c096695388eed898b6d0aaa05871f106f29cc1ad",
+      "extracted": false
+    },
+    {
+      "name": "au00017D.ogg",
+      "offset": 48679836,
+      "size": 45232,
+      "sha256": "a862dd62bf34b691f6e26aeb7fd4657711b2e46385006473762f5b0a77ee3d5a",
+      "extracted": false
+    },
+    {
+      "name": "au00017E.ogg",
+      "offset": 48725068,
+      "size": 40712,
+      "sha256": "21d249eaaa6e0b7f7c5bb426cd9188663096f2fd0d202c519abab2a1206a917d",
+      "extracted": false
+    },
+    {
+      "name": "au00018A.ogg",
+      "offset": 48765780,
+      "size": 73588,
+      "sha256": "1bdecffb8edbfc20cae5150f2474a8ee89325b82d4c3bf8038b24bbd26fb77bd",
+      "extracted": false
+    },
+    {
+      "name": "au00018B.ogg",
+      "offset": 48839368,
+      "size": 73588,
+      "sha256": "aa162c60b84d9df1335718325fe53c41fc556399d1326e84406f47bc77dd78da",
+      "extracted": false
+    },
+    {
+      "name": "au00018C.ogg",
+      "offset": 48912956,
+      "size": 61314,
+      "sha256": "d0b3fb6a593bf55acba1ef0ede62d0d5a7affef0ea8a25bf27a48b09fd3d9649",
+      "extracted": false
+    },
+    {
+      "name": "au00018D.ogg",
+      "offset": 48974270,
+      "size": 63974,
+      "sha256": "9e57387e801b47a9c3bdecf4fbdec558b283350493810a72ae7308dccb54f707",
+      "extracted": false
+    },
+    {
+      "name": "au00018E.ogg",
+      "offset": 49038244,
+      "size": 65312,
+      "sha256": "1561da086c1b71ffcac49fc8c46b4f307bb20369728a06ae3b93412788a60b7b",
+      "extracted": false
+    },
+    {
+      "name": "au00018F.ogg",
+      "offset": 49103556,
+      "size": 66234,
+      "sha256": "1cbe7213242e92326982e7087e58532a91e3adcecbef85bf224d71995238013d",
+      "extracted": false
+    },
+    {
+      "name": "au0002B8.ogg",
+      "offset": 49169790,
+      "size": 80322,
+      "sha256": "d1a128b74e935381093cc325039016bbdce3b3c63fadac5032d9b3c0698453e5",
+      "extracted": false
+    },
+    {
+      "name": "au0002C4.ogg",
+      "offset": 49250112,
+      "size": 43328,
+      "sha256": "8d0b478f3828ba8c430b206a3c13866bf98f0a6442cc81601f8abc6aa7f32328",
+      "extracted": false
+    },
+    {
+      "name": "au00013C.ogg",
+      "offset": 49293440,
+      "size": 682843,
+      "sha256": "a3c3bdfe0ee7e96a5173600fba8d16ae418d3513d6e962d01cbb97ed2f83d27f",
+      "extracted": false
+    },
+    {
+      "name": "au00013D.ogg",
+      "offset": 49976283,
+      "size": 326412,
+      "sha256": "7c6432a743f4aaf0629e6c8edbc08e908d09310752a7c256ee76b8ce4a3e92e6",
+      "extracted": false
+    },
+    {
+      "name": "au00013E.ogg",
+      "offset": 50302695,
+      "size": 230932,
+      "sha256": "89772120c22861acbd45a2391f66b86586f8f8d0745b2753aa97c2930deb935b",
+      "extracted": false
+    },
+    {
+      "name": "au00013F.ogg",
+      "offset": 50533627,
+      "size": 115588,
+      "sha256": "872f3f5563741d895c941b2d25d997ff8cb9364cf2ad7c296f4c7593c49074c6",
+      "extracted": false
+    },
+    {
+      "name": "au000140.ogg",
+      "offset": 50649215,
+      "size": 132811,
+      "sha256": "f6f171170d3ef033d1f5d9cdb72f0ff8584676f0ee4b033d52d506ce70e63013",
+      "extracted": false
+    },
+    {
+      "name": "au000141.ogg",
+      "offset": 50782026,
+      "size": 100599,
+      "sha256": "2f55846e2eaecaf17eeb7db4b36e881b03dacf4c75a9c1d075894b0dd5049cb8",
+      "extracted": false
+    },
+    {
+      "name": "au000142.ogg",
+      "offset": 50882625,
+      "size": 42817,
+      "sha256": "300ab811f67dc8bd696e547f12ec2724c9468e58299e38d12fed330e1b9edd2d",
+      "extracted": false
+    },
+    {
+      "name": "au000143.ogg",
+      "offset": 50925442,
+      "size": 429305,
+      "sha256": "67df2b2a47e234f4b981d8e3c37b06935b021a28b8bef07e19dd4c0c022bf559",
+      "extracted": false
+    },
+    {
+      "name": "au000144.ogg",
+      "offset": 51354747,
+      "size": 60723,
+      "sha256": "065f26fad8e46c77162dcad5ddf9a118dd3d066469a88173984790941190ce17",
+      "extracted": false
+    },
+    {
+      "name": "au000145.ogg",
+      "offset": 51415470,
+      "size": 112586,
+      "sha256": "998c53e8fe95bf87216da56a0bee6e3aa53a7da6a0f3535ef47ec74156899b50",
+      "extracted": false
+    },
+    {
+      "name": "au000146.ogg",
+      "offset": 51528056,
+      "size": 90092,
+      "sha256": "d28115e9f8146ae9cc5f0670cb9090d4aa46676c4698182a69a20cb24144b936",
+      "extracted": false
+    },
+    {
+      "name": "au000147.ogg",
+      "offset": 51618148,
+      "size": 71705,
+      "sha256": "c389876922bfafb723d7b9969e5054c85a7b9a35362dbdf11ab1b9bc1562b07c",
+      "extracted": false
+    },
+    {
+      "name": "au000148.ogg",
+      "offset": 51689853,
+      "size": 202431,
+      "sha256": "fc6ae80473918a9d7a8a7a1316db66323fd603773ef02a417e6dd40e456ef64e",
+      "extracted": false
+    },
+    {
+      "name": "au000149.ogg",
+      "offset": 51892284,
+      "size": 105119,
+      "sha256": "c3885eb8e40f4787ec5f1c0c8af0139fcf5fa16a481b2f44efd35878a7aac782",
+      "extracted": false
+    },
+    {
+      "name": "au00014A.ogg",
+      "offset": 51997403,
+      "size": 7379,
+      "sha256": "8857be19ded17f3eabe17b306b7f04d12001ac896f8d726078dda8c130524c56",
+      "extracted": false
+    },
+    {
+      "name": "au00014B.ogg",
+      "offset": 52004782,
+      "size": 267168,
+      "sha256": "b73164abf46759869805136e3aa94da6aa266eb17a7e08ed0b3e973c27c62a03",
+      "extracted": false
+    },
+    {
+      "name": "au00014C.ogg",
+      "offset": 52271950,
+      "size": 233667,
+      "sha256": "4177a3c3925752b724adeab02719a0213ec7e68de49fbbca2ccb57260717af39",
+      "extracted": false
+    },
+    {
+      "name": "au00014D.ogg",
+      "offset": 52505617,
+      "size": 58747,
+      "sha256": "819fc260da53e2285c1dd2c9237f8fbad8692aace52c98ba8b2306b1bfe677ea",
+      "extracted": false
+    },
+    {
+      "name": "au00014E.ogg",
+      "offset": 52564364,
+      "size": 66701,
+      "sha256": "4e71b9fa09863a99a5378431b33ac0f8b1e11cfb8d9b8db35817ff7cf1bc1bc6",
+      "extracted": false
+    },
+    {
+      "name": "au00014F.ogg",
+      "offset": 52631065,
+      "size": 52113,
+      "sha256": "8565d5e6cb2b3aab20de8a6cf6c3b84f88d56675d91e8650b34a5777946867b9",
+      "extracted": false
+    },
+    {
+      "name": "au000151.ogg",
+      "offset": 52683178,
+      "size": 801844,
+      "sha256": "48b2067b590039643e224a5e70ecdd34759e207ad414a0298895b78a1a5376df",
+      "extracted": false
+    },
+    {
+      "name": "au000152.ogg",
+      "offset": 53485022,
+      "size": 135554,
+      "sha256": "79124ef0218f31f4b97b6af336d8d83df364d248bd131eb92eef9f6d18c56f50",
+      "extracted": false
+    },
+    {
+      "name": "au000153.ogg",
+      "offset": 53620576,
+      "size": 189616,
+      "sha256": "82de9e7a655c1e3f12522b13fc942790c8fc62c0ca6ac381565e785bcffb664e",
+      "extracted": false
+    },
+    {
+      "name": "au000154.ogg",
+      "offset": 53810192,
+      "size": 155516,
+      "sha256": "0550147f06465abd0d9fc3a7d43fa996186cf79ffa2156a8c3707a2c35a591da",
+      "extracted": false
+    },
+    {
+      "name": "au000155.ogg",
+      "offset": 53965708,
+      "size": 182755,
+      "sha256": "e4d42ea8b639142dc8dede00915797530f71d9301c5a63c3b1556831600f79a0",
+      "extracted": false
+    },
+    {
+      "name": "au000156.ogg",
+      "offset": 54148463,
+      "size": 519260,
+      "sha256": "dc081fcd8f4651c6d32a33989ef5dfd8c23a35a053ca5dc6d7bb320e10feb7c4",
+      "extracted": false
+    },
+    {
+      "name": "au000157.ogg",
+      "offset": 54667723,
+      "size": 871593,
+      "sha256": "cb36ffaba8e9a265392f106822328c30d5f40af509c6a91e5b60b5f33f725e46",
+      "extracted": false
+    },
+    {
+      "name": "au000158.ogg",
+      "offset": 55539316,
+      "size": 144864,
+      "sha256": "9b5f138608821e2e2f256c311e8c8467c610c39c1f7bb2543993f7b688f56bdc",
+      "extracted": false
+    },
+    {
+      "name": "au000159.ogg",
+      "offset": 55684180,
+      "size": 155039,
+      "sha256": "eb2f2b64bcfe3a379b96f4b6e0260f232782cf80c94818d61f20cdfd1249b394",
+      "extracted": false
+    },
+    {
+      "name": "au000180.ogg",
+      "offset": 55839219,
+      "size": 279795,
+      "sha256": "3c428d6e14ff69fe44e32ede5666688f464f677b3e0f6249f36ae00967e04a23",
+      "extracted": false
+    },
+    {
+      "name": "au0001BF.ogg",
+      "offset": 56119014,
+      "size": 71536,
+      "sha256": "2eecd793833ce071ed7f0c6fc2a5b7f4eab1457e9e99ac374406426a7225915a",
+      "extracted": false
+    },
+    {
+      "name": "au000228.ogg",
+      "offset": 56190550,
+      "size": 11771,
+      "sha256": "075b6df7ad4b6b30779b86e9e2be09ed2db4c750714203b2a20065419f8fed2e",
+      "extracted": false
+    },
+    {
+      "name": "au0000A4.ogg",
+      "offset": 56202321,
+      "size": 77961,
+      "sha256": "e389727e8743aa646e05b8a31d6dfe8ec7796648c5d49d0ae09fef90b5554b6f",
+      "extracted": false
+    },
+    {
+      "name": "au0000A5.ogg",
+      "offset": 56280282,
+      "size": 105361,
+      "sha256": "4fd02e655a2b73cb025de012097b6b7113b717af240877ac545ff7e0c8c87fe1",
+      "extracted": false
+    },
+    {
+      "name": "au0000A6.ogg",
+      "offset": 56385643,
+      "size": 77264,
+      "sha256": "40359f51adbc7138d17f51dbfedc40dadaa83cbf2d38295e1065403a072cc841",
+      "extracted": false
+    },
+    {
+      "name": "au0000A7.ogg",
+      "offset": 56462907,
+      "size": 176362,
+      "sha256": "e228ddb90dcf80dbc5a1e3daaf1ecd30b3dd23c14c08cb21b58c52ad195464fa",
+      "extracted": false
+    },
+    {
+      "name": "au0000A8.ogg",
+      "offset": 56639269,
+      "size": 137416,
+      "sha256": "80a1d040e6e428ff9cb5ecca081b47547f12d77ac56b4b01ce3311bcb5c7b48d",
+      "extracted": false
+    },
+    {
+      "name": "au0000A9.ogg",
+      "offset": 56776685,
+      "size": 193906,
+      "sha256": "f4878f03bf7eac9cac6f8d58460204d85959f45bf69f1ccce90b0ce1def1905e",
+      "extracted": false
+    },
+    {
+      "name": "au0000AA.ogg",
+      "offset": 56970591,
+      "size": 155755,
+      "sha256": "e3fe167ed344635bb27076b1057767d3bbd1e8566fb82756da867cacca4ec521",
+      "extracted": false
+    },
+    {
+      "name": "au0000AB.ogg",
+      "offset": 57126346,
+      "size": 122086,
+      "sha256": "8e355a23f0085b7827c35a9c8a1fbd4bad1a4a4f438e756a5f0f226694f26df9",
+      "extracted": false
+    },
+    {
+      "name": "au0000AC.ogg",
+      "offset": 57248432,
+      "size": 135541,
+      "sha256": "d5d50d7029ee775412cb64a67269c89cbd2ea060e03e513e02ec7ec51622959f",
+      "extracted": false
+    },
+    {
+      "name": "au0000AD.ogg",
+      "offset": 57383973,
+      "size": 120167,
+      "sha256": "7bd0cd85226398c973a9f3b923be3854a4f5b3df47960d92d63818823eb24011",
+      "extracted": false
+    },
+    {
+      "name": "au0000AE.ogg",
+      "offset": 57504140,
+      "size": 160615,
+      "sha256": "029ecfb078926680dc0236856e193752b33a40bfc8de4ae81e086ac728a6a83b",
+      "extracted": false
+    },
+    {
+      "name": "au00015A.ogg",
+      "offset": 57664755,
+      "size": 183010,
+      "sha256": "60274faf3618e1f6458a87e6a49f654a59afad64a3443f381831798630763084",
+      "extracted": false
+    },
+    {
+      "name": "au00015B.ogg",
+      "offset": 57847765,
+      "size": 1196970,
+      "sha256": "c34516f69bd4b56560698ce0ab4812a9c669a551d88465cd0ef752b9bcfe6010",
+      "extracted": false
+    },
+    {
+      "name": "au00015C.ogg",
+      "offset": 59044735,
+      "size": 34579,
+      "sha256": "6fc902b9f217f9d17fe3471b6506c9a5ce80cb87a821a687965d3139842064da",
+      "extracted": false
+    },
+    {
+      "name": "au00015D.ogg",
+      "offset": 59079314,
+      "size": 326266,
+      "sha256": "4a47272615d35822e33c043824398e0c2e33ebee764200433a40b491a5b48804",
+      "extracted": false
+    },
+    {
+      "name": "au00015E.ogg",
+      "offset": 59405580,
+      "size": 2191145,
+      "sha256": "064d6898879a5724950c6f6691462488cfc4ffb1bdd279dbb0d7c7b43a9382bd",
+      "extracted": false
+    },
+    {
+      "name": "au00015F.ogg",
+      "offset": 61596725,
+      "size": 44029,
+      "sha256": "9a614dbe4fcd86283880132fc6d9568b157c9f90d95cf17a4a0183ab61febbe7",
+      "extracted": false
+    },
+    {
+      "name": "au000160.ogg",
+      "offset": 61640754,
+      "size": 32974,
+      "sha256": "a394de934f0ecbfd871455ee4665c4a5eb275c593a33484d3a9828ee9929787c",
+      "extracted": false
+    },
+    {
+      "name": "au000161.ogg",
+      "offset": 61673728,
+      "size": 56880,
+      "sha256": "f92085440c3c9f7e1138e1a12eb8f75dd8725f977d46fa934001f7e1c72d79eb",
+      "extracted": false
+    },
+    {
+      "name": "au000162.ogg",
+      "offset": 61730608,
+      "size": 68781,
+      "sha256": "51ca29129b80e8673be38707c7afc201c241d3892ba0d13aa7b658e173a069fa",
+      "extracted": false
+    },
+    {
+      "name": "au000163.ogg",
+      "offset": 61799389,
+      "size": 2353796,
+      "sha256": "18a102ae16f7b1cf90d56533b37fba31efc91bf026ea4de09efccb778dc49e75",
+      "extracted": false
+    },
+    {
+      "name": "au000164.ogg",
+      "offset": 64153185,
+      "size": 102232,
+      "sha256": "5db04e6828ffdca2420e1948bb8e276e7468d367ce9b2ff01c8e13cceb5279c0",
+      "extracted": false
+    },
+    {
+      "name": "au000165.ogg",
+      "offset": 64255417,
+      "size": 50545,
+      "sha256": "000560cef8fdc65c311fc5059d07e02d9dfc6e6a92715cde889a7f0c81d21c10",
+      "extracted": false
+    },
+    {
+      "name": "au000166.ogg",
+      "offset": 64305962,
+      "size": 2438804,
+      "sha256": "808e98e928c250ea442a65d61b10cfcd83843c1856663ea1668124dbd59cbbe8",
+      "extracted": false
+    },
+    {
+      "name": "au000167.ogg",
+      "offset": 66744766,
+      "size": 44107,
+      "sha256": "ebd524b4263e53b0b032df03ab1a895a8cf0eb5ce7ddc3e7bc353e3c62b01c35",
+      "extracted": false
+    },
+    {
+      "name": "au000183.ogg",
+      "offset": 66788873,
+      "size": 97329,
+      "sha256": "558c84bb4aa7da6d347ff2d752a3028731ad908ede616d3de71539bcc42216a1",
+      "extracted": false
+    },
+    {
+      "name": "au0001AB.ogg",
+      "offset": 66886202,
+      "size": 43160,
+      "sha256": "a6091c8a29a6980e77af23ee07511f938a9b5c22c7bd9d2e204a57ed08fca0b2",
+      "extracted": false
+    },
+    {
+      "name": "au00020C.ogg",
+      "offset": 66929362,
+      "size": 19424,
+      "sha256": "8f51bca772fa2c5c1162691ca54d31257eea900c1351ef9315e5d25b3ff7dd4f",
+      "extracted": false
+    },
+    {
+      "name": "au00020D.ogg",
+      "offset": 66948786,
+      "size": 21457,
+      "sha256": "8fc76a1a09f1f6329820ff835bb721757c9296db84bca152e1a6623527093f21",
+      "extracted": false
+    },
+    {
+      "name": "au00020E.ogg",
+      "offset": 66970243,
+      "size": 64914,
+      "sha256": "49ec51ebb6f85a33d7455b5e84a17c9aedd2d696da93e9738b7956757e12cede",
+      "extracted": false
+    },
+    {
+      "name": "au00020F.ogg",
+      "offset": 67035157,
+      "size": 271595,
+      "sha256": "fb896c17594b305bcadb4856b3cf98e2ca40dd7fba3d29afa884d99b539a6047",
+      "extracted": false
+    },
+    {
+      "name": "au0002BB.ogg",
+      "offset": 67306752,
+      "size": 50605,
+      "sha256": "5f04381da86f6478995a5b0a4ca2d414db6bc305bfbb5748738e232c08a1a4b8",
+      "extracted": false
+    },
+    {
+      "name": "au0002BC.ogg",
+      "offset": 67357357,
+      "size": 47706,
+      "sha256": "79838c3617835f2d2a607971be45cfda67b922464b2f698f59d08c064ea85bed",
+      "extracted": false
+    },
+    {
+      "name": "au0002BD.ogg",
+      "offset": 67405063,
+      "size": 50939,
+      "sha256": "acf49df2c4501848f77bdfa42ab4b9fce461071d048adf1bd8ca83426b30eeed",
+      "extracted": false
+    },
+    {
+      "name": "au000168.ogg",
+      "offset": 67456002,
+      "size": 32569,
+      "sha256": "c5d7462120543090cd5330257547ccdea82557fe04e72083329ee39479090b3c",
+      "extracted": false
+    },
+    {
+      "name": "au000169.ogg",
+      "offset": 67488571,
+      "size": 56493,
+      "sha256": "a154c17309eb3f1433d8e098745cf3649266ef446e66b0942e0e1312c3fe5da0",
+      "extracted": false
+    },
+    {
+      "name": "au00016A.ogg",
+      "offset": 67545064,
+      "size": 109878,
+      "sha256": "c0b05b2ecea10723e54f0f1ea404822a6302eb29bbc2773a4f770d1376e0e798",
+      "extracted": false
+    },
+    {
+      "name": "au00016B.ogg",
+      "offset": 67654942,
+      "size": 40963,
+      "sha256": "a7f641a4f42bc2774ecf3adab8bbeed21683ccfc5d8b8b3e3852c81b0d5fa0ed",
+      "extracted": false
+    },
+    {
+      "name": "au00016C.ogg",
+      "offset": 67695905,
+      "size": 178077,
+      "sha256": "7a489c07c55bf22a121245555e5e74db5ee878f294db0f09f98eb707f22d3374",
+      "extracted": false
+    },
+    {
+      "name": "au00016D.ogg",
+      "offset": 67873982,
+      "size": 2402506,
+      "sha256": "e2ad54132fb86bcfde9c56c4117172aab15bd3af41d88d14ad5cdda228c4d705",
+      "extracted": false
+    },
+    {
+      "name": "au00016E.ogg",
+      "offset": 70276488,
+      "size": 2506958,
+      "sha256": "1d0cbefb4d312b70ca4d837f0f076eb78ea7ae446b0fb5650f90f989a69dfbe0",
+      "extracted": false
+    },
+    {
+      "name": "au00016F.ogg",
+      "offset": 72783446,
+      "size": 398859,
+      "sha256": "20fed1fc431a053ea2c9bac432374b430875a1e7a5b18a4d1f354018a35d791d",
+      "extracted": false
+    },
+    {
+      "name": "au000170.ogg",
+      "offset": 73182305,
+      "size": 342126,
+      "sha256": "46befb5a9a039f32202673fb1d1659a4b955d64a5d93c799da555f1fc4bdd801",
+      "extracted": false
+    },
+    {
+      "name": "au000171.ogg",
+      "offset": 73524431,
+      "size": 1253727,
+      "sha256": "625aec67cc9ef5e93fa9992447ce33eeab2d083fa1f705aaa6f4e93497c73c8e",
+      "extracted": false
+    },
+    {
+      "name": "au000172.ogg",
+      "offset": 74778158,
+      "size": 41672,
+      "sha256": "fa4625daa7209faa592c04d23dc5ebe09d00494a21d5b0a4cc9d320a81295c92",
+      "extracted": false
+    },
+    {
+      "name": "au000173.ogg",
+      "offset": 74819830,
+      "size": 228425,
+      "sha256": "59f527f0f2fe1b6ea78a22afe9ab6b93ac2dba30d7a37e724963eb5ef420bd8e",
+      "extracted": false
+    },
+    {
+      "name": "au0001EF.ogg",
+      "offset": 75048255,
+      "size": 199120,
+      "sha256": "631c668583e23159f6c6bdb3d05d6a35f4a079b9e29180fd58b621484493bea0",
+      "extracted": false
+    },
+    {
+      "name": "au000210.ogg",
+      "offset": 75247375,
+      "size": 129038,
+      "sha256": "2d8b86e2c7aeea3da8376e41470bedeaa7b90e569917d6f62e17511b88d2bb46",
+      "extracted": false
+    },
+    {
+      "name": "au000221.ogg",
+      "offset": 75376413,
+      "size": 166062,
+      "sha256": "8026149375497cb7eb4df1405fc2a3f1a002fa46e9ef7d11d906f46d5be28b82",
+      "extracted": false
+    },
+    {
+      "name": "au000222.ogg",
+      "offset": 75542475,
+      "size": 91090,
+      "sha256": "898c63237653eecc043f9df929f1876eb9721aca6609d71d29c4c2cd6db0808d",
+      "extracted": false
+    },
+    {
+      "name": "au000038.ogg",
+      "offset": 75633565,
+      "size": 11846,
+      "sha256": "bea1107a09ba56e2080e809948e84a4af3235e868831ef33517ab772300ab8a1",
+      "extracted": false
+    },
+    {
+      "name": "au000039.ogg",
+      "offset": 75645411,
+      "size": 19739,
+      "sha256": "4fc770d19239f3ded4cfb680581035df62913d5460309db1b34b0a7beddc0924",
+      "extracted": false
+    },
+    {
+      "name": "au000033.ogg",
+      "offset": 75665150,
+      "size": 25264,
+      "sha256": "ee0f14f29da36799f26bec498e62ac89fb2a18fde24bbb56ad8d30f48e2c3865",
+      "extracted": false
+    },
+    {
+      "name": "au000179.ogg",
+      "offset": 75690414,
+      "size": 13073,
+      "sha256": "8d3d97a6bc54fba0fd326ac34a6ec9f89c70a565e24cd791d3eec15d2eb06f11",
+      "extracted": false
+    },
+    {
+      "name": "au00017A.ogg",
+      "offset": 75703487,
+      "size": 11968,
+      "sha256": "1ca26f10c2dc9fb34405fee44696bda343f02ce33e1f95f0b2c966819f0a7750",
+      "extracted": false
+    },
+    {
+      "name": "au00017B.ogg",
+      "offset": 75715455,
+      "size": 12469,
+      "sha256": "422268b728a4a7338ff2695c8356377daa7af0505f73768865400223fdbbfcea",
+      "extracted": false
+    },
+    {
+      "name": "au00017C.ogg",
+      "offset": 75727924,
+      "size": 12045,
+      "sha256": "ba645ce43aebbd0f5f4bfe9bed4868446c3fca12545375e7e76bfb20cb9ba9bb",
+      "extracted": false
+    },
+    {
+      "name": "au0001AC.ogg",
+      "offset": 75739969,
+      "size": 28106,
+      "sha256": "7de485b7455cd418df19d4db008bc2ab5acbea14ab31c4e0d53e184eb4e98a21",
+      "extracted": false
+    },
+    {
+      "name": "au0001AD.ogg",
+      "offset": 75768075,
+      "size": 33707,
+      "sha256": "af158997e30bc3b1e69f022d6ab40278b27c1a5d684359d7720737befb28f1aa",
+      "extracted": false
+    },
+    {
+      "name": "au0001AE.ogg",
+      "offset": 75801782,
+      "size": 45398,
+      "sha256": "b7fb82af71b0200d4bd293503412f199d4fde8af6711ececf1605c5a5abefea9",
+      "extracted": false
+    },
+    {
+      "name": "au0001B0.ogg",
+      "offset": 75847180,
+      "size": 12563,
+      "sha256": "c9059466a03377f6efa42d313139392b06a707f41d09bc098877f553c9eecffb",
+      "extracted": false
+    },
+    {
+      "name": "au0001BE.ogg",
+      "offset": 75859743,
+      "size": 13204,
+      "sha256": "ca5bb1c19d8ce493fe0f1b90b643359408ee336555269b061377a995a6d0c233",
+      "extracted": false
+    },
+    {
+      "name": "au000224.ogg",
+      "offset": 75872947,
+      "size": 52308,
+      "sha256": "779492e0c95420c3fb0ebae8e9df8192c813dc23bc6cae1a5dcfac313db2c28d",
+      "extracted": false
+    },
+    {
+      "name": "au000225.ogg",
+      "offset": 75925255,
+      "size": 36465,
+      "sha256": "0e1dc02b65c430a037470f5a690514d96edcd39370fe09f8edc0bd16a64fb166",
+      "extracted": false
+    },
+    {
+      "name": "au000227.ogg",
+      "offset": 75961720,
+      "size": 55895,
+      "sha256": "cb27f9afec8872258dd92e5c657809384c2b36bea0a558cd7f8d2bb0d79761e9",
+      "extracted": false
+    },
+    {
+      "name": "au0002BE.ogg",
+      "offset": 76017615,
+      "size": 43552,
+      "sha256": "031a298849a4a9034af480d4631d8f3c81de832834c3d0977fd719d4c0dae979",
+      "extracted": false
+    },
+    {
+      "name": "au0002C1.ogg",
+      "offset": 76061167,
+      "size": 24271,
+      "sha256": "56bf4951a7e8e242e58a8e654ba9b2a29c21c9714b4ecf3915ec4fb7c3d2d72f",
+      "extracted": false
+    },
+    {
+      "name": "au0001CD.ogg",
+      "offset": 76085438,
+      "size": 27742,
+      "sha256": "2a06831cfb298d5774f9be68edb2585d2fa3f95a87ee7416a312f25e3c309994",
+      "extracted": false
+    },
+    {
+      "name": "au0001EE.ogg",
+      "offset": 76113180,
+      "size": 40151,
+      "sha256": "9d874a53a711f687a47b8c3a1751e935e90ccbaf804857cbf8439669ffa3fab6",
+      "extracted": false
+    },
+    {
+      "name": "au000211.ogg",
+      "offset": 76153331,
+      "size": 73143,
+      "sha256": "e5547236d40e84f0a7ac572f8815cec2f2b897d9465a4b7e349e713d5950cc17",
+      "extracted": false
+    },
+    {
+      "name": "au000212.ogg",
+      "offset": 76226474,
+      "size": 122309,
+      "sha256": "f3106648cda98d73c90a053616575cc2291b1cdebf4c36b8ff478825ae894fdc",
+      "extracted": false
+    },
+    {
+      "name": "au000213.ogg",
+      "offset": 76348783,
+      "size": 44230,
+      "sha256": "4849f74b60d77e7be3393d1d7f762ab4f557468ac8597884a9a6ad2f73d5ff3c",
+      "extracted": false
+    },
+    {
+      "name": "au000214.ogg",
+      "offset": 76393013,
+      "size": 40762,
+      "sha256": "3f20ebac051406d05749ad2d6aa000b53af72a0923c7bc4e075b3bd8cb2f3bf0",
+      "extracted": false
+    },
+    {
+      "name": "au000215.ogg",
+      "offset": 76433775,
+      "size": 393686,
+      "sha256": "d9c8df84fc4cae4769aa8e5c53ec423c16b73057593a53ec6f2603fa866f64fe",
+      "extracted": false
+    },
+    {
+      "name": "au000216.ogg",
+      "offset": 76827461,
+      "size": 251086,
+      "sha256": "4e72a3255d92e7921f64a26f336b592247f567bb167800225f6472ece4f1530a",
+      "extracted": false
+    },
+    {
+      "name": "au00021A.ogg",
+      "offset": 77078547,
+      "size": 1496657,
+      "sha256": "99bd4b03cf4bab00a34369187da873fc3f57b8fda8eec76f65669e7b1e8ecd93",
+      "extracted": false
+    },
+    {
+      "name": "au00021B.ogg",
+      "offset": 78575204,
+      "size": 261693,
+      "sha256": "fdbe3a0a3b201c2c9a18f43ae23145d1c2e2bbb1ce4a4ce99d098aad9069d3e7",
+      "extracted": false
+    },
+    {
+      "name": "au00023F.ogg",
+      "offset": 78836897,
+      "size": 173050,
+      "sha256": "019138b226a16aa88c986271f37fb92d365ffa9d2cb1c43df2a0b7b18569a31f",
+      "extracted": false
+    },
+    {
+      "name": "au000240.ogg",
+      "offset": 79009947,
+      "size": 25144,
+      "sha256": "d553e71be6092e08148f3da0904493dbc4948846b54125716e2f6a64c932fed8",
+      "extracted": false
+    },
+    {
+      "name": "au0002A9.ogg",
+      "offset": 79035091,
+      "size": 286769,
+      "sha256": "71676e3619a17481e56f04bd09693354f5f9682ab27079bce45ef2d472e9374a",
+      "extracted": false
+    },
+    {
+      "name": "au0002AA.ogg",
+      "offset": 79321860,
+      "size": 723052,
+      "sha256": "7b9e65afbe83ab8d5bb4ac046176e04b8fbf781632c712a2d48db01d315624de",
+      "extracted": false
+    },
+    {
+      "name": "au0002AB.ogg",
+      "offset": 80044912,
+      "size": 725649,
+      "sha256": "7b38dcc851e789b0885a82c2c1441ce010ca601eae2a2e7b073af7a093a5d1da",
+      "extracted": false
+    },
+    {
+      "name": "au0002AC.ogg",
+      "offset": 80770561,
+      "size": 658339,
+      "sha256": "9501ff5915bbbbb70d31af6d5139e8b58df6fe4e2939cf7146ed65a186d839ca",
+      "extracted": false
+    },
+    {
+      "name": "au0002AD.ogg",
+      "offset": 81428900,
+      "size": 674897,
+      "sha256": "abea4c012e1b8cc63fe0d81b82d6ae6cbdb63ec804f402e131720518ed138063",
+      "extracted": false
+    },
+    {
+      "name": "au0002AE.ogg",
+      "offset": 82103797,
+      "size": 1984888,
+      "sha256": "48dd2bede295ff78c5fb83cb920b5e5ba15f7301590af8129e558e6394996d93",
+      "extracted": false
+    },
+    {
+      "name": "au0002AF.ogg",
+      "offset": 84088685,
+      "size": 689463,
+      "sha256": "2e08ac76d965c0903d32204dadb8d2902b189884414929c3eaafc1005056025b",
+      "extracted": false
+    },
+    {
+      "name": "au0002B0.ogg",
+      "offset": 84778148,
+      "size": 706103,
+      "sha256": "6f8c699bfb896e7f5c75e87e7b55e11c1eb1477f5ce0756f235961e1f71ea7b2",
+      "extracted": false
+    },
+    {
+      "name": "au0002B1.ogg",
+      "offset": 85484251,
+      "size": 3719712,
+      "sha256": "70a5bccff93361be26e0f7ec3373e153a3f2f638a085b4fa78dc5e762df1b8cb",
+      "extracted": false
+    },
+    {
+      "name": "au0002B2.ogg",
+      "offset": 89203963,
+      "size": 3945459,
+      "sha256": "d7ae7aedc26eb922cc2cd83fd29831bf14cbd0ed782c62fb5ee7c2217be54822",
+      "extracted": false
+    },
+    {
+      "name": "au0002B3.ogg",
+      "offset": 93149422,
+      "size": 4125696,
+      "sha256": "e7d7432c199135d767e6a9fadbc0aa0d8468e2a5297d2b2431311416ca88583d",
+      "extracted": false
+    },
+    {
+      "name": "au0002B4.ogg",
+      "offset": 97275118,
+      "size": 2530983,
+      "sha256": "39b6cb5a3b9e2556434e55be1f3b96a4b04b1a2fdbad26d7dcd51e708e7465f5",
+      "extracted": false
+    },
+    {
+      "name": "au0002B5.ogg",
+      "offset": 99806101,
+      "size": 43114,
+      "sha256": "78b0ce8b83bc697a05dd7651def7a7b72bba6b871b9d2136e9430c7b95fe8e5f",
+      "extracted": false
+    },
+    {
+      "name": "au0002B6.ogg",
+      "offset": 99849215,
+      "size": 54677,
+      "sha256": "12425591eaba54463a4f1dcc59f0e67daaade2abfe8b8e464e2cba73424d175c",
+      "extracted": false
+    },
+    {
+      "name": "au0002B7.ogg",
+      "offset": 99903892,
+      "size": 106011,
+      "sha256": "29ead6504f077fabc1387fb0c50c3ce14af4d4ee41721c994fbf85485b51ef61",
+      "extracted": false
+    },
+    {
+      "name": "au0002CB.ogg",
+      "offset": 100009903,
+      "size": 288955,
+      "sha256": "e1bcb0ffa50266dee7bb6800b0a53145eb75f8a42bd29c3c5322fde7ea7f93db",
+      "extracted": false
+    },
+    {
+      "name": "au0002CC.ogg",
+      "offset": 100298858,
+      "size": 118406,
+      "sha256": "2e29b877727de099c1e1599db7c9cc4cb4dbbcf8a505cd434184b0521a5bf8ab",
+      "extracted": false
+    },
+    {
+      "name": "au000294.ogg",
+      "offset": 100417264,
+      "size": 125188,
+      "sha256": "f0857aaa1b528b807df5ea5f0b60534951fa9a0b355e31b32c6c9050688ee2ed",
+      "extracted": false
+    },
+    {
+      "name": "au000295.ogg",
+      "offset": 100542452,
+      "size": 249206,
+      "sha256": "4524bf93fc7a7ecc091e2b8116cfdadb456121316cbd3bf69272028140ca461d",
+      "extracted": false
+    },
+    {
+      "name": "au000296.ogg",
+      "offset": 100791658,
+      "size": 209018,
+      "sha256": "0b51441fcf6a280859585cac562ad59a7719064756b8e54f28fc33b79b27f95c",
+      "extracted": false
+    },
+    {
+      "name": "au000297.ogg",
+      "offset": 101000676,
+      "size": 839012,
+      "sha256": "ef1d3136fb6e98c3f2c796165a39a36709acd0111f1d8ae686bf7eb6f7700a2a",
+      "extracted": false
+    },
+    {
+      "name": "au000298.ogg",
+      "offset": 101839688,
+      "size": 97308,
+      "sha256": "d0bc82bcb4952a8d634c4ea44f1f399ec759c5e59c9307b62225e60a93327726",
+      "extracted": false
+    },
+    {
+      "name": "au000299.ogg",
+      "offset": 101936996,
+      "size": 238859,
+      "sha256": "cf32126235afd120e9f6c494f7e05d0f692849195630cbe01d88da99f1048a00",
+      "extracted": false
+    },
+    {
+      "name": "au00029A.ogg",
+      "offset": 102175855,
+      "size": 123287,
+      "sha256": "137a3bb3fb94ef76f15b7914eed374eaabf56273813a8a1f3b41ced16394f927",
+      "extracted": false
+    },
+    {
+      "name": "au00029B.ogg",
+      "offset": 102299142,
+      "size": 281001,
+      "sha256": "d579fac1263c2f8d54a3336b7386a23ce6c0132302dda9ba14c369d9c55f4ee7",
+      "extracted": false
+    },
+    {
+      "name": "au00029C.ogg",
+      "offset": 102580143,
+      "size": 55404,
+      "sha256": "732d4f0c897df3c504ee27152221c7cf5fc5a786020cd92f7ca676b7315475d3",
+      "extracted": false
+    },
+    {
+      "name": "au00029D.ogg",
+      "offset": 102635547,
+      "size": 188369,
+      "sha256": "564839b343f60566e52c6a33aeeeed77262fb4b1f16f6de0b35aa34aa6cac6e2",
+      "extracted": false
+    },
+    {
+      "name": "au00029E.ogg",
+      "offset": 102823916,
+      "size": 176550,
+      "sha256": "e50b0ff95a9a9cad13fd35c094e905a5e38a5d0efee67bc836b52225a7f9f5e2",
+      "extracted": false
+    },
+    {
+      "name": "au00029F.ogg",
+      "offset": 103000466,
+      "size": 117432,
+      "sha256": "5412b88fc796057bd9e8dd0877365c243c14320ed56bbdef8974e63159f34ab0",
+      "extracted": false
+    },
+    {
+      "name": "au0002A0.ogg",
+      "offset": 103117898,
+      "size": 983546,
+      "sha256": "588cd274dfe506fa34f3c088d94dced4bad035709efc682ded83f283d08264fc",
+      "extracted": false
+    },
+    {
+      "name": "au0002A1.ogg",
+      "offset": 104101444,
+      "size": 34024,
+      "sha256": "b46b3f96ddfa9f7a91b7e4802953327f8b2c12f45fcdb0d93de16b049c0c082c",
+      "extracted": false
+    },
+    {
+      "name": "au0002A2.ogg",
+      "offset": 104135468,
+      "size": 30045,
+      "sha256": "565e75b6a82a61430cdac9fc0042599f07d92fd43dbcc4593cf2d33b56351550",
+      "extracted": false
+    },
+    {
+      "name": "au0002A3.ogg",
+      "offset": 104165513,
+      "size": 41290,
+      "sha256": "530701b161df8340550c6554a16765cc59ddb9d9a1c6ba002bf92a94c8756753",
+      "extracted": false
+    },
+    {
+      "name": "au0002A4.ogg",
+      "offset": 104206803,
+      "size": 123312,
+      "sha256": "27403d46975c1e3b212cca43830cb8835aaf8b0a1814dd9d0d1cc9b9e720d7ff",
+      "extracted": false
+    },
+    {
+      "name": "au0002A5.ogg",
+      "offset": 104330115,
+      "size": 116222,
+      "sha256": "c27fe1209d1e821820ae2cef58bd6d02b78700653dc5654ada37f37466fa2820",
+      "extracted": false
+    },
+    {
+      "name": "au0002A6.ogg",
+      "offset": 104446337,
+      "size": 48239,
+      "sha256": "46ee91cb31b2b98c9bb1c3c3cf49a0b95ff2252b6750c890fc10d3741be19f4f",
+      "extracted": false
+    },
+    {
+      "name": "au0002A7.ogg",
+      "offset": 104494576,
+      "size": 331232,
+      "sha256": "2c46ffca0aa491b5b6b5c6003e4a9f7b650df5b710c8b8522132643b93348f09",
+      "extracted": false
+    },
+    {
+      "name": "au0002A8.ogg",
+      "offset": 104825808,
+      "size": 680545,
+      "sha256": "319ca2402f9a50d37529a65c3c23ff733dc7b3f0865933bdc1a063b1c5e2864c",
+      "extracted": false
+    },
+    {
+      "name": "au00017F.ogg",
+      "offset": 105506353,
+      "size": 246022,
+      "sha256": "1661f4622cf420c3e6f73a49d7951ca7c2811f96f11e2ebd10d355e622b13d90",
+      "extracted": false
+    },
+    {
+      "name": "au0001ED.ogg",
+      "offset": 105752375,
+      "size": 482121,
+      "sha256": "7d62f32e90427ffa9032293ffdc8e8ba7f740759c9b7f65f01c08e631b32a12b",
+      "extracted": false
+    },
+    {
+      "name": "au000219.ogg",
+      "offset": 106234496,
+      "size": 133628,
+      "sha256": "597e15df38ed4b8998dac714d96c5b7fd21e9eec90b86450e6c225617ea938e2",
+      "extracted": false
+    },
+    {
+      "name": "au00021C.ogg",
+      "offset": 106368124,
+      "size": 161408,
+      "sha256": "e4f9a26944bb6110ece91fc4a734b06133917c338b74626ea3546dc69c57d724",
+      "extracted": false
+    },
+    {
+      "name": "au00021D.ogg",
+      "offset": 106529532,
+      "size": 82305,
+      "sha256": "a718f39d85d8d3255b27b86d68f3faa42a2e6bdb667d785f181229524fd5333c",
+      "extracted": false
+    },
+    {
+      "name": "au00021E.ogg",
+      "offset": 106611837,
+      "size": 561795,
+      "sha256": "60b85bc32782d2760e8b76a8c4c43bb21ee2b6945443ed71d211d0c1e6423717",
+      "extracted": false
+    },
+    {
+      "name": "au00021F.ogg",
+      "offset": 107173632,
+      "size": 354840,
+      "sha256": "c696311c933c74ffa95ce6b24017f92d23745745ca11ce0674dc5f83a4bb6adc",
+      "extracted": false
+    },
+    {
+      "name": "au000241.ogg",
+      "offset": 107528472,
+      "size": 112572,
+      "sha256": "968ce0a88faaee407195b64242d9606636142d17d42197f1170f0e26c8fc0efc",
+      "extracted": false
+    },
+    {
+      "name": "au000263.ogg",
+      "offset": 107641044,
+      "size": 409673,
+      "sha256": "58ec38c416d1f9bb26a4298c7e6fc1b694f0afc488ee2f708c78d4a9c3a05c44",
+      "extracted": false
+    },
+    {
+      "name": "au000264.ogg",
+      "offset": 108050717,
+      "size": 1418583,
+      "sha256": "4781dc75297b71fe32cf0d11b527c9aa6c40f273aaf9b01b4f9c41dd079b198b",
+      "extracted": false
+    },
+    {
+      "name": "au000265.ogg",
+      "offset": 109469300,
+      "size": 1858688,
+      "sha256": "feea9819f312526e4158e1f13e628c3b9ddde11d7332428ba317495b0f6bebb3",
+      "extracted": false
+    },
+    {
+      "name": "au000266.ogg",
+      "offset": 111327988,
+      "size": 234670,
+      "sha256": "3ee8d0bfb1f83845fe85f7822c6839d04f5debbcc86a0c441208e5a1e737f599",
+      "extracted": false
+    },
+    {
+      "name": "au000267.ogg",
+      "offset": 111562658,
+      "size": 224606,
+      "sha256": "f260f5f12cd01f46db233650fee6ce23b9cb8330fc26c047580e22fd6e27ef72",
+      "extracted": false
+    },
+    {
+      "name": "au000268.ogg",
+      "offset": 111787264,
+      "size": 210082,
+      "sha256": "3d95e946f9948905225bb78866943aa0e438e6d18d6b59b9e4ced47c8158a894",
+      "extracted": false
+    },
+    {
+      "name": "au000269.ogg",
+      "offset": 111997346,
+      "size": 1177479,
+      "sha256": "2d2b347658b69f6354a82e15ad76f1a59993764187fd4b0b7af3b650eb1f6e2d",
+      "extracted": false
+    },
+    {
+      "name": "au00026A.ogg",
+      "offset": 113174825,
+      "size": 34043,
+      "sha256": "c9998a7ac25e2bcfc09284fa426899e6177fd79962e2ea65f2b2176adb669458",
+      "extracted": false
+    },
+    {
+      "name": "au00026B.ogg",
+      "offset": 113208868,
+      "size": 70334,
+      "sha256": "ec62990583a2755ed381b9d29bdf7e2c7e3f68b26ea1172f784ab94c5a511aab",
+      "extracted": false
+    },
+    {
+      "name": "au00026C.ogg",
+      "offset": 113279202,
+      "size": 1063396,
+      "sha256": "89145c3720dd60908bdb4427962a980938e854419db4e238b7a6099c3a282d9b",
+      "extracted": false
+    },
+    {
+      "name": "au00026D.ogg",
+      "offset": 114342598,
+      "size": 823588,
+      "sha256": "806ef04810308e2de283b46cb81bca81f348644d59b76139ce7b6df8172ae0e9",
+      "extracted": false
+    },
+    {
+      "name": "au00026E.ogg",
+      "offset": 115166186,
+      "size": 841229,
+      "sha256": "a9e0259da9ff85164ec0a9f678d48f3b86813fa3df005605017711698923d283",
+      "extracted": false
+    },
+    {
+      "name": "au00026F.ogg",
+      "offset": 116007415,
+      "size": 271462,
+      "sha256": "343ea1b8a858301a70241c793955050d3be4de79fb72bf907799f1c93460a421",
+      "extracted": false
+    },
+    {
+      "name": "au000270.ogg",
+      "offset": 116278877,
+      "size": 208859,
+      "sha256": "52136dfd583777af1cae47e52dc97e7ec388c603ef00a66b80a19388a3013383",
+      "extracted": false
+    },
+    {
+      "name": "au000271.ogg",
+      "offset": 116487736,
+      "size": 405962,
+      "sha256": "e6768a89eea50c8b9691876a47363ae7e8cb1854fa7bf1522466af1f2483bf81",
+      "extracted": false
+    },
+    {
+      "name": "au000272.ogg",
+      "offset": 116893698,
+      "size": 156947,
+      "sha256": "211a53583dc17bde67776a0d252fed44918aa5653fef32106abba61753c188c3",
+      "extracted": false
+    },
+    {
+      "name": "au000273.ogg",
+      "offset": 117050645,
+      "size": 256780,
+      "sha256": "5f6e37335fd50bbdf933b99aef932b45a78c985a0acf46112b2550fa586efbc7",
+      "extracted": false
+    },
+    {
+      "name": "au000274.ogg",
+      "offset": 117307425,
+      "size": 172031,
+      "sha256": "221a87840e4d59a0cae32d3f2333badcb504280f976d8930052e7373fd37fbfe",
+      "extracted": false
+    },
+    {
+      "name": "au000275.ogg",
+      "offset": 117479456,
+      "size": 150155,
+      "sha256": "476246f4b91a909037a492a20fa405752f5455eaa60980a44d2a302be9e0bb25",
+      "extracted": false
+    },
+    {
+      "name": "au0002D2.ogg",
+      "offset": 117629611,
+      "size": 271462,
+      "sha256": "343ea1b8a858301a70241c793955050d3be4de79fb72bf907799f1c93460a421",
+      "extracted": false
+    },
+    {
+      "name": "game28.dta",
+      "offset": 117901073,
+      "size": 5636828,
+      "sha256": "ec7dce2b3e0b658cff7ff20bbbdf5331ade8468cce159af977ee9d40364b26f7",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt0.ttf",
+      "offset": 123537901,
+      "size": 13288,
+      "sha256": "0600ea063ae5f2de302a1c8041b627ce5bce1b61776a3776eedf1f70f1c8d963",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt1.ttf",
+      "offset": 123551189,
+      "size": 14496,
+      "sha256": "929e9482918dbdc9ecae02a51ca75c005300ac9916c2be53fd904e9ce2982b3e",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt2.ttf",
+      "offset": 123565685,
+      "size": 10896,
+      "sha256": "76974f1d8e5c4faba5b36bbb1e093c7e56688d8d0a464fafa1b9f99e997b9d36",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt4.ttf",
+      "offset": 123576581,
+      "size": 11820,
+      "sha256": "2b02cfe5c10d5ae764ab43b81b02ac0a5d1c3e1e907b00c81bc9180806e23669",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt5.ttf",
+      "offset": 123588401,
+      "size": 11820,
+      "sha256": "2b02cfe5c10d5ae764ab43b81b02ac0a5d1c3e1e907b00c81bc9180806e23669",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt6.ttf",
+      "offset": 123600221,
+      "size": 13188,
+      "sha256": "867579fa0844570c5f45118297f366f7ae832401ea1eb26b8420fa3f2edff1a5",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt7.ttf",
+      "offset": 123613409,
+      "size": 12936,
+      "sha256": "ca05cc87a763d9dc114e1922bc0ddd73c942982138c6a8159a28ed55d51e6f14",
+      "extracted": true
+    },
+    {
+      "name": "agsfnt3.wfn",
+      "offset": 123626345,
+      "size": 1716,
+      "sha256": "39220ff0fcb935c049179f8111b78e0f6dbde473fe53e14e7983cf785dd0af1d",
+      "extracted": true
+    },
+    {
+      "name": "acsprset.spr",
+      "offset": 123628061,
+      "size": 257714426,
+      "sha256": "9c9665dbd1739a57811d416f2d01a476599178c2ae3512bd27f7fd07a960f566",
+      "extracted": false
+    },
+    {
+      "name": "room3.crm",
+      "offset": 381342487,
+      "size": 388493,
+      "sha256": "085ded9832587ce3047d372f42644590afb438a3237efd5d784e5cad468fa0a2",
+      "extracted": true
+    },
+    {
+      "name": "room4.crm",
+      "offset": 381730980,
+      "size": 219870,
+      "sha256": "7e7c9fc50834dc5b2c91dedcf660fc9f4d9a465d3da8e94295b7d174d4197b05",
+      "extracted": true
+    },
+    {
+      "name": "room5.crm",
+      "offset": 381950850,
+      "size": 482627,
+      "sha256": "7ffa1549f4104ac6dcabf74c4daa9fbff78e89c1b1bb2e1dc6cfc8b550aac126",
+      "extracted": true
+    },
+    {
+      "name": "room6.crm",
+      "offset": 382433477,
+      "size": 362671,
+      "sha256": "42f3e346775d3ef87d937c889c116c2e07b30be2e5e03044a0888a4bce89406c",
+      "extracted": true
+    },
+    {
+      "name": "room7.crm",
+      "offset": 382796148,
+      "size": 185106,
+      "sha256": "451b1d3aa6d5fddcdc6c9fc0c86b28c1f265c85801eef4009fe530e84fdff988",
+      "extracted": true
+    },
+    {
+      "name": "room8.crm",
+      "offset": 382981254,
+      "size": 435556,
+      "sha256": "9f0d2f19168470c8124803dfe503b92721cbf2805771cace4b0c6be19180c844",
+      "extracted": true
+    },
+    {
+      "name": "room9.crm",
+      "offset": 383416810,
+      "size": 207302,
+      "sha256": "7ea705bb489e6a8d338a3c54ddbf67a8019f348df338f1221be635797f675a98",
+      "extracted": true
+    },
+    {
+      "name": "room10.crm",
+      "offset": 383624112,
+      "size": 299001,
+      "sha256": "dee01bba109efd893a24ffcd5e2ce00d268c497aaa129d7bfe26075290fa259d",
+      "extracted": true
+    },
+    {
+      "name": "room79.crm",
+      "offset": 383923113,
+      "size": 1107894,
+      "sha256": "2bfc404352286a20491c725f56b96fed705dce99a1324ae1d5d4a72a2ee499c8",
+      "extracted": true
+    },
+    {
+      "name": "room80.crm",
+      "offset": 385031007,
+      "size": 446838,
+      "sha256": "03d9b313f27be5a2de1834cd6163349c94aac4231b2159a6adc70ab66a778607",
+      "extracted": true
+    },
+    {
+      "name": "room81.crm",
+      "offset": 385477845,
+      "size": 334670,
+      "sha256": "372c6677b8ca35af4a4d688a04546a2dc5b1324c90c06a09b936836ed7eebbc8",
+      "extracted": true
+    },
+    {
+      "name": "room82.crm",
+      "offset": 385812515,
+      "size": 398619,
+      "sha256": "81744fe9c928f745009fcfa4329d686a4318becf010b88b8966e2a0f84d42ad7",
+      "extracted": true
+    },
+    {
+      "name": "room83.crm",
+      "offset": 386211134,
+      "size": 353072,
+      "sha256": "a96c82d66853c804669bf3d31dd93b38c4078d1ac30ae4a102bc6f2fef44fec1",
+      "extracted": true
+    },
+    {
+      "name": "room11.crm",
+      "offset": 386564206,
+      "size": 407177,
+      "sha256": "8c607d1a625f605030f1319a0f85751bd4b44208f7264fef45ee05f3c9bc8c14",
+      "extracted": true
+    },
+    {
+      "name": "room12.crm",
+      "offset": 386971383,
+      "size": 454529,
+      "sha256": "d25d14cd81353821151a49e85728e26b211a967503d382e491ee83c7c5065c3a",
+      "extracted": true
+    },
+    {
+      "name": "room13.crm",
+      "offset": 387425912,
+      "size": 656810,
+      "sha256": "e9aba7f072175baef843748af0c7894de3b19a988284fc4a255c0ebd36971046",
+      "extracted": true
+    },
+    {
+      "name": "room14.crm",
+      "offset": 388082722,
+      "size": 427087,
+      "sha256": "6f29f4fa7934c83a823d67b8ff0be0cabf4f23c8278084525ddaf9d3a4c3f035",
+      "extracted": true
+    },
+    {
+      "name": "room15.crm",
+      "offset": 388509809,
+      "size": 374640,
+      "sha256": "1ff52988be814f065ebba3de4a33338a2d23a7bc11131eafabb1ef61c093f134",
+      "extracted": true
+    },
+    {
+      "name": "room16.crm",
+      "offset": 388884449,
+      "size": 987099,
+      "sha256": "9b4b4a09fd612f751b0aaacb1577acf88eb950979769b34996d43dd7a707acab",
+      "extracted": true
+    },
+    {
+      "name": "room17.crm",
+      "offset": 389871548,
+      "size": 360291,
+      "sha256": "a8d096cd36269e490ee64a153f7885822bab448de9bfe34b1d093b92a2fec2a7",
+      "extracted": true
+    },
+    {
+      "name": "room18.crm",
+      "offset": 390231839,
+      "size": 389341,
+      "sha256": "6e697beb9bce0298cfd4c3f318690cd121c0599835788937c24ed1021da615a6",
+      "extracted": true
+    },
+    {
+      "name": "room19.crm",
+      "offset": 390621180,
+      "size": 729407,
+      "sha256": "4593799cdbfe90ab49e626b2f977310496ced87241f46239a8dbf978ae028f2f",
+      "extracted": true
+    },
+    {
+      "name": "room24.crm",
+      "offset": 391350587,
+      "size": 368733,
+      "sha256": "62fc64f3852f2b38543151eaffc24cfb1578a21c81c97cdc664f42c8e21bdb33",
+      "extracted": true
+    },
+    {
+      "name": "room20.crm",
+      "offset": 391719320,
+      "size": 593482,
+      "sha256": "939c2aaf74c771c7d0263a610dc75dd37331cf8f3b52156d8a11d6cbae52df44",
+      "extracted": true
+    },
+    {
+      "name": "room21.crm",
+      "offset": 392312802,
+      "size": 416894,
+      "sha256": "7e31a3d349194bfdf642a0964a876fb87183264a077b0bc3dcc62916484463a3",
+      "extracted": true
+    },
+    {
+      "name": "room22.crm",
+      "offset": 392729696,
+      "size": 308794,
+      "sha256": "096b01d90bdfdcb4c6f0fa3b2c3dc03edd33410504f3086d8ca39f23252e1b02",
+      "extracted": true
+    },
+    {
+      "name": "room23.crm",
+      "offset": 393038490,
+      "size": 250614,
+      "sha256": "4b564fa8e31801a12c76fe611f019a88faeed6ba11adeaad950e55554ef0fada",
+      "extracted": true
+    },
+    {
+      "name": "room25.crm",
+      "offset": 393289104,
+      "size": 446542,
+      "sha256": "1c5e8c62e3e150621bfc8cd273587ad2b7663bd7eeee2e62d87f580d3097ee4e",
+      "extracted": true
+    },
+    {
+      "name": "room26.crm",
+      "offset": 393735646,
+      "size": 406239,
+      "sha256": "09fd7be0af1e7850164bc3533dd847e99ded7fedef52df0e10ee8b6fa0acb618",
+      "extracted": true
+    },
+    {
+      "name": "room27.crm",
+      "offset": 394141885,
+      "size": 495607,
+      "sha256": "d87d61be0b71fd5a6be63e8e1a6b90b7c866a45004249d97e653432e542f9a23",
+      "extracted": true
+    },
+    {
+      "name": "room28.crm",
+      "offset": 394637492,
+      "size": 461645,
+      "sha256": "792ccbcc33b47e10ff7f4aa1d05db2bd58b85b2f9ccbab0f56e05e85a15f44d9",
+      "extracted": true
+    },
+    {
+      "name": "room29.crm",
+      "offset": 395099137,
+      "size": 304743,
+      "sha256": "05ae9df4e51997286f81f321fb5f6f08dd61219c282c0a4f5687013386fef87d",
+      "extracted": true
+    },
+    {
+      "name": "room30.crm",
+      "offset": 395403880,
+      "size": 378623,
+      "sha256": "7d259a95ca854b4e346de43f96a62a9efb6168182ee2af75d19a4557ea25fd57",
+      "extracted": true
+    },
+    {
+      "name": "room31.crm",
+      "offset": 395782503,
+      "size": 358269,
+      "sha256": "decd3820958c1f38714f3035aa16d7a401dbc5017ea58887c731b0d8cebf4ca7",
+      "extracted": true
+    },
+    {
+      "name": "room32.crm",
+      "offset": 396140772,
+      "size": 374238,
+      "sha256": "39fcc0f2bf5503d2ecfafdae671ae8ea25af6f8d2a1a2186ef2460579fbb2a1e",
+      "extracted": true
+    },
+    {
+      "name": "room33.crm",
+      "offset": 396515010,
+      "size": 492811,
+      "sha256": "420453926f93868f2a47a711f5cf18ff5b98e3cfbe9ca799259beec8a8255277",
+      "extracted": true
+    },
+    {
+      "name": "room34.crm",
+      "offset": 397007821,
+      "size": 410475,
+      "sha256": "b98e599ebb662539696a544896cca1daafa6140e8a8ca74db083ef7dccde00dd",
+      "extracted": true
+    },
+    {
+      "name": "room35.crm",
+      "offset": 397418296,
+      "size": 364726,
+      "sha256": "92b9a4e03f0f44cc105a7b2f054bead7b10bf7e32269e0b27cedfe6c2502dae7",
+      "extracted": true
+    },
+    {
+      "name": "room36.crm",
+      "offset": 397783022,
+      "size": 361725,
+      "sha256": "6cf2d465c43a1c947af7f1f9bd5243023c006f49697a6ed593c9890afff7080e",
+      "extracted": true
+    },
+    {
+      "name": "room37.crm",
+      "offset": 398144747,
+      "size": 387320,
+      "sha256": "08672fd185b68c9d898bc3ba66ff32687122fec20f29c6af49587db795f2a062",
+      "extracted": true
+    },
+    {
+      "name": "room38.crm",
+      "offset": 398532067,
+      "size": 443926,
+      "sha256": "350499fef5fc3b3a070778c9011a9614cef0f8b3e1b431f173a248d441c13d44",
+      "extracted": true
+    },
+    {
+      "name": "room39.crm",
+      "offset": 398975993,
+      "size": 385049,
+      "sha256": "0a236fac5de5049287072a4e64cb0c59c3701d0048ba4146bff8d60cfa5b9387",
+      "extracted": true
+    },
+    {
+      "name": "room40.crm",
+      "offset": 399361042,
+      "size": 289680,
+      "sha256": "3b6fde961877ece0e7512934fcc96ac8fb46286f9598c276a503842ac75e7378",
+      "extracted": true
+    },
+    {
+      "name": "room42.crm",
+      "offset": 399650722,
+      "size": 423479,
+      "sha256": "4dc9fbc6673d1e97e5a323e1b51deedfd2d512a1326c37bc493783fcf73fe0ec",
+      "extracted": true
+    },
+    {
+      "name": "room43.crm",
+      "offset": 400074201,
+      "size": 754338,
+      "sha256": "b43eb0d50c5f2aa27029663c2829c40c3328b8a95dd4332af5fb5e4b38a5daba",
+      "extracted": true
+    },
+    {
+      "name": "room44.crm",
+      "offset": 400828539,
+      "size": 201394,
+      "sha256": "5925bf24349e5f75ea7af6120c96e60d6774aee2fe7c531ee59496a29bce4dd7",
+      "extracted": true
+    },
+    {
+      "name": "room45.crm",
+      "offset": 401029933,
+      "size": 441447,
+      "sha256": "044df30430bdc2eee31763366be04faf77918df6b4441aed07c5ea2273a8d123",
+      "extracted": true
+    },
+    {
+      "name": "room46.crm",
+      "offset": 401471380,
+      "size": 343591,
+      "sha256": "5ff404c94a9792a54d00b6287a3a59c4455727c88ee12f2ac5cdd052b9419f23",
+      "extracted": true
+    },
+    {
+      "name": "room47.crm",
+      "offset": 401814971,
+      "size": 357255,
+      "sha256": "452d49193e34bb60d6971ba68d6d346b6474a36f9fbd8d3d4dfaf69cbbd7428d",
+      "extracted": true
+    },
+    {
+      "name": "room48.crm",
+      "offset": 402172226,
+      "size": 346497,
+      "sha256": "37173a3956a8fd518e99873c3c2de00b0f6b7642de623e0f02531174cd9dda39",
+      "extracted": true
+    },
+    {
+      "name": "room49.crm",
+      "offset": 402518723,
+      "size": 483929,
+      "sha256": "250408ffbdbe116ea4c7e5b2c7adc575a84d1a256a8437c4b805e091ae26c661",
+      "extracted": true
+    },
+    {
+      "name": "room50.crm",
+      "offset": 403002652,
+      "size": 772204,
+      "sha256": "fdc161c56d6e8960c4b11186fd983ac32caf6da3351ebb266215f2de433b2a9d",
+      "extracted": true
+    },
+    {
+      "name": "room51.crm",
+      "offset": 403774856,
+      "size": 780176,
+      "sha256": "673cbb344557df9298c55e95831152c1bda6203b6b5c595f8733186c12a15a14",
+      "extracted": true
+    },
+    {
+      "name": "room52.crm",
+      "offset": 404555032,
+      "size": 404059,
+      "sha256": "a43e994c7318eae64e7c233a6dd54fdd5bdb88a3110c7a3e041930d35283c4af",
+      "extracted": true
+    },
+    {
+      "name": "room53.crm",
+      "offset": 404959091,
+      "size": 405856,
+      "sha256": "ea5f0eda39341bf75597f1bc7c29b2852d2b7c0394f28302a6db2abb3db3f875",
+      "extracted": true
+    },
+    {
+      "name": "room54.crm",
+      "offset": 405364947,
+      "size": 429706,
+      "sha256": "ded227d9d2d03d6fe189387d787d82401638da90fa6159e9162d5bcc23ed6f4e",
+      "extracted": true
+    },
+    {
+      "name": "room55.crm",
+      "offset": 405794653,
+      "size": 2226766,
+      "sha256": "a433374fa96a29c5c6fa51f22db115c7d6891701e4a4921a1be3ec3b7b1cc4c5",
+      "extracted": true
+    },
+    {
+      "name": "room56.crm",
+      "offset": 408021419,
+      "size": 293322,
+      "sha256": "4707afd50f18e8e8fbeb42cdfa74c86f99be1a6b6672a8d7c328d1fa8209bc6f",
+      "extracted": true
+    },
+    {
+      "name": "room57.crm",
+      "offset": 408314741,
+      "size": 229443,
+      "sha256": "7a7061042ceed7ef89fa2be400d68893caa3bfdec053f112b7fba76e9c9004c2",
+      "extracted": true
+    },
+    {
+      "name": "room58.crm",
+      "offset": 408544184,
+      "size": 433470,
+      "sha256": "fb7dec8a49fdc33046657cfa3366b20e47880b1dc9ee7375230e7d4194038cde",
+      "extracted": true
+    },
+    {
+      "name": "room59.crm",
+      "offset": 408977654,
+      "size": 437881,
+      "sha256": "1dcb0bfb146b16650e9fad83fa02b8df7e5acfdd0b9d0a789a3028082ce3dda2",
+      "extracted": true
+    },
+    {
+      "name": "room60.crm",
+      "offset": 409415535,
+      "size": 435699,
+      "sha256": "0d7ba6e450e1dfe7e65f4b980bdb3df597c13c61c3fb8d9b23859d6e8a36804c",
+      "extracted": true
+    },
+    {
+      "name": "room61.crm",
+      "offset": 409851234,
+      "size": 1444544,
+      "sha256": "7c612667c291f7820d5f3b7fd5b1af0caa6edd68a85e5621bbcc56113d1025b5",
+      "extracted": true
+    },
+    {
+      "name": "room62.crm",
+      "offset": 411295778,
+      "size": 391958,
+      "sha256": "56b6ac77662009eed4c9b62cd134d0265f09722b41c559778c13c1296a92d6c0",
+      "extracted": true
+    },
+    {
+      "name": "room77.crm",
+      "offset": 411687736,
+      "size": 340882,
+      "sha256": "fca38a0a2dbaaa8d662bb8b12bea0aca135010beafab19a85c60f59a6389d57f",
+      "extracted": true
+    },
+    {
+      "name": "room78.crm",
+      "offset": 412028618,
+      "size": 319657,
+      "sha256": "631bbfc83f466fcec282a181f90720bf4426d4fbf7527c07079f3fa8a728fdb1",
+      "extracted": true
+    },
+    {
+      "name": "room63.crm",
+      "offset": 412348275,
+      "size": 360655,
+      "sha256": "0159f85f51f9118c6a7f0829f422d1ab06ca5f6dcb6bb2fffa84e3860be3f31a",
+      "extracted": true
+    },
+    {
+      "name": "room64.crm",
+      "offset": 412708930,
+      "size": 387533,
+      "sha256": "aab70d5d313e2ad85243d109483ce3c0e81855665fe451c2af56c5d1f9715888",
+      "extracted": true
+    },
+    {
+      "name": "room65.crm",
+      "offset": 413096463,
+      "size": 1332700,
+      "sha256": "ea9639ccce07762983dd803de1ab0e55997e43b7afead9e873e2704032c18798",
+      "extracted": true
+    },
+    {
+      "name": "room66.crm",
+      "offset": 414429163,
+      "size": 448233,
+      "sha256": "86713f743bd3c8664242dc9d38126bfdab23a5b35c72ed61bcf37cef00d4dd4f",
+      "extracted": true
+    },
+    {
+      "name": "room67.crm",
+      "offset": 414877396,
+      "size": 191773,
+      "sha256": "7a48a7409eeb55be1b90b8b361eef27182f04f56741f255dfbb234ee6f5ae6cc",
+      "extracted": true
+    },
+    {
+      "name": "room68.crm",
+      "offset": 415069169,
+      "size": 358201,
+      "sha256": "35243795247991d7d5feeb481b99e6c5a3ffb45721e97d4160239aa7f7fda22e",
+      "extracted": true
+    },
+    {
+      "name": "room69.crm",
+      "offset": 415427370,
+      "size": 431913,
+      "sha256": "6d3dd98d22de69c23ed4bc4eb8961185ddaf586109ae5d583063a632a10188c6",
+      "extracted": true
+    },
+    {
+      "name": "room70.crm",
+      "offset": 415859283,
+      "size": 313543,
+      "sha256": "4711d565b94368e8cbb51fce0ef1b2a8fedff77b54d39c2b11eea77bd62377fb",
+      "extracted": true
+    },
+    {
+      "name": "room84.crm",
+      "offset": 416172826,
+      "size": 198076,
+      "sha256": "ea15e4754e5718c97790990082af2cdcd53b59d6bf0434d1847490457d034ee1",
+      "extracted": true
+    },
+    {
+      "name": "room85.crm",
+      "offset": 416370902,
+      "size": 185585,
+      "sha256": "6add167f613d08eedd1f04a5eaa422c208b11a2dca9d70945c6bf3e60051b4f3",
+      "extracted": true
+    },
+    {
+      "name": "room86.crm",
+      "offset": 416556487,
+      "size": 189868,
+      "sha256": "47f16ec24ab66e4e45f43185f94f443e10e0ce6ed3b6c5fad3d3fec8e505fd24",
+      "extracted": true
+    },
+    {
+      "name": "room41.crm",
+      "offset": 416746355,
+      "size": 448383,
+      "sha256": "a1e6db5cd6aaf555025c299f924a8ee07a70e3938d59a54c1b3c6f37187395bb",
+      "extracted": true
+    },
+    {
+      "name": "room1.crm",
+      "offset": 417194738,
+      "size": 384327,
+      "sha256": "1f8d9feea759c68065d7427892cb1acfe8d2a4aae842a9fed02563499b990c80",
+      "extracted": true
+    },
+    {
+      "name": "room71.crm",
+      "offset": 417579065,
+      "size": 377753,
+      "sha256": "9c3d61548d2c3cb22d4144470ab24e2acad870ef285a405585f925dcc8166162",
+      "extracted": true
+    },
+    {
+      "name": "room72.crm",
+      "offset": 417956818,
+      "size": 344914,
+      "sha256": "63d4aca76ba72b677002ff2259951b33569f850183fbd1138d51326e58a0f07d",
+      "extracted": true
+    },
+    {
+      "name": "room73.crm",
+      "offset": 418301732,
+      "size": 386082,
+      "sha256": "d0adb11d8e7e0bfb7dbc58c1b20b6b88656ab3c9e318b95cddc91f30c7b927a2",
+      "extracted": true
+    },
+    {
+      "name": "room75.crm",
+      "offset": 418687814,
+      "size": 346295,
+      "sha256": "097527bb28f5740257137b7fcd46446ac92357e7f921c3bad49608118885089e",
+      "extracted": true
+    },
+    {
+      "name": "room76.crm",
+      "offset": 419034109,
+      "size": 364971,
+      "sha256": "82305a5d18ae19a24478d3418843cbd4dead61f95c6a1515852225b94dd134a0",
+      "extracted": true
+    },
+    {
+      "name": "room2.crm",
+      "offset": 419399080,
+      "size": 315492,
+      "sha256": "2652a4eefdb3f6e599a5018ba7ee42be57530fec1273dcafaefe7a76aa9a7d00",
+      "extracted": true
+    },
+    {
+      "name": "room74.crm",
+      "offset": 419714572,
+      "size": 403290,
+      "sha256": "882e42424c9871cc1a723c4a51f4dc57e7b47a6d6b77767e01c53ca72e8c3407",
+      "extracted": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-10-07T01:26:05.643270+00:00",
+  "passed": true,
+  "build_manifest_sha256": "63f13c9eddb2ebd6124913cf36572518456ea71388b48b2241d475a241e5ef2a",
+  "entries": [
+    {
+      "id": "3f69af2cbdeaa3dd",
+      "runtime_key": "&869 Gynoid.",
+      "story_target": "&869 女型合成人！",
+      "commentary_source": "&869 Gynoid!",
+      "commentary_target": "&869 Gynoid!"
+    },
+    {
+      "id": "e44670238e1074ea",
+      "runtime_key": "&870 If they look like a woman, they're a gynoid, not an android!",
+      "story_target": "&870 长得像女人，就叫女型合成人，不叫男型合成人。",
+      "commentary_source": "&870 If they look like a woman, they're a gynoid, not an android.",
+      "commentary_target": "&870 If they look like a woman, they're a gynoid, not an android."
+    }
+  ],
+  "editorial_source_ids_unchanged": true,
+  "visual_game_verified": false
+}

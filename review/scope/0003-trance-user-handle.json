@@ -1,0 +1,6 @@
+{
+  "audit": "Dialog 32可见账户名与离线系统通知逐项对照；账号标识沿用原拼写，通知正文翻译。",
+  "entries": [
+    {"id":"f39388fca20d9875","source":"CaptainCheese969","status":"preserve","reason":"迷境账户标识；离线通知也引用相同ID，保留原拼写供玩家跨界面对应，不计入译文完成量。"}
+  ]
+}

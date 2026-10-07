@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13882961bf06c470",
+    "source": "&2075 What? He had lifting gear?!",
+    "target": "&2075 什么？他带了升空装置？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1cce8f42d7ee6623",
+    "source": "&1530 He's escaping by aerostat...",
+    "target": "&1530 他正坐浮空艇逃走……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3daeacb218c4614a",
+    "source": "&2076 Central! Our mindjacking suspect has fled the scene by air!",
+    "target": "&2076 中枢！意识劫持案嫌疑人从空中逃离现场了！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1a77a4ef726b7678",
+    "source": "&296 Interceptors dispatched. CEL corp officers have arrived on-scene at Animus.",
+    "target": "&296 已派出拦截机。CEL警员已抵达阿尼姆斯现场。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0b9f0d80387f330",
+    "source": "&297 Please return to headquarters for debriefing.",
+    "target": "&297 请返回总部汇报情况。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "acf877983a9d0647",
+    "source": "&1531 Nuke it...we were so close...",
+    "target": "&1531 挨核弹去吧……明明就差一点……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

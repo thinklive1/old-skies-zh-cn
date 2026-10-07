@@ -1,0 +1,514 @@
+[
+  {
+    "id": "88f3df841b1cf7f1",
+    "source": "Growth Chamber",
+    "target": "培养舱",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a78cfdf4acfc2942",
+    "source": "Counter",
+    "target": "柜台",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e000c22c6fee4abd",
+    "source": "Deactivated Guard",
+    "target": "已停用的守卫",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c1ef9a0cfd201b66",
+    "source": "&133 Dr Regis, I...",
+    "target": "&133 里吉斯博士，我……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "00a73bdfc5c8461d",
+    "source": "&134 Oh myyyyyyyy...",
+    "target": "&134 哎呀呀呀呀……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2854acc51f1c8cd",
+    "source": "&1647 Uh-oh...",
+    "target": "&1647 糟了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "510bffe6067376f8",
+    "source": "&62 Ooohhh, I know what's going on...",
+    "target": "&62 哦，我知道怎么回事了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e186b774ca61c16b",
+    "source": "&63 The cavity magnetron in the growth array.",
+    "target": "&63 是培养阵列里的腔体磁控管。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "617325fa24948191",
+    "source": "&64 It generates a huge mag-flux in here.",
+    "target": "&64 它在这里产生了巨大的磁通量。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "5c531adec8ab7ca9",
+    "source": "&1648 It...broke them? Is it permanent?",
+    "target": "&1648 它……把他们弄坏了？会一直这样吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "b15217c12b818dc9",
+    "source": "&65 What do I look like, a tech?",
+    "target": "&65 我看着像技术员吗？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ac690c533a270ac8",
+    "source": "&1649 Hm...we know the waiter was murdered within the kitchen...",
+    "target": "&1649 嗯……我们知道，服务员是在厨房里被杀的……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a5a7b79bca8f4a16",
+    "source": "&1650 The mag-field would be lethal to any synthetics trying to get in there.",
+    "target": "&1650 磁场会杀死任何试图进入的合成人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "db0432fc04d5512a",
+    "source": "&1651 That means we can rule out Stepford as a suspect.",
+    "target": "&1651 也就是说，可以排除斯特普福德的嫌疑。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4132aa867d96fccd",
+    "source": "&536 You search through the cooking equipment. You find a surgical bonesaw, the sort you personally feel more appropriate in a hospital than a kitchen.",
+    "target": "&536 你翻找烹饪设备，找到一把外科骨锯。在你看来，这种东西更该出现在医院，而不是厨房。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "40c904d70ec7f9fe",
+    "source": "Picked up: Bonesaw",
+    "target": "已拾取：骨锯",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "990af20c208c30de",
+    "source": "&537 You find nothing else pertinent to the investigation.",
+    "target": "&537 没有找到其他与调查有关的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c2c291449948d4c2",
+    "source": "&1652 Eurgh...here goes...",
+    "target": "&1652 呃……来吧……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "44ffaf633c866d2a",
+    "source": "&538 You carve a slice from the cadaver. The nausea welling up reminds you why you went into genetic medicine, rather than the macro-scale.",
+    "target": "&538 你从尸体上切下一片。涌起的恶心感让你想起，自己为什么选择基因医学，而不是在人体宏观层面动手。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bb4029d87960d688",
+    "source": "Picked up: Slice of Meat",
+    "target": "已拾取：肉片",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bc09c887700e414a",
+    "source": "&539 // PROJECT ALREADY UNDERWAY[// Abort current growth cycle before introduction of new DNA framework data.",
+    "target": "&539 //已有项目正在运行[//导入新的DNA框架数据前，请中止当前培养周期。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a8225dc30ddc4c10",
+    "source": "Analyzing Sample...",
+    "target": "正在分析样本……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "317d0a9851a43dd5",
+    "source": "%d/ADE/%d",
+    "target": "%d/ADE/%d",
+    "status": "preserve",
+    "reason": "纯数值格式或数值占位模板，无需语言翻译；保留格式符、单位和分隔符。",
+    "review_notes": ""
+  },
+  {
+    "id": "6d7120fc1064a8c5",
+    "source": "&540 New project: %d/ADE/%d",
+    "target": "&540 新项目：%d/ADE/%d",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4958797a864519cd",
+    "source": "HOLDING",
+    "target": "保持中",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1805572140fd38b8",
+    "source": "The meat from the cadavers shows the kind of results you'd expect. Without looking too deeply into it, all you can tell is that the tissue is male.",
+    "target": "尸体上的肉，检验结果符合预期。不深入研究的话，你只能判断出，组织来自男性。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "d58d502e0371e95d",
+    "source": "&1653 There isn't enough DNA on that to sample.",
+    "target": "&1653 上面没有足够的DNA可供采样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8acdb61b7a0e161e",
+    "source": "&541 The guards you've seen so far have appeared menacing and alert. This one is slumped over forwards.",
+    "target": "&541 之前见过的守卫，都显得警惕而危险。这个却身子前倾，瘫在那里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1850d5c0485b49de",
+    "source": "&1654 Huh...it's like someone just hit his 'off' switch.",
+    "target": "&1654 哦……就像有人按了他的“关机”按钮。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0142add1837f031a",
+    "source": "Splitting: //S&S/Security P-153.MIND",
+    "target": "正在分离：//S&S/Security P-153.MIND",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f976eb284ebb156b",
+    "source": "Downloading...",
+    "target": "正在下载……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "75a1a9c4f8cb2f18",
+    "source": "Resolution idiosync!",
+    "target": "解析失同步！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0bbf9e05b2cec94d",
+    "source": "Mindstate Download Failed:[Security P-153",
+    "target": "意识状态下载失败：[Security P-153",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "334993d6507c7cc0",
+    "source": "&1655 This synth's corrupted. I can't rebuild its mind.",
+    "target": "&1655 这个合成人的数据损坏了，没法重建他的心智。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a36ac439f4a50c64",
+    "source": "&793 Eurgh...",
+    "target": "&793 呃……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e8240d6f306b6240",
+    "source": "This is the restaurant's niche, apparently - human meat.",
+    "target": "看来，这就是这家餐厅的特色：人肉。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "66ed796340e5e0aa",
+    "source": "&1656 Hey, stop the carousel!",
+    "target": "&1656 嘿，把旋转架停下来！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "10823268ecb6da86",
+    "source": "&66 What's wrong?",
+    "target": "&66 怎么了？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "79c6e4eb8d3e8065",
+    "source": "&1657 These bodies are supposed to be clones, right?",
+    "target": "&1657 这些身体都该是克隆体，对吧？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef5f7b250719d42e",
+    "source": "&1658 So why is this one blond?",
+    "target": "&1658 那这个为什么是金发的？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "e620dda11f7710fa",
+    "source": "&67 Oh God...Henry...",
+    "target": "&67 天哪……亨利……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "7307c2098522ea32",
+    "source": "&68 What happened to him?!",
+    "target": "&68 他怎么了？！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "42f1119b45883182",
+    "source": "&1659 He's taken a nasty blow to the head.",
+    "target": "&1659 头部遭到了一记重击。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "a97f5fba75a55766",
+    "source": "&1660 Looks like it's the hypothermia that finished him, though.",
+    "target": "&1660 不过看起来，最后夺走他性命的是低体温。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f9392318e888821b",
+    "source": "&69 Oh, nuke...why'd they leave him in the FREEZER?",
+    "target": "&69 哦，该炸的……为什么把他留在冷冻库里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "1485341a63040aa5",
+    "source": "&1661 Best place to hide a tree's a forest.",
+    "target": "&1661 藏一棵树，最好的地方就是森林。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "18b140ad141da793",
+    "source": "&1662 Best place to hide a body's with a whole lot of other bodies.",
+    "target": "&1662 藏一具尸体，最好的地方就是一大堆尸体里。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0691b1679420e000",
+    "source": "&70 Why Henry? He was such a nice boy!",
+    "target": "&70 为什么是亨利？他是个多好的孩子啊！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "dfacc8f40aef25ef",
+    "source": "&1663 Same hair color as the bomber.",
+    "target": "&1663 头发颜色，跟炸弹袭击者一样。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "bfca386099de64e6",
+    "source": "&1664 Whoever's behind this took his uniform for the bomber's disguise.",
+    "target": "&1664 幕后的人拿走了他的制服，让炸弹袭击者用来伪装。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "ef028d3b001f906f",
+    "source": "&71 Somebody would've seen him being dragged across the restaurant!",
+    "target": "&71 如果他被拖着穿过餐厅，肯定会有人看到！",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3e7344913eba6315",
+    "source": "&1665 He must've been killed in here.",
+    "target": "&1665 他一定是在这里被杀的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0cae35fe8e68e0e9",
+    "source": "&1666 I'll find who's behind this.",
+    "target": "&1666 我会查出是谁干的。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "db0e6a9d6066c7dd",
+    "source": "&1667 Nothing on him except his underpants.",
+    "target": "&1667 除了内裤，他身上什么也没有。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "86768e0902086263",
+    "source": "&72 Oh, Hell...why'd they leave him in the FREEZER?",
+    "target": "&72 哦，该死……为什么把他留在冷冻库里？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "9e251b3acfc2b4ad",
+    "source": "&542 The boy's body has been hung from a hook on the carousel. It looks like whoever was responsible had difficulty lifting him, leading to a sloppy result.",
+    "target": "&542 男孩的尸体被挂在旋转架的钩子上。看来，凶手搬起他很吃力，所以挂得乱七八糟。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "cdc7e94f54e040a6",
+    "source": "Picked up:[Bonesaw[Glass Jar",
+    "target": "已拾取：[骨锯[玻璃罐",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "2d6e696ad74a2e19",
+    "source": "&543 You dig through the cabinets, but find nothing else relevant to the investigation.",
+    "target": "&543 你翻找橱柜，但没有发现其他与调查有关的东西。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "c0881a35b1d2380b",
+    "source": "&575 You'd hoped that what you'd seen in the lab at CEL was the worst you'd get this week...",
+    "target": "&575 你本来希望，这周最糟糕的事已经在CEL实验室里见过了……",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "922670566981d82d",
+    "source": "&2007 It's too big to carry.",
+    "target": "&2007 太大了，带不动。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "30385789614b26b2",
+    "source": "As evidence, it's probably a good idea to avoid damaging this particular body any further.",
+    "target": "作为证据，最好别再破坏这具尸体。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "f539f25608f5b2c0",
+    "source": "&2008 It's a flash-growth chamber, for sampling DNA and growing specimens.",
+    "target": "&2008 这是一间速成培养舱，用来采样DNA、培养标本。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "0a951fc1aed5ab4f",
+    "source": "&2009 I've seen a lot of these in my career, but never in a restaurant.",
+    "target": "&2009 这些年，我见过不少这种设备，可从没在餐厅里见过。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "8ec93ba81515e7f5",
+    "source": "&577 The island in the centre of the kitchen is apparently where most of the work takes place, covered in tools and half-prepared meals.",
+    "target": "&577 厨房中央的料理台，显然是主要工作区，上面全是工具和准备到一半的菜。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]

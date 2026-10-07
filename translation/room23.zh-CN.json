@@ -1,0 +1,58 @@
+[
+  {
+    "id": "fc6e4a408d56be96",
+    "source": "Leave",
+    "target": "离开",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "54be5f95d16052f1",
+    "source": "Projection",
+    "target": "投影",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ac410abe35e9c3c",
+    "source": "&251 Ahlan wa sahlan.",
+    "target": "&251 欢迎。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "306f49c9b22d0ab5",
+    "source": "&607 Uh...hi? I'm looking for the internet.",
+    "target": "&607 呃……你好？我在找互联网。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "17c80bd16da32670",
+    "source": "&608 Are you tapping the line as well?",
+    "target": "&608 你也在窃听这条线路？",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "3ff8b3f71e522f0e",
+    "source": "&252 Indeed I am, except we appear to be doing it from opposite directions.",
+    "target": "&252 确实。只是，我们似乎从相反的方向接入。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  },
+  {
+    "id": "4124632045908ca7",
+    "source": "&691 No doubt about it, this is the one who spoke to me.",
+    "target": "&691 毫无疑问，就是之前跟我说话的那个人。",
+    "status": "reviewed",
+    "reason": "",
+    "review_notes": ""
+  }
+]
