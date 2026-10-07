@@ -1,0 +1,10 @@
+{
+  "game": "<game-dir>",
+  "backup": "<game-dir>\\_oath_zh_polish_backup\\20261007-193103-e3dab202",
+  "state": "installed-verified",
+  "payload_files_verified": 12,
+  "untouched_files_verified": 2649,
+  "archive_sha256": "5b7f80a9e943740540848248cb876cda017463f685a586ca321a5dea55b4fdcf",
+  "saves_unchanged": true,
+  "final_copyedit_refreshed": true
+}

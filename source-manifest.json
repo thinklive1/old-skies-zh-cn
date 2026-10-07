@@ -1,0 +1,303 @@
+[
+  {
+    "path": "0bobcachievements.rpy",
+    "bytes": 6423,
+    "lines": 120,
+    "han_chars": 0,
+    "sha256": "2a62c784a7be18d6552045c18626bb3dbdcf16f9fb61b8e9542847eb9d82f9e4"
+  },
+  {
+    "path": "album.rpy",
+    "bytes": 1986,
+    "lines": 60,
+    "han_chars": 0,
+    "sha256": "a36e7aa77d28602161ef797727596d907eda7456f309a2d689a79f1c6e259346"
+  },
+  {
+    "path": "battle/battle-screens.rpy",
+    "bytes": 7132,
+    "lines": 264,
+    "han_chars": 65,
+    "sha256": "19991a68a1f56e7f39e257c6a3e7ab87c44c7e5213eae6f379b0c910dbe7842b"
+  },
+  {
+    "path": "battle/battle-script.rpy",
+    "bytes": 32311,
+    "lines": 1014,
+    "han_chars": 182,
+    "sha256": "49ba6bc49ebb1e774da663d562a788445034ddd1a027bc84606b368506e369f0"
+  },
+  {
+    "path": "battle/battle-units.rpy",
+    "bytes": 9588,
+    "lines": 390,
+    "han_chars": 33,
+    "sha256": "bd3f038f4c5c29dc816e43882acfd295528080b29e77caa205ba7d0026b6f5c9"
+  },
+  {
+    "path": "gui.rpy",
+    "bytes": 16249,
+    "lines": 475,
+    "han_chars": 0,
+    "sha256": "3d25c2c2f31fedcd238ebb023b60955ba28d93da0f9522604647e6f189b1781e"
+  },
+  {
+    "path": "items/crafting-screens.rpy",
+    "bytes": 10338,
+    "lines": 318,
+    "han_chars": 0,
+    "sha256": "cd72f744a241fda05f645a253ba1ef2b75d941c504ed47edb67a4d54c30b8c9b"
+  },
+  {
+    "path": "items/item-definitions.rpy",
+    "bytes": 4955,
+    "lines": 165,
+    "han_chars": 0,
+    "sha256": "65fc823da4ae047078bd5c79a9b35197c55ca04a1bd9414887835524ce5a6a3f"
+  },
+  {
+    "path": "items/item-screens.rpy",
+    "bytes": 9480,
+    "lines": 308,
+    "han_chars": 0,
+    "sha256": "1a55d997ec9fa913d2fbd5ec6a7a5af13d600cdd69be22d4b6c4b36eb17d1bf6"
+  },
+  {
+    "path": "items/quest-definitions.rpy",
+    "bytes": 3215,
+    "lines": 86,
+    "han_chars": 0,
+    "sha256": "347b8650cc3ff3d834ba417727d2efc3f065b26242f3b4cfc5014bbca57fe712"
+  },
+  {
+    "path": "items/quest-screens.rpy",
+    "bytes": 7407,
+    "lines": 224,
+    "han_chars": 0,
+    "sha256": "b26b29cc33b3c831043a321bd307d070f0fa56ad5700f86f75547be29d58e7ec"
+  },
+  {
+    "path": "items/shop-screens.rpy",
+    "bytes": 7229,
+    "lines": 201,
+    "han_chars": 0,
+    "sha256": "ebaaf2bc68eceab882f5d9d24a5e682032f3dffc30de6c8063d628228cf5308c"
+  },
+  {
+    "path": "manualtracks.rpy",
+    "bytes": 701,
+    "lines": 21,
+    "han_chars": 0,
+    "sha256": "8f973683e3a8006b9196374c898d5be746bb6be0bb9769e486747d9bbc1c74c7"
+  },
+  {
+    "path": "maps/standard_events.rpy",
+    "bytes": 14211,
+    "lines": 220,
+    "han_chars": 0,
+    "sha256": "0840fb9e79fdd2abcc537b858497697c5a89198221e4fb0263ebdffffb25b1f6"
+  },
+  {
+    "path": "music_screen.rpy",
+    "bytes": 12362,
+    "lines": 309,
+    "han_chars": 3,
+    "sha256": "ba767902c903801c6d38c0f2b252487cb14dc5292741d34b931378f4023560e0"
+  },
+  {
+    "path": "options.rpy",
+    "bytes": 9951,
+    "lines": 284,
+    "han_chars": 9,
+    "sha256": "69cc706f67d13726e5c90c2766143c64195d35fb828a2f4782f5b9ae13d08af2"
+  },
+  {
+    "path": "pink_engine/keymap_override.rpy",
+    "bytes": 2033,
+    "lines": 34,
+    "han_chars": 0,
+    "sha256": "5b12dca8f67c5f59010a4017038956b5d157a3d43510f9ce08f99a5bc150af30"
+  },
+  {
+    "path": "pink_engine/orthogonal_tiled_map.rpy",
+    "bytes": 14330,
+    "lines": 250,
+    "han_chars": 0,
+    "sha256": "d93176820feb854398b293e0503d2f4186bccc0ed0eae818d2bda19d469fafee"
+  },
+  {
+    "path": "pink_engine/orthogonal_tiled_map_developer.rpy",
+    "bytes": 15429,
+    "lines": 278,
+    "han_chars": 0,
+    "sha256": "0a4f69a90d7e7cc80cd99aec0cd7767b2718a5565d9b0ca1e8f9e96e83ea4411"
+  },
+  {
+    "path": "pink_engine/orthogonal_tiled_map_screens.rpy",
+    "bytes": 2902,
+    "lines": 71,
+    "han_chars": 0,
+    "sha256": "e6aa6689977d9b0ad9ad27bc5ea1343fd4d38f1dab7068622b19fd1e2c9d8c38"
+  },
+  {
+    "path": "pink_engine/pink_config.rpy",
+    "bytes": 5087,
+    "lines": 97,
+    "han_chars": 0,
+    "sha256": "7be0ad488dcf048f8010721862fdfbf6745d4a7c316cc15b1e2e0e4db3ea6ae4"
+  },
+  {
+    "path": "pink_engine/pink_engine.rpy",
+    "bytes": 1219,
+    "lines": 29,
+    "han_chars": 0,
+    "sha256": "0f46f5757f676fea026ed224e8c28a67119af833ec8e4c3632345234c9590ee7"
+  },
+  {
+    "path": "pink_engine/tiled_map_display.rpy",
+    "bytes": 1705,
+    "lines": 48,
+    "han_chars": 0,
+    "sha256": "602b9d822a861b3c832a73d7dcb26664ccbcfb5a828dd277efddc077a75b0d06"
+  },
+  {
+    "path": "rhythm_game_displayable.rpy",
+    "bytes": 13090,
+    "lines": 292,
+    "han_chars": 0,
+    "sha256": "991a98a3d57811e6de8d7fb13da99ee0b61f0f0e726f3585aa46a921d1961af9"
+  },
+  {
+    "path": "screens.rpy",
+    "bytes": 54759,
+    "lines": 1882,
+    "han_chars": 380,
+    "sha256": "9ba3755dc77d2b2196f6d53b7963a044e303278f099911ef9dc741d8f105e2c4"
+  },
+  {
+    "path": "script.rpy",
+    "bytes": 1430329,
+    "lines": 39233,
+    "han_chars": 104380,
+    "sha256": "88c58756c949e389031a68efadd2ff345e9de8516150e7984c336b320b69d5c4"
+  },
+  {
+    "path": "tl/chinese/0bobcachievements.rpy",
+    "bytes": 165,
+    "lines": 8,
+    "han_chars": 0,
+    "sha256": "a31a1398b36d2679dd36ebdd3ad3a6cd9225e38ecbdb116ecd2a05b97553e79c"
+  },
+  {
+    "path": "tl/chinese/battle/battle-screens.rpy",
+    "bytes": 1446,
+    "lines": 64,
+    "han_chars": 0,
+    "sha256": "67b84ca22c32f91822d359c1cd0be831951af8c0d37c7e0c18cebacf25b9c38b"
+  },
+  {
+    "path": "tl/chinese/battle/battle-script.rpy",
+    "bytes": 5520,
+    "lines": 248,
+    "han_chars": 0,
+    "sha256": "1a8156efc1604a7411f3344d8e7273d03ecec36d419f6e4ea01a6a5708bb8499"
+  },
+  {
+    "path": "tl/chinese/battle/battle-units.rpy",
+    "bytes": 1262,
+    "lines": 68,
+    "han_chars": 0,
+    "sha256": "7fc007d38794fe7e9818773878d938ba7cd49125def16619b1ae28d98d0991d6"
+  },
+  {
+    "path": "tl/chinese/common.rpy",
+    "bytes": 28390,
+    "lines": 1212,
+    "han_chars": 0,
+    "sha256": "c66cdc614833514d3cb15866b0e25a3d63b0332cfd460699fabb36923333eaaa"
+  },
+  {
+    "path": "tl/chinese/items/crafting-screens.rpy",
+    "bytes": 1110,
+    "lines": 56,
+    "han_chars": 0,
+    "sha256": "b3a90a88805bf3778ef4e0f2a3082c92ec92f2a944fb58d83777eefc0c806e38"
+  },
+  {
+    "path": "tl/chinese/items/item-definitions.rpy",
+    "bytes": 1149,
+    "lines": 48,
+    "han_chars": 0,
+    "sha256": "42fbc590f4c06b1d21e0174ae9c1c8c7a40e00f3fb2f9a0e96302848dfce2685"
+  },
+  {
+    "path": "tl/chinese/items/item-screens.rpy",
+    "bytes": 1201,
+    "lines": 64,
+    "han_chars": 0,
+    "sha256": "0efbd434ff1d9de2986dd022fcc05e27d41dd208ffaf165bc395f3db21a9857c"
+  },
+  {
+    "path": "tl/chinese/items/quest-definitions.rpy",
+    "bytes": 1148,
+    "lines": 36,
+    "han_chars": 0,
+    "sha256": "0e088aa12519066475febfd2262a1896824fd5b7a56cf9626ff34d6ee8bf3cdb"
+  },
+  {
+    "path": "tl/chinese/items/quest-screens.rpy",
+    "bytes": 923,
+    "lines": 48,
+    "han_chars": 0,
+    "sha256": "24592f2fafaab7bfde8f751dd8c564300729316e16320036a3d59d930cdc5a14"
+  },
+  {
+    "path": "tl/chinese/items/shop-screens.rpy",
+    "bytes": 663,
+    "lines": 36,
+    "han_chars": 0,
+    "sha256": "b51a6ec5ed269186268c5b05e43a02792696d628075cde7f50803cad8afc7118"
+  },
+  {
+    "path": "tl/chinese/music_screen.rpy",
+    "bytes": 152,
+    "lines": 8,
+    "han_chars": 0,
+    "sha256": "8e3685ea067bd793449656a202f69d07df0f751e883f4660119988aab755e640"
+  },
+  {
+    "path": "tl/chinese/options.rpy",
+    "bytes": 596,
+    "lines": 11,
+    "han_chars": 5,
+    "sha256": "4774b9b6e409ff7b8b542018749ed63d09522a0a19b7ae0e4d01714bb97062fc"
+  },
+  {
+    "path": "tl/chinese/screens.rpy",
+    "bytes": 6911,
+    "lines": 371,
+    "han_chars": 143,
+    "sha256": "cbb3420d3cbba61eaaa11648027780eb01741f38e688141ab6e2385a721c2bb1"
+  },
+  {
+    "path": "tl/chinese/script.rpy",
+    "bytes": 1457752,
+    "lines": 70454,
+    "han_chars": 0,
+    "sha256": "e805d577dbba9e7e763af40a72f8c41ee7bf4cfea1e94f4709cb7e9d3eaf6a39"
+  },
+  {
+    "path": "tl/chinese/wave_shader.rpy",
+    "bytes": 902,
+    "lines": 26,
+    "han_chars": 0,
+    "sha256": "ff82ab36074c3f271ea5b85ef7d225807dc9dacb3e2a840f5974470d55fc51e3"
+  },
+  {
+    "path": "wave_shader.rpy",
+    "bytes": 14968,
+    "lines": 245,
+    "han_chars": 0,
+    "sha256": "af8773a3c76ab5c2ec06ccc191317700cc3bc7a8da089955e211414cf9199af0"
+  }
+]

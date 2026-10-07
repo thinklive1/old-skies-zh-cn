@@ -1,0 +1,590 @@
+{
+  "fonts_unchanged": true,
+  "checked_fonts": {
+    "unif.otf": 57085,
+    "cc2.ttf": 223,
+    "msi.ttf": 1535
+  },
+  "changed_text_entries_checked": 6001,
+  "main_chinese_font_missing": [],
+  "legacy_special_font_findings": [
+    {
+      "id": 294,
+      "font": "cc2.ttf",
+      "chars": "备方案用"
+    },
+    {
+      "id": 295,
+      "font": "cc2.ttf",
+      "chars": "他们动发启在己正沉现睡置自若重"
+    },
+    {
+      "id": 296,
+      "font": "cc2.ttf",
+      "chars": "一中他们又困在梦让遍"
+    },
+    {
+      "id": 334,
+      "font": "cc2.ttf",
+      "chars": "水"
+    },
+    {
+      "id": 4187,
+      "font": "cc2.ttf",
+      "chars": "你名字的"
+    },
+    {
+      "id": 4253,
+      "font": "cc2.ttf",
+      "chars": "几好年"
+    },
+    {
+      "id": 4254,
+      "font": "cc2.ttf",
+      "chars": "一又样遍"
+    },
+    {
+      "id": 4256,
+      "font": "cc2.ttf",
+      "chars": "在想我"
+    },
+    {
+      "id": 4257,
+      "font": "cc2.ttf",
+      "chars": "名字"
+    },
+    {
+      "id": 4259,
+      "font": "cc2.ttf",
+      "chars": "我未来的"
+    },
+    {
+      "id": 4260,
+      "font": "cc2.ttf",
+      "chars": "你名字的"
+    },
+    {
+      "id": 4337,
+      "font": "cc2.ttf",
+      "chars": "城市"
+    },
+    {
+      "id": 4341,
+      "font": "cc2.ttf",
+      "chars": "你居的邻"
+    },
+    {
+      "id": 4347,
+      "font": "cc2.ttf",
+      "chars": "与乡农场间"
+    },
+    {
+      "id": 4381,
+      "font": "cc2.ttf",
+      "chars": "屋房空置"
+    },
+    {
+      "id": 4384,
+      "font": "cc2.ttf",
+      "chars": "建空筑置"
+    },
+    {
+      "id": 4400,
+      "font": "cc2.ttf",
+      "chars": "北小往通部镇"
+    },
+    {
+      "id": 4405,
+      "font": "cc2.ttf",
+      "chars": "杂货"
+    },
+    {
+      "id": 4432,
+      "font": "cc2.ttf",
+      "chars": "交公在此站"
+    },
+    {
+      "id": 4539,
+      "font": "cc2.ttf",
+      "chars": "下放"
+    },
+    {
+      "id": 4540,
+      "font": "cc2.ttf",
+      "chars": "前往"
+    },
+    {
+      "id": 4541,
+      "font": "cc2.ttf",
+      "chars": "了别忘"
+    },
+    {
+      "id": 4541,
+      "font": "cc2.ttf",
+      "chars": "下也别它漏"
+    },
+    {
+      "id": 4542,
+      "font": "cc2.ttf",
+      "chars": "一切去失的"
+    },
+    {
+      "id": 4542,
+      "font": "cc2.ttf",
+      "chars": "匙钥"
+    },
+    {
+      "id": 4548,
+      "font": "cc2.ttf",
+      "chars": "下放"
+    },
+    {
+      "id": 4549,
+      "font": "cc2.ttf",
+      "chars": "前往"
+    },
+    {
+      "id": 4550,
+      "font": "cc2.ttf",
+      "chars": "了别忘"
+    },
+    {
+      "id": 4550,
+      "font": "cc2.ttf",
+      "chars": "下也别它漏"
+    },
+    {
+      "id": 4551,
+      "font": "cc2.ttf",
+      "chars": "一切去失的"
+    },
+    {
+      "id": 4551,
+      "font": "cc2.ttf",
+      "chars": "匙钥"
+    },
+    {
+      "id": 4884,
+      "font": "cc2.ttf",
+      "chars": "建空筑置"
+    },
+    {
+      "id": 6697,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6703,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6709,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6729,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6733,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6735,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6738,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6742,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6747,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6753,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6758,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6762,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6770,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6774,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6778,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6782,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6787,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6790,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6802,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6806,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6809,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6813,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6816,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6820,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6825,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6831,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6845,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6848,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6850,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6852,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6879,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6883,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6890,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6894,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6898,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6904,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6909,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6914,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6917,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6920,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6923,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6927,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6931,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6935,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6939,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6946,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6950,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6954,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6956,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6964,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6968,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6975,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6984,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6988,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6991,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 6994,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7163,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7166,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7168,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7170,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7175,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7178,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7181,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7184,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7193,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7197,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7202,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7213,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7218,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7233,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7252,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7255,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7260,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7263,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7270,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7280,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7285,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7290,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7319,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7322,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7331,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7337,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    },
+    {
+      "id": 7340,
+      "font": "cc2.ttf",
+      "chars": "回家开离这里"
+    }
+  ],
+  "special_font_note": "Existing cc2.ttf has no Chinese glyphs. Its settings and file are preserved under the text-only scope. This report does not certify visible rendering of deliberately obscured/styled text.",
+  "main_font_success": true,
+  "special_font_rendering_verified": false
+}

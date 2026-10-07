@@ -1,0 +1,2539 @@
+{
+  "name": "0001-interface-opening-memory",
+  "changes": {
+    "14": {
+      "original": "抵抗: [playerDEF] {color=#ff7c9b}+ [defbuff]{/color}",
+      "target": "防禦: [playerDEF] {color=#ff7c9b}+ [defbuff]{/color}",
+      "file": "battle/battle-screens.rpy",
+      "line": 108
+    },
+    "15": {
+      "original": "抵抗: [playerDEF]",
+      "target": "防禦: [playerDEF]",
+      "file": "battle/battle-screens.rpy",
+      "line": 110
+    },
+    "16": {
+      "original": "就是你",
+      "target": "你",
+      "file": "battle/battle-screens.rpy",
+      "line": 112
+    },
+    "19": {
+      "original": "抵抗: [enemy.DEF]",
+      "target": "防禦: [enemy.DEF]",
+      "file": "battle/battle-screens.rpy",
+      "line": 127
+    },
+    "20": {
+      "original": "錯過",
+      "target": "未命中",
+      "file": "battle/battle-screens.rpy",
+      "line": 255
+    },
+    "21": {
+      "original": "它是： [enemy.name!t].",
+      "target": "對手是 [enemy.name!t]。",
+      "file": "battle/battle-script.rpy",
+      "line": 578
+    },
+    "22": {
+      "original": "它是： [enemy.name!t].",
+      "target": "對手是 [enemy.name!t]。",
+      "file": "battle/battle-script.rpy",
+      "line": 580
+    },
+    "23": {
+      "original": "它是： [enemy.name!t].",
+      "target": "對手是 [enemy.name!t]。",
+      "file": "battle/battle-script.rpy",
+      "line": 611
+    },
+    "24": {
+      "original": "它是：[enemy.name!t].",
+      "target": "對手是 [enemy.name!t]。",
+      "file": "battle/battle-script.rpy",
+      "line": 613
+    },
+    "25": {
+      "original": "你攻擊",
+      "target": "你發動攻擊",
+      "file": "battle/battle-script.rpy",
+      "line": 632
+    },
+    "26": {
+      "original": "你攻擊",
+      "target": "你發動攻擊",
+      "file": "battle/battle-script.rpy",
+      "line": 634
+    },
+    "29": {
+      "original": "強勁一擊",
+      "target": "暴擊",
+      "file": "battle/battle-script.rpy",
+      "line": 686
+    },
+    "30": {
+      "original": "強勁一擊",
+      "target": "暴擊",
+      "file": "battle/battle-script.rpy",
+      "line": 688
+    },
+    "33": {
+      "original": "你正在捍衛",
+      "target": "你進入防禦姿態",
+      "file": "battle/battle-script.rpy",
+      "line": 712
+    },
+    "34": {
+      "original": "你正在捍衛",
+      "target": "你進入防禦姿態",
+      "file": "battle/battle-script.rpy",
+      "line": 714
+    },
+    "35": {
+      "original": "{color=#007dff}已使用藥水{/color}!",
+      "target": "使用了{color=#007dff}藥水{/color}！",
+      "file": "battle/battle-script.rpy",
+      "line": 725
+    },
+    "36": {
+      "original": "{color=#007dff}已使用藥水{/color}!",
+      "target": "使用了{color=#007dff}藥水{/color}！",
+      "file": "battle/battle-script.rpy",
+      "line": 727
+    },
+    "37": {
+      "original": "[enemy.name!t] 攻擊",
+      "target": "[enemy.name!t] 發動攻擊",
+      "file": "battle/battle-script.rpy",
+      "line": 736
+    },
+    "38": {
+      "original": "[enemy.name!t] 攻擊",
+      "target": "[enemy.name!t] 發動攻擊",
+      "file": "battle/battle-script.rpy",
+      "line": 738
+    },
+    "44": {
+      "original": "攻擊突破了你的防禦E",
+      "target": "攻擊突破了你的防禦",
+      "file": "battle/battle-script.rpy",
+      "line": 849
+    },
+    "53": {
+      "original": "你快死了。",
+      "target": "你已經快撐不住了。",
+      "file": "battle/battle-script.rpy",
+      "line": 910
+    },
+    "54": {
+      "original": "你快死了。",
+      "target": "你已經快撐不住了。",
+      "file": "battle/battle-script.rpy",
+      "line": 912
+    },
+    "59": {
+      "original": "[enemy.name!t] 給予 \\n{color=#007dff}[newitem.name!t]{/color}!",
+      "target": "[enemy.name!t] 給了你一個\\n{color=#007dff}[newitem.name!t]{/color}！",
+      "file": "battle/battle-script.rpy",
+      "line": 999
+    },
+    "61": {
+      "original": "超級強勁的打擊",
+      "target": "打擊力極強",
+      "file": "battle/battle-units.rpy",
+      "line": 37
+    },
+    "62": {
+      "original": "持久耐用",
+      "target": "經久耐戰",
+      "file": "battle/battle-units.rpy",
+      "line": 41
+    },
+    "78": {
+      "original": "第二層樓",
+      "target": "重新開始",
+      "file": "screens.rpy",
+      "line": 373
+    },
+    "93": {
+      "original": "窗户",
+      "target": "窗口",
+      "file": "screens.rpy",
+      "line": 959
+    },
+    "96": {
+      "original": "选择之后",
+      "target": "选项后继续快进",
+      "file": "screens.rpy",
+      "line": 967
+    },
+    "97": {
+      "original": "过渡",
+      "target": "转场效果",
+      "file": "screens.rpy",
+      "line": 968
+    },
+    "98": {
+      "original": "艺术作品",
+      "target": "美术作品",
+      "file": "screens.rpy",
+      "line": 970
+    },
+    "100": {
+      "original": "控制",
+      "target": "操作说明",
+      "file": "screens.rpy",
+      "line": 972
+    },
+    "103": {
+      "original": "自动转发时间",
+      "target": "自动阅读等待时间",
+      "file": "screens.rpy",
+      "line": 993
+    },
+    "105": {
+      "original": "音量",
+      "target": "音效音量",
+      "file": "screens.rpy",
+      "line": 1007
+    },
+    "106": {
+      "original": "文本转语音音量",
+      "target": "语音朗读音量",
+      "file": "screens.rpy",
+      "line": 1017
+    },
+    "110": {
+      "original": "电脑鼠标",
+      "target": "鼠标",
+      "file": "screens.rpy",
+      "line": 1218
+    },
+    "112": {
+      "original": "(RRPG) 互动.\\n(STORY) 推进对话并激活界面。.",
+      "target": "(RPG) 互动。\\n(STORY) 推进对话并操作界面。",
+      "file": "screens.rpy",
+      "line": 1235
+    },
+    "114": {
+      "original": "(RPG) 互动.\\n(STORY) 推进对话而不选择选项。",
+      "target": "(RPG) 互动。\\n(STORY) 推进对话，不选择选项。",
+      "file": "screens.rpy",
+      "line": 1239
+    },
+    "116": {
+      "original": "(RPG) 移动。\\n(STORY) 导航界面。.",
+      "target": "(RPG) 移动。\\n(STORY) 操作界面。",
+      "file": "screens.rpy",
+      "line": 1243
+    },
+    "119": {
+      "original": "(RPG) 按住时冲刺。.",
+      "target": "(RPG) 按住以冲刺。",
+      "file": "screens.rpy",
+      "line": 1255
+    },
+    "120": {
+      "original": "切换对话跳过状态。.",
+      "target": "开启或关闭对话快进。",
+      "file": "screens.rpy",
+      "line": 1259
+    },
+    "121": {
+      "original": "回溯至先前对话.",
+      "target": "回看之前的对话。",
+      "file": "screens.rpy",
+      "line": 1263
+    },
+    "122": {
+      "original": "前进至后续对话。",
+      "target": "返回后续对话。",
+      "file": "screens.rpy",
+      "line": 1267
+    },
+    "123": {
+      "original": "隐藏用户界面.",
+      "target": "隐藏界面。",
+      "file": "screens.rpy",
+      "line": 1271
+    },
+    "124": {
+      "original": "(在'故事2DLC'中) 按下时缩小地图",
+      "target": "(在'故事2DLC'中) 按下以缩小地图",
+      "file": "screens.rpy",
+      "line": 1275
+    },
+    "125": {
+      "original": "截取屏幕截图。",
+      "target": "保存屏幕截图。",
+      "file": "screens.rpy",
+      "line": 1279
+    },
+    "126": {
+      "original": "切换辅助语音提示。可能在中国无法使用。",
+      "target": "开启或关闭辅助语音朗读。中文可能无法使用。",
+      "file": "screens.rpy",
+      "line": 1283
+    },
+    "131": {
+      "original": "鼠标滚轮上滚动\\n点击回溯侧",
+      "target": "鼠标滚轮向上\\n点击回溯区域",
+      "file": "screens.rpy",
+      "line": 1297
+    },
+    "133": {
+      "original": "鼠标滚轮下推",
+      "target": "鼠标滚轮向下",
+      "file": "screens.rpy",
+      "line": 1301
+    },
+    "134": {
+      "original": "滚动至后续对话框。",
+      "target": "返回后续对话。",
+      "file": "screens.rpy",
+      "line": 1302
+    },
+    "135": {
+      "original": "右扳机键,\\nA键",
+      "target": "右扳机键、\\nA键",
+      "file": "screens.rpy",
+      "line": 1308
+    },
+    "136": {
+      "original": "(RPG) 互动.\\n(STORY) 推进对话并激活\\n界面。",
+      "target": "(RPG) 互动。\\n(STORY) 推进对话并操作\\n界面。",
+      "file": "screens.rpy",
+      "line": 1309
+    },
+    "138": {
+      "original": "回溯至先前对话。",
+      "target": "回看之前的对话。",
+      "file": "screens.rpy",
+      "line": 1313
+    },
+    "140": {
+      "original": "(在'故事2DLC'中)切换地图缩放（缩小）",
+      "target": "(在'故事2DLC'中) 缩小地图",
+      "file": "screens.rpy",
+      "line": 1317
+    },
+    "142": {
+      "original": "(在'故事2DLC'中) 切换地图缩放（放大）",
+      "target": "(在'故事2DLC'中) 放大地图",
+      "file": "screens.rpy",
+      "line": 1321
+    },
+    "144": {
+      "original": "(RPG) 移动.\\n (STORY) 导航界面.",
+      "target": "(RPG) 移动。\\n(STORY) 操作界面。",
+      "file": "screens.rpy",
+      "line": 1326
+    },
+    "151": {
+      "original": "加速...",
+      "target": "正在快进……",
+      "file": "screens.rpy",
+      "line": 1448
+    },
+    "152": {
+      "original": "您是： [location]",
+      "target": "你现在： [location]",
+      "file": "screens.rpy",
+      "line": 1461
+    },
+    "155": {
+      "original": "我们已经有一段时间没有这样见面了,不是吗？",
+      "target": "好久没这样一起见面了，对吧？",
+      "file": "script.rpy",
+      "line": 524
+    },
+    "156": {
+      "original": "我忘了我给你的昵称,",
+      "target": "我都忘了给你起过什么昵称了，",
+      "file": "script.rpy",
+      "line": 525
+    },
+    "158": {
+      "original": "等等,是的 - 是 [povname]。",
+      "target": "等等，对了——是 [povname]。",
+      "file": "script.rpy",
+      "line": 536
+    },
+    "159": {
+      "original": "等等--是吧？",
+      "target": "等等——咦？",
+      "file": "script.rpy",
+      "line": 538
+    },
+    "160": {
+      "original": "不,不,这不对。你的昵称是 Bee,不是吗？",
+      "target": "不，不对。你的昵称是 Bee，对吧？",
+      "file": "script.rpy",
+      "line": 539
+    },
+    "161": {
+      "original": "啊,我真的应该记住这些东西……",
+      "target": "啊，这种事我真该记牢才对……",
+      "file": "script.rpy",
+      "line": 540
+    },
+    "162": {
+      "original": "无论如何,",
+      "target": "总之，",
+      "file": "script.rpy",
+      "line": 541
+    },
+    "165": {
+      "original": "不再时髦...",
+      "target": "不再是 swazy……",
+      "file": "script.rpy",
+      "line": 558
+    },
+    "166": {
+      "original": "噢,时髦吗？",
+      "target": "哦，swazy？",
+      "file": "script.rpy",
+      "line": 562
+    },
+    "167": {
+      "original": "不再时髦...",
+      "target": "不再是 swazy……",
+      "file": "script.rpy",
+      "line": 568
+    },
+    "168": {
+      "original": "噢,时髦吗？",
+      "target": "哦，swazy？",
+      "file": "script.rpy",
+      "line": 572
+    },
+    "169": {
+      "original": "不再有努希奥...",
+      "target": "不再是 nujioh……",
+      "file": "script.rpy",
+      "line": 578
+    },
+    "170": {
+      "original": "哦,努希奥？",
+      "target": "哦，nujioh？",
+      "file": "script.rpy",
+      "line": 582
+    },
+    "171": {
+      "original": "不再有克鲁西...",
+      "target": "不再是 crusey……",
+      "file": "script.rpy",
+      "line": 588
+    },
+    "172": {
+      "original": "哦,克鲁西？",
+      "target": "哦，crusey？",
+      "file": "script.rpy",
+      "line": 592
+    },
+    "173": {
+      "original": "不再有克鲁西...",
+      "target": "不再是 crusey……",
+      "file": "script.rpy",
+      "line": 598
+    },
+    "174": {
+      "original": "哦,克鲁西？",
+      "target": "哦，crusey？",
+      "file": "script.rpy",
+      "line": 602
+    },
+    "175": {
+      "original": "不再有克鲁西...",
+      "target": "不再是 crusey……",
+      "file": "script.rpy",
+      "line": 608
+    },
+    "176": {
+      "original": "哦,克鲁西？",
+      "target": "哦，crusey？",
+      "file": "script.rpy",
+      "line": 612
+    },
+    "177": {
+      "original": "不再是红宝石...",
+      "target": "不再是 rubyred……",
+      "file": "script.rpy",
+      "line": 618
+    },
+    "178": {
+      "original": "哦,红宝石？",
+      "target": "哦，rubyred？",
+      "file": "script.rpy",
+      "line": 622
+    },
+    "181": {
+      "original": "不再……",
+      "target": "不再是 aftrr……",
+      "file": "script.rpy",
+      "line": 638
+    },
+    "182": {
+      "original": "噢,之后呢？",
+      "target": "哦，aftrr？",
+      "file": "script.rpy",
+      "line": 642
+    },
+    "183": {
+      "original": "不再扎约克了...",
+      "target": "不再是 zayok……",
+      "file": "script.rpy",
+      "line": 648
+    },
+    "184": {
+      "original": "哦,扎约克？",
+      "target": "哦，zayok？",
+      "file": "script.rpy",
+      "line": 652
+    },
+    "185": {
+      "original": "不再是津吉了...",
+      "target": "不再是 tsuyunoshi……",
+      "file": "script.rpy",
+      "line": 658
+    },
+    "186": {
+      "original": "哦,津吉？",
+      "target": "哦，tsuyunoshi？",
+      "file": "script.rpy",
+      "line": 662
+    },
+    "189": {
+      "original": "激活 RE:RAID GBA DLC",
+      "target": "已启用 RE:RAID GBA DLC",
+      "file": "script.rpy",
+      "line": 673
+    },
+    "190": {
+      "original": "你现在扮演一个特殊的皮肤",
+      "target": "你现在使用的是特殊角色皮肤",
+      "file": "script.rpy",
+      "line": 674
+    },
+    "191": {
+      "original": "重新启动故事模式将停用皮肤",
+      "target": "重新开始故事模式会停用这款皮肤",
+      "file": "script.rpy",
+      "line": 675
+    },
+    "192": {
+      "original": "不再有克鲁萨菲克斯...",
+      "target": "不再是 crusafix……",
+      "file": "script.rpy",
+      "line": 681
+    },
+    "193": {
+      "original": "哦,克鲁萨菲克斯？",
+      "target": "哦，crusafix？",
+      "file": "script.rpy",
+      "line": 685
+    },
+    "194": {
+      "original": "不再有克鲁萨菲克斯...",
+      "target": "不再是 crusafix……",
+      "file": "script.rpy",
+      "line": 691
+    },
+    "195": {
+      "original": "哦,克鲁萨菲克斯？",
+      "target": "哦，crusafix？",
+      "file": "script.rpy",
+      "line": 695
+    },
+    "196": {
+      "original": "我不认为就是这样...",
+      "target": "我记得不是这个……",
+      "file": "script.rpy",
+      "line": 705
+    },
+    "198": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 709
+    },
+    "200": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 714
+    },
+    "202": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 719
+    },
+    "204": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 724
+    },
+    "206": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 729
+    },
+    "208": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 734
+    },
+    "210": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 739
+    },
+    "212": {
+      "original": "别再傻了,我知道不是那样的。",
+      "target": "别闹了，我知道不是这个。",
+      "file": "script.rpy",
+      "line": 744
+    },
+    "213": {
+      "original": "与 XIII 含量相比已被停用。",
+      "target": "已停用 VERSUS XIII 内容。",
+      "file": "script.rpy",
+      "line": 752
+    },
+    "214": {
+      "original": "与 XIII 含量相比已被激活。",
+      "target": "已启用 VERSUS XIII 内容。",
+      "file": "script.rpy",
+      "line": 756
+    },
+    "215": {
+      "original": "请再次输入代码以停用它。",
+      "target": "再次输入同一代码即可停用。",
+      "file": "script.rpy",
+      "line": 757
+    },
+    "216": {
+      "original": "某扇门已经移动了...",
+      "target": "某扇门发生了变化……",
+      "file": "script.rpy",
+      "line": 758
+    },
+    "219": {
+      "original": "（请再次输入代码以停用它。)",
+      "target": "（再次输入同一代码即可停用。）",
+      "file": "script.rpy",
+      "line": 776
+    },
+    "222": {
+      "original": "（请再次输入代码以停用它。)",
+      "target": "（再次输入同一代码即可停用。）",
+      "file": "script.rpy",
+      "line": 788
+    },
+    "225": {
+      "original": "（请再次输入代码以停用它。)",
+      "target": "（再次输入同一代码即可停用。）",
+      "file": "script.rpy",
+      "line": 800
+    },
+    "228": {
+      "original": "（请再次输入代码以停用它。)",
+      "target": "（再次输入同一代码即可停用。）",
+      "file": "script.rpy",
+      "line": 812
+    },
+    "231": {
+      "original": "（请再次输入代码以停用它。)",
+      "target": "（再次输入同一代码即可停用。）",
+      "file": "script.rpy",
+      "line": 824
+    },
+    "234": {
+      "original": "（请再次输入代码以停用它。)",
+      "target": "（再次输入同一代码即可停用。）",
+      "file": "script.rpy",
+      "line": 836
+    },
+    "235": {
+      "original": "你不再是道岛的龙了",
+      "target": "你不再是堂岛之龙了",
+      "file": "script.rpy",
+      "line": 842
+    },
+    "236": {
+      "original": "你是道岛的龙吗？！",
+      "target": "你是堂岛之龙？！",
+      "file": "script.rpy",
+      "line": 846
+    },
+    "237": {
+      "original": "你不再是道岛的龙了",
+      "target": "你不再是堂岛之龙了",
+      "file": "script.rpy",
+      "line": 852
+    },
+    "238": {
+      "original": "你是道岛的龙吗？！",
+      "target": "你是堂岛之龙？！",
+      "file": "script.rpy",
+      "line": 856
+    },
+    "239": {
+      "original": "你不再是道岛的龙了",
+      "target": "你不再是堂岛之龙了",
+      "file": "script.rpy",
+      "line": 862
+    },
+    "240": {
+      "original": "你是道岛的龙吗？！",
+      "target": "你是堂岛之龙？！",
+      "file": "script.rpy",
+      "line": 866
+    },
+    "241": {
+      "original": "你待很久吗？我们可以去吃点东西",
+      "target": "这次会待很久吗？我们可以去吃点东西。",
+      "file": "script.rpy",
+      "line": 869
+    },
+    "242": {
+      "original": "距离你上次来这里已经一年了。",
+      "target": "距你上次来这里，已经过了一年。",
+      "file": "script.rpy",
+      "line": 872
+    },
+    "243": {
+      "original": "你和家人一起搬走了,但事情又发生了变化。",
+      "target": "你曾和家人一起搬走，可如今情况又变了。",
+      "file": "script.rpy",
+      "line": 873
+    },
+    "244": {
+      "original": "你将在这个小镇停留很长时间。",
+      "target": "这次，你要在这个小镇住上很长一段时间。",
+      "file": "script.rpy",
+      "line": 874
+    },
+    "245": {
+      "original": "并不是你想让他们知道这一点。",
+      "target": "只是，你并不想让对方知道。",
+      "file": "script.rpy",
+      "line": 876
+    },
+    "248": {
+      "original": "你向旁边瞥了一眼,什么也没说。",
+      "target": "你望向一旁，没有说话。",
+      "file": "script.rpy",
+      "line": 887
+    },
+    "249": {
+      "original": "我想我会认为这是肯定的。",
+      "target": "那我就当你答应了吧。",
+      "file": "script.rpy",
+      "line": 889
+    },
+    "250": {
+      "original": "跟我来,最近有一个新地方开业了。",
+      "target": "跟我来，最近新开了家店。",
+      "file": "script.rpy",
+      "line": 895
+    },
+    "251": {
+      "original": "他们开始沿着路走,示意你跟着走。",
+      "target": "对方沿着路往前走，招手示意你跟上。",
+      "file": "script.rpy",
+      "line": 897
+    },
+    "252": {
+      "original": "你不想,但是-",
+      "target": "你并不想去，可是——",
+      "file": "script.rpy",
+      "line": 898
+    },
+    "253": {
+      "original": "...你没有理由不服从。",
+      "target": "……你也没有理由拒绝。",
+      "file": "script.rpy",
+      "line": 900
+    },
+    "254": {
+      "original": "那很好,不是吗",
+      "target": "这顿吃得不错吧？",
+      "file": "script.rpy",
+      "line": 904
+    },
+    "255": {
+      "original": "已经有一段时间没有一起吃饭了",
+      "target": "好久没一起吃饭了。",
+      "file": "script.rpy",
+      "line": 905
+    },
+    "256": {
+      "original": "不过你应该多说话,默默地吃饭很尴尬。",
+      "target": "不过，你也多说几句嘛。一直闷头吃饭，怪尴尬的。",
+      "file": "script.rpy",
+      "line": 906
+    },
+    "257": {
+      "original": "我想我们现在应该回家了,是的",
+      "target": "差不多该回家了吧。",
+      "file": "script.rpy",
+      "line": 914
+    },
+    "258": {
+      "original": "你开始走得更快一些,渴望回去。",
+      "target": "你加快脚步，急着回去。",
+      "file": "script.rpy",
+      "line": 916
+    },
+    "259": {
+      "original": "他们已经停在你身后了。你转身面对他们",
+      "target": "对方在你身后停了下来。你转过身。",
+      "file": "script.rpy",
+      "line": 920
+    },
+    "260": {
+      "original": "嘿,那么..",
+      "target": "嘿，那个……",
+      "file": "script.rpy",
+      "line": 923
+    },
+    "261": {
+      "original": "我一直想提起这件事,,",
+      "target": "有件事，我一直想跟你说……",
+      "file": "script.rpy",
+      "line": 924
+    },
+    "263": {
+      "original": "你还记得我们的承诺,对吧？",
+      "target": "你还记得我们的约定，对吧？",
+      "file": "script.rpy",
+      "line": 929
+    },
+    "264": {
+      "original": "你真的想忘记它",
+      "target": "你真的很想忘掉。",
+      "file": "script.rpy",
+      "line": 932
+    },
+    "268": {
+      "original": "不,我在骗谁呢。你不可能忘记",
+      "target": "不，我骗谁呢。你怎么可能忘。",
+      "file": "script.rpy",
+      "line": 943
+    },
+    "269": {
+      "original": "毕竟,",
+      "target": "毕竟，",
+      "file": "script.rpy",
+      "line": 944
+    },
+    "270": {
+      "original": "你是来和我在一起的,不是吗？",
+      "target": "你是回来陪我的，对吧？",
+      "file": "script.rpy",
+      "line": 948
+    },
+    "271": {
+      "original": "这就是你决定回来的原因,对吧？",
+      "target": "你就是为这个才回来的，对吧？",
+      "file": "script.rpy",
+      "line": 951
+    },
+    "272": {
+      "original": "让我开心",
+      "target": "为了让我开心。",
+      "file": "script.rpy",
+      "line": 953
+    },
+    "273": {
+      "original": "就像你向我承诺的那样。",
+      "target": "就像你答应过我的那样。",
+      "file": "script.rpy",
+      "line": 957
+    },
+    "274": {
+      "original": "你并不确切知道你在哪里。",
+      "target": "你说不清自己究竟在哪儿。",
+      "file": "script.rpy",
+      "line": 987
+    },
+    "277": {
+      "original": "感觉就像水一样,但你应该小心。",
+      "target": "摸起来像水，不过还是小心为好。",
+      "file": "script.rpy",
+      "line": 1005
+    },
+    "278": {
+      "original": "你决定不再进一步深入其中。",
+      "target": "你决定不再往里走。",
+      "file": "script.rpy",
+      "line": 1006
+    },
+    "279": {
+      "original": "这是一个流浪的花盆。",
+      "target": "这里有一盆孤零零的花。",
+      "file": "script.rpy",
+      "line": 1012
+    },
+    "280": {
+      "original": "花朵感觉仿佛悬浮在时间之中。",
+      "target": "花朵仿佛凝固在了时间里。",
+      "file": "script.rpy",
+      "line": 1013
+    },
+    "281": {
+      "original": "但他们似乎仍在坚持",
+      "target": "可它们似乎还在勉强支撑。",
+      "file": "script.rpy",
+      "line": 1014
+    },
+    "285": {
+      "original": "您无法辨认标志上的大部分文字。",
+      "target": "牌子上的字，你大多都认不出来。",
+      "file": "script.rpy",
+      "line": 1039
+    },
+    "286": {
+      "original": "您可以看到字母“m-mo-ie- st-ra--”,但其余部分被遮挡。",
+      "target": "你勉强看得出‘m-mo-ie- st-ra--’，其余字母都被遮住了。",
+      "file": "script.rpy",
+      "line": 1041
+    },
+    "287": {
+      "original": "似乎已经有一段时间没有人来过这里了。",
+      "target": "这里似乎已经很久没人来过了。",
+      "file": "script.rpy",
+      "line": 1043
+    },
+    "289": {
+      "original": "这是一个储物架。。",
+      "target": "这是一个储物架。",
+      "file": "script.rpy",
+      "line": 1055
+    },
+    "290": {
+      "original": "它从地面获取了大量……补给？",
+      "target": "上面堆着不少……从地表运来的物资？",
+      "file": "script.rpy",
+      "line": 1056
+    },
+    "291": {
+      "original": "...奇怪的",
+      "target": "……真奇怪。",
+      "file": "script.rpy",
+      "line": 1057
+    },
+    "292": {
+      "original": "这是一个小储物架。。",
+      "target": "这是一个小储物架。",
+      "file": "script.rpy",
+      "line": 1063
+    },
+    "293": {
+      "original": "上面有几本书。。 你拿一个..",
+      "target": "上面放着几本书。你拿起一本。",
+      "file": "script.rpy",
+      "line": 1064
+    },
+    "294": {
+      "original": "{font=cc2.ttf}备份计划:.{/font}",
+      "target": "{font=cc2.ttf}备用方案：{/font}",
+      "file": "script.rpy",
+      "line": 1065
+    },
+    "295": {
+      "original": "{font=cc2.ttf}如果他们发现自己正在睡觉,则启动重置{/font}",
+      "target": "{font=cc2.ttf}若他们发现自己正在沉睡，启动重置{/font}",
+      "file": "script.rpy",
+      "line": 1066
+    },
+    "296": {
+      "original": "{font=cc2.ttf}让他们一次又一次地停留在梦中{/font}",
+      "target": "{font=cc2.ttf}让他们困在梦中，一遍又一遍{/font}",
+      "file": "script.rpy",
+      "line": 1067
+    },
+    "298": {
+      "original": "这是一个储物架。。",
+      "target": "这是一个储物架。",
+      "file": "script.rpy",
+      "line": 1074
+    },
+    "299": {
+      "original": "它有大量随机物资和文件。",
+      "target": "上面堆着各种杂物和文件。",
+      "file": "script.rpy",
+      "line": 1075
+    },
+    "300": {
+      "original": "你在顶层书架上发现一本书-",
+      "target": "你注意到最上层有一本书——",
+      "file": "script.rpy",
+      "line": 1076
+    },
+    "301": {
+      "original": "如何访问内存深度",
+      "target": "如何进入记忆深处",
+      "file": "script.rpy",
+      "line": 1077
+    },
+    "302": {
+      "original": "...对你来说似乎很熟悉。",
+      "target": "……你莫名觉得熟悉。",
+      "file": "script.rpy",
+      "line": 1078
+    },
+    "303": {
+      "original": "你别管这本书了。",
+      "target": "你没有碰那本书。",
+      "file": "script.rpy",
+      "line": 1079
+    },
+    "304": {
+      "original": "这是一个储物架。。",
+      "target": "这是一个储物架。",
+      "file": "script.rpy",
+      "line": 1085
+    },
+    "305": {
+      "original": "它堆满了盒子...",
+      "target": "上面堆满了箱子……",
+      "file": "script.rpy",
+      "line": 1086
+    },
+    "309": {
+      "original": "这是一个储物架,里面有一吨箱子……",
+      "target": "这是一个储物架，上面堆着许多箱子……",
+      "file": "script.rpy",
+      "line": 1099
+    },
+    "310": {
+      "original": "其中一个盒子后面有一个毛绒玩具？",
+      "target": "有个箱子后面……藏着一只毛绒玩具？",
+      "file": "script.rpy",
+      "line": 1100
+    },
+    "311": {
+      "original": "你把毛绒玩具拉出来。",
+      "target": "你把毛绒玩具拿了出来。",
+      "file": "script.rpy",
+      "line": 1101
+    },
+    "313": {
+      "original": "看起来像你很久很久以前失去的那个",
+      "target": "看起来，像是你很久很久以前弄丢的那一只。",
+      "file": "script.rpy",
+      "line": 1103
+    },
+    "314": {
+      "original": "它甚至还有同样的磨损",
+      "target": "连磨损的痕迹都一样。",
+      "file": "script.rpy",
+      "line": 1104
+    },
+    "315": {
+      "original": "你可能不应该,但你决定带上毛绒玩具",
+      "target": "也许不该这么做，但你还是决定把它带走。",
+      "file": "script.rpy",
+      "line": 1106
+    },
+    "316": {
+      "original": "你应该把它存放在家里……",
+      "target": "你应该把它放在家里……",
+      "file": "script.rpy",
+      "line": 1108
+    },
+    "317": {
+      "original": "你可能应该找个地方存放它",
+      "target": "你得找个地方把它放好。",
+      "file": "script.rpy",
+      "line": 1112
+    },
+    "320": {
+      "original": "触摸可能会对表面世界连接造成干扰",
+      "target": "触碰可能干扰与地表世界的连接",
+      "file": "script.rpy",
+      "line": 1122
+    },
+    "321": {
+      "original": "这里有一个标志……",
+      "target": "这里……有块牌子……",
+      "file": "script.rpy",
+      "line": 1128
+    },
+    "324": {
+      "original": "...有些文字无法阅读",
+      "target": "……有些字看不清。",
+      "file": "script.rpy",
+      "line": 1141
+    },
+    "326": {
+      "original": "...奇怪的",
+      "target": "……真奇怪。",
+      "file": "script.rpy",
+      "line": 1143
+    },
+    "327": {
+      "original": "前爆发",
+      "target": "EX BURST",
+      "file": "script.rpy",
+      "line": 1149
+    },
+    "328": {
+      "original": "这似乎是某种餐厅",
+      "target": "这里似乎是一家餐厅。",
+      "file": "script.rpy",
+      "line": 1150
+    },
+    "334": {
+      "original": "{font=cc2.ttf}水{/font}城市",
+      "target": "{font=cc2.ttf}水{/font}城",
+      "file": "script.rpy",
+      "line": 1186
+    },
+    "335": {
+      "original": "... 您无法阅读全名。。",
+      "target": "……完整的名字看不清。",
+      "file": "script.rpy",
+      "line": 1187
+    },
+    "336": {
+      "original": "... 您无法阅读全名。。",
+      "target": "……完整的名字看不清。",
+      "file": "script.rpy",
+      "line": 1194
+    },
+    "338": {
+      "original": "供应储存",
+      "target": "物资仓库",
+      "file": "script.rpy",
+      "line": 1206
+    },
+    "340": {
+      "original": "<- 存储,主页",
+      "target": "<- 仓库，家",
+      "file": "script.rpy",
+      "line": 1218
+    },
+    "342": {
+      "original": "进入前方深处。",
+      "target": "前方通往深处。",
+      "file": "script.rpy",
+      "line": 1225
+    },
+    "344": {
+      "original": "感觉不像是最初来自这里",
+      "target": "它似乎原本并不属于这里。",
+      "file": "script.rpy",
+      "line": 1232
+    },
+    "346": {
+      "original": "你并不是特别想坐在上面。。",
+      "target": "你不怎么想坐上去。",
+      "file": "script.rpy",
+      "line": 1239
+    },
+    "347": {
+      "original": "这里有一道屏障阻止你进入厨房……",
+      "target": "这里有道屏障，挡住了通往厨房的路……",
+      "file": "script.rpy",
+      "line": 1245
+    },
+    "348": {
+      "original": "...你在水下怎么煮东西？？",
+      "target": "……在水底下，到底要怎么做饭？？",
+      "file": "script.rpy",
+      "line": 1246
+    },
+    "353": {
+      "original": "看起来这个地方是最近才开业的。",
+      "target": "看起来，这里开业没多久。",
+      "file": "script.rpy",
+      "line": 1262
+    },
+    "354": {
+      "original": "那里似乎有一根大柱子的残骸",
+      "target": "这里留着一根巨柱的残骸。",
+      "file": "script.rpy",
+      "line": 1268
+    },
+    "355": {
+      "original": "迷宫的终结。",
+      "target": "迷宫尽头。",
+      "file": "script.rpy",
+      "line": 1274
+    },
+    "356": {
+      "original": "你最终会到达那里",
+      "target": "你终究会到达那里。",
+      "file": "script.rpy",
+      "line": 1280
+    },
+    "363": {
+      "original": "对:？？？？->",
+      "target": "右：???? ->",
+      "file": "script.rpy",
+      "line": 1321
+    },
+    "364": {
+      "original": "致- ",
+      "target": "通往—— ",
+      "file": "script.rpy",
+      "line": 1327
+    },
+    "365": {
+      "original": "其余文本被划掉",
+      "target": "后面的字都被划掉了。",
+      "file": "script.rpy",
+      "line": 1329
+    },
+    "366": {
+      "original": "它会发光,但你感觉不到任何热量",
+      "target": "它发着光，却没有一点热度。",
+      "file": "script.rpy",
+      "line": 1335
+    },
+    "368": {
+      "original": "你认为你可以看到一些星星",
+      "target": "你觉得自己似乎看见了几颗星星。",
+      "file": "script.rpy",
+      "line": 1342
+    },
+    "372": {
+      "original": "前两个字似乎无法阅读。。",
+      "target": "前两个词似乎看不清。",
+      "file": "script.rpy",
+      "line": 1352
+    },
+    "373": {
+      "original": "当全部为空时,仅留下底部",
+      "target": "当一切空无一物，唯余底部",
+      "file": "script.rpy",
+      "line": 1353
+    },
+    "376": {
+      "original": "...这两个词重复出现直到页面结束。",
+      "target": "……这两个词反复出现，直到页尾。",
+      "file": "script.rpy",
+      "line": 1357
+    },
+    "377": {
+      "original": "底部有一个签名",
+      "target": "下方有一个签名。",
+      "file": "script.rpy",
+      "line": 1359
+    },
+    "382": {
+      "original": "它描绘了一只用长满苔藓的石头做成的手,手掌上漂浮着一位纯白色的天使",
+      "target": "画中是一只长满苔藓的石手，掌心上方悬着一位纯白的天使。",
+      "file": "script.rpy",
+      "line": 1386
+    },
+    "384": {
+      "original": "你感觉好像还记得艺术品的名字。。",
+      "target": "你觉得自己应该还记得这幅画的名字……",
+      "file": "script.rpy",
+      "line": 1389
+    },
+    "385": {
+      "original": "..你以前读过它,但它让你滑舌。",
+      "target": "……你以前读过，可现在话到嘴边，又想不起来了。",
+      "file": "script.rpy",
+      "line": 1390
+    },
+    "388": {
+      "original": "...至少你认为你有",
+      "target": "……至少，你觉得自己来过。",
+      "file": "script.rpy",
+      "line": 1404
+    },
+    "392": {
+      "original": "空间如此之大,却又如此空虚",
+      "target": "这么大的地方，却空空荡荡。",
+      "file": "script.rpy",
+      "line": 1410
+    },
+    "394": {
+      "original": "...或者也许这就是这里曾经的一切",
+      "target": "……也许，这里原本就只有这些。",
+      "file": "script.rpy",
+      "line": 1412
+    },
+    "396": {
+      "original": "你认为--它似乎没有生命",
+      "target": "你心想——它似乎没有生命。",
+      "file": "script.rpy",
+      "line": 1420
+    },
+    "399": {
+      "original": "它不会移动,但你可以感觉到它在尝试",
+      "target": "它一动不动，你却能感到它正努力尝试。",
+      "file": "script.rpy",
+      "line": 1440
+    },
+    "400": {
+      "original": "就好像它想联系你一样",
+      "target": "仿佛想向你伸出手。",
+      "file": "script.rpy",
+      "line": 1442
+    },
+    "406": {
+      "original": "再多一点...悲伤",
+      "target": "只是显得……更悲伤一些。",
+      "file": "script.rpy",
+      "line": 1465
+    },
+    "407": {
+      "original": "你觉得它不合适",
+      "target": "你觉得它与这里格格不入。",
+      "file": "script.rpy",
+      "line": 1467
+    },
+    "410": {
+      "original": "读书？",
+      "target": "要读一本吗？",
+      "file": "script.rpy",
+      "line": 1481
+    },
+    "414": {
+      "original": "把书留下",
+      "target": "不动这些书",
+      "file": "script.rpy",
+      "line": 1489
+    },
+    "415": {
+      "original": "你决定保持书籍原样。",
+      "target": "你决定不碰这些书。",
+      "file": "script.rpy",
+      "line": 1491
+    },
+    "417": {
+      "original": "这是一个书架,里面摆满了无数本灰色的书……其中一本略带红色光泽。",
+      "target": "书架上摆满了灰色的书……有一本泛着淡淡的红光。",
+      "file": "script.rpy",
+      "line": 1501
+    },
+    "418": {
+      "original": "读书？",
+      "target": "要读一本吗？",
+      "file": "script.rpy",
+      "line": 1504
+    },
+    "421": {
+      "original": "这个叫‘临时房间’……",
+      "target": "书名是‘时空房间’……",
+      "file": "script.rpy",
+      "line": 1508
+    },
+    "422": {
+      "original": "第一页有一个单数词。",
+      "target": "第一页只写着一个词。",
+      "file": "script.rpy",
+      "line": 1510
+    },
+    "425": {
+      "original": "把书留下",
+      "target": "不动这些书",
+      "file": "script.rpy",
+      "line": 1516
+    },
+    "426": {
+      "original": "你决定保持书籍原样。",
+      "target": "你决定不碰这些书。",
+      "file": "script.rpy",
+      "line": 1518
+    },
+    "429": {
+      "original": "它停用...",
+      "target": "它关闭了……",
+      "file": "script.rpy",
+      "line": 1533
+    },
+    "430": {
+      "original": "密码锁重新打开。。",
+      "target": "密码锁重新启用了……",
+      "file": "script.rpy",
+      "line": 1534
+    },
+    "431": {
+      "original": "你听到有东西激活了",
+      "target": "你听见某个装置启动的声音。",
+      "file": "script.rpy",
+      "line": 1538
+    },
+    "432": {
+      "original": "再往前走,房间里的一扇门听起来像是没锁的。",
+      "target": "听声音，前面某个房间的门锁打开了。",
+      "file": "script.rpy",
+      "line": 1539
+    },
+    "433": {
+      "original": "你觉得这个大厅永远持续下去",
+      "target": "你觉得这条长廊没有尽头。",
+      "file": "script.rpy",
+      "line": 1578
+    },
+    "434": {
+      "original": "你可以看到前方的东西",
+      "target": "你看见前方有什么东西。",
+      "file": "script.rpy",
+      "line": 1588
+    },
+    "435": {
+      "original": "你内心有些东西感觉不对劲",
+      "target": "你隐约感到，心里有些不对劲。",
+      "file": "script.rpy",
+      "line": 1590
+    },
+    "436": {
+      "original": "你可以看到前方有一道巨大的光芒",
+      "target": "前方亮起一道强光。",
+      "file": "script.rpy",
+      "line": 1600
+    },
+    "437": {
+      "original": "几乎令人眼花缭乱",
+      "target": "几乎刺得你睁不开眼。",
+      "file": "script.rpy",
+      "line": 1602
+    },
+    "442": {
+      "original": "你就让他们自己去吧。",
+      "target": "你没有碰那些书。",
+      "file": "script.rpy",
+      "line": 1628
+    },
+    "447": {
+      "original": "谢谢大家的支持,希望大家喜欢宣誓！",
+      "target": "感谢你的支持，希望你喜欢《誓言》！",
+      "file": "script.rpy",
+      "line": 1771
+    },
+    "448": {
+      "original": "在这里您可以收听“collapse w/ Self Discovery”和“raid ft。swazy*”",
+      "target": "在这里，你可以听到‘collapse w/ Self Discovery’和‘raid ft. swazy*’。",
+      "file": "script.rpy",
+      "line": 1772
+    },
+    "449": {
+      "original": "只需与任一雕像互动即可开始相应的歌曲",
+      "target": "与其中一座雕像互动，就能播放对应的歌曲。",
+      "file": "script.rpy",
+      "line": 1773
+    },
+    "450": {
+      "original": "与此标志互动也会重置音乐。",
+      "target": "与这块牌子互动，也会重置音乐。",
+      "file": "script.rpy",
+      "line": 1774
+    },
+    "451": {
+      "original": "再次使用代码禁用内容以便能够重新锁定此房间。",
+      "target": "再次输入代码停用这部分内容，就能重新锁上这个房间。",
+      "file": "script.rpy",
+      "line": 1775
+    },
+    "452": {
+      "original": "这样做将使您能够使用不同的密码并再次进入不同的时间房间。",
+      "target": "这样，你就可以尝试其他密码，再次进入不同的时空房间。",
+      "file": "script.rpy",
+      "line": 1776
+    },
+    "454": {
+      "original": "正在播放:COLLAPSE 与 SELF DISCOVERY",
+      "target": "正在播放：COLLAPSE w/ SELF DISCOVERY",
+      "file": "script.rpy",
+      "line": 1783
+    },
+    "455": {
+      "original": "正在播放:RAID FT。SWAZY*",
+      "target": "正在播放：RAID FT. SWAZY*",
+      "file": "script.rpy",
+      "line": 1790
+    },
+    "457": {
+      "original": "似乎有一把锁阻止你进入。。",
+      "target": "门上似乎有把锁，挡住了去路……",
+      "file": "script.rpy",
+      "line": 1799
+    },
+    "458": {
+      "original": "钥匙解锁了通道。。",
+      "target": "钥匙打开了通道……",
+      "file": "script.rpy",
+      "line": 1802
+    },
+    "460": {
+      "original": "你似乎记得在之前的房间里看到过一些闪亮的东西",
+      "target": "你隐约记得，之前某个房间里有件闪闪发亮的东西。",
+      "file": "script.rpy",
+      "line": 1808
+    },
+    "461": {
+      "original": "也许这就是关键？",
+      "target": "也许，那就是钥匙？",
+      "file": "script.rpy",
+      "line": 1809
+    },
+    "462": {
+      "original": "你考虑去检查一下..",
+      "target": "你考虑回去找找……",
+      "file": "script.rpy",
+      "line": 1810
+    },
+    "463": {
+      "original": "这些废墟中有一个奇怪的门口",
+      "target": "这片废墟里有一道奇怪的门。",
+      "file": "script.rpy",
+      "line": 1818
+    },
+    "465": {
+      "original": "似乎有一把锁阻止你进入。。",
+      "target": "门上似乎有把锁，挡住了去路……",
+      "file": "script.rpy",
+      "line": 1829
+    },
+    "466": {
+      "original": "你找到的钥匙适合钥匙孔",
+      "target": "你找到的钥匙正好能插进锁孔。",
+      "file": "script.rpy",
+      "line": 1833
+    },
+    "470": {
+      "original": "到:内存深度",
+      "target": "通往：记忆深处",
+      "file": "script.rpy",
+      "line": 1852
+    },
+    "471": {
+      "original": "到:内存核心",
+      "target": "通往：记忆核心",
+      "file": "script.rpy",
+      "line": 1858
+    },
+    "472": {
+      "original": "记忆力很好",
+      "target": "记忆之井",
+      "file": "script.rpy",
+      "line": 1864
+    },
+    "473": {
+      "original": "内存深度",
+      "target": "记忆深处",
+      "file": "script.rpy",
+      "line": 1870
+    },
+    "475": {
+      "original": "- 临时房间 -",
+      "target": "- 时空房间 -",
+      "file": "script.rpy",
+      "line": 1877
+    },
+    "476": {
+      "original": "时间空间是一个不断变化的空间。",
+      "target": "时空房间是一个不断变化的空间。",
+      "file": "script.rpy",
+      "line": 1878
+    },
+    "477": {
+      "original": "通过记住有意义的关键词来重新审视以前的记忆。",
+      "target": "想起那些具有意义的关键词，便能重访过往的记忆。",
+      "file": "script.rpy",
+      "line": 1879
+    },
+    "478": {
+      "original": "上述关键词可以在你的脑海中找到,或者有时,",
+      "target": "这些关键词藏在你的心里，有时也藏在，",
+      "file": "script.rpy",
+      "line": 1880
+    },
+    "480": {
+      "original": "...你感觉你以前听说过这个名字。",
+      "target": "……你觉得自己曾在什么地方听过这个名字。",
+      "file": "script.rpy",
+      "line": 1883
+    },
+    "481": {
+      "original": "您访问过附近的地方。",
+      "target": "就在附近，一个你去过的地方。",
+      "file": "script.rpy",
+      "line": 1884
+    },
+    "485": {
+      "original": "- 时间覆盖 -",
+      "target": "- 时空覆盖 -",
+      "file": "script.rpy",
+      "line": 1894
+    },
+    "486": {
+      "original": "内存丢失时的故障保护,",
+      "target": "这是记忆丢失时的备用保护措施，",
+      "file": "script.rpy",
+      "line": 1895
+    },
+    "487": {
+      "original": "可以使用隐藏开关访问故障安全室",
+      "target": "通过隐藏开关，可以进入应急房间。",
+      "file": "script.rpy",
+      "line": 1896
+    },
+    "488": {
+      "original": "通过回忆过去,可以揭示该开关的下落",
+      "target": "回忆过去，便能找到那个开关。",
+      "file": "script.rpy",
+      "line": 1897
+    },
+    "489": {
+      "original": "在此之前的一个项目 - 输入其名称以显示您的路径。",
+      "target": "在这之前的一部作品——输入它的名字，便能找到前路。",
+      "file": "script.rpy",
+      "line": 1898
+    },
+    "491": {
+      "original": "...艾米？",
+      "target": "……eimi？",
+      "file": "script.rpy",
+      "line": 1902
+    },
+    "492": {
+      "original": "你不确定在哪里,但你记得某本书里的名字。",
+      "target": "你想不起在哪儿见过，不过记得某本书里出现过这个名字。",
+      "file": "script.rpy",
+      "line": 1903
+    },
+    "493": {
+      "original": "也许这就是您需要的输入。。",
+      "target": "也许，这就是该输入的内容……",
+      "file": "script.rpy",
+      "line": 1904
+    },
+    "495": {
+      "original": "也许您应该在锁着的门上尝试不同的密码？",
+      "target": "也许，该在那扇锁住的门上试试别的密码？",
+      "file": "script.rpy",
+      "line": 1907
+    },
+    "497": {
+      "original": "- 内存核心 -",
+      "target": "- 记忆核心 -",
+      "file": "script.rpy",
+      "line": 1915
+    },
+    "499": {
+      "original": "存储器核心包含一个井,其中",
+      "target": "记忆核心中有一口井，井中容纳着，",
+      "file": "script.rpy",
+      "line": 1917
+    },
+    "500": {
+      "original": "所有过去、现在和未来都居住在那里",
+      "target": "所有过去、现在与未来。",
+      "file": "script.rpy",
+      "line": 1918
+    },
+    "501": {
+      "original": "眺望中心可以让您一睹为快",
+      "target": "凝视井的中心，便能窥见，",
+      "file": "script.rpy",
+      "line": 1919
+    },
+    "502": {
+      "original": "进入你的记忆——无论你是否已经拥有它们。",
+      "target": "自己的记忆——无论你是否已经经历过。",
+      "file": "script.rpy",
+      "line": 1920
+    },
+    "503": {
+      "original": "核心本身位于顶部。",
+      "target": "最上方，是核心本身。",
+      "file": "script.rpy",
+      "line": 1921
+    },
+    "506": {
+      "original": "警告不要掉进记忆的井里",
+      "target": "警告：不要坠入记忆之井。",
+      "file": "script.rpy",
+      "line": 1926
+    },
+    "507": {
+      "original": "否则你可能会被困住",
+      "target": "否则，你可能会被困在那里，",
+      "file": "script.rpy",
+      "line": 1927
+    },
+    "508": {
+      "original": "关于将要发生的事和已经发生的事情。",
+      "target": "永远沉溺于将要发生的事与已经发生的事。",
+      "file": "script.rpy",
+      "line": 1929
+    },
+    "510": {
+      "original": "这句话让你感到困惑……你感到有点害怕。",
+      "target": "书里的话让你困惑……也有些害怕。",
+      "file": "script.rpy",
+      "line": 1933
+    },
+    "512": {
+      "original": "...它看起来很老",
+      "target": "……它看起来年代久远。",
+      "file": "script.rpy",
+      "line": 1941
+    },
+    "517": {
+      "original": "可以看到一个朦胧的身影…… 它看起来和你很像。",
+      "target": "你看见一个模糊的身影……和你很像。",
+      "file": "script.rpy",
+      "line": 1957
+    },
+    "518": {
+      "original": "除了...年纪大一点。",
+      "target": "只是……年龄更大。",
+      "file": "script.rpy",
+      "line": 1958
+    },
+    "523": {
+      "original": "你意识到你手里拿着一张写有无法阅读的文字的石板。",
+      "target": "你这才发现，自己正拿着一块石板，上面的字却看不懂。",
+      "file": "script.rpy",
+      "line": 1971
+    },
+    "525": {
+      "original": "这些文本.. 来自前世。",
+      "target": "这些文字……来自前世。",
+      "file": "script.rpy",
+      "line": 1974
+    },
+    "526": {
+      "original": "一个来自你已经去世的纪念",
+      "target": "来自那个已经死去的你的记忆。",
+      "file": "script.rpy",
+      "line": 1976
+    },
+    "528": {
+      "original": "紧紧抓住那篇文章。",
+      "target": "好好保管这些文字。",
+      "file": "script.rpy",
+      "line": 1980
+    },
+    "529": {
+      "original": "这可能是你之前留下的全部",
+      "target": "它们可能是曾经的你留下的唯一痕迹。",
+      "file": "script.rpy",
+      "line": 1982
+    },
+    "531": {
+      "original": "你看到的图形逐渐淡回不断变化的蓝色",
+      "target": "那个身影渐渐消失，重新融进流动的蓝色。",
+      "file": "script.rpy",
+      "line": 1988
+    },
+    "532": {
+      "original": "你感到一种紧迫感在你心中升起",
+      "target": "你心底升起一阵急迫。",
+      "file": "script.rpy",
+      "line": 1989
+    },
+    "537": {
+      "original": "您只需借助梯子就能到达那里。",
+      "target": "借着梯子，你勉强能够到它。",
+      "file": "script.rpy",
+      "line": 2009
+    },
+    "541": {
+      "original": ".... 艾米？",
+      "target": "……EIMI？",
+      "file": "script.rpy",
+      "line": 2016
+    },
+    "542": {
+      "original": ".... 艾米？",
+      "target": "……EIMI？",
+      "file": "script.rpy",
+      "line": 2018
+    },
+    "546": {
+      "original": "- 临时房间:艺术家第 2 部分 -",
+      "target": "- 时空房间：艺术家 第二部分 -",
+      "file": "script.rpy",
+      "line": 2028
+    },
+    "547": {
+      "original": "临时房间有一个地方可以观看记忆中的所有艺术家",
+      "target": "时空房间中，有一处能看到记忆里的所有艺术家。",
+      "file": "script.rpy",
+      "line": 2029
+    },
+    "548": {
+      "original": "如果过去被遗忘,请尝试用“全部”来揭示它。",
+      "target": "若你遗忘了过去，试着用‘all’将它唤回。",
+      "file": "script.rpy",
+      "line": 2030
+    },
+    "550": {
+      "original": "...“全部”？",
+      "target": "……‘all’？",
+      "file": "script.rpy",
+      "line": 2033
+    },
+    "555": {
+      "original": "- 内存深度 -",
+      "target": "- 记忆深处 -",
+      "file": "script.rpy",
+      "line": 2048
+    },
+    "556": {
+      "original": "记忆深度存储了所有被记住的事物。",
+      "target": "记忆深处，保存着所有被记住的事物。",
+      "file": "script.rpy",
+      "line": 2049
+    },
+    "557": {
+      "original": " 所有知识都存储在其墙壁内。",
+      "target": " 所有知识，都存放在这些墙壁之内。",
+      "file": "script.rpy",
+      "line": 2050
+    },
+    "558": {
+      "original": "如果记忆深度的门被锁住了,那么它后面的记忆也被锁住了。",
+      "target": "若通往记忆深处的门被锁上，门后的记忆也会一同封闭。",
+      "file": "script.rpy",
+      "line": 2051
+    },
+    "559": {
+      "original": "解锁门不足以恢复丢失的信息。",
+      "target": "仅仅打开门，还不足以找回失去的信息。",
+      "file": "script.rpy",
+      "line": 2052
+    },
+    "562": {
+      "original": "有件事在困扰你--",
+      "target": "有什么一直萦绕在你心头——",
+      "file": "script.rpy",
+      "line": 2056
+    },
+    "565": {
+      "original": "- 穆-",
+      "target": "- MU -",
+      "file": "script.rpy",
+      "line": 2066
+    },
+    "566": {
+      "original": "这本书所在的地方是“MU”内的记忆深度。",
+      "target": "这本书所在的地方，是‘MU’之中的记忆深处。",
+      "file": "script.rpy",
+      "line": 2067
+    },
+    "567": {
+      "original": "“MU”是存在于唯有心灵才能发现的领域的虚无",
+      "target": "‘MU’是一片虚无，存在于唯有心灵才能抵达的领域。",
+      "file": "script.rpy",
+      "line": 2068
+    },
+    "568": {
+      "original": "其状态反映现实。",
+      "target": "它的状态映照着现实。",
+      "file": "script.rpy",
+      "line": 2069
+    },
+    "570": {
+      "original": "...当你把书放回去时,你会感到一种莫名的悲伤",
+      "target": "……放下书时，一阵说不清的悲伤涌上心头。",
+      "file": "script.rpy",
+      "line": 2071
+    },
+    "571": {
+      "original": "你所在的这个地方突然感觉比你记忆中的还要小",
+      "target": "这个地方忽然显得比记忆中狭小。",
+      "file": "script.rpy",
+      "line": 2072
+    },
+    "572": {
+      "original": "这本书曾经所在的地方现在空了",
+      "target": "曾经放着那本书的位置，如今空了。",
+      "file": "script.rpy",
+      "line": 2081
+    },
+    "573": {
+      "original": "...你认为你不会回来的一部分",
+      "target": "……那是你的一部分，而你觉得它不会再回来。",
+      "file": "script.rpy",
+      "line": 2082
+    },
+    "574": {
+      "original": "你听到...低语了吗？它来自一本书",
+      "target": "你听见……低语？声音来自一本书。",
+      "file": "script.rpy",
+      "line": 2085
+    },
+    "580": {
+      "original": "你在这个镇上待的时间越长,“MU”就会腐烂",
+      "target": "你在这座小镇待得越久，‘MU’就越发衰败。",
+      "file": "script.rpy",
+      "line": 2091
+    },
+    "585": {
+      "original": "当你翻阅这本书时,似乎会出现更多内容,并且不断扩展",
+      "target": "你一页页翻下去，书页却像不断长出来似的，越来越多。",
+      "file": "script.rpy",
+      "line": 2098
+    },
+    "586": {
+      "original": "...您已关闭部分内存深度",
+      "target": "……你封闭了记忆深处的某些部分。",
+      "file": "script.rpy",
+      "line": 2099
+    },
+    "587": {
+      "original": "这就是你尝试应对的方式吗？",
+      "target": "你就是这样撑下去的吗？",
+      "file": "script.rpy",
+      "line": 2100
+    },
+    "588": {
+      "original": "请。",
+      "target": "求你。",
+      "file": "script.rpy",
+      "line": 2101
+    },
+    "591": {
+      "original": "这本书在你手中散落",
+      "target": "书在你手中化为碎屑。",
+      "file": "script.rpy",
+      "line": 2106
+    },
+    "592": {
+      "original": "你感到困惑,但你内心深处的一些东西开始有点疼痛",
+      "target": "你一头雾水，内心深处却泛起一丝疼痛。",
+      "file": "script.rpy",
+      "line": 2107
+    },
+    "594": {
+      "original": "你已经捡到一个了",
+      "target": "你已经捡过一把了。",
+      "file": "script.rpy",
+      "line": 2687
+    },
+    "595": {
+      "original": "你决定留下剩下的",
+      "target": "你决定不动剩下的钥匙。",
+      "file": "script.rpy",
+      "line": 2688
+    },
+    "597": {
+      "original": "稍后可能会有用。",
+      "target": "以后也许能派上用场。",
+      "file": "script.rpy",
+      "line": 2693
+    }
+  },
+  "reviewed_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599
+  ]
+}

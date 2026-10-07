@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/thinklive1/old-skies-zh-cn",
+  "branch": "oath-zh-cn",
+  "tag": "oath-v1.1.0-rc.1",
+  "package": "oath_zh_polish_1.1.0-rc.1.zip",
+  "size": 4118039,
+  "sha256": "101178efce82bd866d2154bb0d229a9ed9566a21b092d0cc8d2377fc2cb8a6f0",
+  "payload_files_verified": 12,
+  "translation_and_review_bytes_unchanged": true,
+  "sanitized_reports": [
+    "review/installation.json",
+    "review/package-check.json"
+  ],
+  "visual_acceptance": "pending",
+  "public_zip_installer_dry_run_passed": true
+}

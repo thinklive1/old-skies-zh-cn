@@ -1,0 +1,11 @@
+{
+  "name": "oath 现有汉化文本润色",
+  "version": "1.1.0-rc.1",
+  "base_game_version": "19-dlc-build_v17x_china_v8",
+  "scope": "text-literals-only",
+  "reviewed": 11547,
+  "changed": 6001,
+  "installed": true,
+  "visual_acceptance": "pending",
+  "gameplay_verified": false
+}

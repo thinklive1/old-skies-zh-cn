@@ -1,0 +1,81 @@
+{
+  "version": "1.1.0-rc.1",
+  "base_game_version": "19-dlc-build_v17x_china_v8",
+  "scope_entries": 11547,
+  "reviewed_entries": 11547,
+  "changed_entries": 6001,
+  "unchanged_entries": 5546,
+  "files": [
+    {
+      "path": "battle/battle-screens.rpy",
+      "before_sha256": "19991a68a1f56e7f39e257c6a3e7ab87c44c7e5213eae6f379b0c910dbe7842b",
+      "after_sha256": "098ad1a58b3d83be69e1a029048cc18f82e54b67a2355bf9311945ce57e48397",
+      "size": 7129,
+      "changed_entries": 5,
+      "outside_text_sha256": "261123646c5b8317eb5a2be09b521304f77d630dc6d7401c66ba029c98955fc7",
+      "outside_text_bytes_equal": true
+    },
+    {
+      "path": "battle/battle-script.rpy",
+      "before_sha256": "49ba6bc49ebb1e774da663d562a788445034ddd1a027bc84606b368506e369f0",
+      "after_sha256": "65a6e17ad168bc00b34c0ba6f803dd5d26736e667112da6b5ec8a7e7f1e89204",
+      "size": 32387,
+      "changed_entries": 20,
+      "outside_text_sha256": "4dd6357a293bb432e315dffce2b0912734d436040e63c2a1ec0b7bd865591721",
+      "outside_text_bytes_equal": true
+    },
+    {
+      "path": "battle/battle-units.rpy",
+      "before_sha256": "bd3f038f4c5c29dc816e43882acfd295528080b29e77caa205ba7d0026b6f5c9",
+      "after_sha256": "ee5a74f30087b171b82aa00f4d5485cf7d474e80415957cb8fa4c88fa5d47e5b",
+      "size": 9582,
+      "changed_entries": 2,
+      "outside_text_sha256": "e03dde62e77d68ffacedd04f4239c5c0154858e752216077ffca5043e8cd9c25",
+      "outside_text_bytes_equal": true
+    },
+    {
+      "path": "screens.rpy",
+      "before_sha256": "9ba3755dc77d2b2196f6d53b7963a044e303278f099911ef9dc741d8f105e2c4",
+      "after_sha256": "18e8c7390592cbfeddefa1339531894584dd44af9893d6a068ec4d086b71b6e1",
+      "size": 54764,
+      "changed_entries": 33,
+      "outside_text_sha256": "492d81025d589ef3427cca22daefe2c729393dab0f23705451721ed2b8027bfb",
+      "outside_text_bytes_equal": true
+    },
+    {
+      "path": "script.rpy",
+      "before_sha256": "88c58756c949e389031a68efadd2ff345e9de8516150e7984c336b320b69d5c4",
+      "after_sha256": "e9c2a1909dc809a4310c1488d407b279fe8c0e152bb74d82811503e12e0f9403",
+      "size": 1448592,
+      "changed_entries": 5936,
+      "outside_text_sha256": "220a1fe3f5b1073e07c5aeefb68d919d42209ab10ffb9e20803af886091dca38",
+      "outside_text_bytes_equal": true
+    },
+    {
+      "path": "tl/chinese/screens.rpy",
+      "before_sha256": "cbb3420d3cbba61eaaa11648027780eb01741f38e688141ab6e2385a721c2bb1",
+      "after_sha256": "a0cb7640c03165f048a7ec8f5265be13d3586e5efdcca115f95200d345592940",
+      "size": 6938,
+      "changed_entries": 5,
+      "outside_text_sha256": "70a455b3d56ba387995d82854c8d8db143587fe675d31d44ca674a8f4d3b5df4",
+      "outside_text_bytes_equal": true
+    }
+  ],
+  "changes_limited_to_existing_text_literals": true,
+  "game_logic_bytes_unchanged": true,
+  "markup_repairs": {
+    "{/字体}": "{/font}",
+    "{/颜色}": "{/color}",
+    "{/尺寸}": "{/size}",
+    "{size=*0。5}": "{size=*0.5}",
+    "[镇民]": "[townpeople]",
+    "[persistent。coins]": "[persistent.coins]"
+  },
+  "notes": "Interpolation variables may be reordered within text, with identical names and occurrence counts. Only listed pre-existing translation damage is repaired.",
+  "native_engine_check": {
+    "engine": "Ren'Py 8.3.7.25031702",
+    "statements": 52590,
+    "branch_call_speaker_sha256": "79ee2b85b95f1e53f9bc00a655f47aac5a8cd9ad1988bb043c4c8de8902de6b2",
+    "structure_identical": true
+  }
+}
